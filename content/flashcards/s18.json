@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fc-s18-001", "part": 2, "syllabusItemId": "s18", "topicGroup": "ethics",
+    "title": "利益冲突处理层级", "point": "客户利益优先;冲突先避免,不能避免则充分披露并妥善管理。",
+    "keyfacts": ["避免 > 披露 > 管理", "披露须充分、清晰、及时"],
+    "sourceRef": "Fair Dealing Guidelines", "status": "draft", "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s18-002", "part": 2, "syllabusItemId": "s18", "topicGroup": "ethics",
+    "title": "高佣金诱惑", "point": "高佣金不等于可推荐不适合客户的产品;须推荐最符合客户需求者并披露冲突。",
+    "keyfacts": ["佣金不改变适当性义务", "隐瞒冲突属违规"],
+    "sourceRef": "Fair Dealing Guidelines", "status": "draft", "updatedAt": "2026-06-05"
+  }
+]

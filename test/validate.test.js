@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { validateQuestionObjects, normalizeCsvRow, validateFlashcardObjects } from '../js/validate.js';
+import { validateQuestionObjects, normalizeCsvRow, validateFlashcardObjects, validateNoteObjects } from '../js/validate.js';
 
 const goodObj = {
   id: 'q-s05-001', part: 1, syllabusItemId: 's05', topicGroup: 'aml',
@@ -87,4 +87,52 @@ test('validateFlashcardObjects: bad syllabusItemId / missing title rejected with
   assert.match(validateFlashcardObjects([{ ...goodCard, syllabusItemId: 's99' }]).errors[0], /syllabusItemId/);
   const o = { ...goodCard }; delete o.title;
   assert.match(validateFlashcardObjects([o]).errors[0], /title/);
+});
+
+test('validateFlashcardObjects: reviewed card requires sourceRef', () => {
+  assert.match(validateFlashcardObjects([{ ...goodCard, status: 'reviewed' }]).errors[0], /sourceRef/);
+  assert.deepEqual(validateFlashcardObjects([{ ...goodCard, status: 'reviewed', sourceRef: 'MAS X' }]).errors, []);
+});
+
+const goodNote = {
+  id: 'note-s05-overview', part: 1, syllabusItemId: 's05',
+  title: 'AML', summary: 's', sections: [{ heading: 'h', body: 'b' }],
+  keyPoints: ['k'], sourceRef: 'MAS FAA-N06', status: 'draft',
+};
+
+test('validateNoteObjects: valid note passes', () => {
+  const { notes, errors } = validateNoteObjects([{ ...goodNote }]);
+  assert.deepEqual(errors, []);
+  assert.equal(notes.length, 1);
+});
+
+test('validateNoteObjects: id sNN must equal syllabusItemId', () => {
+  const { errors } = validateNoteObjects([{ ...goodNote, syllabusItemId: 's18', part: 2 }]); // id says s05
+  assert.ok(errors.some(e => /must equal syllabusItemId/.test(e)));
+});
+
+test('validateNoteObjects: bad id format rejected', () => {
+  assert.match(validateNoteObjects([{ ...goodNote, id: 'note-s05-' }]).errors[0], /id must match/);
+  assert.match(validateNoteObjects([{ ...goodNote, id: 'weird' }]).errors[0], /id must match/);
+});
+
+test('validateNoteObjects: part optional, normalized from syllabusItemId', () => {
+  const o = { ...goodNote }; delete o.part;
+  const { notes, errors } = validateNoteObjects([o]);
+  assert.deepEqual(errors, []);
+  assert.equal(notes[0].part, 1); // s05 → part 1
+});
+
+test('validateNoteObjects: provided part must match syllabus part', () => {
+  assert.match(validateNoteObjects([{ ...goodNote, part: 2 }]).errors[0], /part/); // s05 is part 1
+});
+
+test('validateNoteObjects: sections must be non-empty with heading+body', () => {
+  assert.match(validateNoteObjects([{ ...goodNote, sections: [] }]).errors[0], /sections/);
+  assert.match(validateNoteObjects([{ ...goodNote, sections: [{ heading: 'h' }] }]).errors[0], /section 1/);
+});
+
+test('validateNoteObjects: reviewed note requires sourceRef', () => {
+  const o = { ...goodNote, status: 'reviewed' }; delete o.sourceRef;
+  assert.match(validateNoteObjects([o]).errors[0], /sourceRef/);
 });

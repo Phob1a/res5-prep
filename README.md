@@ -18,13 +18,14 @@ python3 -m http.server 8080
 
 ```bash
 cd res5-prep
-npm test      # node --test,39 个单测
+npm test      # node --test,50 个单测
 ```
 
 ## 功能模块
 
 - **模拟考**:official(reviewed 达 110/40,官方判分)/ full-length practice(题量够但含 draft,无官方判定)/ mini mock 三态
 - **速记**:按官方考纲条目分章的知识卡,可翻面、标已掌握
+- **知识点**:按官方考纲 27 项浏览结构化讲义(概述 + 分段 + 易考点 + MAS 出处);讲义/卡片均 draft,运行时按文件隔离校验,坏文件只告警跳过不影响刷题/模拟考
 - **刷题**:选条目逐题做,即时对错 + 解析,错题自动入错题本
 - **错题/弱项**:27 条目弱项仪表盘 + 学习进度导出/导入 JSON
 - **导入**:JSON/CSV 扩充题库,统一校验(带行号/locator,不静默丢题),合并报告(added/updated/skipped/conflict,默认不覆盖冲突)。⚠️ 阶段0 导入的题**仅当前页面会话生效**(刷新即失);持久化到 localStorage 并纳入进度导出留待阶段1。要永久加题,目前直接往 `content/questions/<sNN>.json` 加条目。

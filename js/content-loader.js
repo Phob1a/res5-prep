@@ -1,4 +1,10 @@
-// 纯函数(可在 Node 测试):计数 + 抽题池 + 合并报告。浏览器函数 loadContent 仅在浏览器调用。
+// 纯函数(可在 Node 测试):计数 + 抽题池 + 合并报告 + 讲义过滤。浏览器函数 loadContent 仅在浏览器调用。
+import { validateFlashcardObjects, validateNoteObjects } from './validate.js';
+
+// 纯函数:取某考点的讲义(保序)
+export function notesForItem(notes, syllabusItemId) {
+  return notes.filter(n => n.syllabusItemId === syllabusItemId);
+}
 
 export function countByPart(questions, { reviewedOnly = false } = {}) {
   const c = { 1: 0, 2: 0 };
@@ -36,11 +42,33 @@ export function mergeQuestions(existing, incoming, { overwriteConflicts = false 
   return { questions: [...map.values()], added, updated, skipped, conflicts };
 }
 
-// 浏览器:加载 content/index.json 列出的文件
-export async function loadContent() {
-  const index = await (await fetch('content/index.json')).json();
-  const questions = [], flashcards = [];
-  for (const f of index.questions) questions.push(...await (await fetch(`content/questions/${f}`)).json());
-  for (const f of index.flashcards) flashcards.push(...await (await fetch(`content/flashcards/${f}`)).json());
-  return { questions, flashcards };
+// 文件级隔离加载:逐文件 fetch→parse→validate,单文件失败只告警跳过,不 throw。
+// validator(arr) → { [key]: [...], errors: [...] };返回所有有效项的扁平数组。
+async function loadValidatedFiles(kind, files, pathPrefix, validator, key, fetchFn) {
+  const out = [];
+  for (const f of files) {
+    try {
+      const res = await fetchFn(`${pathPrefix}${f}`);
+      if (!res.ok) { console.warn({ kind, file: f, errors: [`HTTP ${res.status}`] }); continue; }
+      const arr = await res.json();
+      if (!Array.isArray(arr)) { console.warn({ kind, file: f, errors: ['top-level not an array'] }); continue; }
+      const { [key]: valid, errors } = validator(arr);
+      if (errors.length) console.warn({ kind, file: f, errors });
+      out.push(...valid);
+    } catch (e) {
+      console.warn({ kind, file: f, errors: [String(e && e.message || e)] });
+    }
+  }
+  return out;
+}
+
+// 浏览器:加载 content/index.json 列出的文件。
+// questions 维持现状(由 UI/导入路径校验);notes/flashcards 文件级隔离 + 运行时校验丢弃,失败不影响 questions。
+export async function loadContent(fetchFn = fetch) {
+  const index = await (await fetchFn('content/index.json')).json();
+  const questions = [];
+  for (const f of index.questions ?? []) questions.push(...await (await fetchFn(`content/questions/${f}`)).json());
+  const flashcards = await loadValidatedFiles('flashcards', index.flashcards ?? [], 'content/flashcards/', validateFlashcardObjects, 'flashcards', fetchFn);
+  const notes = await loadValidatedFiles('notes', index.notes ?? [], 'content/notes/', validateNoteObjects, 'notes', fetchFn);
+  return { questions, flashcards, notes };
 }
