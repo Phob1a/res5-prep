@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q-s01-001",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Under the Financial Advisers Act, who holds the financial adviser licence?",
+    "options": {
+      "A": "Each individual representative personally",
+      "B": "The financial advisory firm/entity, while individuals act as registered representatives",
+      "C": "Only MAS staff",
+      "D": "The client"
+    },
+    "answer": "B",
+    "explanation": "牌照发给实体;个人以委任代表身份经 RNF 登记。",
+    "difficulty": "easy",
+    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "status": "draft",
+    "tags": [
+      "licensing"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s01-002",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Before an individual may begin providing financial advisory services as a representative, they must:",
+    "options": {
+      "A": "Pass any one exam and start immediately",
+      "B": "Be fit and proper and be registered with MAS (RNF) under a licensed/exempt FA",
+      "C": "Open a CPF account",
+      "D": "Obtain a personal FA licence"
+    },
+    "answer": "B",
+    "explanation": "代表须 fit & proper 并经 RNF 登记后方可展业。",
+    "difficulty": "medium",
+    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "status": "draft",
+    "tags": [
+      "representative",
+      "rnf"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

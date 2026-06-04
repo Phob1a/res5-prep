@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s27-001",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "6 步流程",
+    "point": "目标→收集→分析→方案→执行→检视(持续)。",
+    "keyfacts": [
+      "检视是持续过程"
+    ],
+    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s27-002",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "优先级",
+    "point": "先保障与应急储备,再追求财富增长。",
+    "keyfacts": [
+      "方案匹配目标/风险"
+    ],
+    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

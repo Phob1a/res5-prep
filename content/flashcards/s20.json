@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s20-001",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "道德营销",
+    "point": "均衡披露收益/风险/费用,推荐有合理基础,不误导。",
+    "keyfacts": [
+      "不夸大不淡化"
+    ],
+    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s20-002",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "禁止行为",
+    "point": "禁高压逼单、隐瞒重要信息、虚假承诺回报。",
+    "keyfacts": [
+      "尊重冷静期"
+    ],
+    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

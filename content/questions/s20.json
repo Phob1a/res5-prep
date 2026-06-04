@@ -1,0 +1,48 @@
+[
+  {
+    "id": "q-s20-001",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "Which marketing practice is ethical?",
+    "options": {
+      "A": "Emphasising returns while hiding risks",
+      "B": "Presenting balanced information on benefits, risks and fees with a reasonable basis for the recommendation",
+      "C": "Creating false urgency to close the sale",
+      "D": "Promising guaranteed high returns on an ILP"
+    },
+    "answer": "B",
+    "explanation": "道德营销=均衡披露收益/风险/费用且推荐有合理基础。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "status": "draft",
+    "tags": [
+      "marketing",
+      "disclosure"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s20-002",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "High-pressure tactics that rush a client into buying are:",
+    "options": {
+      "A": "Acceptable if targets are high",
+      "B": "Unethical and inconsistent with fair dealing",
+      "C": "Required by MAS",
+      "D": "Fine if disclosed afterwards"
+    },
+    "answer": "B",
+    "explanation": "高压逼单不道德,违背公平交易。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "status": "draft",
+    "tags": [
+      "marketing",
+      "conduct"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

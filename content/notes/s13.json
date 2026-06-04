@@ -1,0 +1,32 @@
+[
+  {
+    "id": "note-s13-overview",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "title": "中央公积金 CPF",
+    "summary": "CPF 是新加坡强制储蓄制度,分普通(OA)、特别(SA)、保健储蓄(MA)账户,55 岁起设退休(RA)账户;分别对应置业/退休、退休、医疗等用途,部分可经 CPF-IS 投资。",
+    "sections": [
+      {
+        "heading": "账户与用途",
+        "body": "OA:住房、保险、投资、教育;SA:退休相关金融产品;MA(MediSave):医疗与经核准医疗保险(如 MediShield Life);55 岁时创建退休账户(RA),SA 储蓄(以及需要时 OA)拨入 RA 形成退休储备(当前 CPF 表述:55 岁 SA 会关闭)。"
+      },
+      {
+        "heading": "CPF 投资计划 (CPF-IS)",
+        "body": "OA 与 SA 余额超过门槛部分可投资经核准产品(CPF-IS),但投资有风险,可能低于 CPF 利息。"
+      },
+      {
+        "heading": "易考点",
+        "body": "MediSave=医疗;55 岁设 RA;CPF-IS 投资有风险、非保证;不同账户用途别混。"
+      }
+    ],
+    "keyPoints": [
+      "OA/SA/MA 三账户 + 55 岁 RA",
+      "MediSave 用于医疗",
+      "CPF-IS 投资有风险",
+      "账户用途不可混淆"
+    ],
+    "sourceRef": "Central Provident Fund (CPF) framework",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

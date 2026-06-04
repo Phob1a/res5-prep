@@ -1,0 +1,48 @@
+[
+  {
+    "id": "q-s27-001",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "Which is the correct ordering of the basic financial planning process?",
+    "options": {
+      "A": "Implement → set goals → review",
+      "B": "Set goals → gather data → analyse → develop plan → implement → review",
+      "C": "Sell product → gather data → stop",
+      "D": "Review → implement → set goals"
+    },
+    "answer": "B",
+    "explanation": "规划是目标→收集→分析→方案→执行→检视的有序过程。",
+    "difficulty": "easy",
+    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "status": "draft",
+    "tags": [
+      "planning",
+      "process"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s27-002",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "In financial planning, which generally takes priority before wealth accumulation?",
+    "options": {
+      "A": "Speculative trading",
+      "B": "Adequate protection and an emergency fund",
+      "C": "Buying the riskiest fund",
+      "D": "Ignoring insurance"
+    },
+    "answer": "B",
+    "explanation": "一般先建立保障与应急储备,再追求增长。",
+    "difficulty": "medium",
+    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "status": "draft",
+    "tags": [
+      "planning",
+      "protection"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

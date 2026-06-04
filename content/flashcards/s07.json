@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fc-s07-001",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "ILP 风险归属",
+    "point": "ILP 投资风险由保单持有人承担,无资本保证。",
+    "keyfacts": [
+      "价值随基金浮动",
+      "非保险公司担险"
+    ],
+    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s07-002",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "ILP 披露",
+    "point": "销售须披露收费、基金信息与风险,并确保适当性;设冷静期。",
+    "keyfacts": [
+      "管理费/分销费",
+      "free-look"
+    ],
+    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

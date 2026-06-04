@@ -1,0 +1,48 @@
+[
+  {
+    "id": "q-s13-001",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Which CPF account is primarily used for healthcare expenses and approved medical insurance?",
+    "options": {
+      "A": "Ordinary Account (OA)",
+      "B": "Special Account (SA)",
+      "C": "MediSave Account (MA)",
+      "D": "Retirement Account (RA)"
+    },
+    "answer": "C",
+    "explanation": "MediSave(MA)用于医疗及经核准医疗保险。",
+    "difficulty": "easy",
+    "sourceRef": "Central Provident Fund (CPF) framework",
+    "status": "draft",
+    "tags": [
+      "cpf",
+      "medisave"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s13-002",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Regarding the CPF Investment Scheme (CPF-IS), which is true?",
+    "options": {
+      "A": "Returns are guaranteed by the CPF Board",
+      "B": "Investments carry risk and may underperform CPF interest",
+      "C": "All CPF balances must be invested",
+      "D": "Only foreigners may use it"
+    },
+    "answer": "B",
+    "explanation": "CPF-IS 投资有风险,回报可能低于 CPF 利息,非保证。",
+    "difficulty": "medium",
+    "sourceRef": "Central Provident Fund (CPF) framework",
+    "status": "draft",
+    "tags": [
+      "cpf",
+      "cpf-is"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

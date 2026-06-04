@@ -1,0 +1,48 @@
+[
+  {
+    "id": "q-s22-001",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "The main purpose of fact-finding and needs analysis (FNA) is to:",
+    "options": {
+      "A": "Sell the highest-commission product",
+      "B": "Establish a reasonable basis for a suitable recommendation by understanding the client",
+      "C": "Avoid any paperwork",
+      "D": "Satisfy the adviser’s sales target"
+    },
+    "answer": "B",
+    "explanation": "FNA 旨在充分了解客户,为适当推荐建立合理基础。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "status": "draft",
+    "tags": [
+      "fna",
+      "kyc"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s22-002",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "If a client declines to provide material information needed for analysis, the representative should:",
+    "options": {
+      "A": "Guess the missing details",
+      "B": "Proceed with the biggest product anyway",
+      "C": "Document the limitation and its impact, and avoid recommendations lacking a reasonable basis",
+      "D": "Ignore suitability rules"
+    },
+    "answer": "C",
+    "explanation": "信息不足须记录其影响,不得做缺乏合理基础的推荐。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "status": "draft",
+    "tags": [
+      "fna",
+      "suitability"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

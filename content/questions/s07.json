@@ -1,0 +1,48 @@
+[
+  {
+    "id": "q-s07-001",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "In an investment-linked policy (ILP), the investment risk is borne by:",
+    "options": {
+      "A": "The insurer",
+      "B": "MAS",
+      "C": "The policyholder",
+      "D": "The CPF Board"
+    },
+    "answer": "C",
+    "explanation": "ILP 价值随基金浮动,风险由保单持有人承担。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "status": "draft",
+    "tags": [
+      "ilp",
+      "risk"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s07-002",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Which statement about ILPs is correct?",
+    "options": {
+      "A": "They guarantee the principal",
+      "B": "Their value fluctuates with the performance of the chosen sub-funds and fees apply",
+      "C": "They have no fees",
+      "D": "They are risk-free deposits"
+    },
+    "answer": "B",
+    "explanation": "ILP 无资本保证,价值随基金浮动且收取费用。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "status": "draft",
+    "tags": [
+      "ilp",
+      "disclosure"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

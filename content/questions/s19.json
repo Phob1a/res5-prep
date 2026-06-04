@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q-s19-001",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "The MAS Fair Dealing Guidelines set out how many customer outcomes?",
+    "options": {
+      "A": "Three",
+      "B": "Five",
+      "C": "Seven",
+      "D": "Ten"
+    },
+    "answer": "B",
+    "explanation": "公平交易指引提出 5 项面向客户的成果。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Guidelines on Fair Dealing",
+    "status": "draft",
+    "tags": [
+      "fair-dealing"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s19-002",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "Under Fair Dealing, primary responsibility for delivering the outcomes rests with:",
+    "options": {
+      "A": "The client",
+      "B": "Junior sales staff only",
+      "C": "The board and senior management",
+      "D": "MAS"
+    },
+    "answer": "C",
+    "explanation": "董事会与高管对落实公平交易成果负首要责任。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Guidelines on Fair Dealing",
+    "status": "draft",
+    "tags": [
+      "fair-dealing",
+      "governance"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

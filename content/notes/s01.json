@@ -1,0 +1,32 @@
+[
+  {
+    "id": "note-s01-overview",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "title": "FAA & FAR — 财务顾问与代表",
+    "summary": "财务顾问法(FAA)规定谁可提供财务咨询服务、须持牌或获豁免;个人以\"委任代表\"(appointed representative)身份执业,须 fit & proper 并经 MAS 的代表通知框架(RNF)登记。",
+    "sections": [
+      {
+        "heading": "谁须持牌",
+        "body": "提供受规管财务咨询服务(就投资产品提供建议、发布分析报告、营销集体投资计划/人寿保单等)的实体须持 FA 牌照,或属法定豁免(如银行、持牌保险公司在其牌照范围内)。"
+      },
+      {
+        "heading": "代表登记",
+        "body": "个人不单独持牌,而是受雇于持牌/豁免 FA,以委任代表身份执业,须符合 fit & proper 标准,并通过 MAS 公开登记册(RNF)登记后方可展业。"
+      },
+      {
+        "heading": "易考点",
+        "body": "\"持牌的是公司/实体,个人是被登记的代表\";展业前必须先完成登记;fit & proper 涵盖诚信、能力、财务稳健。"
+      }
+    ],
+    "keyPoints": [
+      "受规管活动须持牌或豁免",
+      "个人=委任代表,经 RNF 登记",
+      "fit & proper:诚信/能力/财务稳健",
+      "展业前须完成登记"
+    ],
+    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "q-s14-001",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "How does ethical conduct differ from mere compliance?",
+    "options": {
+      "A": "They are identical",
+      "B": "Compliance is the legal minimum; ethics requires acting in the client’s interest and delivering fair, suitable outcomes beyond the law",
+      "C": "Ethics is optional and compliance is not real",
+      "D": "Compliance is stricter than ethics in all cases"
+    },
+    "answer": "B",
+    "explanation": "合规是法律底线;道德要求在法律之外仍以客户利益为重、给出公平且适当的结果。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
+    "status": "draft",
+    "tags": [
+      "ethics",
+      "compliance"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s14-002",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "Why do professional ethics matter especially in financial advisory?",
+    "options": {
+      "A": "Because clients never trust advisers",
+      "B": "Because of information asymmetry and the trust clients place in advisers for major financial decisions",
+      "C": "Because MAS pays advisers to be ethical",
+      "D": "They do not matter"
+    },
+    "answer": "B",
+    "explanation": "信息不对称与客户的高度信任,使道德尤为关键。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
+    "status": "draft",
+    "tags": [
+      "ethics",
+      "trust"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

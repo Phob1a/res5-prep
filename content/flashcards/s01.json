@@ -1,0 +1,31 @@
+[
+  {
+    "id": "fc-s01-001",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "持牌 vs 代表",
+    "point": "牌照发给 FA 实体;个人是经 RNF 登记的委任代表。",
+    "keyfacts": [
+      "个人不单独持牌",
+      "展业前须登记"
+    ],
+    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s01-002",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "Fit & Proper",
+    "point": "代表须符合诚信、能力、财务稳健三方面的 fit & proper 标准。",
+    "keyfacts": [
+      "诚信/能力/财务稳健"
+    ],
+    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

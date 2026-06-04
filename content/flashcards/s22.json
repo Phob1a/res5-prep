@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s22-001",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "FNA 目的",
+    "point": "充分了解客户,为适当推荐建立合理基础;须书面。",
+    "keyfacts": [
+      "KYC 是前提"
+    ],
+    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s22-002",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "信息不足",
+    "point": "客户拒答关键信息→记录影响,不做缺乏合理基础的推荐。",
+    "keyfacts": [
+      "不贸然推荐"
+    ],
+    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]
