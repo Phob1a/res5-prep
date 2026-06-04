@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q-s05-001", "part": 1, "syllabusItemId": "s05", "topicGroup": "aml",
+    "stem": "Under MAS Notice FAA-N06, what must a financial adviser do before establishing a business relationship with a new client?",
+    "options": { "A": "Nothing until the first transaction", "B": "Perform customer due diligence (CDD) including identity verification", "C": "Only collect a phone number", "D": "Wait for MAS approval" },
+    "answer": "B", "explanation": "CDD/KYC must be performed at onboarding per MAS Notice FAA-N06. (来源方向: MAS Notice FAA-N06)",
+    "difficulty": "easy", "sourceRef": "MAS Notice FAA-N06", "examVersion": "2026",
+    "status": "draft", "tags": ["cdd", "kyc"], "linkedFlashcardIds": ["fc-s05-001"], "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "q-s05-002", "part": 1, "syllabusItemId": "s05", "topicGroup": "aml",
+    "stem": "Which is a red flag that may warrant filing a Suspicious Transaction Report (STR)?",
+    "options": { "A": "A client paying premiums on time", "B": "A client refusing to provide identity documents and source of funds", "C": "A client asking about policy benefits", "D": "A client updating their address" },
+    "answer": "B", "explanation": "Refusal to provide ID / source of funds is a classic red flag. (来源方向: MAS Notice FAA-N06 / STRO)",
+    "difficulty": "medium", "sourceRef": "MAS Notice FAA-N06", "examVersion": "2026",
+    "status": "draft", "tags": ["str", "red-flag"], "linkedFlashcardIds": [], "updatedAt": "2026-06-03"
+  }
+]

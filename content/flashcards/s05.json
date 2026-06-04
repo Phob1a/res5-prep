@@ -1,0 +1,8 @@
+[
+  {
+    "id": "fc-s05-001", "part": 1, "syllabusItemId": "s05", "topicGroup": "aml",
+    "title": "Customer Due Diligence (CDD)", "point": "Identify and verify the client's identity at onboarding; understand purpose of relationship and source of funds.",
+    "keyfacts": ["Performed BEFORE establishing relationship", "Ongoing monitoring required"],
+    "sourceRef": "MAS Notice FAA-N06", "status": "draft", "updatedAt": "2026-06-03"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q-s18-001", "part": 2, "syllabusItemId": "s18", "topicGroup": "ethics",
+    "stem": "A representative is offered a high commission to recommend a product that is not the most suitable for the client. What is the ethical course of action?",
+    "options": { "A": "Recommend the high-commission product", "B": "Recommend the product that best meets the client's needs, disclosing any conflict", "C": "Recommend it only if the client does not ask questions", "D": "Split the commission with the client" },
+    "answer": "B", "explanation": "Client's interest comes first; conflicts must be avoided or disclosed and managed. (来源方向: Conflict of Interest / Fair Dealing)",
+    "difficulty": "easy", "sourceRef": "Fair Dealing Guidelines", "examVersion": "2026",
+    "status": "draft", "tags": ["conflict"], "linkedFlashcardIds": [], "updatedAt": "2026-06-03"
+  }
+]
