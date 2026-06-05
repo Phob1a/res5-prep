@@ -3,27 +3,30 @@
     "id": "note-s16-overview",
     "part": 2,
     "syllabusItemId": "s16",
-    "title": "道德行为 (Ethical Behavior)",
-    "summary": "道德行为=诚实、公平、客观、保密,把客户利益置于个人利益之前;在两难时以客户最佳结果与公平对待为准绳决策。",
+    "title": "道德行为 / Ethical Behavior",
+    "summary": "道德行为=诚实、公平、客观、保密,把客户利益置于个人之前;两难时以公平与客户利益、给出适当结果来决策。 / Ethical behavior means honesty, fairness, objectivity and confidentiality, putting the client’s interest before personal gain and deciding by fairness and a fair, suitable outcome for the client.",
     "sections": [
       {
         "heading": "核心要素",
-        "body": "诚实(不欺瞒)、公平(一视同仁)、客观(不受不当影响/偏见)、保密(妥善保护客户信息)。"
+        "body": "诚实(不欺瞒)、公平(一视同仁)、客观(不受不当影响)、保密(妥善保护客户信息)。"
+      },
+      {
+        "heading": "Core elements",
+        "body": "Honesty, fairness, objectivity (free from undue influence) and confidentiality (protect client information)."
       },
       {
         "heading": "客户优先",
-        "body": "当个人利益与客户利益冲突时,以客户利益为先;避免或披露并管理冲突。"
+        "body": "个人利益与客户冲突时,以客户利益为先;冲突避免或披露并管理。"
       },
       {
-        "heading": "决策",
-        "body": "面对道德两难,问:是否诚实公平、是否经得起公开检视、是否符合客户最佳结果。"
+        "heading": "Client first",
+        "body": "Where personal and client interests conflict, the client comes first; avoid or disclose and manage conflicts."
       }
     ],
     "keyPoints": [
-      "诚实/公平/客观/保密",
-      "客户利益优先于个人",
-      "冲突避免或披露管理",
-      "决策经得起公开检视"
+      "诚实/公平/客观/保密 / Honesty/fairness/objectivity/confidentiality",
+      "客户利益优先于个人 / Client interest before personal gain",
+      "冲突避免或披露管理 / Avoid or disclose/manage conflicts"
     ],
     "sourceRef": "CMFAS M5 — Ethical Behavior",
     "status": "draft",

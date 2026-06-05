@@ -3,18 +3,30 @@
     "id": "note-s18-overview",
     "part": 2,
     "syllabusItemId": "s18",
-    "title": "利益冲突 (Conflict of Interest)",
-    "summary": "当代表的个人/公司利益与客户利益可能不一致时,即存在利益冲突。处理原则:客户利益优先,冲突应避免;无法避免时须充分披露并妥善管理。",
+    "title": "利益冲突 / Conflict of Interest",
+    "summary": "代表利益与客户利益可能不一致即存在冲突;处理:客户优先,冲突应避免,不能避免则充分披露并管理。 / A conflict exists where a representative’s interests may diverge from the client’s; handle it by client-first, avoid the conflict, and if unavoidable disclose fully and manage it.",
     "sections": [
-      { "heading": "什么是利益冲突", "body": "代表因薪酬、激励、关联关系等,可能被诱导做出非以客户最佳利益为先的建议。常见来源:高佣金产品、销售竞赛、与发行方的关联。" },
-      { "heading": "处理层级", "body": "1) 优先避免冲突;2) 无法避免则向客户充分、清晰披露;3) 建立机制管理冲突(如审批、监督),确保建议仍以客户需求为先。" },
-      { "heading": "易考点 / 区分", "body": "题干给『高佣金但不最适合客户』的诱惑时,正确做法 = 推荐最符合客户需求的产品并披露冲突,而非接受高佣金或隐瞒。披露 ≠ 可以做任何事,管理与客户优先仍是底线。" }
+      {
+        "heading": "什么是利益冲突",
+        "body": "因薪酬、激励、关联关系等被诱导做出不以客户利益为先的建议(如高佣产品、销售竞赛)。"
+      },
+      {
+        "heading": "What is a conflict",
+        "body": "Where pay, incentives or relationships could induce advice that does not put the client’s interest first (e.g. high-commission products, sales contests)."
+      },
+      {
+        "heading": "处理层级",
+        "body": "优先避免;无法避免则向客户充分清晰披露;建立机制管理,确保建议仍以客户需求为先。"
+      },
+      {
+        "heading": "Handling hierarchy",
+        "body": "Avoid first; if unavoidable, disclose fully and clearly; manage via controls so advice still serves the client."
+      }
     ],
     "keyPoints": [
-      "客户利益优先",
-      "冲突先避免,不能避免则披露并管理",
-      "披露须充分、清晰、及时",
-      "高佣金不等于可推荐不适合的产品"
+      "客户利益优先 / Client interest first",
+      "冲突先避免,不能避免则披露并管理 / Avoid; else disclose and manage",
+      "高佣金不等于可推荐不适合产品 / High commission ≠ recommend unsuitable products"
     ],
     "sourceRef": "Fair Dealing Guidelines",
     "status": "draft",

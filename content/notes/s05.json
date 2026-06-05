@@ -3,19 +3,30 @@
     "id": "note-s05-overview",
     "part": 1,
     "syllabusItemId": "s05",
-    "title": "AML/CFT — 反洗钱与反恐融资 (MAS Notice FAA-N06)",
-    "summary": "FAA-N06 要求财务顾问在与客户建立业务关系时及关系存续期间,执行客户尽职调查(CDD)、持续监控,并对可疑交易上报。",
+    "title": "AML/CFT — 反洗钱与反恐融资 / Anti-Money Laundering (FAA-N06)",
+    "summary": "FAA-N06 要求顾问在建立关系时及存续期间执行 CDD、持续监控并上报可疑交易。 / FAA-N06 requires advisers to perform CDD at onboarding and throughout the relationship, monitor on an ongoing basis, and report suspicious transactions.",
     "sections": [
-      { "heading": "核心规则", "body": "建立业务关系前必须完成 CDD:识别并验证客户身份、了解业务关系目的、识别实益拥有人(beneficial owner)。高风险客户须执行强化尽职调查(EDD)。" },
-      { "heading": "持续监控", "body": "关系存续期间须持续监控交易,确保其与对客户的了解一致;定期复核并更新客户资料。" },
-      { "heading": "可疑交易上报 (STR)", "body": "发现可疑交易须向 STRO(Suspicious Transaction Reporting Office)上报,且不得向客户泄露已上报(tipping-off 属违法)。" },
-      { "heading": "易考点 / 区分", "body": "CDD 时点 = 建立关系『前』;客户拒绝提供身份/资金来源是典型红旗;tipping-off 违法。" }
+      {
+        "heading": "核心规则",
+        "body": "建立业务关系前必须完成 CDD:识别并验证客户身份、了解关系目的、识别实益拥有人;高风险客户执行 EDD。"
+      },
+      {
+        "heading": "Core rule",
+        "body": "Complete CDD before establishing the relationship: identify and verify the client, understand the purpose, identify beneficial owners; apply EDD for higher-risk clients."
+      },
+      {
+        "heading": "监控与上报",
+        "body": "关系存续期间须持续监控;发现可疑交易须向 STRO 上报,且不得 tipping-off(泄露已上报,属违法)。"
+      },
+      {
+        "heading": "Monitoring & reporting",
+        "body": "Monitor throughout the relationship; report suspicious transactions to STRO and never tip off the client (disclosing a report is unlawful)."
+      }
     ],
     "keyPoints": [
-      "CDD 须在建立业务关系前完成",
-      "高风险客户执行 EDD",
-      "可疑交易向 STRO 上报,禁止 tipping-off",
-      "关系存续期间持续监控"
+      "CDD 须在建立关系前完成 / CDD before onboarding",
+      "高风险客户执行 EDD / EDD for higher-risk clients",
+      "上报 STRO,禁止 tipping-off / Report to STRO; no tipping-off"
     ],
     "sourceRef": "MAS Notice FAA-N06",
     "status": "draft",

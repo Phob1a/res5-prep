@@ -3,31 +3,30 @@
     "id": "note-s11-overview",
     "part": 1,
     "syllabusItemId": "s11",
-    "title": "集体投资计划守则 (CIS)",
-    "summary": "CIS 把众多投资者的资金汇集、由专业管理人统一管理(如单位信托/基金);零售发售须注册招股书,管理人/受托人负受信责任,并有投资限制以分散风险。",
+    "title": "集体投资计划守则 / Collective Investment Schemes (CIS)",
+    "summary": "CIS 汇集众多投资者资金由管理人统一管理;零售发售须授权/认可 + 注册招股书;但 MAS 授权≠背书或保证。 / A CIS pools many investors’ money under collective management; retail offers must be authorised/recognised with a registered prospectus — but MAS authorisation is not an endorsement or guarantee.",
     "sections": [
       {
         "heading": "什么是 CIS",
-        "body": "集体投资计划=汇集多名投资者资金、按既定目标统一投资管理,投资者按份额分享收益与风险。常见形式为单位信托/基金。"
+        "body": "汇集多名投资者资金、按既定目标统一投资,投资者按份额分享收益与风险(如单位信托/基金)。"
       },
       {
-        "heading": "授权与披露",
-        "body": "在新加坡向零售发售须为获授权(本地)或获认可(境外)计划,并注册/提供招股书(prospectus)披露目标、风险、费用。"
+        "heading": "What is a CIS",
+        "body": "Pools investors’ money invested collectively toward a stated objective; investors share returns and risks pro-rata (e.g. unit trusts/funds)."
       },
       {
-        "heading": "责任与限制",
-        "body": "基金管理人与受托人负受信/尽职责任;计划设投资限制(如分散化、杠杆/集中度上限)以保护投资者。"
+        "heading": "授权与提示",
+        "body": "零售发售须获授权(本地)/认可(境外)并注册招股书披露目标/风险/费用;MAS 授权/注册并非背书或回报保证。"
       },
       {
-        "heading": "重要提示",
-        "body": "MAS 的授权(authorisation)/认可(recognition)/招股书注册并非对计划的背书或回报保证——不代表\"稳赚不赔\"。"
+        "heading": "Authorisation & caveat",
+        "body": "Retail offers must be authorised (local)/recognised (foreign) with a registered prospectus disclosing objective/risks/fees; MAS authorisation/registration is not an endorsement or guarantee."
       }
     ],
     "keyPoints": [
-      "汇集资金、统一管理",
-      "零售发售须授权+招股书",
-      "管理人/受托人负受信责任",
-      "MAS 授权/注册≠背书或保证"
+      "汇集资金、统一管理 / Pooled money, collective management",
+      "零售发售须授权+招股书 / Retail offer needs authorisation + prospectus",
+      "MAS 授权/注册≠背书或保证 / MAS authorisation ≠ guarantee"
     ],
     "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
     "status": "draft",

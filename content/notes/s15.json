@@ -3,27 +3,30 @@
     "id": "note-s15-overview",
     "part": 2,
     "syllabusItemId": "s15",
-    "title": "专业精神 (Professionalism)",
-    "summary": "专业精神=以胜任、勤勉、诚信为客户提供服务;持续进修保持能力,只在自身能力范围内执业,超出时应寻求协助或转介。",
+    "title": "专业精神 / Professionalism",
+    "summary": "专业精神=胜任、勤勉、诚信;持续进修保持能力,只在能力范围内执业,超出时寻求协助或转介。 / Professionalism means competence, diligence and integrity; maintain competence through continuing education, act within your competence, and refer when beyond it.",
     "sections": [
       {
         "heading": "胜任与进修",
-        "body": "须具备并持续更新专业知识(持续教育),了解所推荐产品与监管要求。"
+        "body": "须具备并持续更新专业知识,了解所推荐产品与监管要求。"
+      },
+      {
+        "heading": "Competence & CPD",
+        "body": "Possess and continually update professional knowledge of products and regulation."
       },
       {
         "heading": "能力边界",
-        "body": "遇到超出自身能力的事项,应寻求协助、转介专家,而非不懂装懂。"
+        "body": "遇到超出能力的事项应寻求协助或转介专家,不可不懂装懂。"
       },
       {
-        "heading": "态度",
-        "body": "勤勉、守时、负责,以客户利益为重,维护行业声誉。"
+        "heading": "Limits of competence",
+        "body": "When a matter exceeds your competence, seek help or refer to a specialist rather than pretending."
       }
     ],
     "keyPoints": [
-      "胜任 + 持续进修",
-      "只在能力范围内执业",
-      "超能力范围应转介",
-      "勤勉、诚信、负责"
+      "胜任 + 持续进修 / Competence + continuing education",
+      "只在能力范围内执业 / Act within your competence",
+      "超能力范围应转介 / Refer when beyond competence"
     ],
     "sourceRef": "CMFAS M5 — Professionalism",
     "status": "draft",

@@ -3,27 +3,30 @@
     "id": "note-s24-overview",
     "part": 2,
     "syllabusItemId": "s24",
-    "title": "制定适当的策略与方案",
-    "summary": "方案须针对已识别的需求,适合客户风险承受与负担能力;一般先满足保障与应急,再做积累;推荐要有与分析挂钩的合理基础。",
+    "title": "制定适当的策略与方案 / Strategies & Solutions",
+    "summary": "方案须针对已识别需求,适合风险承受与负担;先保障应急后积累;推荐有与分析挂钩的合理基础。 / Solutions must address identified needs, suit risk appetite and affordability, prioritise protection/emergency before accumulation, and have a reasonable basis tied to the analysis.",
     "sections": [
       {
         "heading": "适当性",
-        "body": "方案匹配客户需求、风险承受、负担能力与时间;不可一刀切或推销高佣不适合产品。"
+        "body": "方案匹配需求、风险承受、负担能力与时间;不可一刀切或推销高佣不适合产品。"
       },
       {
-        "heading": "优先级",
-        "body": "通常先解决保障(人身/重疾/收入)与应急储备,再追求财富积累与增值。"
+        "heading": "Suitability",
+        "body": "Match needs, risk appetite, affordability and horizon; no one-size-fits-all or high-commission misfit."
       },
       {
-        "heading": "合理基础",
-        "body": "推荐须基于前述事实收集与分析,能向客户解释\"为何适合\"。"
+        "heading": "优先级与依据",
+        "body": "通常先解决保障与应急,再追求积累;推荐基于事实收集与分析,能解释\"为何适合\"。"
+      },
+      {
+        "heading": "Priority & basis",
+        "body": "Address protection/emergency first, then accumulation; base advice on the fact-find/analysis and explain why it fits."
       }
     ],
     "keyPoints": [
-      "方案匹配需求/风险/负担",
-      "先保障应急后积累",
-      "推荐有合理基础",
-      "能解释为何适合"
+      "方案匹配需求/风险/负担 / Match needs/risk/affordability",
+      "先保障应急后积累 / Protection/emergency before accumulation",
+      "推荐有合理基础 / Reasonable basis"
     ],
     "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
     "status": "draft",

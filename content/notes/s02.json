@@ -3,27 +3,30 @@
     "id": "note-s02-overview",
     "part": 1,
     "syllabusItemId": "s02",
-    "title": "FAA — 业务操守、监管权力与罪行",
-    "summary": "FAA 规定 FA 的业务操守(披露重要信息、不得作虚假/误导陈述、推荐须有合理基础),并赋予 MAS 监督、调查与处分权;违反者可构成罪行并受处罚。",
+    "title": "FAA — 业务操守、监管权力与罪行 / Conduct, Powers & Offences",
+    "summary": "FAA 规定业务操守(披露重要信息、不得虚假误导、推荐有合理基础),赋予 MAS 监管/执法权;违反可构成罪行。 / The FAA sets conduct standards (disclose material information, no false/misleading statements, reasonable basis), gives MAS regulatory/enforcement powers, and makes breaches an offence.",
     "sections": [
       {
         "heading": "业务操守要求",
-        "body": "须向客户披露与建议相关的重要信息(费用、风险、利益冲突);不得作虚假或误导性陈述诱使交易;推荐须有合理基础并适合客户。"
+        "body": "须披露风险/费用/利益冲突等重要信息;不得作虚假或误导陈述诱使交易;推荐须有合理基础且适合客户。"
       },
       {
-        "heading": "MAS 权力",
-        "body": "MAS 可检查、调查、要求提供资料,并对违规者采取监管/执法行动(发出指令 directions、施加限制、暂停/撤销牌照、禁业 prohibition order 等)。"
+        "heading": "Conduct requirements",
+        "body": "Disclose material information (risks, fees, conflicts); make no false or misleading statements to induce transactions; recommend with a reasonable basis and suitability."
       },
       {
-        "heading": "罪行与处罚",
-        "body": "无牌从事受规管活动、提供虚假信息、误导陈述等可构成罪行,面临罚款及/或监禁。"
+        "heading": "MAS 权力与罪行",
+        "body": "MAS 可检查、调查并采取监管/执法行动(指令、限制、暂停/撤销牌照、禁业);无牌或虚假陈述属罪行,可罚款/监禁。"
+      },
+      {
+        "heading": "MAS powers & offences",
+        "body": "MAS may inspect, investigate and take regulatory/enforcement action (directions, restrictions, suspension/revocation, prohibition); unlicensed activity or false statements are offences (fines/imprisonment)."
       }
     ],
     "keyPoints": [
-      "披露重要信息、不得误导",
-      "推荐须有合理基础",
-      "MAS 有检查/调查/处分权",
-      "无牌或虚假陈述属罪行"
+      "披露重要信息、不得误导 / Disclose material info; do not mislead",
+      "推荐须有合理基础 / Recommendations need a reasonable basis",
+      "MAS 有检查/调查/执法权 / MAS may inspect/investigate/enforce"
     ],
     "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
     "status": "draft",

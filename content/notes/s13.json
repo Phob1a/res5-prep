@@ -3,27 +3,30 @@
     "id": "note-s13-overview",
     "part": 1,
     "syllabusItemId": "s13",
-    "title": "中央公积金 CPF",
-    "summary": "CPF 是新加坡强制储蓄制度,分普通(OA)、特别(SA)、保健储蓄(MA)账户,55 岁起设退休(RA)账户;分别对应置业/退休、退休、医疗等用途,部分可经 CPF-IS 投资。",
+    "title": "中央公积金 / Central Provident Fund (CPF)",
+    "summary": "CPF 分 OA/SA/MA 账户,55 岁创建 RA;分别对应住房退休、退休、医疗;部分可经 CPF-IS 投资(有风险)。 / CPF has OA/SA/MA accounts and an RA created at 55, for housing/retirement, retirement and healthcare respectively; some balances may be invested via CPF-IS (which carries risk).",
     "sections": [
       {
         "heading": "账户与用途",
-        "body": "OA:住房、保险、投资、教育;SA:退休相关金融产品;MA(MediSave):医疗与经核准医疗保险(如 MediShield Life);55 岁时创建退休账户(RA),SA 储蓄(以及需要时 OA)拨入 RA 形成退休储备(当前 CPF 表述:55 岁 SA 会关闭)。"
+        "body": "OA:住房/投资;SA:退休;MA(MediSave):医疗与医疗保险;55 岁创建 RA,SA(及需要时 OA)拨入形成退休储备。"
       },
       {
-        "heading": "CPF 投资计划 (CPF-IS)",
-        "body": "OA 与 SA 余额超过门槛部分可投资经核准产品(CPF-IS),但投资有风险,可能低于 CPF 利息。"
+        "heading": "Accounts & uses",
+        "body": "OA: housing/investment; SA: retirement; MA (MediSave): healthcare and medical insurance; at 55 an RA is created, funded from SA (and OA if needed)."
       },
       {
-        "heading": "易考点",
-        "body": "MediSave=医疗;55 岁设 RA;CPF-IS 投资有风险、非保证;不同账户用途别混。"
+        "heading": "CPF-IS",
+        "body": "OA/SA 超门槛部分可投资经核准产品,但投资有风险,可能低于 CPF 利息。"
+      },
+      {
+        "heading": "CPF-IS",
+        "body": "OA/SA above thresholds may be invested in approved products via CPF-IS, but investments carry risk and may underperform CPF interest."
       }
     ],
     "keyPoints": [
-      "OA/SA/MA 三账户 + 55 岁 RA",
-      "MediSave 用于医疗",
-      "CPF-IS 投资有风险",
-      "账户用途不可混淆"
+      "OA/SA/MA + 55 岁 RA / OA/SA/MA + RA at 55",
+      "MediSave 用于医疗 / MediSave for healthcare",
+      "CPF-IS 投资有风险 / CPF-IS investments carry risk"
     ],
     "sourceRef": "Central Provident Fund (CPF) framework",
     "status": "draft",

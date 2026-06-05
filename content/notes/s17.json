@@ -3,27 +3,30 @@
     "id": "note-s17-overview",
     "part": 2,
     "syllabusItemId": "s17",
-    "title": "不道德行为 (Unethical Behavior)",
-    "summary": "常见不道德行为:虚假陈述/误导、churning(频繁交易刷佣)、twisting(诱导换单损客户利益)、隐瞒重要信息、推荐不适合产品、挪用客户资金;后果含纪律处分与失去信任。",
+    "title": "不道德行为 / Unethical Behavior",
+    "summary": "典型:虚假陈述、churning(刷佣频繁交易)、twisting(损客户换单)、隐瞒、不适合推荐、挪用资金;后果含处分与失信。 / Typical examples: misrepresentation, churning (excessive trading for commission), twisting (detrimental policy replacement), concealment, unsuitable recommendations and misuse of funds; consequences include sanctions and lost trust.",
     "sections": [
       {
         "heading": "典型表现",
-        "body": "churning(为赚佣金诱导客户频繁交易)、twisting(诱导客户退保换新单而损其利益)、误导/夸大、隐瞒风险费用、推荐明显不适合的产品。"
+        "body": "churning=为赚佣金诱导频繁交易;twisting=诱导退保换新单而损客户利益;误导/隐瞒风险费用/推荐不适合产品。"
       },
       {
-        "heading": "更严重情形",
-        "body": "挪用/混用客户资金、伪造文件、冒签,属严重违规甚至犯罪。"
+        "heading": "Typical forms",
+        "body": "Churning = excessive trading for commission; twisting = inducing a detrimental policy replacement; misleading/concealing risks or fees/unsuitable recommendations."
       },
       {
-        "heading": "后果",
-        "body": "客户受损、声誉受损、纪律处分(罚款/禁业/撤牌)乃至刑责。"
+        "heading": "更严重情形与后果",
+        "body": "挪用客户资金、伪造文件属严重违规甚至犯罪;后果含罚款/禁业/撤牌乃至刑责。"
+      },
+      {
+        "heading": "Severe forms & consequences",
+        "body": "Misappropriating funds or forging documents is serious misconduct or crime; consequences include fines/prohibition/revocation and criminal liability."
       }
     ],
     "keyPoints": [
-      "churning=刷佣频繁交易",
-      "twisting=损客户换单",
-      "隐瞒/误导/不适合推荐",
-      "挪用资金属严重违规"
+      "churning=刷佣频繁交易 / Churning = excessive trading for commission",
+      "twisting=损客户换单 / Twisting = detrimental replacement",
+      "挪用资金属严重违规 / Misappropriation is serious misconduct"
     ],
     "sourceRef": "CMFAS M5 — Unethical Behavior",
     "status": "draft",

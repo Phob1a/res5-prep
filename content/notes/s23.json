@@ -3,27 +3,30 @@
     "id": "note-s23-overview",
     "part": 2,
     "syllabusItemId": "s23",
-    "title": "分析评估客户财务状况",
-    "summary": "在资料收集后,系统分析客户现金流、净值、保障缺口与风险承受,对照目标识别盈余/缺口,作为方案设计的依据。",
+    "title": "分析评估客户财务状况 / Analysing Financial Status",
+    "summary": "系统分析现金流、净值、保障缺口与风险承受,对照目标识别盈余/缺口,作为方案依据。 / Systematically analyse cash flow, net worth, protection gaps and risk appetite against goals to identify surpluses/shortfalls as the basis for solutions.",
     "sections": [
       {
         "heading": "分析维度",
-        "body": "现金流(收支结余)、资产负债与净值、现有保障与投资、风险承受与目标的匹配度。"
+        "body": "现金流(收支结余)、资产负债与净值、现有保障与投资、风险承受与目标的匹配。"
+      },
+      {
+        "heading": "Dimensions",
+        "body": "Cash flow, assets/liabilities and net worth, existing cover/investments, and risk-goal alignment."
       },
       {
         "heading": "识别缺口",
         "body": "保障缺口=需求与现有保障之差;储蓄/退休缺口=目标所需与现有进度之差。"
       },
       {
-        "heading": "产出",
-        "body": "形成对客户财务现状的清晰评估,作为制定适当策略的基础。"
+        "heading": "Identify gaps",
+        "body": "Protection gap = needs minus existing cover; savings/retirement gap = target minus current progress."
       }
     ],
     "keyPoints": [
-      "析现金流/净值/保障/风险",
-      "识别保障与储蓄缺口",
-      "对照目标找盈余/缺口",
-      "作为方案依据"
+      "析现金流/净值/保障/风险 / Analyse cash flow/net worth/cover/risk",
+      "识别保障与储蓄缺口 / Identify protection and savings gaps",
+      "对照目标 / Evaluate against goals"
     ],
     "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
     "status": "draft",

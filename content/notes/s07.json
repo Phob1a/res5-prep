@@ -4,26 +4,29 @@
     "part": 1,
     "syllabusItemId": "s07",
     "title": "投资连结保单 ILPs (MAS Notice 307)",
-    "summary": "ILP 兼具保险与投资成分,保单价值随所选基金单位表现浮动,投资风险由保单持有人承担。Notice 307 规范 ILP 的披露、基金信息、收费与运营要求;而\"适当性/合理基础\"来自 FAA 财务咨询流程(FAA-N16),非 Notice 307 本身。",
+    "summary": "ILP 兼具保险与投资,价值随基金浮动,投资风险由保单持有人承担;Notice 307 规范披露/基金/收费,适当性来自 FAA 流程。 / An ILP combines insurance and investment; its value fluctuates with the funds and the policyholder bears the investment risk. Notice 307 governs disclosure/fund/fees; suitability comes from the FAA advisory process.",
     "sections": [
       {
         "heading": "本质",
-        "body": "ILP 保费部分购买基金单位,价值随基金表现升跌,无资本保证;另有保险保障成分。投资风险由保单持有人承担。"
+        "body": "ILP 保费部分购买基金单位,价值随基金升跌,无资本保证;另有保险保障成分,投资风险由保单持有人承担。"
       },
       {
-        "heading": "披露(Notice 307)与适当性(FA 流程)",
-        "body": "Notice 307 要求提供产品摘要/基金信息、说明费用(如管理费、分销费)与风险;新单一般有 free-look(冷静期)。\"基于需求分析确保适当(reasonable basis)\"则属 FAA 财务咨询流程(FAA-N16)的要求,二者来源不同。"
+        "heading": "Nature",
+        "body": "Part of the premium buys fund units; value rises/falls with the funds with no capital guarantee; there is an insurance component and the policyholder bears the investment risk."
       },
       {
-        "heading": "易考点",
-        "body": "ILP 风险由\"保单持有人\"承担(非保险公司);无资本保证;须充分披露收费;有冷静期。"
+        "heading": "披露与适当性",
+        "body": "Notice 307 要求披露产品摘要/基金信息/费用/风险,设 free-look;\"合理基础适当性\"属 FAA 咨询流程(FAA-N16)。"
+      },
+      {
+        "heading": "Disclosure & suitability",
+        "body": "Notice 307 requires disclosure of product summary/fund info/fees/risks and a free-look period; reasonable-basis suitability comes from the FAA advisory process (FAA-N16)."
       }
     ],
     "keyPoints": [
-      "投资风险由保单持有人承担",
-      "无资本保证",
-      "须披露收费与基金信息",
-      "设 free-look 冷静期"
+      "投资风险由保单持有人承担 / Policyholder bears the investment risk",
+      "无资本保证 / No capital guarantee",
+      "设 free-look 冷静期 / Free-look period applies"
     ],
     "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
     "status": "draft",

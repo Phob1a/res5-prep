@@ -3,27 +3,30 @@
     "id": "note-s22-overview",
     "part": 2,
     "syllabusItemId": "s22",
-    "title": "资料收集与需求分析 (Fact Find / FNA)",
-    "summary": "展业核心步骤:全面了解客户(KYC)——收集财务状况、目标、风险承受、家庭责任等,做财务需求分析(FNA),作为推荐的\"合理基础\"并须书面记录。",
+    "title": "资料收集与需求分析 / Fact-Find & Needs Analysis",
+    "summary": "全面了解客户(KYC):收集财务状况、目标、风险承受等,做 FNA 作为推荐的合理基础并须书面。 / Know the client fully (KYC): gather financial position, goals and risk appetite; the needs analysis (FNA) forms the reasonable basis for advice and must be documented.",
     "sections": [
       {
         "heading": "收集什么",
-        "body": "客户的收入支出、资产负债、现有保障/投资、财务目标与时间、风险承受能力、家庭与责任、税务等。信息须充分且更新。"
+        "body": "收入支出、资产负债、现有保障/投资、目标与时间、风险承受、家庭责任等,信息须充分且更新。"
+      },
+      {
+        "heading": "What to gather",
+        "body": "Income/expenses, assets/liabilities, existing cover/investments, goals and horizon, risk appetite, dependants — adequate and updated."
       },
       {
         "heading": "为何重要",
-        "body": "FNA 是适当性的基础:没有充分了解客户,任何推荐都缺乏合理依据。须书面记录,客户拒答时亦应记录其影响。"
+        "body": "FNA 是适当性的基础;信息不足不得贸然推荐,客户拒答应记录其影响。"
       },
       {
-        "heading": "易考点",
-        "body": "KYC/FNA=推荐的合理基础;须书面;信息不足不得贸然推荐;风险承受与目标是关键输入。"
+        "heading": "Why it matters",
+        "body": "FNA is the basis of suitability; do not recommend without adequate information, and document the impact if the client declines."
       }
     ],
     "keyPoints": [
-      "全面了解客户(KYC)",
-      "FNA 是适当性合理基础",
-      "须书面记录",
-      "信息不足不得贸然推荐"
+      "全面了解客户(KYC) / Know your client (KYC)",
+      "FNA 是适当性合理基础 / FNA is the basis of suitability",
+      "信息不足不得贸然推荐 / No recommendation without adequate info"
     ],
     "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
     "status": "draft",

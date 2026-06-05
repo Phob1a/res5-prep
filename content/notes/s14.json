@@ -3,27 +3,30 @@
     "id": "note-s14-overview",
     "part": 2,
     "syllabusItemId": "s14",
-    "title": "为何职业道德重要",
-    "summary": "财务顾问处理客户财务与信任,信息不对称大;职业道德维护公众信心、保护客户利益,是行业长期生存的基础,且高于\"仅合规\"。",
+    "title": "为何职业道德重要 / Why Ethics Matter",
+    "summary": "信息不对称大、客户高度信任,道德维护公众信心、保护客户利益,且高于\"仅合规\"。 / Given information asymmetry and the trust clients place in advisers, ethics protects public confidence and clients’ interests — and goes beyond mere compliance.",
     "sections": [
       {
         "heading": "为何重要",
-        "body": "客户依赖顾问的专业与诚信做出重大财务决定;不当行为损害客户、机构声誉与行业信任。道德是维系信任与公众信心的根本。"
+        "body": "客户依赖顾问做重大财务决定;不当行为损害客户、声誉与行业信任。道德是维系信任的根本。"
+      },
+      {
+        "heading": "Why it matters",
+        "body": "Clients rely on advisers for major decisions; misconduct harms clients, reputation and trust. Ethics underpins that trust."
       },
       {
         "heading": "道德 vs 合规",
-        "body": "合规是守住法律底线的\"最低要求\";道德要求在法律之外仍以客户利益为重、给出公平且适当的结果。合法未必合德。"
+        "body": "合规是法律最低线;道德要求在法律之外仍以客户利益为重、给出公平适当的结果。合法未必合德。"
       },
       {
-        "heading": "易考点",
-        "body": "道德 > 合规底线;以客户利益为重、公平对待;信任是行业资产;不当行为后果(声誉、纪律处分、失去信任)。"
+        "heading": "Ethics vs compliance",
+        "body": "Compliance is the legal minimum; ethics requires acting in the client’s interest and delivering fair, suitable outcomes beyond the law. Lawful is not always ethical."
       }
     ],
     "keyPoints": [
-      "以客户利益为重、公平对待",
-      "道德高于最低合规",
-      "合法未必合德",
-      "不当行为损害声誉与行业"
+      "以客户利益为重、公平对待 / Put the client’s interest first; deal fairly",
+      "道德高于最低合规 / Ethics is higher than minimum compliance",
+      "合法未必合德 / Lawful ≠ ethical"
     ],
     "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
     "status": "draft",

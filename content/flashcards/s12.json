@@ -4,10 +4,10 @@
     "part": 1,
     "syllabusItemId": "s12",
     "topicGroup": "conduct",
-    "title": "市场操守三禁",
-    "point": "禁内幕交易、虚假交易/操纵、散布虚假误导信息。",
+    "title": "市场操守三禁 / Three prohibitions",
+    "point": "禁内幕交易、虚假交易/操纵、散布虚假误导信息。 / No insider trading, false trading/manipulation, or false information.",
     "keyfacts": [
-      "违者民事/刑事责任"
+      "违者民事/刑事责任 / Civil/criminal liability"
     ],
     "sourceRef": "Securities and Futures Act — Market Conduct",
     "status": "draft",
@@ -18,10 +18,10 @@
     "part": 1,
     "syllabusItemId": "s12",
     "topicGroup": "conduct",
-    "title": "内幕交易",
-    "point": "持有\"未普遍公开且若公开将对价格有重大影响\"的信息买卖或泄露=违法。",
+    "title": "内幕交易 / Insider trading",
+    "point": "用\"未普遍公开且若公开会对价格/价值有重大影响\"的信息买卖或泄露=违法。 / Trading while holding information not generally available that would have a material effect on price/value is unlawful.",
     "keyfacts": [
-      "SFA:not generally available + material effect"
+      "SFA: not generally available + material effect / SFA test"
     ],
     "sourceRef": "Securities and Futures Act — Market Conduct",
     "status": "draft",

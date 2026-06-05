@@ -3,27 +3,30 @@
     "id": "note-s26-overview",
     "part": 2,
     "syllabusItemId": "s26",
-    "title": "检视客户投资组合",
-    "summary": "理财是持续过程:定期及在重大变化时检视组合,核对目标/风险/市场变化,必要时再平衡或调整方案,并记录检视。",
+    "title": "检视客户投资组合 / Reviewing Portfolios",
+    "summary": "理财是持续过程:定期及重大变化时检视组合,核对目标/风险/市场,必要时再平衡并记录。 / Planning is ongoing: review portfolios periodically and on major changes, check goals/risk/markets, rebalance if needed and document.",
     "sections": [
       {
-        "heading": "何时检视",
-        "body": "定期(如每年)及客户重大变化(婚育、收入、健康、目标改变)或市场显著变动时。"
+        "heading": "何时与检视什么",
+        "body": "定期及客户重大变化(婚育、收入、健康、目标)或市场显著变动时;核对组合是否仍匹配目标与风险、保障是否仍足。"
       },
       {
-        "heading": "检视什么",
-        "body": "组合是否仍匹配目标与风险承受;保障是否仍足够;是否需再平衡或调整。"
+        "heading": "When & what",
+        "body": "Periodically and on major life/market changes; check whether the portfolio still fits goals/risk and whether cover is still adequate."
       },
       {
-        "heading": "记录",
-        "body": "记录检视结论与任何调整建议,保持可追溯。"
+        "heading": "再平衡与记录",
+        "body": "必要时再平衡或调整;记录检视结论与调整建议,保持可追溯。"
+      },
+      {
+        "heading": "Rebalance & record",
+        "body": "Rebalance/adjust as needed; document findings and recommendations for traceability."
       }
     ],
     "keyPoints": [
-      "定期+重大变化时检视",
-      "核对目标/风险/市场",
-      "必要时再平衡",
-      "记录检视结论"
+      "定期+重大变化时检视 / Review periodically and on major changes",
+      "核对目标/风险/市场 / Check goals/risk/markets",
+      "记录检视结论 / Document findings"
     ],
     "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
     "status": "draft",

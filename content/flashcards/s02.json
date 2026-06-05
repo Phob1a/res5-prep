@@ -4,10 +4,10 @@
     "part": 1,
     "syllabusItemId": "s02",
     "topicGroup": "rules",
-    "title": "FAA 操守",
-    "point": "披露重要信息、不得虚假误导、推荐须有合理基础。",
+    "title": "FAA 操守 / FAA conduct",
+    "point": "披露重要信息、不得虚假误导、推荐有合理基础。 / Disclose material info; no false/misleading statements; reasonable basis.",
     "keyfacts": [
-      "费用/风险/冲突要披露"
+      "费用/风险/冲突要披露 / Disclose fees/risks/conflicts"
     ],
     "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
     "status": "draft",
@@ -18,10 +18,10 @@
     "part": 1,
     "syllabusItemId": "s02",
     "topicGroup": "rules",
-    "title": "MAS 权力与罪行",
-    "point": "MAS 可检查/调查 + 监管/执法行动(指令/限制/暂停撤销牌照/禁业);无牌或虚假陈述属罪行,可罚款/监禁。",
+    "title": "MAS 权力与罪行 / MAS powers & offences",
+    "point": "MAS 可检查/调查 + 执法(指令/限制/撤牌/禁业);无牌或虚假陈述属罪行。 / MAS may inspect/investigate + enforce; unlicensed or false statements are offences.",
     "keyfacts": [
-      "directions/restrictions/suspension/prohibition"
+      "撤牌、禁业、罚款 / Suspension/revocation, prohibition, fines"
     ],
     "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
     "status": "draft",

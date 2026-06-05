@@ -3,27 +3,30 @@
     "id": "note-s20-overview",
     "part": 2,
     "syllabusItemId": "s20",
-    "title": "金融产品的道德营销与销售",
-    "summary": "营销与销售须均衡、真实、不误导;基于需求分析推荐适当产品;禁止高压销售与隐瞒,充分披露风险与费用,尊重客户冷静期与自主决定。",
+    "title": "金融产品的道德营销与销售 / Ethical Marketing & Sale",
+    "summary": "营销须均衡、真实、不误导;基于需求推荐适当产品;禁高压销售与隐瞒,充分披露风险费用,尊重冷静期。 / Marketing must be balanced, truthful and non-misleading; recommend suitable products based on needs; no high-pressure tactics or concealment; disclose risks and fees; respect cooling-off.",
     "sections": [
       {
         "heading": "原则",
-        "body": "信息均衡呈现(不夸大收益、不淡化风险);不作虚假或误导陈述;推荐须有合理基础并适合客户;充分披露费用、风险、除外条款。"
+        "body": "信息均衡(不夸大收益、不淡化风险);不作虚假/误导陈述;推荐有合理基础并适合;充分披露费用风险。"
+      },
+      {
+        "heading": "Principles",
+        "body": "Balanced information (no exaggerated returns, no downplayed risks); no false/misleading statements; reasonable basis and suitability; full disclosure of fees and risks."
       },
       {
         "heading": "禁止行为",
-        "body": "高压销售、制造紧迫感逼单、隐瞒重要信息、不当类比/承诺回报、利用客户不了解牟利。"
+        "body": "高压销售、制造紧迫感逼单、隐瞒重要信息、承诺回报、利用客户不了解牟利。"
       },
       {
-        "heading": "易考点",
-        "body": "均衡披露;合理基础;不误导/不高压;尊重冷静期;风险与费用如实告知。"
+        "heading": "Prohibited",
+        "body": "High-pressure selling, manufactured urgency, concealing material facts, promising returns, exploiting the client’s lack of understanding."
       }
     ],
     "keyPoints": [
-      "均衡、真实、不误导",
-      "基于需求的合理推荐",
-      "禁高压销售与隐瞒",
-      "充分披露风险与费用"
+      "均衡、真实、不误导 / Balanced, truthful, non-misleading",
+      "基于需求的合理推荐 / Needs-based reasonable recommendation",
+      "禁高压销售与隐瞒 / No high-pressure or concealment"
     ],
     "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
     "status": "draft",

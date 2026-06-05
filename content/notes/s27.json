@@ -3,27 +3,30 @@
     "id": "note-s27-overview",
     "part": 2,
     "syllabusItemId": "s27",
-    "title": "基础理财规划指南",
-    "summary": "理财规划是有步骤的过程:确立目标→收集资料→分析现状→制定方案→执行→定期检视;涵盖预算、应急金、保障、储蓄投资、退休与遗产。",
+    "title": "基础理财规划指南 / Basic Financial Planning Guide",
+    "summary": "理财规划是有步骤的过程:目标→收集→分析→方案→执行→检视;涵盖预算、应急、保障、储蓄投资、退休、遗产。 / Financial planning is a stepwise process: goals → gather → analyse → plan → implement → review; covering budgeting, emergency funds, protection, savings/investment, retirement and estate.",
     "sections": [
       {
         "heading": "规划流程(6 步)",
-        "body": "1) 确立财务目标;2) 收集客户资料;3) 分析评估财务现状;4) 制定并呈现方案;5) 执行;6) 定期检视与调整。"
+        "body": "1) 确立目标;2) 收集资料;3) 分析现状;4) 制定并呈现方案;5) 执行;6) 定期检视与调整。"
       },
       {
-        "heading": "覆盖领域",
-        "body": "现金流/预算、应急储备、风险保障(保险)、储蓄与投资、退休规划、遗产与税务安排。优先级一般是先保障与应急,再增长。"
+        "heading": "Process (6 steps)",
+        "body": "1) Set goals; 2) gather data; 3) analyse status; 4) develop and present the plan; 5) implement; 6) review and adjust periodically."
       },
       {
-        "heading": "易考点",
-        "body": "记牢\"6 步流程\";检视是持续过程;先保障/应急再投资增长;方案须匹配目标与风险承受。"
+        "heading": "覆盖与优先级",
+        "body": "现金流/预算、应急储备、保障、储蓄投资、退休、遗产;一般先保障与应急,再追求增长。"
+      },
+      {
+        "heading": "Coverage & priority",
+        "body": "Cash flow/budget, emergency fund, protection, savings/investment, retirement, estate; generally protection/emergency first, then growth."
       }
     ],
     "keyPoints": [
-      "6 步规划流程",
-      "先保障应急再增长",
-      "定期检视调整",
-      "方案匹配目标与风险"
+      "6 步规划流程 / Six-step planning process",
+      "先保障应急再增长 / Protection/emergency before growth",
+      "定期检视调整 / Review and adjust periodically"
     ],
     "sourceRef": "MoneySense / Basic Financial Planning Guide",
     "status": "draft",

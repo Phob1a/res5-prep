@@ -3,27 +3,30 @@
     "id": "note-s25-overview",
     "part": 2,
     "syllabusItemId": "s25",
-    "title": "向客户呈现分析与方案",
-    "summary": "呈现须清晰、完整、诚实:说明假设、风险、费用与替代方案,确保客户理解后由其自主决定,并提供书面文件。",
+    "title": "向客户呈现分析与方案 / Presenting to Clients",
+    "summary": "呈现须清晰诚实:说明假设、风险、费用与替代方案,确保客户理解后由其自主决定,并提供书面文件。 / Present clearly and honestly: explain assumptions, risks, fees and alternatives, ensure the client understands, let them decide freely, and provide documentation.",
     "sections": [
       {
-        "heading": "清晰呈现",
-        "body": "用客户能懂的语言说明建议逻辑、预期与不确定性,避免术语堆砌或片面强调收益。"
+        "heading": "清晰与披露",
+        "body": "用客户能懂的语言说明逻辑与不确定性;披露关键假设、风险、费用、冲突与替代选项。"
       },
       {
-        "heading": "充分披露",
-        "body": "披露关键假设、风险、费用、利益冲突及合理的替代选项。"
+        "heading": "Clarity & disclosure",
+        "body": "Explain in plain language with uncertainties; disclose key assumptions, risks, fees, conflicts and alternatives."
       },
       {
         "heading": "客户决定",
         "body": "确保客户理解后由其自主决定,不施压;留存建议书/文件备查。"
+      },
+      {
+        "heading": "Client decides",
+        "body": "Ensure understanding, let the client decide without pressure, and keep the advice document on file."
       }
     ],
     "keyPoints": [
-      "清晰、客户能懂",
-      "披露假设/风险/费用",
-      "客户自主决定不施压",
-      "提供书面文件"
+      "清晰、客户能懂 / Clear and understandable",
+      "披露假设/风险/费用 / Disclose assumptions/risks/fees",
+      "客户自主决定不施压 / Client decides without pressure"
     ],
     "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
     "status": "draft",

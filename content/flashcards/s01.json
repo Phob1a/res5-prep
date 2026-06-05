@@ -4,11 +4,10 @@
     "part": 1,
     "syllabusItemId": "s01",
     "topicGroup": "rules",
-    "title": "持牌 vs 代表",
-    "point": "牌照发给 FA 实体;个人是经 RNF 登记的委任代表。",
+    "title": "持牌 vs 代表 / Licence vs representative",
+    "point": "牌照发给 FA 实体;个人是经 RNF 登记的委任代表。 / The FA entity is licensed; individuals are appointed representatives registered via RNF.",
     "keyfacts": [
-      "个人不单独持牌",
-      "展业前须登记"
+      "个人不单独持牌 / Individuals not separately licensed"
     ],
     "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
     "status": "draft",
@@ -20,9 +19,9 @@
     "syllabusItemId": "s01",
     "topicGroup": "rules",
     "title": "Fit & Proper",
-    "point": "代表须符合诚信、能力、财务稳健三方面的 fit & proper 标准。",
+    "point": "代表须符合诚信、能力、财务稳健标准。 / Representatives must meet integrity, competence and financial-soundness standards.",
     "keyfacts": [
-      "诚信/能力/财务稳健"
+      "展业前须登记 / Register before practising"
     ],
     "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
     "status": "draft",

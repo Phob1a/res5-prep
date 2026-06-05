@@ -3,27 +3,30 @@
     "id": "note-s19-overview",
     "part": 2,
     "syllabusItemId": "s19",
-    "title": "公平交易 (Fair Dealing)",
-    "summary": "MAS 公平交易指引提出 5 项面向客户的成果(outcomes),要求董事会/管理层把公平对待客户置于企业文化核心,涵盖产品适当、代表称职、信息清晰、投诉处理。",
+    "title": "公平交易 / Fair Dealing",
+    "summary": "MAS 公平交易指引提出 5 项面向客户的成果,要求董事会/高管把公平对待客户置于文化核心。 / The MAS Fair Dealing Guidelines set out five customer outcomes and require the board/senior management to place fair dealing at the heart of culture.",
     "sections": [
       {
-        "heading": "五项公平交易成果",
-        "body": "1) 公平对待客户是企业文化核心(董事会/高管担责);2) 产品与服务适合目标客群;3) 客户由称职代表服务;4) 客户获得清晰、相关、及时的信息;5) 投诉获独立、有效、及时处理。"
+        "heading": "五项成果",
+        "body": "1) 公平对待是文化核心(董事会/高管担责);2) 产品适合目标客群;3) 代表称职;4) 信息清晰相关及时;5) 投诉独立有效及时处理。"
+      },
+      {
+        "heading": "Five outcomes",
+        "body": "1) Fair dealing central to culture (board/management responsible); 2) products suit target customers; 3) competent representatives; 4) clear, relevant, timely information; 5) complaints handled independently, effectively, promptly."
       },
       {
         "heading": "责任主体",
-        "body": "董事会与高级管理层对落实公平交易成果负首要责任,须贯穿产品设计、销售、售后全流程。"
+        "body": "董事会与高级管理层对落实公平交易成果负首要责任,贯穿设计/销售/售后。"
       },
       {
-        "heading": "易考点",
-        "body": "记牢\"5 个 outcomes\";第 1 项强调董事会/高管担责与企业文化;第 5 项=投诉独立有效及时。"
+        "heading": "Responsibility",
+        "body": "The board and senior management bear primary responsibility across design/sales/after-sales."
       }
     ],
     "keyPoints": [
-      "5 项公平交易成果",
-      "董事会/高管担首要责任",
-      "产品适合目标客群",
-      "信息清晰、投诉独立处理"
+      "5 项公平交易成果 / Five fair-dealing outcomes",
+      "董事会/高管担首要责任 / Board/management primarily responsible",
+      "产品适合目标客群 / Products suit target customers"
     ],
     "sourceRef": "MAS Guidelines on Fair Dealing",
     "status": "draft",

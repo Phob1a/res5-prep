@@ -4,10 +4,10 @@
     "part": 1,
     "syllabusItemId": "s11",
     "topicGroup": "products",
-    "title": "CIS 本质",
-    "point": "汇集众多投资者资金,由管理人按目标统一投资。",
+    "title": "CIS 本质 / What is a CIS",
+    "point": "汇集众多投资者资金,由管理人按目标统一投资。 / Pools investors’ money managed collectively toward an objective.",
     "keyfacts": [
-      "如单位信托/基金"
+      "如单位信托/基金 / e.g. unit trusts/funds"
     ],
     "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
     "status": "draft",
@@ -18,11 +18,10 @@
     "part": 1,
     "syllabusItemId": "s11",
     "topicGroup": "products",
-    "title": "CIS 授权",
-    "point": "零售发售须授权/认可 + 注册招股书;但 MAS 授权/注册≠背书或回报保证。",
+    "title": "CIS 授权 / CIS authorisation",
+    "point": "零售须授权 + 招股书;但 MAS 授权≠回报保证。 / Retail needs authorisation + prospectus; MAS authorisation ≠ guaranteed returns.",
     "keyfacts": [
-      "设投资限制分散风险",
-      "非\"稳赚不赔\""
+      "非\"稳赚不赔\" / Not risk-free"
     ],
     "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
     "status": "draft",
