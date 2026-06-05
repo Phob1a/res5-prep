@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s17-001",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "churning / twisting",
+    "point": "churning=刷佣频繁交易;twisting=损客户换单赚佣。",
+    "keyfacts": [
+      "两者皆不道德"
+    ],
+    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s17-002",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "严重违规",
+    "point": "挪用客户资金、伪造文件属严重违规甚至犯罪。",
+    "keyfacts": [
+      "可致撤牌/刑责"
+    ],
+    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

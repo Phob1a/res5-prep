@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s24-001",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "A recommended solution must be:",
+    "options": {
+      "A": "The highest-commission product",
+      "B": "Suitable to the client’s needs, risk profile and affordability",
+      "C": "The same for every client",
+      "D": "Chosen at random"
+    },
+    "answer": "B",
+    "explanation": "方案须适合客户需求、风险承受与负担能力。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "status": "draft",
+    "tags": [
+      "suitability"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s24-002",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "In sequencing solutions, which generally comes first?",
+    "options": {
+      "A": "Speculative accumulation",
+      "B": "Protection needs and emergency funds",
+      "C": "Buying the riskiest product",
+      "D": "Estate planning before anything else"
+    },
+    "answer": "B",
+    "explanation": "一般先满足保障与应急,再做积累。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "status": "draft",
+    "tags": [
+      "priority"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s24-003",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "A recommendation should:",
+    "options": {
+      "A": "Have no basis",
+      "B": "Have a reasonable basis tied to the fact-find and analysis",
+      "C": "Ignore the analysis",
+      "D": "Depend on the adviser’s targets"
+    },
+    "answer": "B",
+    "explanation": "推荐须有与事实收集/分析挂钩的合理基础。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "status": "draft",
+    "tags": [
+      "reasonable-basis"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s15-001",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Professionalism requires a representative to:",
+    "options": {
+      "A": "Stop learning after the exam",
+      "B": "Maintain competence through continuing education and act within their competence",
+      "C": "Advise on anything regardless of knowledge",
+      "D": "Prioritise commission over service"
+    },
+    "answer": "B",
+    "explanation": "专业精神=持续进修保持胜任、在能力范围内执业。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Professionalism",
+    "status": "draft",
+    "tags": [
+      "professionalism"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s15-002",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "When a client’s matter is beyond a representative’s competence, they should:",
+    "options": {
+      "A": "Pretend to know and proceed",
+      "B": "Seek assistance or refer to a qualified specialist",
+      "C": "Ignore the client",
+      "D": "Guess"
+    },
+    "answer": "B",
+    "explanation": "超出能力应寻求协助或转介,不可不懂装懂。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Professionalism",
+    "status": "draft",
+    "tags": [
+      "competence"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s15-003",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Which reflects professionalism?",
+    "options": {
+      "A": "Diligence and integrity in serving the client’s interest",
+      "B": "Cutting corners to close fast",
+      "C": "Hiding mistakes",
+      "D": "Avoiding accountability"
+    },
+    "answer": "A",
+    "explanation": "专业=勤勉、诚信、以客户利益为重。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Professionalism",
+    "status": "draft",
+    "tags": [
+      "integrity"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

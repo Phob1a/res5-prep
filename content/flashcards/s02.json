@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s02-001",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "FAA 操守",
+    "point": "披露重要信息、不得虚假误导、推荐须有合理基础。",
+    "keyfacts": [
+      "费用/风险/冲突要披露"
+    ],
+    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s02-002",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "MAS 权力与罪行",
+    "point": "MAS 可检查/调查 + 监管/执法行动(指令/限制/暂停撤销牌照/禁业);无牌或虚假陈述属罪行,可罚款/监禁。",
+    "keyfacts": [
+      "directions/restrictions/suspension/prohibition"
+    ],
+    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

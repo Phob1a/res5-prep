@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s12-001",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "市场操守三禁",
+    "point": "禁内幕交易、虚假交易/操纵、散布虚假误导信息。",
+    "keyfacts": [
+      "违者民事/刑事责任"
+    ],
+    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s12-002",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "内幕交易",
+    "point": "持有\"未普遍公开且若公开将对价格有重大影响\"的信息买卖或泄露=违法。",
+    "keyfacts": [
+      "SFA:not generally available + material effect"
+    ],
+    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

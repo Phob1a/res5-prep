@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s25-001",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "呈现原则",
+    "point": "清晰、客户能懂;披露假设/风险/费用/替代方案。",
+    "keyfacts": [
+      "不片面强调收益"
+    ],
+    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s25-002",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "客户决定",
+    "point": "确保理解后由客户自主决定,不施压;留存文件。",
+    "keyfacts": [
+      "建议书备查"
+    ],
+    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

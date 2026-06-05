@@ -1,0 +1,71 @@
+[
+  {
+    "id": "q-s02-001",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Making a false or misleading statement to induce a client to buy a product is:",
+    "options": {
+      "A": "Allowed if sales targets are high",
+      "B": "An offence under the FAA",
+      "C": "Encouraged by MAS",
+      "D": "Acceptable if disclosed later"
+    },
+    "answer": "B",
+    "explanation": "虚假/误导陈述诱导交易属 FAA 下的罪行。",
+    "difficulty": "easy",
+    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "status": "draft",
+    "tags": [
+      "offence",
+      "conduct"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s02-002",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Which best describes MAS’ powers over financial advisers?",
+    "options": {
+      "A": "MAS cannot inspect FAs",
+      "B": "MAS may inspect, investigate and take regulatory/enforcement action (directions, restrictions, suspension/revocation, prohibition)",
+      "C": "MAS only issues licences and nothing else",
+      "D": "Only the police can act"
+    },
+    "answer": "B",
+    "explanation": "MAS 可检查、调查并对违规采取监管/执法行动(指令/限制/暂停撤销牌照/禁业)。",
+    "difficulty": "medium",
+    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "status": "draft",
+    "tags": [
+      "mas",
+      "powers"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s02-003",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "When recommending a product, a representative must:",
+    "options": {
+      "A": "Hide the fees",
+      "B": "Disclose material information such as risks, fees and conflicts, with a reasonable basis",
+      "C": "Avoid mentioning risks",
+      "D": "Guarantee returns"
+    },
+    "answer": "B",
+    "explanation": "须披露风险/费用/冲突等重要信息且推荐有合理基础。",
+    "difficulty": "easy",
+    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "status": "draft",
+    "tags": [
+      "disclosure",
+      "conduct"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

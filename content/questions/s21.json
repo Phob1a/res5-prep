@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s21-001",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "An important early step in building the client relationship is to:",
+    "options": {
+      "A": "Close a sale immediately",
+      "B": "Clarify the scope of engagement, fees and mutual responsibilities",
+      "C": "Avoid discussing fees",
+      "D": "Promise guaranteed returns"
+    },
+    "answer": "B",
+    "explanation": "开场厘清服务范围、收费与责任,管理期望。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "status": "draft",
+    "tags": [
+      "scope"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s21-002",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "The client–representative relationship is best characterised as:",
+    "options": {
+      "A": "A one-off transaction",
+      "B": "An ongoing relationship built on trust and clear communication",
+      "C": "Adversarial",
+      "D": "Purely commission-driven"
+    },
+    "answer": "B",
+    "explanation": "关系基于信任与沟通,且为持续性的。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "status": "draft",
+    "tags": [
+      "relationship"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s21-003",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "Good ongoing service includes:",
+    "options": {
+      "A": "Disappearing after the sale",
+      "B": "Periodic reviews, answering queries and adjusting as needs change",
+      "C": "Refusing to meet again",
+      "D": "Ignoring the client’s changes in circumstances"
+    },
+    "answer": "B",
+    "explanation": "持续服务含检视、答疑、按需调整。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "status": "draft",
+    "tags": [
+      "service"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

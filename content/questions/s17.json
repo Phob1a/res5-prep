@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s17-001",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "“Churning” refers to:",
+    "options": {
+      "A": "Reviewing a portfolio annually",
+      "B": "Excessive transactions generated mainly to earn commission",
+      "C": "Diversifying investments",
+      "D": "Long-term holding"
+    },
+    "answer": "B",
+    "explanation": "churning=为赚佣金而过度频繁交易。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "status": "draft",
+    "tags": [
+      "churning"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s17-002",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "“Twisting” in insurance sales means:",
+    "options": {
+      "A": "Explaining a policy clearly",
+      "B": "Inducing a client to replace a policy to their detriment, for commission",
+      "C": "Reducing premiums for the client",
+      "D": "Comparing products fairly"
+    },
+    "answer": "B",
+    "explanation": "twisting=诱导换单、损客户利益以赚佣金。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "status": "draft",
+    "tags": [
+      "twisting"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s17-003",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "Misrepresenting a product’s features to close a sale is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Unethical and likely a breach",
+      "C": "Required",
+      "D": "Fine if the client is happy"
+    },
+    "answer": "B",
+    "explanation": "虚假陈述产品特征属不道德且可能违规。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "status": "draft",
+    "tags": [
+      "misrepresentation"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

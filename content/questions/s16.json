@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s16-001",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Keeping a client’s personal and financial information confidential is:",
+    "options": {
+      "A": "Optional",
+      "B": "A core element of ethical behavior",
+      "C": "Only required for VIP clients",
+      "D": "Unnecessary"
+    },
+    "answer": "B",
+    "explanation": "保密是道德行为的核心要素。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "status": "draft",
+    "tags": [
+      "confidentiality"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s16-002",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Objectivity in recommendations means:",
+    "options": {
+      "A": "Recommending whatever pays most",
+      "B": "Advice free from undue influence, bias or conflicts",
+      "C": "Following the client blindly",
+      "D": "Ignoring the client’s needs"
+    },
+    "answer": "B",
+    "explanation": "客观=建议不受不当影响/偏见/冲突左右。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "status": "draft",
+    "tags": [
+      "objectivity"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s16-003",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Ethical behavior requires putting:",
+    "options": {
+      "A": "Personal gain ahead of the client",
+      "B": "The client’s interest ahead of personal gain",
+      "C": "The firm’s sales contest first",
+      "D": "Nobody’s interest first"
+    },
+    "answer": "B",
+    "explanation": "道德要求客户利益优先于个人利益。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "status": "draft",
+    "tags": [
+      "client-first"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

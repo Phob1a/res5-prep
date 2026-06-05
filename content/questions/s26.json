@@ -1,0 +1,46 @@
+[
+  {
+    "id": "q-s26-001",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "Periodic portfolio reviews are important because:",
+    "options": {
+      "A": "Nothing ever changes",
+      "B": "Client circumstances, goals and markets change over time",
+      "C": "They generate commission only",
+      "D": "MAS forbids them"
+    },
+    "answer": "B",
+    "explanation": "客户情况、目标与市场会随时间变化,故需定期检视。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
+    "status": "draft",
+    "tags": [
+      "review"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s26-002",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "After conducting a review, the representative should:",
+    "options": {
+      "A": "Keep no records",
+      "B": "Document the review findings and any recommended adjustments",
+      "C": "Hide changes from the client",
+      "D": "Never adjust the plan"
+    },
+    "answer": "B",
+    "explanation": "检视后须记录结论与调整建议,保持可追溯。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
+    "status": "draft",
+    "tags": [
+      "documentation"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

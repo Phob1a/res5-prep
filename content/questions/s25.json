@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s25-001",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "When presenting recommendations, a representative should:",
+    "options": {
+      "A": "Emphasise returns and omit risks",
+      "B": "Clearly disclose assumptions, risks and fees",
+      "C": "Use jargon to impress",
+      "D": "Rush the client"
+    },
+    "answer": "B",
+    "explanation": "呈现须清晰披露假设、风险与费用。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "status": "draft",
+    "tags": [
+      "disclosure"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s25-002",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "Before the client decides, the representative should ensure that:",
+    "options": {
+      "A": "The client is confused",
+      "B": "The client understands the recommendation and its implications",
+      "C": "The paperwork is hidden",
+      "D": "The decision is made for the client"
+    },
+    "answer": "B",
+    "explanation": "决定前须确保客户理解建议及其影响。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "status": "draft",
+    "tags": [
+      "understanding"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s25-003",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "The final decision to proceed should be made by:",
+    "options": {
+      "A": "The representative under pressure tactics",
+      "B": "The client, freely and informed",
+      "C": "The client’s neighbour",
+      "D": "MAS"
+    },
+    "answer": "B",
+    "explanation": "最终决定由客户在知情、无压力下自主作出。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "status": "draft",
+    "tags": [
+      "client-decision"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

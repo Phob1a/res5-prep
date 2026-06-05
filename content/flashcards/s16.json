@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s16-001",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "道德四要素",
+    "point": "诚实、公平、客观、保密。",
+    "keyfacts": [
+      "信息妥善保护"
+    ],
+    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s16-002",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "客户优先",
+    "point": "个人利益与客户冲突时,客户利益为先。",
+    "keyfacts": [
+      "冲突避免/披露管理"
+    ],
+    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s24-001",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "适当性",
+    "point": "方案匹配需求、风险承受、负担能力与时间。",
+    "keyfacts": [
+      "不推不适合高佣品"
+    ],
+    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s24-002",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "优先级与依据",
+    "point": "先保障应急后积累;推荐有合理基础、能解释为何适合。",
+    "keyfacts": [
+      "挂钩分析"
+    ],
+    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

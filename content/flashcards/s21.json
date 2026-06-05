@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s21-001",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "关系基石",
+    "point": "信任 + 清晰沟通;开场厘清 scope/收费/责任。",
+    "keyfacts": [
+      "管理客户期望"
+    ],
+    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s21-002",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "持续服务",
+    "point": "关系含售后检视/答疑/调整,非一次性销售。",
+    "keyfacts": [
+      "随需求变化调整"
+    ],
+    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s23-001",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "Analysing a client’s cash flow and net worth helps to:",
+    "options": {
+      "A": "Hide shortfalls",
+      "B": "Identify surpluses, shortfalls and the client’s capacity",
+      "C": "Avoid planning",
+      "D": "Increase commission only"
+    },
+    "answer": "B",
+    "explanation": "析现金流/净值以识别盈余、缺口与承受能力。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "status": "draft",
+    "tags": [
+      "analysis"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s23-002",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "A “protection gap” is:",
+    "options": {
+      "A": "Excess insurance",
+      "B": "The shortfall between protection needs and existing coverage",
+      "C": "A type of fund",
+      "D": "A CPF account"
+    },
+    "answer": "B",
+    "explanation": "保障缺口=需求与现有保障之间的差额。",
+    "difficulty": "medium",
+    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "status": "draft",
+    "tags": [
+      "protection-gap"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s23-003",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "Financial analysis should be evaluated against:",
+    "options": {
+      "A": "The adviser’s targets",
+      "B": "The client’s goals and risk profile",
+      "C": "Random benchmarks",
+      "D": "Nothing"
+    },
+    "answer": "B",
+    "explanation": "分析须对照客户目标与风险承受。",
+    "difficulty": "easy",
+    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "status": "draft",
+    "tags": [
+      "goals"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

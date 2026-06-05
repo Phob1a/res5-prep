@@ -1,0 +1,32 @@
+[
+  {
+    "id": "note-s17-overview",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "title": "不道德行为 (Unethical Behavior)",
+    "summary": "常见不道德行为:虚假陈述/误导、churning(频繁交易刷佣)、twisting(诱导换单损客户利益)、隐瞒重要信息、推荐不适合产品、挪用客户资金;后果含纪律处分与失去信任。",
+    "sections": [
+      {
+        "heading": "典型表现",
+        "body": "churning(为赚佣金诱导客户频繁交易)、twisting(诱导客户退保换新单而损其利益)、误导/夸大、隐瞒风险费用、推荐明显不适合的产品。"
+      },
+      {
+        "heading": "更严重情形",
+        "body": "挪用/混用客户资金、伪造文件、冒签,属严重违规甚至犯罪。"
+      },
+      {
+        "heading": "后果",
+        "body": "客户受损、声誉受损、纪律处分(罚款/禁业/撤牌)乃至刑责。"
+      }
+    ],
+    "keyPoints": [
+      "churning=刷佣频繁交易",
+      "twisting=损客户换单",
+      "隐瞒/误导/不适合推荐",
+      "挪用资金属严重违规"
+    ],
+    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q-s11-001",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "A collective investment scheme (CIS) is best described as:",
+    "options": {
+      "A": "A single-stock account",
+      "B": "Pooled investors’ money managed collectively toward a stated objective",
+      "C": "A bank fixed deposit",
+      "D": "A personal insurance policy"
+    },
+    "answer": "B",
+    "explanation": "CIS=汇集多名投资者资金、按目标统一管理。",
+    "difficulty": "easy",
+    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "status": "draft",
+    "tags": [
+      "cis"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s11-002",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Before a CIS is offered to retail investors in Singapore, it generally must be:",
+    "options": {
+      "A": "Kept secret",
+      "B": "Authorised/recognised with a registered prospectus disclosing objective, risks and fees",
+      "C": "Sold without any documentation",
+      "D": "Guaranteed by MAS"
+    },
+    "answer": "B",
+    "explanation": "零售发售须获授权/认可并注册招股书披露关键信息。",
+    "difficulty": "medium",
+    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "status": "draft",
+    "tags": [
+      "cis",
+      "prospectus"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

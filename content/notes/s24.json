@@ -1,0 +1,32 @@
+[
+  {
+    "id": "note-s24-overview",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "title": "制定适当的策略与方案",
+    "summary": "方案须针对已识别的需求,适合客户风险承受与负担能力;一般先满足保障与应急,再做积累;推荐要有与分析挂钩的合理基础。",
+    "sections": [
+      {
+        "heading": "适当性",
+        "body": "方案匹配客户需求、风险承受、负担能力与时间;不可一刀切或推销高佣不适合产品。"
+      },
+      {
+        "heading": "优先级",
+        "body": "通常先解决保障(人身/重疾/收入)与应急储备,再追求财富积累与增值。"
+      },
+      {
+        "heading": "合理基础",
+        "body": "推荐须基于前述事实收集与分析,能向客户解释\"为何适合\"。"
+      }
+    ],
+    "keyPoints": [
+      "方案匹配需求/风险/负担",
+      "先保障应急后积累",
+      "推荐有合理基础",
+      "能解释为何适合"
+    ],
+    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "fc-s11-001",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "CIS 本质",
+    "point": "汇集众多投资者资金,由管理人按目标统一投资。",
+    "keyfacts": [
+      "如单位信托/基金"
+    ],
+    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s11-002",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "CIS 授权",
+    "point": "零售发售须授权/认可 + 注册招股书;但 MAS 授权/注册≠背书或回报保证。",
+    "keyfacts": [
+      "设投资限制分散风险",
+      "非\"稳赚不赔\""
+    ],
+    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

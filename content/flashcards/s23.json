@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s23-001",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "分析维度",
+    "point": "现金流、净值、现有保障/投资、风险与目标匹配。",
+    "keyfacts": [
+      "识别盈余/缺口"
+    ],
+    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s23-002",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "保障缺口",
+    "point": "保障缺口=需求 − 现有保障;储蓄缺口同理。",
+    "keyfacts": [
+      "作为方案依据"
+    ],
+    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

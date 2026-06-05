@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc-s26-001",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "何时检视",
+    "point": "定期及客户/市场重大变化时检视组合。",
+    "keyfacts": [
+      "核对目标/风险"
+    ],
+    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "fc-s26-002",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "检视产出",
+    "point": "必要时再平衡;记录结论与调整建议。",
+    "keyfacts": [
+      "保持可追溯"
+    ],
+    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

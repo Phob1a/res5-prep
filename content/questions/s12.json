@@ -1,0 +1,68 @@
+[
+  {
+    "id": "q-s12-001",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Under the SFA, trading while in possession of information that is not generally available and, if it were, would have a material effect on the price or value of the securities, is:",
+    "options": {
+      "A": "Smart investing",
+      "B": "Insider trading, which is prohibited",
+      "C": "Allowed for representatives",
+      "D": "Required by MAS"
+    },
+    "answer": "B",
+    "explanation": "SFA 口径:持有\"未普遍公开且若公开将对价格/价值有重大影响\"的信息交易=内幕交易,被禁止。",
+    "difficulty": "easy",
+    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "status": "draft",
+    "tags": [
+      "insider"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s12-002",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Creating a false or misleading appearance of active trading in a security is:",
+    "options": {
+      "A": "Market manipulation, which is prohibited",
+      "B": "A normal practice",
+      "C": "Allowed if profitable",
+      "D": "Encouraged"
+    },
+    "answer": "A",
+    "explanation": "制造活跃交易的虚假表象=市场操纵,被禁止。",
+    "difficulty": "medium",
+    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "status": "draft",
+    "tags": [
+      "manipulation"
+    ],
+    "updatedAt": "2026-06-05"
+  },
+  {
+    "id": "q-s12-003",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Spreading false rumours intended to move a security’s price is:",
+    "options": {
+      "A": "Fine if anonymous",
+      "B": "Prohibited as dissemination of false/misleading information",
+      "C": "Allowed",
+      "D": "Only a civil matter with no rules"
+    },
+    "answer": "B",
+    "explanation": "散布影响价格的虚假信息被禁止。",
+    "difficulty": "medium",
+    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "status": "draft",
+    "tags": [
+      "false-info"
+    ],
+    "updatedAt": "2026-06-05"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "note-s21-overview",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "title": "建立客户—代表关系",
+    "summary": "良好关系建立在信任、清晰沟通与明确期望之上;开场即厘清服务范围(scope)、收费与双方责任,并提供持续服务,而非一锤子买卖。",
+    "sections": [
+      {
+        "heading": "建立信任",
+        "body": "以诚信、专业、保密赢得信任;清晰沟通、倾听客户目标与顾虑。"
+      },
+      {
+        "heading": "明确范围与期望",
+        "body": "一开始厘清服务范围、收费方式、双方责任与时间安排,管理客户期望避免误解。"
+      },
+      {
+        "heading": "持续关系",
+        "body": "关系含售后持续服务(检视、答疑、调整),非仅完成一次销售。"
+      }
+    ],
+    "keyPoints": [
+      "信任 + 清晰沟通",
+      "开场厘清 scope/收费/责任",
+      "管理期望",
+      "提供持续服务"
+    ],
+    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]

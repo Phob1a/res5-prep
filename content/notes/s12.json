@@ -1,0 +1,32 @@
+[
+  {
+    "id": "note-s12-overview",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "title": "证券交易 — 市场操守",
+    "summary": "SFA 市场操守条款禁止内幕交易、虚假交易与市场操纵、传播虚假/误导信息;代表不得参与,违者负民事/刑事责任。",
+    "sections": [
+      {
+        "heading": "内幕交易",
+        "body": "持有\"尚未普遍公开、且若公开将对证券价格/价值有重大影响\"的信息(SFA 口径:not generally available + material effect on price)买卖证券,或泄露给他人交易,属违法。"
+      },
+      {
+        "heading": "虚假交易与操纵",
+        "body": "制造证券活跃交易/价格的虚假或误导表象(如对敲、拉抬),属市场操纵,被禁止。"
+      },
+      {
+        "heading": "虚假/误导信息",
+        "body": "散布可能影响证券价格的虚假或误导性陈述/谣言,属违法。"
+      }
+    ],
+    "keyPoints": [
+      "禁内幕交易(SFA:未普遍公开且对价格有重大影响的信息)",
+      "禁虚假交易/市场操纵",
+      "禁散布虚假误导信息",
+      "违者负民事/刑事责任"
+    ],
+    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "status": "draft",
+    "updatedAt": "2026-06-05"
+  }
+]
