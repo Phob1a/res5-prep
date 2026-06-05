@@ -1,0 +1,152 @@
+/* RES5 备考 · 三套视觉方向 (token sets + 结构/性格) */
+
+/* 共享 easing + ring fix */
+:root { --ease: cubic-bezier(.4, 0, .2, 1); }
+.ring { position: relative; }
+
+/* ============================================================
+   方向一 · 「册 · LEDGER」 暖纸学术 / 考卷感
+   ============================================================ */
+[data-theme="ledger"] {
+  --bg: #f4f0e7; --bg2: #fffdf8; --bg3: #ece5d7; --bg-head: #fffdf8; --bg-nav: #fffdf8; --bg-cardback: #fbf7ee;
+  --fg: #262019; --fg2: #5b5246; --fg3: #94897a;
+  --line: #e4ddcd; --line2: #cfc5b1;
+  --accent: #335074; --accent-hi: #3e618b; --accent-fg: #fffdf8; --accent-ink: #335074;
+  --accent-soft: rgba(51,80,116,.08); --accent-glow: none;
+  --good: #4a7c52; --good-fg: #fffdf8; --good-ink: #3a6342; --good-soft: rgba(74,124,82,.1); --good-line: rgba(74,124,82,.32);
+  --bad: #ad4631; --bad-fg: #fffdf8; --bad-ink: #8f3826; --bad-soft: rgba(173,70,49,.09); --bad-line: rgba(173,70,49,.3);
+  --warn: #a9762a; --warn-ink: #7e591f; --warn-soft: rgba(169,118,42,.1); --warn-line: rgba(169,118,42,.3);
+
+  --radius: 4px; --radius-lg: 6px; --pill: 4px; --btn-radius: 3px; --opt-radius: 4px; --key-radius: 3px; --mark-radius: 4px;
+  --shadow: none; --shadow-lg: 0 10px 36px rgba(60,46,20,.07);
+
+  --font-display: "Spectral", Georgia, serif;
+  --font-body: "Public Sans", -apple-system, system-ui, sans-serif;
+  --font-meta: "Public Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-num: "Spectral", Georgia, serif;
+
+  --ls-tight: -0.01em; --ls-title: 0; --ls-label: 0.13em; --ls-nav: 0.04em; --ls-btn: 0.04em;
+  --tt-title: none; --tt-label: uppercase; --tt-nav: none; --tt-btn: none;
+  --title-size: 27px; --title-weight: 700; --stem-size: 17px;
+
+  --content-max: 840px; --view-pad: 30px 28px 60px; --card-pad: 22px;
+  --pbar-h: 7px; --meter-cols: 40px minmax(0,1fr) 1.4fr 56px;
+}
+[data-theme="ledger"] .app { grid-template-areas: "head" "nav" "main"; grid-template-rows: auto auto 1fr; }
+[data-theme="ledger"] .topbar { border-bottom: 1.5px solid var(--accent); }
+[data-theme="ledger"] .nav { justify-content: center; gap: 4px; padding: 0 20px; border-bottom: 1px solid var(--line); background: var(--bg-nav); flex-wrap: wrap; }
+[data-theme="ledger"] .nav-item { --nav-item-bg: transparent; background: transparent; border: none; border-bottom: 2px solid transparent; border-radius: 0; padding: 13px 14px; margin-bottom: -1px; }
+[data-theme="ledger"] .nav-item:hover { background: transparent; color: var(--fg); }
+[data-theme="ledger"] .nav-item.is-active { background: transparent; color: var(--accent); border-bottom-color: var(--accent); }
+[data-theme="ledger"] .nav-label { font-size: 13.5px; font-weight: 600; }
+[data-theme="ledger"] .nav-ico { display: none; }
+[data-theme="ledger"] .page-title { font-style: normal; }
+[data-theme="ledger"] .brand-mark { font-family: var(--font-display); border-radius: 3px; }
+
+/* ============================================================
+   方向二 · 「终端 · TERMINAL」 暗色技术 / 沉静座舱
+   ============================================================ */
+[data-theme="terminal"] {
+  --bg: #0e141b; --bg2: #151e29; --bg3: #1d2835; --bg-head: #0a1016; --bg-nav: #0a1016; --bg-cardback: #18222e;
+  --fg: #c7d4e0; --fg2: #8799aa; --fg3: #5c6e7e;
+  --line: #233241; --line2: #324658;
+  --accent: #41b3bf; --accent-hi: #5fcfd9; --accent-fg: #05161a; --accent-ink: #6fd6df;
+  --accent-soft: rgba(65,179,191,.12); --accent-glow: 0 0 16px rgba(65,179,191,.22);
+  --good: #3ec98a; --good-fg: #04140d; --good-ink: #5fdda1; --good-soft: rgba(62,201,138,.12); --good-line: rgba(62,201,138,.34);
+  --bad: #ef6b58; --bad-fg: #1a0703; --bad-ink: #ff8b7a; --bad-soft: rgba(239,107,88,.12); --bad-line: rgba(239,107,88,.34);
+  --warn: #e0a64a; --warn-ink: #f0bd6e; --warn-soft: rgba(224,166,74,.12); --warn-line: rgba(224,166,74,.32);
+
+  --radius: 6px; --radius-lg: 8px; --pill: 5px; --btn-radius: 5px; --opt-radius: 6px; --key-radius: 4px; --mark-radius: 5px;
+  --shadow: 0 1px 2px rgba(0,0,0,.35); --shadow-lg: 0 16px 44px rgba(0,0,0,.4);
+
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", -apple-system, system-ui, sans-serif;
+  --font-meta: "JetBrains Mono", ui-monospace, monospace;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --font-num: "Space Grotesk", system-ui, sans-serif;
+
+  --ls-tight: 0.01em; --ls-title: 0.03em; --ls-label: 0.16em; --ls-nav: 0.12em; --ls-btn: 0.12em;
+  --tt-title: uppercase; --tt-label: uppercase; --tt-nav: uppercase; --tt-btn: uppercase;
+  --title-size: 22px; --title-weight: 700; --stem-size: 16px;
+
+  --content-max: 900px; --view-pad: 28px 30px 60px; --card-pad: 20px;
+  --pbar-h: 6px; --meter-cols: 40px minmax(0,1fr) 1.4fr 52px;
+}
+[data-theme="terminal"] .app { grid-template-areas: "head head" "nav main"; grid-template-columns: 234px 1fr; grid-template-rows: auto 1fr; }
+[data-theme="terminal"] .nav { flex-direction: column; gap: 3px; padding: 16px 12px; border-right: 1px solid var(--line); align-content: flex-start; }
+[data-theme="terminal"] .nav-item { width: 100%; --nav-item-bg: transparent; background: transparent; border: 1px solid transparent; border-radius: var(--radius); padding: 10px 12px; }
+[data-theme="terminal"] .nav-item:hover { background: var(--bg2); }
+[data-theme="terminal"] .nav-item.is-active { background: var(--accent-soft); color: var(--accent-ink); border-color: var(--accent-soft); box-shadow: inset 2px 0 0 var(--accent); }
+[data-theme="terminal"] .nav-label { font-size: 11.5px; font-weight: 500; }
+[data-theme="terminal"] .nav-sect { font-family: var(--font-meta); font-size: 9.5px; letter-spacing: .18em; text-transform: uppercase; color: var(--fg3); padding: 14px 12px 6px; }
+[data-theme="terminal"] body { background-image: radial-gradient(circle at 1px 1px, rgba(65,179,191,.05) 1px, transparent 1.4px); background-size: 26px 26px; }
+[data-theme="terminal"] .brand-name { letter-spacing: .04em; }
+
+/* ============================================================
+   方向三 · 「闯关 · DRILL」 明亮亲和 / 游戏化
+   ============================================================ */
+[data-theme="drill"] {
+  --bg: #f3f4fb; --bg2: #ffffff; --bg3: #eef0f9; --bg-head: #ffffff; --bg-nav: #ffffff; --bg-cardback: #f1f0fc;
+  --fg: #1c2236; --fg2: #5a6182; --fg3: #969ebd;
+  --line: #e8eaf5; --line2: #d6dbef;
+  --accent: #5b54e6; --accent-hi: #4942d6; --accent-fg: #ffffff; --accent-ink: #4f47d6;
+  --accent-soft: rgba(91,84,230,.09); --accent-glow: 0 6px 16px rgba(91,84,230,.26);
+  --good: #16a06a; --good-fg: #ffffff; --good-ink: #0c7a4f; --good-soft: rgba(22,160,106,.1); --good-line: rgba(22,160,106,.3);
+  --bad: #e5484d; --bad-fg: #ffffff; --bad-ink: #c0282d; --bad-soft: rgba(229,72,77,.09); --bad-line: rgba(229,72,77,.28);
+  --warn: #e08a17; --warn-ink: #b16800; --warn-soft: rgba(224,138,23,.11); --warn-line: rgba(224,138,23,.3);
+
+  --radius: 14px; --radius-lg: 22px; --pill: 999px; --btn-radius: 12px; --opt-radius: 14px; --key-radius: 10px; --mark-radius: 12px;
+  --shadow: 0 2px 5px rgba(40,40,90,.05); --shadow-lg: 0 16px 44px rgba(40,40,90,.13);
+
+  --font-display: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-body: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-meta: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-num: "Plus Jakarta Sans", system-ui, sans-serif;
+
+  --ls-tight: -0.02em; --ls-title: -0.02em; --ls-label: 0.06em; --ls-nav: 0; --ls-btn: 0;
+  --tt-title: none; --tt-label: uppercase; --tt-nav: none; --tt-btn: none;
+  --title-size: 27px; --title-weight: 800; --stem-size: 17px;
+
+  --content-max: 820px; --view-pad: 28px 30px 100px; --card-pad: 22px;
+  --pbar-h: 10px; --meter-cols: 40px minmax(0,1fr) 1.4fr 52px;
+}
+[data-theme="drill"] .app { grid-template-areas: "head head" "nav main"; grid-template-columns: 112px 1fr; grid-template-rows: auto 1fr; }
+[data-theme="drill"] .topbar { box-shadow: 0 1px 0 var(--line); border-bottom: none; }
+[data-theme="drill"] .nav { flex-direction: column; gap: 6px; padding: 16px 12px; align-content: flex-start; }
+[data-theme="drill"] .nav-item { width: 100%; flex-direction: column; gap: 6px; --nav-item-bg: transparent; background: transparent; border: none; border-radius: var(--radius); padding: 12px 6px; }
+[data-theme="drill"] .nav-item:hover { background: var(--bg3); }
+[data-theme="drill"] .nav-item.is-active { background: var(--accent-soft); color: var(--accent-ink); }
+[data-theme="drill"] .nav-item.is-active .nav-ico { stroke: var(--accent); }
+[data-theme="drill"] .nav-ico { width: 22px; height: 22px; }
+[data-theme="drill"] .nav-label { font-size: 11px; font-weight: 700; }
+[data-theme="drill"] .nav-code { display: none; }
+[data-theme="drill"] .brand-mark { box-shadow: var(--accent-glow); }
+[data-theme="drill"] .card { box-shadow: var(--shadow); }
+
+/* ——— Responsive: terminal & drill collapse nav ——— */
+@media (max-width: 860px) {
+  [data-theme="terminal"] .app { grid-template-areas: "head" "nav" "main"; grid-template-columns: 1fr; grid-template-rows: auto auto 1fr; }
+  [data-theme="terminal"] .nav { flex-direction: row; overflow-x: auto; border-right: none; border-bottom: 1px solid var(--line); padding: 8px 10px; gap: 4px; }
+  [data-theme="terminal"] .nav-item { width: auto; flex: none; }
+  [data-theme="terminal"] .nav-item.is-active { box-shadow: inset 0 -2px 0 var(--accent); }
+  [data-theme="terminal"] .nav-sect { display: none; }
+}
+@media (max-width: 760px) {
+  [data-theme="drill"] .app { grid-template-areas: "head" "main"; grid-template-columns: 1fr; grid-template-rows: auto 1fr; }
+  [data-theme="drill"] .nav {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 40; flex-direction: row;
+    justify-content: space-around; border-top: 1px solid var(--line); padding: 8px 6px 10px;
+    background: var(--bg-nav); box-shadow: 0 -4px 20px rgba(40,40,90,.06);
+  }
+  [data-theme="drill"] .nav-item { flex: 1; padding: 6px 2px; }
+  [data-theme="drill"] .nav-label { font-size: 10px; }
+}
+@media (max-width: 560px) {
+  .topbar { padding: 0 14px; min-height: 54px; }
+  .topbar-meta .stat-chip.hide-sm { display: none; }
+  [data-theme] { --title-size: 22px; --view-pad: 20px 16px 90px; --card-pad: 18px; }
+  [data-theme="ledger"] .nav-item { padding: 11px 9px; }
+  [data-theme="ledger"] .nav-label { font-size: 12px; }
+}
