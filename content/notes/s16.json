@@ -3,33 +3,92 @@
     "id": "note-s16-overview",
     "part": 2,
     "syllabusItemId": "s16",
-    "title": "道德行为 / Ethical Behavior",
-    "summary": "道德行为=诚实、公平、客观、保密,把客户利益置于个人之前;两难时以公平与客户利益、给出适当结果来决策。 / Ethical behavior means honesty, fairness, objectivity and confidentiality, putting the client’s interest before personal gain and deciding by fairness and a fair, suitable outcome for the client.",
+    "title": "道德行为与七大原则 / Ethical Behavior and the Seven Principles",
+    "summary": "本章讲解金融服务业的道德守则与行为准则,介绍 LIA 与 IMAS 守则,并系统阐述七大道德原则——诚信、客观、胜任、公平、保密、专业与勤勉——以及道德行为带来的商业利益。 / This chapter covers codes of ethics and standards in the financial services industry, the LIA and IMAS codes, and the seven principles of ethical behavior — integrity, objectivity, competence, fairness, confidentiality, professionalism and diligence — together with the business benefits of acting ethically.",
     "sections": [
       {
-        "heading": "核心要素",
-        "body": "诚实(不欺瞒)、公平(一视同仁)、客观(不受不当影响)、保密(妥善保护客户信息)。"
+        "heading": "守则的作用与 LIA / IMAS",
+        "body": "专业协会或行业协会的道德守则用以规范并指引成员的行为及其在各自领域的业务操守。LIA(新加坡人寿保险协会)的核心价值包括:团结于以创新方案满足每个人需求、专业、道德(以最大诚信管理保单持有人利益)、公平(兼顾保单持有人与股东)、公开诚实、主动。IMAS(新加坡投资管理协会)守则要求成员以诚信与专业行事并以合乎道德的方式对待公众、客户、雇主、雇员、监管者与同业;以胜任能力行事并不断保持与提升;以应有的勤勉与专业判断审慎经营业务。"
       },
       {
-        "heading": "Core elements",
-        "body": "Honesty, fairness, objectivity (free from undue influence) and confidentiality (protect client information)."
+        "heading": "Codes and the LIA / IMAS",
+        "body": "Codes of ethics of professional or industry associations govern and guide members' behavior and business conduct in their areas of work. The LIA core values include being unified in delivering innovative solutions, professional, ethical (managing policy owners' interests with utmost integrity), fair to both policy owners and shareholders, open & honest, and proactive. The IMAS code requires members to conduct themselves with integrity and professionalism in all dealings with the public, clients, employers, employees, regulators and fellow members; to act with competence and strive to maintain and improve it; and to exercise due diligence and professional judgment with proper care."
       },
       {
-        "heading": "客户优先",
-        "body": "个人利益与客户冲突时,以客户利益为先;冲突避免或披露并管理。"
+        "heading": "诚信原则",
+        "body": "\"integrity\"源自数学整数(integer)概念,意为完整、整全、未受减损的状态。诚信即言行一致——说到做到。对财务顾问代表而言,诚信不仅是诚实或讲真话,更意味着负责、公平、公正并具道德勇气,且无论情境如何都以同一套道德原则行事。个人道德与商业道德不应分割:对客户与对前台/柜台职员应一视同仁。教材以 Peter 疏于年度检视为例,说明言行不符即构成潜在诚信问题,虽不致诉讼,却损害其专业品牌。"
       },
       {
-        "heading": "Client first",
-        "body": "Where personal and client interests conflict, the client comes first; avoid or disclose and manage conflicts."
+        "heading": "Principle of integrity",
+        "body": "'Integrity' comes from the mathematical concept of an integer (whole numbers): the state of being whole, entire and undiminished. Integrity means doing what one says one will do. For a financial adviser representative it is more than honesty — it means being accountable, fair, impartial and having moral courage, conducting oneself by the same principles regardless of the situation. Personal and business ethics should not be separated; one should treat a client the same way one treats a receptionist or counter staff. The text's Peter example (neglecting an annual review) shows that a mismatch between words and actions is a potential integrity issue that, while not leading to a lawsuit, damages one's professional brand."
+      },
+      {
+        "heading": "客观原则:认知偏差与利益冲突",
+        "body": "客观性要求顾问感知、考量与陈述事实时不受个人情感、利益、意见或偏见扭曲;它之所以重要,是因为客户信任顾问给出符合其最佳利益的建议与产品。客观性的两大障碍是(a)认知偏差与(b)利益冲突。认知偏差是信息的语境与框架影响个人判断与决策的系统性模式,最常见的是\"确认偏差\"(只寻找并解读支持既有假设的信息)。利益冲突指两人目标不同/不相容、且顾问可从自身决策中获取个人利益的情境,会诱使其做出违背客户利益之事。纯粹客观虽是不可达的理想,但顾问应意识到障碍、尽力克服,并养成质疑信息的习惯。"
+      },
+      {
+        "heading": "Principle of objectivity: cognitive bias and conflict of interest",
+        "body": "Objectivity requires representing facts undistorted by personal feelings, interests, opinions or prejudices, and matters because clients trust advisers to act in their best interest. The two main obstacles are (a) cognitive bias and (b) conflict of interest. Cognitive bias is a systematic way in which the context and framing of information shape judgment and decision-making — the most common being 'confirmation bias' (seeking and interpreting information that supports an existing assumption). A conflict of interest is a situation where the aims of two persons are incompatible and one can derive personal gain from one's own decisions, tempting action contrary to clients' interests. Pure objectivity is an unachievable ideal, but representatives should be aware of the obstacles, overcome them where possible, and cultivate a questioning habit."
+      },
+      {
+        "heading": "胜任原则",
+        "body": "胜任指顾问通过持续教育与经验所建立并维持的专业知识水平。监管要求顾问就相关培训完成规定的持续专业发展(CPD)时数,以拓宽/深化产品知识;此外还应提升包括道德技能在内的软技能。该原则要求顾问只在其胜任与专长范围内提供建议或销售产品——例如人寿保险代理不应就双币投资产品、衍生品等其不具资格的产品提供建议——并须有道德勇气坦承所不懂,拒绝在其知识与专长范围之外行事。教材以 Andy 未经培训即涉足遗产规划为例,说明此举违反胜任原则,应先提升能力再为客户提供建议。"
+      },
+      {
+        "heading": "Principle of competence",
+        "body": "Competence is the level of expert knowledge a representative develops and maintains through continuing education and experience. Regulation requires a prescribed number of continuing professional development (CPD) hours on relevant programs to widen and deepen product knowledge; representatives should also enhance soft skills including ethical skills. The principle demands that representatives give advice or sell products only within their sphere of competence — for instance a life insurance agent should not advise on dual-currency or derivatives products he is not qualified for — and have the moral courage to admit what they do not know and refuse to act outside their expertise. The Andy example (untrained estate planning) shows this breach: he should upgrade his competency first."
+      },
+      {
+        "heading": "公平原则:平等、黄金法则、各得其所",
+        "body": "公平指不偏私、不歧视的公正对待,围绕三个概念:(a)平等——对\"相似之事以相似方式\"处理,这不意味人人完全一样,而是差别对待须有正当理由(如需求复杂、需额外资源者收费较高合理,按种族或宗教差别收费则引发道德问题);(b)黄金法则——\"己所欲,施于人\",并厘清对利益相关者(stakeholders)的义务,认识到尊重利益相关者尤其客户的利益符合自身利益;传统利益相关者含股东、服务提供者、雇员、代理与代表、供应商、社区、监管者与政府;(c)各得其所——在不同利益相关者的竞争性主张间取得平衡,给予每个人应得之物。"
+      },
+      {
+        "heading": "Principle of fairness: equality, Golden Rule, giving what is due",
+        "body": "Fairness is impartial and just treatment without favoritism or discrimination, built on three concepts: (a) equality — treating 'like things in like ways', which does not mean treating everyone identically but requires differences in treatment to be justified by good reasons (charging more for complex needs is fine; charging by race or religion is not); (b) the Golden Rule — 'do unto others as you would have them do unto you', clarifying obligations to stakeholders and recognizing it is in one's self-interest to respect their interests; the traditional stakeholders are shareholders, service providers, employees, agents/representatives, suppliers, the community, and regulators/government; and (c) giving each person what is due to him, balancing the competing claims of different stakeholders."
+      },
+      {
+        "heading": "保密原则与 PDPA",
+        "body": "保密是将信息严格保密或保守秘密的行为或品质。客户向顾问提供个人、家庭、财务状况等敏感信息;顾问负有保护客户信息的法律与道德义务(如同医生律师),须知悉、理解并遵守《2012 年个人数据保护法》(PDPA)及其历次修订。PDPA 下的个人数据指可从该数据识别个人身份的数据(无论真假)。违反 PDPA:个人可处最高 S$5,000 罚款及/或最高两年监禁,或二者并处;公司经定罪可处 S$1,000,000 罚款,或其在新加坡年总营业额的 10%,以较高者为准。此外还会带来声誉损害,并可能触发银行保密法等下的民事或刑事制裁。顾问不得滥用客户信息谋取私利(如出售给第三方营销)。"
+      },
+      {
+        "heading": "Principle of confidentiality and the PDPA",
+        "body": "Confidentiality is the quality of keeping information in strict privacy. Clients give representatives sensitive personal, family and financial information; representatives have a legal and ethical duty (like doctors and lawyers) to keep it private and must understand and comply with the Personal Data Protection Act 2012 (PDPA) and its amendments. Personal data under the PDPA is data, whether true or not, about an individual who can be identified from it. For a PDPA breach an individual is liable to a fine of up to S$5,000 and/or imprisonment up to two years, or both; a company on conviction is liable to a fine of S$1 million, or 10% of its gross annual turnover in Singapore, whichever is greater. Breaches also cause reputational damage and may attract civil or criminal sanctions under laws including banking secrecy laws. Representatives must not misuse client information for personal benefit, e.g. selling it to third parties."
+      },
+      {
+        "heading": "专业原则",
+        "body": "专业原则有两项要求:第一,以尊重与体谅对待所有人,不把人当作达成目的的\"纯粹手段\"(mere means)——若仅视客户为佣金或费用收入来源、不关心其利益,即违反此点;第二,以为行业带来信任与尊严的方式行事,始终保持最高的端正(propriety)与正直(probity)。金融服务业依赖公众信心与信任而繁荣,顾问不应稀释、损害或破坏公众对行业交付适当建议或合适产品的信任。教材以 John 回避客户对产品特性被削减/保费上调的提问、转而谈信用评级为例,说明此为违反专业原则。"
+      },
+      {
+        "heading": "Principle of professionalism",
+        "body": "Professionalism has two requirements: first, to treat all persons with respect and consideration, not as 'mere means' to an end — a representative who treats clients merely as a source of commission or fee income, not caring about their interests, breaches this; second, to act in a way that brings trust and dignity to the profession, always with utmost propriety and probity. The industry depends on public confidence and trust, so representatives must not dilute, compromise or undermine that trust. The John example (dodging a question about a reduced feature and higher premium by praising the insurer's credit rating) illustrates a breach."
+      },
+      {
+        "heading": "勤勉原则",
+        "body": "勤勉原则含三项要素:(1)以合理迅速且周全的方式提供服务,在合理适当的时间内履行承诺、约定与义务,否则会令客户失望并损害信任;(2)以\"应有的审慎\"(due care)提供服务,即考量所有情况并施以合理预期的判断与谨慎,\"painstaking\"(殚精竭虑)般细致入微地行事;(3)确保支持人员也以专业方式行事,若其前台处理或后端跟进草率,会抵消已建立的信任。该原则还要求顾问就支持服务设定切合实际的期望——\"不要过度承诺、交付不足\"。过度承诺是廉价便捷却不专业的做法,可能构成误导或虚假陈述,招致民事诉讼或监管处罚。教材以 Mary 未及时跟进信托提名、致保单收益落入债权人之手为例。"
+      },
+      {
+        "heading": "Principle of diligence",
+        "body": "Diligence has three components: (1) providing services in a reasonably prompt and thorough manner, fulfilling promises, commitments and obligations within a reasonable time frame — failure disappoints clients and undermines trust; (2) providing services with 'due care', taking all circumstances into account and exercising the judgment reasonably expected, undertaking duties in a 'painstaking', meticulous manner; and (3) ensuring support staff also conduct themselves professionally, since careless front-end or back-end work undoes established trust. It also requires setting realistic expectations about support — 'do not over-promise and under-deliver'. Over-promising is a cheap, convenient but unprofessional way to satisfy demands and may amount to misleading or false statements attracting civil actions or regulatory sanctions. The Mary example (failing to follow up on a trust nomination, so proceeds went to creditors) illustrates the breach."
+      },
+      {
+        "heading": "道德行为的益处",
+        "body": "\"好的道德就是好生意\"(good ethics is good business)。金融服务业建立在信任之上:产品无形,客户无法像房屋汽车那样\"享用\"或\"展示\"风险保障,也难以自行评估建议或产品的适当性,故信任尤为重要。道德行为的益处包括建立客户忠诚、提升声誉、留住优秀员工、营造正向工作环境与避免法律问题。服务现有客户在广告营销等方面比开发新客户成本更低;良好声誉可经口碑与社媒带来新客户(转介),反之不道德名声会\"如野火般\"迅速传播,带来业务损失并引来监管关注与民刑事处罚。基于强道德标准的信任文化,对行业与经济的繁荣未来至关重要。结论提醒:即使面临销售压力或走捷径的诱惑,也必须远离诱惑,哪怕意味着失去一笔交易。"
+      },
+      {
+        "heading": "Benefits of ethical behavior",
+        "body": "'Good ethics is good business.' The industry is based on trust because products are intangible — clients cannot enjoy or display 'financial security' as they would a house or car — and cannot confidently assess the suitability of advice or products themselves, so if they could they might not need advice at all. The benefits of ethical behavior include building client loyalty, enhancing reputation, retaining good employees, creating a positive work environment and avoiding legal problems. Serving existing clients is less costly than prospecting; a good reputation brings referrals through word of mouth and social media, while an unethical reputation spreads 'like wildfire' causing loss of business, regulatory attention and civil/criminal penalties. A culture of trust on strong ethical standards is imperative to a bright future for the industry and economy. The conclusion reminds representatives to walk away from temptation under sales pressure even if it means losing a sale."
       }
     ],
     "keyPoints": [
-      "诚实/公平/客观/保密 / Honesty/fairness/objectivity/confidentiality",
-      "客户利益优先于个人 / Client interest before personal gain",
-      "冲突避免或披露管理 / Avoid or disclose/manage conflicts"
+      "七大原则:诚信、客观、胜任、公平、保密、专业、勤勉 / Seven principles: integrity, objectivity, competence, fairness, confidentiality, professionalism, diligence",
+      "客观的两大障碍=认知偏差(确认偏差)与利益冲突 / Two obstacles to objectivity = cognitive bias (confirmation bias) and conflict of interest",
+      "公平三概念=平等、黄金法则、各得其所 / Fairness = equality, the Golden Rule, giving what is due",
+      "PDPA 罚则:个人≤S$5,000 及/或≤2 年监禁;公司 S$100 万或年营业额 10%(取较高) / PDPA: individual ≤ S$5,000 and/or ≤ 2 yrs jail; company S$1m or 10% of annual turnover, whichever greater",
+      "勤勉三要素:及时周全、应有审慎、监督支持人员;勿过度承诺 / Diligence = promptness, due care, supervising support staff; do not over-promise",
+      "道德益处:客户忠诚、声誉、留才、正向环境、避免法律问题(好道德=好生意) / Benefits: loyalty, reputation, retention, positive environment, avoiding legal problems (good ethics is good business)"
     ],
-    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Ethical Behavior",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

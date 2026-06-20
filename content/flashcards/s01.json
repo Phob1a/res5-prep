@@ -4,27 +4,169 @@
     "part": 1,
     "syllabusItemId": "s01",
     "topicGroup": "rules",
-    "title": "持牌 vs 代表 / Licence vs representative",
-    "point": "牌照发给 FA 实体;个人是经 RNF 登记的委任代表。 / The FA entity is licensed; individuals are appointed representatives registered via RNF.",
+    "title": "FAA 生效日与合并 / FAA commencement and consolidation",
+    "point": "FAA 2001 于 2002-10-01 生效,合并证券业法、期货交易法、保险中介法三套制度。 / The FAA 2001 came into force on 1 Oct 2002, consolidating the Securities Industry Act, Futures Trading Act and Insurance Intermediaries Act.",
     "keyfacts": [
-      "个人不单独持牌 / Individuals not separately licensed"
+      "单一立法,跨渠道一致 / Single legislation, consistent across channels"
     ],
-    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.1.2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s01-002",
     "part": 1,
     "syllabusItemId": "s01",
     "topicGroup": "rules",
-    "title": "Fit & Proper",
-    "point": "代表须符合诚信、能力、财务稳健标准。 / Representatives must meet integrity, competence and financial-soundness standards.",
+    "title": "四大原则 / Four principles",
+    "point": "客户利益、一致性、问责(一个主事人)、独立性。 / Customers' interest, consistency, accountability (one principal) and independence.",
     "keyfacts": [
-      "展业前须登记 / Register before practising"
+      "问责=代表只代理一个主事人 / Accountability = one-principal rule",
+      "独立性见 FAR Reg 21 / Independence under FAR Reg 21"
     ],
-    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.3",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-003",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "财务顾问=公司 / 'Financial adviser' = corporation",
+    "point": "第 2(1) 条的'财务顾问'指经营财务咨询业务的法人(公司),非个人;个人是其代表。 / Under s2(1) a 'financial adviser' is a corporation, not an individual; individuals are its representatives.",
+    "keyfacts": [
+      "第 6(1) 条:须持牌或获豁免 / s6(1): must be licensed or exempt"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.4.5–4.6, s.6(1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-004",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "豁免财务顾问 / Exempt financial advisers",
+    "point": "第 20(1) 条豁免银行、商人银行、持牌保险公司/合作社、CMS 牌照持有人及获豁免财务公司等。 / Section 20(1) exempts banks, merchant banks, licensed insurers/co-operatives, CMS-licence holders and certain finance companies.",
+    "keyfacts": [
+      "豁免≠不受规管 / Exempt does not mean unregulated"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.4.7 / s.20(1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-005",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "排除产品 / Excluded products",
+    "point": "一般保险保单、吸收存款产品、贷款与按揭不属投资产品。 / General insurance policies, deposit-taking products, and loans/mortgages are not investment products.",
+    "keyfacts": [
+      "结构性存款自 2005-12-02 起属投资产品 / Structured deposits = investment products from 2 Dec 2005"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.4.11–4.13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-006",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "使用'独立' / Use of 'independent'",
+    "point": "FA 须无产品偏向佣金、无产品限制、无利益冲突,方可自称'independent'(FAR 第 21 条)。 / An FA may call itself 'independent' only with no product-bias commission, no product restriction and no conflict of interest (Reg 21).",
+    "keyfacts": [
+      "违反构成犯罪 / Contravention is an offence"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA/FAR Reg 21, FAA-G05",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-007",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "RNF 推出 / Launch of RNF",
+    "point": "MAS 于 2010-11-26 推出代表通知框架;代表不再单独持牌,主事人提交意向通知与 fit & proper 证明。 / The MAS launched the RNF on 26 Nov 2010; representatives are no longer separately licensed and the principal lodges a notice of intent and fit-and-proper certification.",
+    "keyfacts": [
+      "公开登记册依第 73 条设立 / Public Register established under s73"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.9.1–9.2, s.73",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-008",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "一个主事人规则 / One-principal rule",
+    "point": "第 27(1) 条:除非 MAS 书面批准,代表不得同时代理多于一个主事人;相关法团除外。 / Under s27(1), unless MAS approves in writing, a representative may not represent more than one principal at a time; related corporations excepted.",
+    "keyfacts": [
+      "违反:罚款≤S$25,000 或≤12 个月监禁 / Breach: fine ≤ S$25,000 or ≤ 12 months' jail"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.27(1), s.10.7",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-009",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "委任 vs 临时代表 / Appointed vs provisional",
+    "point": "委任代表已满足入门+考试要求(FAA-N13);临时代表满足入门但未通过考试,有三个月宽限期。 / Appointed reps meet entry plus exam requirements (FAA-N13); provisional reps meet entry but not exams, with a 3-month grace period.",
+    "keyfacts": [
+      "临时机制便利海外资深人士迁居 / Provisional scheme eases relocation of overseas professionals",
+      "宽限期不超过 3 个月 / Grace period up to 3 months"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.10.9–10.10, s.23, s.24",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-010",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "记录保存与变更通报 / Retention and change notification",
+    "point": "主事人将证明所依据的资料保存五年;代表资料变更须在 14 日内以 Form 18 通报 MAS。 / The principal keeps supporting documents for five years; changes in a representative's particulars must be notified within 14 days on Form 18.",
+    "keyfacts": [
+      "停止代理:下一个营业日内通报 / Cessation: notify by next business day"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAR Reg 4A(3), s.14.7, Reg 12A",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-011",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "虚假陈述罚则 / Penalty for false statements",
+    "point": "第 32(1) 条:通报中作虚假/误导陈述或遗漏重大事项,可处罚款不超过 S$50,000。 / Under s32(1), a false/misleading statement or omission of a material matter in a notification carries a fine up to S$50,000.",
+    "keyfacts": [
+      "第 32(4) 提供合理查询免责辩护 / s32(4) gives a reasonable-inquiry defence"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.32",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s01-012",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "title": "上诉 / Appeals",
+    "point": "对 MAS 第 30(1) 拒绝录入或撤销/暂停不服者,可在 30 日内向部长上诉,部长决定为最终。 / A person aggrieved by a s30(1) refusal or revocation/suspension may appeal to the Minister within 30 days; the decision is final.",
+    "keyfacts": [
+      "上诉对象是部长,非 MAS / Appeal lies to the Minister, not MAS"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.33",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

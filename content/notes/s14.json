@@ -3,33 +3,101 @@
     "id": "note-s14-overview",
     "part": 2,
     "syllabusItemId": "s14",
-    "title": "为何职业道德重要 / Why Ethics Matter",
-    "summary": "信息不对称大、客户高度信任,道德维护公众信心、保护客户利益,且高于\"仅合规\"。 / Given information asymmetry and the trust clients place in advisers, ethics protects public confidence and clients’ interests — and goes beyond mere compliance.",
+    "title": "为何职业道德重要 / Why Professional Ethics Matter",
+    "summary": "职业道德是专业人士对待客户、同业与公众的行为准则,核心是即使可能失去生意也要做对的事。道德高于合规——合规是“法律的字面”最低线,道德则体现“法律的精神”。 / Professional ethics is a code of conduct toward clients, peers and the public — doing the right thing even at the cost of business. Ethics sits above compliance: compliance is the bare “letter of the law”, ethics reflects its “spirit”.",
     "sections": [
       {
-        "heading": "为何重要",
-        "body": "客户依赖顾问做重大财务决定;不当行为损害客户、声誉与行业信任。道德是维系信任的根本。"
+        "heading": "什么是职业道德",
+        "body": "“ethics”源自希腊语“ethos”。亚里士多德认为有德之人即拥有美德习惯之人(诚实、正义、荣誉、好脾气),且美德可通过教育、训练与实践习得。道德关乎社会判断人之行为对错的标准,且始终带有主观性。职业道德则是专业人士对待客户、同业及公众的一套行为准则或道德原则,要求即使可能因此失去生意,也要做对的事。"
       },
       {
-        "heading": "Why it matters",
-        "body": "Clients rely on advisers for major decisions; misconduct harms clients, reputation and trust. Ethics underpins that trust."
+        "heading": "What professional ethics is",
+        "body": "“Ethics” comes from the Greek “ethos”. Aristotle held that the ethical person is one with virtuous habits (truthfulness, justice, honour, good temper), and that virtue can be learned through education, training and practice. Ethics concerns the standards by which a society judges behaviour right or wrong, and is always subjective. Professional ethics is a code of conduct toward clients, fellow professionals and the public — doing the right thing even when it may cost the FA representative the business."
       },
       {
-        "heading": "道德 vs 合规",
-        "body": "合规是法律最低线;道德要求在法律之外仍以客户利益为重、给出公平适当的结果。合法未必合德。"
+        "heading": "顾问角色是一种特权",
+        "body": "财务顾问代表能向陌生人(准客户或客户)索取敏感财务信息,这是不容轻视的特权——我们连对挚友家人都未必透露这些信息。因此从道德上必须分析信息、推荐让客户处境优于从前的产品。专业人士的定义正是“运用专业知识与技能使客户处境优于从前的人”;若行为仅为促成销售,即已违背专业应有的道德准则。"
       },
       {
-        "heading": "Ethics vs compliance",
-        "body": "Compliance is the legal minimum; ethics requires acting in the client’s interest and delivering fair, suitable outcomes beyond the law. Lawful is not always ethical."
+        "heading": "The adviser's role is a privilege",
+        "body": "An FA representative may ask a stranger (prospect or client) for sensitive financial information — a privilege not to be taken lightly, since we rarely share such information even with friends or family. Ethically the adviser must analyse the information and recommend products that leave the client better off than before. A professional is one who uses technical knowledge and skill to place a client in a better position; acting solely to make the sale fails that ethical code."
+      },
+      {
+        "heading": "道德既是学问也是技能",
+        "body": "作为学问,道德是哲学分支,探讨“何谓好人/好行为”“我们对他人、机构与环境负有什么”“当对他人与对自身的义务冲突时应如何取舍、谁优先”三个问题。道德原则与其应用之间存在差距——道德感知失败与认知偏差会削弱我们正确运用原则的能力。实践中的道德称为“应用伦理(applied ethics)”,即培养并运用道德决策能力得出正确结果。公司层面亦须设有对待客户、代表与公众的行为准则。"
+      },
+      {
+        "heading": "Ethics as both study and skill",
+        "body": "As a field of study, ethics asks: what makes a person or action ‘good’; what we owe others, institutions and the environment; and how to resolve conflicting obligations and which takes priority. A gap exists between moral principles and their application — failures of moral perception and cognitive biases impair our ability to apply the right principles. Ethics in practice is ‘applied ethics’: developing moral decision-making competency to reach right outcomes. Companies too must hold a code of conduct toward clients, representatives and the public."
+      },
+      {
+        "heading": "道德不等于合规",
+        "body": "合规是满足既定法律、规则与规定的行为;对公司而言是确保公司及全体员工与代表遵守法律法规的过程。合规的动机是逃避制裁——警告、训诫、禁止令、罚款、吊销执照乃至刑事监禁;其核心是“被抓的恐惧”所带来的强制性。道德要求更多:个人会出于道德信念超越法律所规定的,因为他相信那才是对的事。道德反映“法律的精神/意图”,合规仅是“法律的字面”。"
+      },
+      {
+        "heading": "Ethics is not compliance",
+        "body": "Compliance is meeting a given set of laws, rules and regulations; for a firm it is the process of ensuring all employees and representatives follow them. Its motivation is to avoid sanctions — warnings, reprimands, prohibition orders, financial penalties, licence revocation or criminal proceedings with imprisonment — driven by fear of being caught (the element of compulsion). Ethics requires more: the individual goes beyond what the law prescribes because he believes it is right. Ethics reflects the ‘spirit/intention of the law’; compliance is merely the ‘letter of the law’."
+      },
+      {
+        "heading": "合德≠合规:两类情境与 CPD 例子",
+        "body": "合规却不道德:Adam 借培训课暗中挖角他社代表,未透明告知,未违反任何合规规则却高度不道德。道德却不合规:Mary 想另设私人公司就财务规划服务向客户收费(而非产品销售),却因违反法规被公司驳回。再如 CPD:某代表报名一天 CPD 课却在后排玩手机/电脑,签退即取得 CPD 学时——法律上技术上确已合规,但道德上他并未做对的事(答案多半为否)。两案不代表当事人品格低劣,有时出发点是好的,执行中却无意触及道德与合规。"
+      },
+      {
+        "heading": "Lawful≠ethical: two cases and the CPD example",
+        "body": "Compliant but unethical: Adam uses a training course to covertly recruit rival advisers without transparency — no compliance rule breached, yet highly unethical. Ethical but non-compliant: Mary wants to set up a private company to bill clients for financial-planning consultancy (not product sales) but the firm rejects it as non-compliant. CPD example: a representative who signs up but plays games at the back and merely signs out has technically/legally complied in earning CPD hours, but ethically has not done the right thing (likely ‘no’). These cases do not mean the representatives are of lesser character — sometimes good intentions unintentionally touch on both ethical and compliance matters."
+      },
+      {
+        "heading": "为何道德对金融业尤为重要",
+        "body": "金融服务业在新加坡占 GDP 逾 15%,逾 15,000 家金融机构每日流转数十亿资金;产品多为无形(保险、投连、资本市场产品),客户无从像看汽车房产般评估,只能依赖代表给出适当建议。信任是成功业务关系的根本,信任缺失会招致更多政府监管。公众对行业信心受损(Bear Stearns、Lehman、AIG、全球可疑资金转移约 US$2 万亿(1999–2017))。巴菲特名言:“建立声誉需二十年,毁掉只需五分钟”。社交媒体使坏建议、卖不当产品、不当转保或无理拒赔等不当行为瞬间全球传播。隐瞒道德问题后果严重:失客、声誉受损、民/刑罚乃至监禁。"
+      },
+      {
+        "heading": "Why ethics matters in financial services",
+        "body": "In Singapore the sector exceeds 15% of GDP, with over 15,000 financial institutions moving billions daily; products are intangible (insurance, ILPs, capital-markets), so customers cannot assess them like cars or apartments and must rely on the representative for suitable advice. Trust underpins successful business relationships; a lack of ethical conduct invites more government regulation. Public confidence is under threat (Bear Stearns, Lehman, AIG; ~US$2 trillion in ‘dubious money transfers’ 1999–2017). As attributed to Warren Buffett: ‘It takes twenty years to build a reputation and five minutes to destroy it.’ Social media spreads misconduct — bad advice, unsuitable products, unnecessary switching, unreasonable claim repudiation — almost instantly. Sweeping ethics under the carpet risks loss of clients, reputational damage, and civil/criminal penalties including imprisonment."
+      },
+      {
+        "heading": "MAS、信任与执法",
+        "body": "时任 MAS 董事总经理 Ravi Menon 在 2015-01-23“构建金融业信任文化”演讲中强调,基于强健道德标准重建信任文化攸关行业未来;金融产品复杂、信息不对称常使机构占优,机构对客户的义务不仅是合约义务更是道德义务,董事会与高管须“把文化做对”。MAS 加强执法:18 个月内(至当年 6 月)取得 9 项刑事定罪与 1,170 万元民事罚款;细分为 9 项刑事罪行、25 项禁止令、23 项训诫、76 封劝告信、124 项警告、3 项吊照、282 项监管提醒、1,170 万民事罚款、340 万元罚款与和解金。执法主管 Peggy Pao 强调严查重罚以阻吓不当行为、保护消费者、维护投资信心。启示:机构与员工应自律守德,如此或可减少更严苛的监管。"
+      },
+      {
+        "heading": "MAS, trust and enforcement",
+        "body": "Ravi Menon (then MAS Managing Director), in his 23 Jan 2015 address ‘Building a Culture of Trust in the Financial Industry’, stressed that restoring a trust culture on strong ethical standards is imperative; financial products are complex and information asymmetries favour institutions, whose obligations are moral as well as contractual, so boards and senior management must ‘get the culture right’. MAS stepped up enforcement: in 18 months it secured 9 criminal convictions and $11.7m in civil penalties — comprising 9 criminal offences, 25 prohibition orders, 23 reprimands, 76 letters of advice, 124 warnings, 3 licence revocations, 282 supervisory reminders, $11.7m civil penalties, and $3.4m in financial penalties/compositions. Peggy Pao stressed rigorous investigation and tough enforcement to deter misconduct, protect consumers and maintain confidence. The takeaway: institutions and staff should self-regulate ethically, reducing the need for stricter supervision."
+      },
+      {
+        "heading": "信任方程式(Charles H. Green)",
+        "body": "建立信任的一个框架是 Green 的信任方程式:Trust = (Credibility + Reliability + Intimacy) / Self-Interest。Credibility 指代表的专业技术知识;Reliability 指言行一致;Intimacy 指客户向其披露敏感信息时的安全感。若代表绝对以自利为先,以上要素皆可被轻易摧毁。该方程式是道德两难下良好的伦理思考框架。"
+      },
+      {
+        "heading": "The trust equation (Charles H. Green)",
+        "body": "One framework for building trust is Green's equation: Trust = (Credibility + Reliability + Intimacy) / Self-Interest. Credibility is the representative's technical knowledge; Reliability is matching words with deeds; Intimacy is how safe the client feels disclosing sensitive information. All are easily destroyed if the representative puts self-interest absolutely first. The equation is a useful guide for ethical thinking, especially in dilemmas."
+      },
+      {
+        "heading": "多重动机",
+        "body": "顾问对客户的良好行为通常源于三种动机:(a)自利、(b)情感、(c)道德。自利:为佣金、收入、升迁,或因惧怕监管制裁、法律惩处与声誉受损而以客户利益为先——广义上以客户利益为先正符合自利;专业人士有自利并无不妥,但对客户的关怀义务(duty of care)必须先于自利。情感:出于关爱与友谊真心为客户着想,广义上也可视作自利。道德:接受以专业方式照顾客户最佳利益的伦理义务。三种动机往往同时存在,关键在于何者为主导;业务中应把伦理义务培养为首要驱动力。"
+      },
+      {
+        "heading": "Multiple motivations",
+        "body": "Good conduct toward clients usually results from three motivations: (a) self-interest, (b) affection, (c) moral. Self-interest: acting in the client's best interest for fees, commissions, income or promotion, and for fear of sanctions, legal punishment and reputational damage — broadly, putting the client first IS self-interest; having self-interest is not wrong, but the duty of care to the client must come first. Affection: genuinely caring out of friendship (also a broad form of self-interest). Moral: accepting an ethical obligation to look out for the client's best interest. All three are usually in play; the question is which drives — and the ethical obligation should be cultivated as the primary driving force."
+      },
+      {
+        "heading": "合理化、同侪压力、金钱诱因与结论",
+        "body": "合理化(rationalisation)很微妙却危害极大:2011 年一名代表向其忠实超高净值客户兜售数份假保单,侵吞 620 万元保费——她自我合理化、说服自己无人会发现;挪用客户资金偿还私债亦属此类。同侪压力:代表多按销量或保费计酬,压力巨大,尤以每年初重设销售目标时为甚。金钱诱因:达标奖励可能成为难以抗拒的诱惑而诱发不当行为。结论:道德是黏合专业人士、公司与客户的胶水,易言难行;有时会因疏忽而无意陷入不道德处境。应时刻提醒自己恪守道德准则,先尽对客户的关怀义务,再收获自利之果。"
+      },
+      {
+        "heading": "Rationalisation, peer pressure, monetary incentives and conclusion",
+        "body": "Rationalisation is subtle but very damaging: in 2011 a representative sold fake policies to loyal ultra-HNW clients and pocketed $6.2m in premiums, convincing herself no one would find out; using clients' money to settle personal debts is similar. Peer pressure: as representatives are paid largely on sales volume/premiums, pressure is intense, especially when annual targets reset. Monetary incentives: target-based rewards can be a hard-to-resist temptation leading to misconduct. Conclusion: ethics is the glue binding professionals, companies and clients — easy to state, hard to implement amid temptation, and one can slip into unethical conduct unintentionally through complacency. Always uphold the ethical code and exercise the duty of care to clients first, before reaping the fruits of self-interest."
       }
     ],
     "keyPoints": [
-      "以客户利益为重、公平对待 / Put the client’s interest first; deal fairly",
-      "道德高于最低合规 / Ethics is higher than minimum compliance",
-      "合法未必合德 / Lawful ≠ ethical"
+      "道德高于合规:合规=法律字面/最低线,道德=法律精神 / Ethics > compliance: letter vs spirit of the law",
+      "向陌生人索取敏感财务信息是一种特权,须使客户处境优于从前 / Asking a stranger for sensitive data is a privilege; leave the client better off",
+      "合法未必合德(Adam/Mary/CPD 三例) / Lawful ≠ ethical (Adam, Mary, CPD examples)",
+      "信任方程式:Trust=(Credibility+Reliability+Intimacy)/Self-Interest / Green's trust equation",
+      "三种动机:自利、情感、道德;对客户的关怀义务须先于自利 / Three motivations; duty of care first",
+      "其他动机:合理化、同侪压力、金钱诱因 / Rationalisation, peer pressure, monetary incentives",
+      "金融业占新加坡 GDP 逾15%;MAS 18个月内 9 项刑事定罪、$11.7m 民事罚款 / Sector >15% GDP; MAS 9 convictions, $11.7m"
     ],
-    "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 — Why Professional Ethics Matter (SCI, Version 1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

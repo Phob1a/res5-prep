@@ -3,33 +3,108 @@
     "id": "note-s12-overview",
     "part": 1,
     "syllabusItemId": "s12",
-    "title": "证券交易 — 市场操守 / Market Conduct (SFA)",
-    "summary": "SFA 禁止内幕交易、虚假交易与市场操纵、散布虚假/误导信息;代表不得参与,违者负民事/刑事责任。 / The SFA prohibits insider trading, false trading and market manipulation, and dissemination of false/misleading information; representatives must not engage, on pain of civil/criminal liability.",
+    "title": "证券交易 — 市场操守 / Securities Dealing — Market Conduct",
+    "summary": "本章覆盖 SFA 项下的禁止市场操守:虚假交易与操纵市场、市场操纵、虚假/误导性陈述、欺诈诱使交易、操纵性与欺骗性手段、传播非法交易信息、内幕交易,以及证券兜售、对客户与雇主的责任和其他交易规则(卖空、做空标记、净空仓报告、指定产品借贷)。 / This chapter covers prohibited market conduct under the SFA — false trading and market rigging, market manipulation, false or misleading statements, fraudulent inducement, manipulative and deceptive devices, dissemination of information about illegal transactions and insider trading — plus securities hawking, duties to clients and employers, and other trading rules (short selling, marking sell orders, short position reporting, specified products borrowing and lending).",
     "sections": [
       {
-        "heading": "内幕交易",
-        "body": "持有\"未普遍公开且若公开将对价格/价值有重大影响\"的信息买卖证券,或泄露给他人交易,属违法。"
+        "heading": "市场操守的适用范围(SFA 第 196 条)",
+        "body": "资本市场所有参与者均须遵守高标准的道德操守。规则适用于在新加坡发生、涉及任何资本市场产品(无论是否在新加坡境内外上市或报价)的行为;若在新加坡构成不当行为,即使交易在境外进行亦视为不当行为。规则同样适用于境外发生、涉及在新加坡有组织市场上市或报价的资本市场产品的行为,即具有域外效力。给予某些客户超越公众的不公平优势被严格禁止。违者面临罚款及/或监禁。"
       },
       {
-        "heading": "Insider trading",
-        "body": "Trading while holding information not generally available that, if available, would have a material effect on price/value — or passing it on — is unlawful."
+        "heading": "Scope of market conduct (SFA s196)",
+        "body": "A high standard of ethical conduct is expected from all capital-market participants. The rules apply to acts occurring in Singapore in respect of any capital markets products whether listed or quoted in or outside Singapore; an act deemed misconduct in Singapore is misconduct even if the transaction takes place abroad. They also reach acts occurring outside Singapore in respect of products listed or quoted on an organised market in Singapore — i.e. extraterritorial reach. Practices giving certain customers an unfair advantage over the public are strictly prohibited. Offenders face fines and/or imprisonment."
       },
       {
-        "heading": "操纵与虚假信息",
-        "body": "制造活跃交易/价格的虚假表象(操纵),或散布影响价格的虚假/误导信息,均被禁止。"
+        "heading": "虚假交易与操纵市场(SFA 第 197 条)",
+        "body": "虚假交易与操纵市场指以人为手段影响证券价格或在没有真实基础下制造波动。虚假交易包括:制造或意图制造活跃交易的表象;在不改变实益所有权的情况下买卖资本市场产品以维持、改变或导致市价波动;鲁莽地做出可能制造虚假或误导性交易/价格表象的行为;制造意图给出虚假误导性表象的交易。常见手法是『洗售』(wash sale,无实益所有权变更的买卖,第 197(5) 条)与第 197(3)(a)–(c) 条明文禁止的『对敲』(matching orders)。"
       },
       {
-        "heading": "Manipulation & false info",
-        "body": "Creating a false appearance of active trading/price (manipulation), or spreading false/misleading price-sensitive information, are prohibited."
+        "heading": "False trading and market rigging (SFA s197)",
+        "body": "These use artificial means to influence the price of securities or create volatility with no real basis. False trading includes creating (or intending to create) an appearance of active trading; buying and selling without a change in beneficial ownership to maintain/change/cause price fluctuations; recklessly doing anything likely to create a false or misleading appearance of active trading or price; and creating transactions intended to give a false and misleading appearance of the market or price. The common devices are the 'wash sale' (no change in beneficial ownership — s197(5)) and 'matching orders' expressly prohibited under s197(3)(a)–(c)."
+      },
+      {
+        "heading": "证券市场操纵(SFA 第 198 条)",
+        "body": "市场操纵指故意干预供求自由力量以欺骗或诈骗投资者,或达到其他不正当目的。SFA 第 198(1) 条禁止任何人直接或间接对某法团的证券或证券类衍生合约进行两笔或以上交易,而这些交易具有在有组织市场抬高、压低、维持或稳定该等产品价格的效果,且意图诱使他人交易。"
+      },
+      {
+        "heading": "Securities market manipulation (SFA s198)",
+        "body": "Market manipulation is the intentional interference with the free forces of supply and demand to deceive or defraud investors or achieve some ulterior purpose. SFA s198(1) prohibits any person from directly or indirectly effecting two or more transactions in securities or securities-based derivatives contracts of a corporation where the transactions have the effect of raising, lowering, maintaining or stabilising the price on an organised market, with intent to induce others to deal."
+      },
+      {
+        "heading": "虚假/误导性陈述与欺诈诱使(SFA 第 199、200 条)",
+        "body": "第 199 条禁止散布在重大方面虚假或误导性的信息或陈述,凡可能诱使他人认购/买卖证券、证券类衍生合约或 CIS 单位,或抬高/压低/维持/稳定其市价,而散布者不在乎真伪、或明知或理应知道其虚假误导。形式包括通讯刊物、研究报告、电子手段、媒体或口头。第 200(1) 条规定,以下列方式诱使或企图诱使他人交易资本市场产品即属犯罪:(a) 明知或理应知道而做出误导/虚假/欺骗性的陈述、承诺或预测;(b) 不诚实地隐瞒重大事实;(c) 鲁莽做出误导/虚假/欺骗性陈述等;(d) 记录或储存其明知在重大方面虚假误导的信息。"
+      },
+      {
+        "heading": "False/misleading statements and fraudulent inducement (SFA s199, s200)",
+        "body": "Section 199 prohibits disseminating information or statements false or misleading in a material particular that is likely to induce subscription or sale/purchase of securities, securities-based derivatives or CIS units, or to raise/lower/maintain/stabilise their price — where the disseminator does not care whether it is true or false, or knew or ought reasonably to have known it false. Channels include newsletters, research papers, electronic means, the media or word of mouth. Section 200(1) makes it an offence to induce or attempt to induce another to deal by (a) knowingly making/publishing a statement, promise or forecast known or that ought to be known to be misleading/false/deceptive; (b) dishonest concealment of material facts; (c) reckless making/publishing of such statements; or (d) recording/storing information he knows is false or misleading in a material particular."
+      },
+      {
+        "heading": "操纵性与欺骗性手段;传播非法交易信息(SFA 第 201、202 条)",
+        "body": "第 201 条禁止任何人在认购、买卖任何资本市场产品时直接或间接:(a) 使用任何欺诈手段、计谋或诡计;(b) 从事对任何人构成欺诈或欺骗的行为或营业;(c) 做出其明知在重大方面虚假的陈述;或 (d) 遗漏使陈述不致误导所必需的重大事实。第 202 条禁止散布关于某证券价格将因『非法交易』而升/跌/维持的信息;『非法交易』指违反前述虚假交易、操纵、虚假误导陈述、欺诈诱使或操纵欺骗手段等条文的交易。该人或其关联人若(a)已订立或意图订立该非法交易,或(b)已或预期因散布该信息而直接或间接获得对价或利益,即属犯罪。"
+      },
+      {
+        "heading": "Manipulative devices; dissemination of illegal-transaction info (SFA s201, s202)",
+        "body": "Section 201 makes it an offence, in connection with subscription/sale/purchase of any capital markets product, to directly or indirectly (a) employ any device, scheme or artifice to defraud; (b) engage in any act, practice or course of business operating as a fraud or deception on any person; (c) make a statement known to be false in a material particular; or (d) omit a material fact necessary to make statements not misleading. Section 202 prohibits circulating/disseminating information that the price of securities will, or is likely to, rise/fall/be maintained as a result of an 'illegal transaction' (a transaction contravening the false-trading, manipulation, false-statement, fraudulent-inducement or deceptive-device provisions). The person is guilty if he or an associate (a) entered or purports to enter the illegal transaction, or (b) received or expects to receive consideration or benefit for the dissemination."
+      },
+      {
+        "heading": "内幕交易 — 内幕信息与定义(SFA 第 215、216、218、219 条)",
+        "body": "内幕信息指尚未普遍可得、若被知悉将可能对证券/证券类衍生合约/CIS 单位的价格或价值产生重大影响的信息(『重大效果』见第 216 条:可能影响惯常投资者的买卖决定)。信息『普遍可得』(第 215 条)指:由可观察事项构成;或已以可让惯常投资者注意的方式公开且经过合理传播期;或由以上推断得出。内幕交易即利用此类特权机密信息进行交易,造成不公平市场。持有内幕信息者不得交易该等产品,亦不得向他人传递该信息;其是否有意使用该信息无关紧要。"
+      },
+      {
+        "heading": "Insider trading — inside information and definition (SFA s215, s216, s218, s219)",
+        "body": "Inside information is information not generally available which, if known, would or would be likely to have a material effect on the price or value of securities, securities-based derivatives or CIS units ('material effect' under s216 = likely to influence common investors' buy/sell decisions). Information is 'generally available' (s215) if it is readily observable matter, or has been made known so as to come to common investors' attention and a reasonable period for dissemination has elapsed, or consists of deductions from such matter. Insider trading is trading on such privileged, confidential information, creating an unfair market. A person with inside information must not deal in those products nor communicate the information; whether he intended to use it is irrelevant."
+      },
+      {
+        "heading": "内幕交易 — 关联人/非关联人与例外抗辩(SFA 第 218、219、222–231 条)",
+        "body": "SFA 区分『关联人』与『非关联人』之来源,差异在于举证。关联人(第 218 条):须证明其持有非普遍可得信息;并推定(可反证)其知道该信息非普遍可得且若普遍可得会有重大效果。关联人含法团或相关法团的高管、大股东,或因专业/业务关系而可合理预期接触价格敏感信息者;高管含董事、秘书、雇员、接管人、司法管理人、清盘人等;发行人的律师、会计师、银行家、公关、估值师等第三方亦视为内幕人。非关联人(第 219 条):须证明其知道信息非普遍可得且合理人会预期其有重大效果;信息来源何处并不重要。例外与抗辩(第 222–229 条)含信托/经理赎回 CIS、承销商、依法律/法院命令的买卖或信息传递、法团/合伙的知识归属(除非有 Chinese walls)、依自身交易而知等;第 231 条提供『信息对等』(parity of information)抗辩;第 230 条为经纪自营商提供豁免(未经招揽、未提供意见、非『关联方』的代客交易)。"
+      },
+      {
+        "heading": "Insider trading — connected/non-connected persons and defences (SFA s218, s219, s222–231)",
+        "body": "The SFA distinguishes a 'connected person' from a 'non-connected person', the difference lying in prosecution. For a connected person (s218) it must be shown he possessed information not generally available, and it is presumed (rebuttably) he knew this and that, if generally available, it might have a material effect. A connected person includes an officer or substantial shareholder of the corporation or a related corporation, or one whose professional/business relationship reasonably gives access to price-sensitive information; officers include directors, secretaries, employees, receivers, judicial managers and liquidators; the issuer's lawyers, accountants, bankers, PR and valuers are also insiders. For a non-connected person (s219) it must be shown he knew the information was not generally available and that a reasonable person would expect a material effect; the source is irrelevant. Exceptions and defences (s222–229) cover CIS redemptions, underwriters, dealings/communications required by law or court order, attribution of knowledge in corporations/partnerships (unless Chinese walls apply) and own-transaction knowledge; s231 provides a 'parity of information' defence; s230 exempts broker-dealers on unsolicited, un-advised principal transactions between non-associates."
+      },
+      {
+        "heading": "证券兜售(SFA 第 309 条)",
+        "body": "证券兜售指在未经邀约的会面中要约证券、证券类衍生合约或 CIS 单位,旨在防止对零售客户施压推销(如『boiler room』、纠缠推销)。代表不得在与客户或投资者的未经邀约会面中要约或邀请认购/购买此类产品。该规定不适用于无需招股说明书的要约,例如向机构投资者或认可投资者作出的要约(第 304、305 条)。"
+      },
+      {
+        "heading": "Securities hawking (SFA s309)",
+        "body": "Securities hawking is making an offer of securities, securities-based derivatives or CIS units in an unsolicited meeting; the prohibition prevents pressure-selling to retail clients (e.g. 'boiler room' practices, badgering). Representatives may not offer or invite subscription/purchase during any unsolicited meeting. The requirement does not apply to offers that need no prospectus, such as offers to institutional investors or accredited investors (s304, s305)."
+      },
+      {
+        "heading": "资本市场诚信与对客户的责任",
+        "body": "持有重大非公开信息(如盈利、并购、资产/资产质量变动、新业务/产品/牌照、管理层变动、审计师保留意见或诉讼、破产、监管处罚、信用评级变动)的代表不得据此行事或促使他人行事;否则构成第 216 条内幕交易违规。对客户责任含:忠诚、审慎与谨慎(以客户利益优先于雇主或自身、先客后己执行交易);公平对待(自始披露政策程序、及时告知执行与变更);适当性(合理了解客户目标/财务状况/需求并定期更新,匹配风险偏好,从整体组合判断;ERA 对上市 EIP 可豁免 FAA/FAR 但须书面披露不考虑客户情况并说明理据);业绩呈报(公平、准确、完整,说明估值基础);保密(除非涉违法活动、法律要求或客户同意,否则保密,遵循『need to know』与 PDPA)。"
+      },
+      {
+        "heading": "Integrity of capital markets and duties to clients",
+        "body": "Representatives holding material non-public information (earnings, M&A, asset/asset-quality changes, new business/products/licences, management changes, qualified audit opinions or legal disputes, bankruptcies, regulatory sanctions, credit-rating changes) must not act or cause others to act on it; doing so breaches s216 on insider trading. Duties to clients include loyalty, prudence and care (client interest before the employer's or one's own; execute clients' trades before one's own); fair dealing (disclose policies from the outset; promptly inform of executions and changes); suitability (reasonable inquiry into objectives, financial situation and needs, regularly updated; match to risk appetite; judge in the context of the total portfolio — ERA on listed EIPs is exempt from FAA/FAR but requires written disclosure that suitability is not assessed plus the rationale); performance presentation (fair, accurate, complete, with valuation basis); and preservation of confidentiality (kept confidential unless the information concerns illegal activity, disclosure is required by law, or the client permits — applying 'need to know' and the PDPA)."
+      },
+      {
+        "heading": "对雇主的责任与监督责任",
+        "body": "代表须为雇主利益行事,不得剥夺其技能优势、泄露机密或损害雇主。忠诚标准涵盖雇主责任(明确行为守则与培训)、雇员责任(遵守守则、保持 fit & proper)、举报(知悉违规而保持沉默可能被视为共谋)、离职时(不招揽—未经书面许可不得带走文件;不挪用商业秘密;不滥用机密信息)。额外报酬安排:除非获各方书面同意,代表不得收受可能产生利益冲突的礼品/报酬。监督责任:代表须合理确保受其监督者遵规;MAS 将代表正当操守的责任置于 CMS 牌照持有人的董事会与高管;经 RNF 登记前 CEO 须确认代表符合 Fit & Proper 标准;监督职责下放给主管,薪酬应结合非财务 KPI。"
+      },
+      {
+        "heading": "Duties to employers and supervisory responsibility",
+        "body": "Representatives must act for their employers' benefit and not deprive them of their skills, divulge confidential information or cause harm. The loyalty standard covers employer responsibilities (clear codes and training), employee responsibilities (comply with the code, remain fit and proper), whistle-blowing (staying silent may be construed as collusion), and leaving an employer (no solicitation — no taking records without written permission; no misappropriation of trade secrets; no misuse of confidential information). Additional compensation: a representative must not accept gifts/compensation creating a conflict of interest without written consent from all parties. Supervisory responsibility: representatives must reasonably ensure those under them comply; the MAS places responsibility for proper market conduct on the board and senior management of a CMS-licence holder; before RNF registration the CEO must affirm the representative meets the Fit and Proper criteria; supervision is delegated, with remuneration assessed against non-financial KPIs too."
+      },
+      {
+        "heading": "其他市场操守规则 — 卖空、做空标记、净空仓报告、指定产品借贷",
+        "body": "卖空(SFA 第 VIIA 部分)指卖方在出售时不拥有指定资本市场产品,分『有保障』(covered,已借入或已安排交付)与『无保障』(uncovered/naked)。CDP 对未能交付者执行『buying-in』,向卖方收取购买成本及额外罚金。做空标记(第 137ZJ 条):做空卖单者须在下单前或下单时向核准交易所披露其做空意图及相关数量/成交量/价值;SGX-ST 规则禁止交易会员在客户未表明是否为做空卖单或未提供相关信息时录入卖单;不足量时须拆单并标记做空部分。净空仓报告(第 137ZK 条):当某人净空仓越过 MAS 规定门槛时,须(直接或通过他人)向 MAS 报告身份与业务、空仓信息及其变动。指定产品借贷(SFR(LCB) 第 45 条):向非认可/专家/机构投资者的所有人借入时须提供不低于借入产品市值 100% 的抵押品;出借时须取得借方不低于 100% 市值的抵押品;须书面记录并每日按市值计价;若对手为认可/专家/机构投资者则抵押要求不适用,但仍须依第 45(7)(b) 条书面记录。"
+      },
+      {
+        "heading": "Other market conduct rules — short selling, marking, position reporting, SBL",
+        "body": "Short selling (SFA Part VIIA) is the sale of specified capital markets products the seller does not own at sale; it may be 'covered' (borrowed or arranged for delivery) or 'uncovered'/naked. The CDP performs 'buying-in' against non-delivery, charging the purchase cost plus a penalty to the seller. Marking sell orders (s137ZJ): a short-sell-order maker must, before or at the time of the order, disclose to the approved exchange its short-sell intention and the quantity/volume/value; SGX-ST Rules bar a Trading Member from entering a sell order if the customer has not indicated whether it is a short sell or normal order; orders must be split and the short portion marked. Reporting of short position (s137ZK): where a person's net short position crosses the MAS-prescribed threshold, he must report his (and any intermediary's) identity and business, the short position, and any change. Specified products borrowing and lending (SFR(LCB) Reg 45): when borrowing from a non-AI/EI/II owner the CMS-licence holder must provide collateral of at least 100% of the products' market value; when lending it must obtain at least 100% collateral; arrangements must be documented in writing and marked-to-market daily; the collateral requirement does not apply where the counterparty is an accredited, expert or institutional investor, though a written agreement under Reg 45(7)(b) is still required."
       }
     ],
     "keyPoints": [
-      "禁内幕交易(未普遍公开+若公开会对价格/价值有重大影响) / No insider trading (not generally available + material effect on price/value)",
-      "禁虚假交易/操纵 / No false trading/manipulation",
-      "禁散布虚假误导信息 / No false/misleading information"
+      "SFA 七类禁止操守:虚假交易/操纵、市场操纵、虚假误导陈述、欺诈诱使、操纵欺骗手段、传播非法交易信息、内幕交易 / Seven prohibited conducts under the SFA",
+      "市场操守规则具域外效力(第 196 条) / Market conduct rules have extraterritorial reach (s196)",
+      "洗售=无实益所有权变更;对敲见第 197(3)(a)–(c) / Wash sale = no change in beneficial ownership; matching orders under s197(3)(a)–(c)",
+      "内幕交易区分关联人(第 218 条)与非关联人(第 219 条),举证不同 / Insider trading distinguishes connected (s218) vs non-connected (s219) persons",
+      "证券兜售=未经邀约会面要约,机构/认可投资者除外(第 309、304、305 条) / Securities hawking — unsolicited offers, II/AI excepted",
+      "指定产品借贷抵押须达市值 100%(SFR(LCB) 第 45 条) / SBL collateral must be 100% of market value (Reg 45)"
     ],
-    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — Securities Dealing: Market Conduct (SFA ss196–202, 215–231, 309; SFA Part VIIA ss137ZJ–137ZM; SFR(LCB) Reg 45)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

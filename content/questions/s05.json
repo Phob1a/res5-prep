@@ -1,18 +1,271 @@
 [
   {
-    "id": "q-s05-001", "part": 1, "syllabusItemId": "s05", "topicGroup": "aml",
-    "stem": "Under MAS Notice FAA-N06, what must a financial adviser do before establishing a business relationship with a new client?",
-    "options": { "A": "Nothing until the first transaction", "B": "Perform customer due diligence (CDD) including identity verification", "C": "Only collect a phone number", "D": "Wait for MAS approval" },
-    "answer": "B", "explanation": "CDD/KYC must be performed at onboarding per MAS Notice FAA-N06. (来源方向: MAS Notice FAA-N06)",
-    "difficulty": "easy", "sourceRef": "MAS Notice FAA-N06", "examVersion": "2026",
-    "status": "draft", "tags": ["cdd", "kyc"], "linkedFlashcardIds": ["fc-s05-001"], "updatedAt": "2026-06-03"
+    "id": "q-s05-001",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "Under MAS Notice FAA-N06, which type of account is a financial adviser absolutely prohibited from opening or maintaining?",
+    "options": {
+      "A": "A joint account held by two natural persons",
+      "B": "An account for a Singapore Government entity",
+      "C": "An anonymous account or an account in a fictitious name",
+      "D": "An account for a company listed on the Singapore Exchange"
+    },
+    "answer": "C",
+    "explanation": "第 6.1 段明确规定财务顾问不得开立或维持匿名账户或假名账户。其余选项均为可合法服务的客户类型,联名账户(A)按 6.35 对每名持有人分别做 CDD,政府实体(B)与上市公司(D)分别受 6.11、6.15 简化处理。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N06 para 6.1",
+    "status": "draft",
+    "tags": [
+      "cdd"
+    ],
+    "updatedAt": "2026-06-19"
   },
   {
-    "id": "q-s05-002", "part": 1, "syllabusItemId": "s05", "topicGroup": "aml",
-    "stem": "Which is a red flag that may warrant filing a Suspicious Transaction Report (STR)?",
-    "options": { "A": "A client paying premiums on time", "B": "A client refusing to provide identity documents and source of funds", "C": "A client asking about policy benefits", "D": "A client updating their address" },
-    "answer": "B", "explanation": "Refusal to provide ID / source of funds is a classic red flag. (来源方向: MAS Notice FAA-N06 / STRO)",
-    "difficulty": "medium", "sourceRef": "MAS Notice FAA-N06", "examVersion": "2026",
-    "status": "draft", "tags": ["str", "red-flag"], "linkedFlashcardIds": [], "updatedAt": "2026-06-03"
+    "id": "q-s05-002",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "FAA-N06 is issued pursuant to which provision?",
+    "options": {
+      "A": "Section 27B of the Monetary Authority of Singapore Act 1970",
+      "B": "Section 8 of the Insurance Act 1966",
+      "C": "Section 48 of the CDSA 1992",
+      "D": "Section 2(1) of the Personal Data Protection Act 2012"
+    },
+    "answer": "A",
+    "explanation": "第 1.1 段载明 Notice 依 MAS Act 1970 第 27B 条发布。CDSA s48 是关于通风报信(tipping-off),Insurance Act s8 关于直接寿险牌照,PDPA s2(1) 是个人数据定义,均非本 Notice 的授权依据。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N06 para 1.1",
+    "status": "draft",
+    "tags": [
+      "scope"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-003",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "Which of the following is NOT one of the triggers requiring a financial adviser to perform CDD under paragraph 6.3?",
+    "options": {
+      "A": "The financial adviser establishes business relations with a customer",
+      "B": "There is a suspicion of money laundering or terrorism financing",
+      "C": "The financial adviser has doubts about the veracity or adequacy of information previously obtained",
+      "D": "The customer makes a complaint about service quality"
+    },
+    "answer": "D",
+    "explanation": "第 6.3 段列举三种触发情形:建立业务关系(A)、怀疑洗钱/恐怖融资(B)、对先前信息真实性或充分性存疑(C)。服务投诉(D)不是 CDD 触发条件。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N06 para 6.3",
+    "status": "draft",
+    "tags": [
+      "cdd"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-004",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "When identifying an individual customer, what is the minimum information a financial adviser must obtain under paragraph 6.5?",
+    "options": {
+      "A": "Only the customer's full name and phone number",
+      "B": "Full name (incl. aliases), unique identification number, address, date of birth, and nationality",
+      "C": "Only a photograph and signature",
+      "D": "The customer's annual income and credit score"
+    },
+    "answer": "B",
+    "explanation": "第 6.5 段要求至少取得全名(含别名)、唯一识别号、住址/营业地址、出生日期及国籍/注册地。A、C、D 均不符合最低识别信息要求。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N06 para 6.5",
+    "status": "draft",
+    "tags": [
+      "cdd",
+      "identification"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-005",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "In which case is a financial adviser NOT required to inquire whether a beneficial owner exists in relation to the customer?",
+    "options": {
+      "A": "An individual retail customer with a modest policy",
+      "B": "A private company wholly owned by one family",
+      "C": "A trust set up for estate planning",
+      "D": "An entity listed and traded on the Singapore Exchange"
+    },
+    "answer": "D",
+    "explanation": "第 6.15 段豁免对在新交所上市并交易的实体(D)(以及 Appendix 5A 金融机构等)询问受益所有人。普通个人客户(A)、私人公司(B)、信托(C)仍须识别并核实受益所有人。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N06 para 6.15",
+    "status": "draft",
+    "tags": [
+      "beneficial-owner",
+      "exemption"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-006",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "By when must a financial adviser generally complete verification of a customer's identity?",
+    "options": {
+      "A": "Within 30 days of the first transaction",
+      "B": "Before establishing business relations with the customer",
+      "C": "Only when MAS requests it",
+      "D": "At the end of each financial year"
+    },
+    "answer": "B",
+    "explanation": "第 6.30 段要求原则上在建立业务关系前完成对客户、受托代理人及受益所有人的身份核实。仅在 6.31–6.32 的有限条件下(不延后即中断正常业务且风险可控)方可先建立关系后尽快核实,并无固定 30 天门槛。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N06 para 6.30–6.32",
+    "status": "draft",
+    "tags": [
+      "verification",
+      "timing"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-007",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "A financial adviser assesses a customer as low risk. In which situation may it still NOT apply simplified CDD measures?",
+    "options": {
+      "A": "Where the customer is an Appendix 5B financial institution",
+      "B": "Where the risk analysis is properly documented",
+      "C": "Where the customer or beneficial owner is from a country for which the FATF has called for countermeasures",
+      "D": "Where the relationship is face-to-face"
+    },
+    "answer": "C",
+    "explanation": "第 7.4 段规定,即使风险评估为低,若客户/受益所有人来自 FATF 呼吁反制的国家、来自 AML/CFT 不足的国家,或怀疑涉及洗钱/恐怖融资,均不得执行简化 CDD。A 属可执行 SDD 的情形(7.5),B、D 不构成禁用条件。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N06 para 7.4",
+    "status": "draft",
+    "tags": [
+      "sdd"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-008",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "Where a customer is determined to be a politically exposed person (PEP), which enhanced CDD measure is required under paragraph 8.3?",
+    "options": {
+      "A": "Automatically terminate the relationship",
+      "B": "Obtain senior management approval, establish source of wealth and source of funds, and conduct enhanced monitoring",
+      "C": "Report the PEP to the police within 24 hours",
+      "D": "Waive identity verification because PEPs are public figures"
+    },
+    "answer": "B",
+    "explanation": "第 8.3 段要求对 PEP(及其家庭成员/密切关系人)除一般 CDD 外,取得高管批准建立/继续关系、以合理手段确定财富与资金来源、并进行加强监控。不要求自动终止关系(A),无 24 小时报警义务(C),更不可豁免身份核实(D)。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N06 para 8.3",
+    "status": "draft",
+    "tags": [
+      "edd",
+      "pep"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-009",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "Which AML/CFT obligation may a financial adviser NOT delegate to a third party it relies upon?",
+    "options": {
+      "A": "Identifying the customer",
+      "B": "Verifying the customer's identity",
+      "C": "Obtaining the customer's date of birth",
+      "D": "Ongoing monitoring of business relations with customers"
+    },
+    "answer": "D",
+    "explanation": "第 9.3 段明确规定财务顾问不得依赖第三方进行持续监控(D)。识别与核实(A、B、C)属第 6 段措施,可在符合 9.2 条件下依赖第三方执行,但 FA 仍对自身义务负责(9.5)。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N06 para 9.3",
+    "status": "draft",
+    "tags": [
+      "third-party-reliance"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-010",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "What is the minimum record retention period for CDD information relating to business relations after those relations are terminated?",
+    "options": {
+      "A": "At least 5 years",
+      "B": "At least 3 years",
+      "C": "At least 7 years",
+      "D": "At least 10 years"
+    },
+    "answer": "A",
+    "explanation": "第 10.3 段规定:关于业务关系的 CDD 信息、账户文件、业务往来及分析结果须自业务关系终止后保存至少 5 年;交易相关数据须自交易完成后保存至少 5 年。故为 5 年。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N06 para 10.3",
+    "status": "draft",
+    "tags": [
+      "record-keeping"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-011",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "When must a financial adviser submit a suspicious transaction report (STR) to the STRO?",
+    "options": {
+      "A": "Only if the transaction exceeds SGD 20,000",
+      "B": "Only for completed (not attempted) transactions",
+      "C": "Promptly, regardless of the amount of the transaction, including attempted transactions, with a copy to MAS",
+      "D": "Only at the annual compliance review"
+    },
+    "answer": "C",
+    "explanation": "第 12.2 段要求无论交易金额大小、包括未遂交易,均须立即向 STRO 提交可疑交易报告并抄送 MAS。因此不存在金额门槛(A),未遂交易也须报告(B),且为即时而非年度(D)。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N06 para 12.2",
+    "status": "draft",
+    "tags": [
+      "str"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s05-012",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "stem": "Regarding internal AML/CFT governance, which arrangement does FAA-N06 require a financial adviser to put in place?",
+    "options": {
+      "A": "Appoint an AML/CFT compliance officer at the management level",
+      "B": "Outsource all compliance to an external law firm",
+      "C": "Train only newly hired employees once at induction",
+      "D": "Apply the lower of the home and host country AML/CFT standards overseas"
+    },
+    "answer": "A",
+    "explanation": "第 13.10 段要求设立管理层级的 AML/CFT 合规官。培训须对员工/职员/代表定期进行而非仅入职一次(C),境外分支须采用两者中较高标准(13.8)而非较低(D),Notice 未要求将合规全部外包给律所(B)。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N06 para 13.8, 13.10, 13.14",
+    "status": "draft",
+    "tags": [
+      "internal-controls",
+      "compliance"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

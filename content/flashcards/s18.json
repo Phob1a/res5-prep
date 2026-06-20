@@ -4,27 +4,169 @@
     "part": 2,
     "syllabusItemId": "s18",
     "topicGroup": "ethics",
-    "title": "冲突处理层级 / Handling hierarchy",
-    "point": "客户利益优先;冲突先避免,不能避免则充分披露并妥善管理。 / Client first; avoid, else disclose fully and manage.",
+    "title": "利益冲突定义 / Definition of COI",
+    "point": "利益冲突指两方目标不相容/不一致,某人可借其地位为己谋利;严重时可构成法律上的贪腐罪行。 / A COI is where two parties' objectives are incompatible and a person can use his position for personal gain; in some cases it may amount to a corruption offence at law.",
     "keyfacts": [
-      "避免 > 披露 > 管理 / Avoid > disclose > manage"
+      "妥善管理通常无碍,处理不当生道德问题 / Managed well it is fine; mishandled it causes ethical problems"
     ],
-    "sourceRef": "Fair Dealing Guidelines",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s18-002",
     "part": 2,
     "syllabusItemId": "s18",
     "topicGroup": "ethics",
-    "title": "高佣金诱惑 / Commission temptation",
-    "point": "高佣金不等于可推荐不适合的产品;须推荐最符合需求者并披露冲突。 / High commission never justifies an unsuitable recommendation; recommend the best fit and disclose.",
+    "title": "两类冲突 / Two types of COI",
+    "point": "'内建'(built-in)冲突=代表'发现'自己身处;'制造'(created)冲突=代表通过自身行为造成(如偏袒夫妻一方)。 / 'Built-in' = the representative 'finds' himself in it; 'created' = he 'creates' it by his own actions (e.g. favouring one spouse).",
     "keyfacts": [
-      "隐瞒冲突属违规 / Concealing conflicts is a breach"
+      "另有源于机构政策的冲突,代表难以抽身 / Some originate in institutional policy and are hard to escape"
     ],
-    "sourceRef": "Fair Dealing Guidelines",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-003",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "五种利益错位 / Five misalignments",
+    "point": "中介结构产生五类错位:代表-客户、机构/代表-客户、机构-客户、代表-多名客户、机构-多名客户。 / The intermediary structure gives five misalignments: rep–client; institution/rep–client; institution–client; rep–multiple clients; institution–multiple clients.",
+    "keyfacts": [
+      "例:为高净值客户创造机会而损害零售客户 / e.g. opportunities for HNW clients at retail clients' expense"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §2.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-004",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "六种表现形式 / Six manifestations",
+    "point": "利益错位表现为:偏颇建议、强制交叉销售、过度交易、未能执行、披露不足、侵犯隐私。 / Manifestations: biased advice, involuntary cross-selling, excessive trading, failure to execute, insufficient disclosure, violation of privacy.",
+    "keyfacts": [
+      "均损害代表的客观性与独立性 / All compromise the rep's objectivity and independence"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §3.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-005",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "强制交叉销售 / Involuntary cross-selling",
+    "point": "客户被操纵购买不需要的附加产品即为强制交叉销售,以两种方式发生:被迫搭售才能获想要产品;采用对客户不利的'默认选项'。 / Manipulating a client into unwanted add-ons; occurs two ways — bundling to access the wanted product, and an adverse 'default option'.",
+    "keyfacts": [
+      "搭售须告知附加产品的需要/适合性 / Bundling requires disclosing need/suitability",
+      "利用信息不对称 / Exploits information asymmetry"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-006",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "Churning vs Twisting",
+    "point": "Churning=劝客户掏空原保单为同一保险公司新保单融资;Twisting=转向另一家保险公司的新保单,均纯为生佣金。 / Churning = draining a policy to fund a new one with the SAME insurer; Twisting = with ANOTHER insurer; both solely for commission.",
+    "keyfacts": [
+      "过度交易=churning;均由代表制造冲突 / Excessive trading = churning; rep creates the conflict"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §6.7–6.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-007",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "事实上的酌情控制 / De facto discretionary control",
+    "point": "当客户无法自行判断、评估代表建议、对代表高度依赖时,代表被视为对账户有'事实上的酌情控制权',churning 可成立。 / Where a client cannot exercise his own judgment and depends heavily on the rep, the rep has 'de facto discretionary control'.",
+    "keyfacts": [
+      "也可基于正式/酌情控制权 / Also via formal or discretionary control"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §6.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-008",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "未能执行 / Failure to execute",
+    "point": "须按客户指示、在限制内取得最优价格、勤勉迅速执行;延迟或误导付款均属未能执行,挪用所收款项则属欺骗/欺诈。 / Must execute per instructions, get best price within limits, act promptly; delay/misdirection = failure; appropriating funds = cheating/fraud.",
+    "keyfacts": [
+      "故意操纵指令以自利=制造冲突 / Deliberately manipulating orders = creating a conflict"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §7",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-009",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "披露不足 vs 误导 / Insufficient vs misleading",
+    "point": "披露不足=未给出合理客户作知情决定所需的全部信息;误导=以混淆/掩盖真实含义的方式传达。须用通俗语言、解释术语。 / Insufficient = withholding needed info; misleading = conveying so as to confuse/obfuscate. Use plain language and explain jargon.",
+    "keyfacts": [
+      "演示须说明假设性,不可当作业绩保证 / Illustrations must show their hypothetical nature, not guarantees",
+      "1995 NAIC 通过演示示范规例 / NAIC Model Regulation adopted 1995"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-010",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "侵犯隐私/违反保密 / Privacy breach",
+    "point": "违反道德守则及《个人资料保护法》(PDPA),为己利使用/披露客户资料即破坏信任;客户数据不得存于个人设备/云端,退出时不得保留。 / Using/disclosing client data for own gain breaches the code and the PDPA; no storage on personal devices/cloud, none kept on exit.",
+    "keyfacts": [
+      "例:出售客户资料给第三方做营销 / e.g. selling client data to third parties for marketing"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-011",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "受信标准四义务 / Four fiduciary duties",
+    "point": "受信人将客户利益置于自身及任何第三方之上,履行谨慎、忠诚、服从、诚信四义务;原则导向。 / A fiduciary puts the client above his own and any third party's interest, observing care, loyalty, obedience and good faith; principles-based.",
+    "keyfacts": [
+      "忠诚义务含披露潜在/实际冲突 / Loyalty includes disclosing potential/actual conflicts"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §11",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s18-012",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "title": "适合性 vs 受信 / Suitability vs fiduciary",
+    "point": "适合性=规则导向(满足 FAA s.36、FAA-N16:KYC、需求分析、文件记录),适用于产品;受信=原则导向,引导整体行为。'适合' ≠ '最佳利益'。 / Suitability is rules-based (FAA s.36, FAA-N16) and applies to products; fiduciary is principles-based. 'Suitable' ≠ 'best interest'.",
+    "keyfacts": [
+      "非上市 SIP 须 CKA;上市 SIP 须 Client Account Review / Unlisted SIP needs CKA; listed SIP needs Client Account Review"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.18 §12–13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

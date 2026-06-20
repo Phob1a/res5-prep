@@ -4,65 +4,313 @@
     "part": 2,
     "syllabusItemId": "s16",
     "topicGroup": "ethics",
-    "stem": "Keeping a client’s personal and financial information confidential is:",
+    "stem": "How many principles of ethical behavior does this chapter list and describe?",
     "options": {
-      "A": "Optional",
-      "B": "A core element of ethical behavior",
-      "C": "Only required for VIP clients",
-      "D": "Unnecessary"
+      "A": "Five",
+      "B": "Six",
+      "C": "Seven",
+      "D": "Eight"
     },
-    "answer": "B",
-    "explanation": "保密是道德行为的核心要素。",
+    "answer": "C",
+    "explanation": "教材列出并描述七大道德原则:诚信、客观、胜任、公平、保密、专业、勤勉。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Ethical Behavior",
     "status": "draft",
     "tags": [
-      "confidentiality"
+      "principles"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s16-002",
     "part": 2,
     "syllabusItemId": "s16",
     "topicGroup": "ethics",
-    "stem": "Objectivity in recommendations means:",
+    "stem": "The word 'integrity' is said to derive from which mathematical concept?",
     "options": {
-      "A": "Recommending whatever pays most",
-      "B": "Advice free from undue influence, bias or conflicts",
-      "C": "Following the client blindly",
-      "D": "Ignoring the client’s needs"
+      "A": "A fraction",
+      "B": "An integer (whole number)",
+      "C": "A prime number",
+      "D": "A negative number"
     },
     "answer": "B",
-    "explanation": "客观=建议不受不当影响/偏见/冲突左右。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "explanation": "教材 2.2 指出 \"integrity\" 源自数学整数(integer)概念,意为完整、整全、未受减损的状态。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Integrity",
     "status": "draft",
     "tags": [
-      "objectivity"
+      "integrity"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s16-003",
     "part": 2,
     "syllabusItemId": "s16",
     "topicGroup": "ethics",
-    "stem": "Ethical behavior requires putting:",
+    "stem": "What are the two main obstacles to objectivity for a financial adviser representative?",
     "options": {
-      "A": "Personal gain ahead of the client",
-      "B": "The client’s interest ahead of personal gain",
-      "C": "The firm’s sales contest first",
-      "D": "Nobody’s interest first"
+      "A": "Cognitive bias and conflict of interest",
+      "B": "Lack of training and lack of time",
+      "C": "Confidentiality and competence",
+      "D": "Cost pressure and market volatility"
     },
-    "answer": "B",
-    "explanation": "道德要求客户利益优先于个人利益。",
+    "answer": "A",
+    "explanation": "教材 3.4 明确客观性的两大障碍是(a)认知偏差与(b)利益冲突。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Objectivity",
     "status": "draft",
     "tags": [
-      "client-first"
+      "objectivity"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-004",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Which is described as one of the most common cognitive biases, where a person seeks and interprets information that supports an assumption he already holds?",
+    "options": {
+      "A": "Anchoring bias",
+      "B": "Hindsight bias",
+      "C": "Confirmation bias",
+      "D": "Availability bias"
+    },
+    "answer": "C",
+    "explanation": "教材 3.7 点名 \"confirmation bias\"(确认偏差)为最常见的认知偏差之一:只寻找并解读支持既有假设的信息。其余选项虽是真实偏差,但非教材所述。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Objectivity (Cognitive Bias)",
+    "status": "draft",
+    "tags": [
+      "objectivity",
+      "cognitive-bias"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-005",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Under the principle of competence, what should a financial adviser representative do when asked to advise on a product outside his area of expertise?",
+    "options": {
+      "A": "Proceed, since the client has already asked",
+      "B": "Refuse to act outside his knowledge and expertise and, if needed, upgrade his competency first",
+      "C": "Give the advice but disclaim all responsibility",
+      "D": "Charge a higher fee to compensate for the risk"
+    },
+    "answer": "B",
+    "explanation": "教材 4.4–4.5 要求顾问只在胜任范围内行事,有道德勇气坦承所不懂并拒绝越界;Andy 例(未受训即做遗产规划)说明应先提升能力。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Competence",
+    "status": "draft",
+    "tags": [
+      "competence"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-006",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "The principle of fairness revolves around three concepts. Which set correctly lists them?",
+    "options": {
+      "A": "Honesty, transparency and disclosure",
+      "B": "Equality, the Golden Rule, and giving a person what is due to him",
+      "C": "Competence, diligence and confidentiality",
+      "D": "Suitability, affordability and accessibility"
+    },
+    "answer": "B",
+    "explanation": "教材 5.1 指出公平围绕三概念:平等、黄金法则、给予每个人应得之物。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Fairness",
+    "status": "draft",
+    "tags": [
+      "fairness"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-007",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Under the concept of 'equality' within the principle of fairness, charging one client higher fees than another is acceptable when:",
+    "options": {
+      "A": "The client belongs to a different race or religion",
+      "B": "The difference is justified by good reasons, such as more complex needs requiring additional resources",
+      "C": "The adviser simply prefers that client less",
+      "D": "Any difference is acceptable without explanation"
+    },
+    "answer": "B",
+    "explanation": "教材 5.2–5.3 指出平等要求\"相似之事相似处理\",差别对待须有正当理由(如需求复杂、需额外资源);按种族或宗教差别收费则引发道德问题。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Fairness (Equality)",
+    "status": "draft",
+    "tags": [
+      "fairness",
+      "equality"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-008",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Under the PDPA, an INDIVIDUAL found guilty of an offence in breach of its provisions is liable to:",
+    "options": {
+      "A": "A fine of up to S$5,000 and/or imprisonment of up to two years",
+      "B": "A fine of up to S$50,000 only",
+      "C": "A fine of S$1 million, or 10% of annual turnover, whichever is greater",
+      "D": "A fine of up to S$25,000 and/or imprisonment of up to 12 months"
+    },
+    "answer": "A",
+    "explanation": "教材 6.7 规定个人违反 PDPA 可处最高 S$5,000 罚款及/或最高两年监禁。选项 C 是公司的罚则(S$100 万或年营业额 10%,取较高者)。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Confidentiality (PDPA)",
+    "status": "draft",
+    "tags": [
+      "confidentiality",
+      "pdpa"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-009",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Under the PDPA, a COMPANY found in breach of its provisions is, upon conviction, liable to a fine of:",
+    "options": {
+      "A": "Up to S$5,000",
+      "B": "Up to S$100,000",
+      "C": "S$1 million, or 10% of its gross annual turnover in Singapore, whichever is greater",
+      "D": "S$1 million, or 10% of its gross annual turnover in Singapore, whichever is lower"
+    },
+    "answer": "C",
+    "explanation": "教材 6.7 规定公司违反 PDPA 经定罪可处 S$1,000,000 罚款,或其在新加坡年总营业额的 10%,以较高者为准。选项 D 错在\"以较低者\"。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Confidentiality (PDPA)",
+    "status": "draft",
+    "tags": [
+      "confidentiality",
+      "pdpa"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-010",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "The principle of professionalism has two requirements. One is to bring trust and dignity to the profession; the other is to:",
+    "options": {
+      "A": "Maximise commission income from each client",
+      "B": "Treat all persons with respect and consideration, not as 'mere means' to an end",
+      "C": "Always agree with whatever the client proposes",
+      "D": "Keep all client information secret even from regulators"
+    },
+    "answer": "B",
+    "explanation": "教材 7.2–7.4 指出专业原则两要求:以尊重对待所有人、不把人当作\"纯粹手段\";以及以带来信任与尊严的方式行事。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Professionalism",
+    "status": "draft",
+    "tags": [
+      "professionalism"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-011",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is NOT one of the three components of the principle of diligence?",
+    "options": {
+      "A": "Providing services in a reasonably prompt and thorough manner",
+      "B": "Providing services with 'due care'",
+      "C": "Ensuring support staff conduct themselves professionally",
+      "D": "Guaranteeing a minimum investment return to every client"
+    },
+    "answer": "D",
+    "explanation": "教材 8.1–8.9 列出勤勉三要素:及时周全提供服务、以应有审慎(due care)行事、确保支持人员专业。保证最低投资回报并非其一,且属误导/虚假承诺。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Diligence",
+    "status": "draft",
+    "tags": [
+      "diligence"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-012",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "What practical guidance does the principle of diligence give regarding the expectations a representative sets about support services?",
+    "options": {
+      "A": "Always promise the highest possible level of service to win the sale",
+      "B": "Do not over-promise and under-deliver; set reasonable and achievable expectations",
+      "C": "Leave all support work to the back office without any oversight",
+      "D": "Avoid setting any expectations to remain flexible"
+    },
+    "answer": "B",
+    "explanation": "教材 8.9–8.10 强调设定切合实际、可达成的期望,\"不要过度承诺、交付不足\";过度承诺不专业,且可能构成误导/虚假陈述招致民刑责任。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Diligence",
+    "status": "draft",
+    "tags": [
+      "diligence",
+      "over-promising"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-013",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "According to the chapter, why is trust especially important in the financial services industry?",
+    "options": {
+      "A": "Because regulators require a written trust agreement for every sale",
+      "B": "Because products are intangible and clients cannot easily assess the suitability of advice or products themselves",
+      "C": "Because all financial products are guaranteed by the government",
+      "D": "Because clients always understand financial products better than advisers"
+    },
+    "answer": "B",
+    "explanation": "教材 9.3–9.4 指出金融产品无形,客户难以自行确信地评估建议或产品的适当性,故信任尤为重要;若客户能自行评估,便无需建议。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Benefits of Ethical Behavior",
+    "status": "draft",
+    "tags": [
+      "benefits",
+      "trust"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s16-014",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is identified in the chapter as a benefit of ethical behavior in business?",
+    "options": {
+      "A": "Higher commission rates mandated by regulators",
+      "B": "Guaranteed exemption from all lawsuits",
+      "C": "Building client loyalty, enhancing reputation, retaining good employees and avoiding legal problems",
+      "D": "The right to keep client funds without accountability"
+    },
+    "answer": "C",
+    "explanation": "教材 9.5 列出道德行为的益处:建立客户忠诚、提升声誉、留住好员工、营造正向工作环境与避免法律问题。其余选项均非教材所述,且与道德相悖。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Benefits of Ethical Behavior",
+    "status": "draft",
+    "tags": [
+      "benefits"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

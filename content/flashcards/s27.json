@@ -4,27 +4,201 @@
     "part": 2,
     "syllabusItemId": "s27",
     "topicGroup": "process",
-    "title": "6 步流程 / Six steps",
-    "point": "目标→收集→分析→方案→执行→检视(持续)。 / Goals → gather → analyse → plan → implement → review.",
+    "title": "指南推出方与日期 / Guide launch parties and date",
+    "point": "MAS 联合 ABS、AFAS 与 LIA 于 2023 年 10 月 7 日推出《基础财务规划指南》。 / MAS, together with ABS, AFAS and LIA, launched the Basic Financial Planning Guide on 7 October 2023.",
     "keyfacts": [
-      "检视是持续过程 / Review is ongoing"
+      "目的:帮助新加坡人提升财务福祉 / Aim: enhance Singaporeans' financial well-being",
+      "可在 MoneySense 网站取得 / Available on the MoneySense website"
     ],
-    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — s.1.1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s27-002",
     "part": 2,
     "syllabusItemId": "s27",
     "topicGroup": "process",
-    "title": "优先级 / Priority",
-    "point": "先保障与应急储备,再追求财富增长。 / Protection and emergency funds first, then growth.",
+    "title": "四条经验法则 / Four rules of thumb",
+    "point": "应急金 3-6 个月开支;身故/TPD 9 倍年收入、危疾 4 倍年收入;保险≤15% 收入;投资≥10% 收入。 / 3-6 months' expenses; 9x income for death/TPD and 4x for critical illness; at most 15% on protection; at least 10% invested.",
     "keyfacts": [
-      "方案匹配目标/风险 / Match goals/risk"
+      "财务规划可简化为 3-4 个步骤 / Planning can be as simple as 3-4 actions"
     ],
-    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — s.1.2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-003",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "收入口径与捆绑产品 / Income basis and bundled products",
+    "point": "15% 与 10% 均按扣除 CPF 后的实得收入计;终身寿险等捆绑产品因含投资+保障成分,可能超过 15%。 / The 15% and 10% are on take-home pay after CPF; bundled products (e.g. whole life) may exceed 15% as they hold both investment and protection.",
+    "keyfacts": [
+      "^ 收入指扣除 CPF 缴款后 / ^ income after CPF contributions"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Guide table notes",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-004",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "应急金规则 / Emergency fund rule",
+    "point": "至少备 3-6 个月开支;收入不稳定者备 12 个月;须随时可动用,不放入股市,CPF 不能充当应急金。 / At least 3-6 months' expenses; 12 months if income is irregular; must be readily accessible, not in the stock market, and CPF cannot be used.",
+    "keyfacts": [
+      "优先偿还高息债务 / Prioritise paying off high-interest debt",
+      "可用储蓄账户 + SSB 组合 / Use Savings Accounts + SSBs"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Emergency Funds; Consumer FAQ",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-005",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "保障倍数来源 / Source of coverage multiples",
+    "point": "9 倍(身故/TPD)与 4 倍(危疾)源自 LIA 保障缺口研究;危疾 4 倍基于约 5 年康复期假设。 / The 9x (death/TPD) and 4x (critical illness) come from LIA's Protection Gap Study; the 4x assumes a ~5-year recovery period.",
+    "keyfacts": [
+      "客户可按需求增减 / Clients may buy more or less"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Consumer FAQ (Protection)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-006",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "受养人保障计划 DPS / Dependants' Protection Scheme",
+    "point": "DPS 是团体定期寿险,首次有效 CPF 工作缴款时自动纳入;赔付 60 岁前最高 $70,000、60-65 岁最高 $55,000。 / DPS is group term life, auto-extended on the first valid CPF working contribution; pays up to $70,000 until age 60 and up to $55,000 from above 60 to 65.",
+    "keyfacts": [
+      "保障身故、末期疾病或全残 / Covers death, terminal illness or TPD",
+      "保费从 CPF 扣除 / Premiums deducted from CPF"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Coverage; Appendices",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-007",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "更经济的保障选项 / More affordable protection options",
+    "point": "团体定期保险(如适用于全职国民服役人员及受养人的 MINDEF & MHA 计划)与直接购买保险(DPI);DPI 因不附财务建议而不收佣金。 / Group term insurance (e.g. MINDEF & MHA schemes for Full-time NSmen and dependants) and Direct Purchase Insurance (DPI); DPI carries no commission as it comes without financial advice.",
+    "keyfacts": [
+      "定期险通常比终身险便宜、无退保价值 / Term is usually cheaper than whole life, no surrender value"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Coverage",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-008",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "MediShield Life 与 IP / MediShield Life and IPs",
+    "point": "MediShield Life 覆盖大额住院与部分昂贵门诊(如癌症、洗肾),保费可全额用 MediSave;IP 提供额外保障但成本随年龄显著上升。 / MediShield Life covers large hospital bills and selected costly outpatient care (e.g. cancer, dialysis), fully payable from MediSave; IPs add coverage but cost rises significantly with age.",
+    "keyfacts": [
+      "约半数 IP 持有人选 B2/C 病房,未充分用 IP / Half of IP holders choose B2/C wards, underusing IP",
+      "IP 保费 MediSave 有提取上限 / MediSave has withdrawal limits for IP premiums"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — MediShield Life",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-009",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "CareShield Life / CareShield Life",
+    "point": "国家长期护理保险,覆盖 1980 年及以后出生的公民与 PR,保费可全额用 MediSave;较 ElderShield 福利更高。 / National long-term-care insurance covering Citizens and PRs born in 1980 onwards, fully payable from MediSave; enhanced benefits over ElderShield.",
+    "keyfacts": [
+      "严重残疾=6 项 ADL 中无法独立完成 ≥3 项 / Severe disability = unable to do ≥3 of 6 ADLs",
+      "私营公司提供 CareShield Life 补充计划 / Private CareShield Life Supplements available"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — CareShield Life",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-010",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "投资与短/长期配置 / Investment and time horizon",
+    "point": "至少投资 10% 收入;短期目标选低风险(SSB、T-bills、定存),长期目标可承受较高风险(ETF、单位信托),靠多元化分散风险。 / Invest at least 10%; short-term goals use lower-risk products (SSBs, T-bills, fixed deposits), long-term goals can take higher risk (ETFs, Unit Trusts), managing risk via diversification.",
+    "keyfacts": [
+      "无高回报且无亏损风险的保证投资 / No guaranteed high-return, risk-free investment"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Investment; Consumer FAQ",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-011",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "CPF 退休与税务减免 / CPF retirement and tax relief",
+    "point": "现金填补和/或转账至特别/退休账户可增长退休储蓄,现金填补最高享 $8,000 税务减免;CPF LIFE 提供终身每月赔付。 / Cash top-ups and/or transfers to the Special/Retirement Account grow savings with up to $8,000 tax relief on cash top-ups; CPF LIFE pays for life.",
+    "keyfacts": [
+      "给父母现金填补另享最高 $8,000 减免 / Cash top-ups to parents: up to $8,000 relief too"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — CPF and Your Retirement",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-012",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "遗产规划四件套 / Four legacy-planning tools",
+    "point": "遗嘱、CPF 提名、持久授权书(LPA)、预先护理计划(ACP)。 / Will, CPF nomination, Lasting Power of Attorney (LPA), and Advance Care Plan (ACP).",
+    "keyfacts": [
+      "LPA:丧失心智能力时代为决策 / LPA: acts if you lose mental capacity",
+      "ACP:未来健康与个人护理意愿 / ACP: future health and personal-care wishes"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Legacy Planning",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-013",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "55+ 房产货币化 / Home monetisation at 55+",
+    "point": "年满 55 岁可探索房产货币化补充退休收入:银发族安居花红、屋契回购计划、出租房间/组屋。 / At 55 and above, explore home monetisation to supplement retirement income: Silver Housing Bonus, Lease Buyback Scheme, renting out a room/flat.",
+    "keyfacts": [
+      "55+ 宜每 2-3 年检视保险是否仍可负担 / At 55+, review insurance every 2-3 years for affordability"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Guide table / Retirement",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s27-014",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "title": "指南的监管地位 / Regulatory status of the Guide",
+    "point": "指南并非监管要求;未使用不违规,客户也无须遵从。代表可在完整 FNA 前先分享指南,但交易前须完成 FNA 以确保适合性。 / The Guide is not a regulatory requirement; not using it is not a breach and customers need not follow it. Representatives may share it before the full FNA, but the FNA must be completed before any transaction to ensure suitability.",
+    "keyfacts": [
+      "代表仍须有合理推荐基础 / Representatives still need a reasonable basis for recommendation"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Consumer & Industry FAQs",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

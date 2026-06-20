@@ -3,33 +3,110 @@
     "id": "note-s21-overview",
     "part": 2,
     "syllabusItemId": "s21",
-    "title": "建立客户—代表关系 / Client–Representative Relationships",
-    "summary": "关系建立在信任、清晰沟通与明确期望;开场厘清服务范围、收费与责任,并提供持续服务。 / Relationships rest on trust, clear communication and managed expectations; clarify scope, fees and responsibilities up front, and provide ongoing service.",
+    "title": "发展客户—代表关系 / Developing Client–Representative Relationships",
+    "summary": "本章讲解客户服务的本质、不同客户的需求、优质客户服务在保险业日益重要的原因、客户服务标准(LIA 人寿保险实务守则)、与客户互动的技巧(解释与说服)、识别抗拒与冲突的处理、投诉处理、吸引与留住客户的因素、获取客户反馈、销售机会及售后忠诚度管理。 / This chapter covers the nature of client service, differing client needs, why good client service matters increasingly in insurance, client service standards (the LIA Code of Life Insurance Practice), interaction skills (explanation and persuasion), recognising resistance and conflict, complaint handling, factors affecting client attraction and retention, obtaining feedback, sales opportunities, and post-sales loyalty and retention.",
     "sections": [
       {
-        "heading": "建立信任与范围",
-        "body": "以诚信、专业、保密赢得信任;一开始厘清服务范围、收费、双方责任,管理期望避免误解。"
+        "heading": "什么是客户服务",
+        "body": "客户服务是在购买之前、之中、之后以及使用产品与服务过程中提供给客户的服务。组织内每个人都在以某种方式提供客户服务,公司一切业务活动的主要目的都是满足公司的外部客户。客户保留中心创始人兼总裁 Richard Shapiro 称:客户服务创造机会,与一个'人'建立新关系并把他转化为忠实的'客户'。客户服务始终是忠诚旅程的重要组成,但必须配合建立或维护更牢固客户关系的策略。客户服务意味着提供难忘的体验,否则只是机械化的交易。优质服务倡导者 Ron Kaufman 从客户(而非组织)的视角定义:客户把好的客户服务定义为她感知到组织如何超出预期地满足其需求而令她欣喜。"
       },
       {
-        "heading": "Trust & scope",
-        "body": "Earn trust through integrity, competence and confidentiality; clarify scope, fees and responsibilities up front to manage expectations."
+        "heading": "What client service is",
+        "body": "Client service is the service provided to the client before, during and after purchasing, and in using the product and service. Everyone in an organisation provides client service in one way or another, and the main purpose of every business activity is to satisfy the company's external clients. Richard Shapiro, founder and President of the Centre for Client Retention, said client service creates an opportunity to build a new relationship with a 'person' and convert them into a loyal 'client'. It is always part of the loyalty journey but must be coupled with a strategy of building or maintaining stronger relationships. It means delivering a memorable experience; otherwise it is just a robotic transaction. Quality-service motivator Ron Kaufman defines it from the client's point of view: a client defines good client service as how she perceives the organisation has delighted her by exceeding to meet her needs."
       },
       {
-        "heading": "持续关系",
-        "body": "关系含售后持续服务(检视、答疑、调整),非仅一次销售。"
+        "heading": "不同客户有不同的需求与欲求",
+        "body": "今天的客户在通用层面期望:(a) 清晰、准确、快速的信息;(b) 称职专业的员工与中介;(c) 正面而令人愉悦的客户体验;(d) 简单直接的购买产品或获取服务的交易流程;以及 (e) 在不同人生阶段满足其需求并应对可能的变化(例如初入职场者、在职成年人、有受养人[子女和/或父母]的在职成年人、临退休及退休人士)。"
       },
       {
-        "heading": "Ongoing relationship",
-        "body": "The relationship includes ongoing service (reviews, queries, adjustments), not just one sale."
+        "heading": "Different clients have different needs and wants",
+        "body": "At the generic level today's clients expect: (a) clear, accurate and fast information; (b) competent and professional staff and intermediaries; (c) a positive, delightful client experience; (d) an easy and straightforward transaction process to buy products or access services; and (e) to have their needs met and changes addressed as they pass through different life stages (e.g. fresh entrant to the workforce, working adults, working adults with dependents [children and/or parents], pre-retirement and retirement)."
+      },
+      {
+        "heading": "优质客户服务在保险业的重要性",
+        "body": "从财务顾问代表的角度,提供正面客户体验的好处包括:(a) 提升客户忠诚度;(b) 通过口碑或现有保单持有人的好评吸引更多新客户;(c) 因减少处理投诉的时间而提高生产力;(d) 提升保险公司的形象与声誉。客户服务如今更为重要,原因有四:互联网与社交媒体——客户更被赋能、期待快速优质服务且拥有多渠道反馈;竞争加剧——市场自由化使保险公司面对来自银行、离岸机构甚至零售商的竞争;客户控制权与选择增加——产品门户与比价平台让客户可比较价格、特性与保障并一键更换供应商,他们更了解自身权益;服务期望——消费者更受教育、更见多识广、更精明,期望更高水平的服务。"
+      },
+      {
+        "heading": "Importance of good client service in insurance",
+        "body": "From the FA representative's perspective, benefits of a positive client experience include: (a) increasing client loyalty; (b) attracting more new clients through word-of-mouth or good feedback from existing policyholders; (c) increasing productivity as less time is spent handling complaints; and (d) enhancing the insurer's image and reputation. Client service matters more today owing to: Internet & social media (clients are more empowered, expect fast superior service and have multiple feedback channels); increasing competition (liberalised markets bring competition from banks, offshore institutions and even retailers); increasing client control & options (portals and aggregators let clients compare price, features and coverage and switch suppliers at a click, and they are more aware of consumer rights); and expectations of service (better-educated, well-travelled, financially savvy consumers expect more for their dollar)."
+      },
+      {
+        "heading": "客户服务标准与客户体验",
+        "body": "客户服务标准列明客户可期望从财务顾问代表获得的服务水平,应涵盖服务卓越、响应时间、可及性、交付时间与承诺,并须持续监控、嵌入保险公司及代表的战略计划。在新加坡,人寿保险协会(LIA)为人寿保险公司及其代表订立了《LIA 人寿保险实务守则》(截至 2021 年 12 月版,见本章附录 1)。代表须了解该守则及本公司的服务标准、付款流程、保单签发时限、理赔付款、文件要求、投诉处理流程等。客户体验结合客户与保险公司及代表接触时的理性与情感因素,不仅是'什么'(如电话多快被接听、产品多快交付),也是'如何'。提供正面客户体验是强大的经营策略:可降低成本、留住与吸引客户,使公司及代表与竞争对手区隔化、增强形象与品牌。质量控制与服务标准应被视为产品的一部分,须采取整合的方法。"
+      },
+      {
+        "heading": "Client service standards and the client experience",
+        "body": "A client service standard spells out the level of service a client can expect, covering service excellence, response time, accessibility, delivery time and commitment, and must be constantly monitored and embedded in strategic plans. In Singapore the Life Insurance Association (LIA) established the LIA Code of Life Insurance Practice for life insurers and their representatives (as of December 2021, detailed in Appendix 1). Representatives must also know their own company's service standards, payment processes, policy-issuance time frames, claims payments, documentation requirements and complaints procedures. The client experience combines rational and emotional elements and includes not only the 'what' (how quickly a phone is answered or a product delivered) but also the 'how'. Providing a positive experience is a powerful strategy — reducing cost, retaining and attracting clients, differentiating the insurer and representative from competitors, and enhancing image and brand. Quality control and service standards are treated as part of the product through an integrated approach."
+      },
+      {
+        "heading": "与客户互动:解释",
+        "body": "与客户互动时会用到多种技巧:沟通、解释、说服、冲突处理与协商,有时只需其中一项,有时需结合两项或以上。解释是对事物如何运作或为何采取某些行动的事实性描述,不应旨在影响听者,而仅是给出事实与理由以达成理解(例如解释人寿理赔流程并非推销,而是描述程序)。有效解释应:(a) 做好准备;(b) 提供准确信息;(c) 简明扼要;(d) 避免使用术语;(e) 必要时提供书面后备;(f) 因客户而异地裁剪解释;(g) 不要居高临下对待客户;(h) 避免分享自己的问题。其中:准确——若不确定应转介他人或事后查明再答复;避免术语——尽量用日常会话用语;书面后备——复杂事项宜补发详细书面说明;不居高临下——保单持有人未必熟悉产品或公司程序,依赖你的专业;避免分享问题——勿对公司系统或做法发表负面评论,造成不便时应致歉而不深究原因。"
+      },
+      {
+        "heading": "Interacting with clients: explanation",
+        "body": "Interacting with clients calls on communication, explanation, persuasion, conflict handling and negotiation — sometimes one skill, sometimes two or more. An explanation is a factual description of how things work or why actions are taken; it should not aim to influence but merely give facts and reasons to reach understanding (e.g. explaining a claim process is not selling, but describing the procedure). Effective explanation should: (a) be prepared; (b) provide accurate information; (c) be concise; (d) avoid jargon; (e) provide written backup when necessary; (f) tailor the explanation to the client; (g) not talk down to the client; and (h) avoid sharing your problems. If unsure of accuracy, refer the client to someone who can help or find out and revert. Avoid technical jargon in favour of everyday words; offer written backup for complex matters; do not belittle policyholders who rely on your expertise; and never give a negative opinion of the company's systems — apologise for inconvenience without delving into reasons."
+      },
+      {
+        "heading": "说服与冲突的处理",
+        "body": "说服是有意通过言语影响他人态度或行为的尝试,有时为保险沟通所需(例如保单持有人要求代表代填变更受益人表格而违反公司程序时,须解释公司立场并说服其遵循正确程序)。说服不同于胁迫:胁迫是说服他人去做其实不愿做的事;说服则是鼓励他人以某种方式思考,前提是你具备个人公信力与合理论据时通常更有效。处理与不满客户的冲突是互动中最大的挑战之一,但妥善处理可成为留客、建立融洽、深化关系、培养忠诚客户的机会;保单持有人通常因期望未被满足、对产品失望或服务差/慢而生气。处理冲突有四个推荐步骤:(a) 认识客户的情绪或抗拒(先让客户宣泄,先平复自己再安抚客户,切勿说'你需要冷静下来');(b) 同理并致歉(理解对方情绪状态;若非己方/公司之过可说'很抱歉让您不快',若属公司之过则致歉但勿归咎系统或他人);(c) 确定事实(同理须客观,勿过度认同或分享类似经历,用复述与提问技巧厘清事实);(d) 找出适当的解决方案(感谢客户提供信息后,按程序手册或创造性地解决)。预防之道之一是事先寄出业务约定函与服务清单,例如在售后 3、12、18 个月设定带议程的检视时间线,且必须由合格的财务顾问代表执行(不应由客户服务部门进行)。"
+      },
+      {
+        "heading": "Persuasion and handling conflict",
+        "body": "Persuasion is an intentional verbal attempt to influence a person's attitude or behaviour, sometimes needed (e.g. when a policyholder demands you amend a beneficiary change against company procedure, you explain the company's position and persuade him to follow proper procedure). Persuasion differs from coercion: coercion convinces others to do what they do not want to do; persuasion encourages them to think a certain way and is usually more effective given personal credibility and sound reasoning. Working with upset clients is one of the greatest challenges, but handled well it builds rapport, deepens relationships and develops loyal clients; policyholders usually become angry owing to unmet expectations, a disappointing product, or poor/slow service. Four recommended steps: (a) recognise the client's feelings or resistance (let him vent, calm yourself first, never say 'You need to calm down'); (b) empathise and apologise (say 'I'm sorry that you are upset' if not at fault, or apologise without blaming the system if the company is responsible); (c) determine the facts (stay objective, avoid sharing similar stories, use paraphrasing and questioning); and (d) find an appropriate solution (thank the client, then follow the manual or devise creative solutions). One preventive measure is a letter of engagement and menu of service with after-sale review timelines at 3, 12 and 18 months, conducted by a qualified FA representative (not the client service office)."
+      },
+      {
+        "heading": "与客户互动的一般指引",
+        "body": "一般指引包括:(a) 与难缠客户交谈时,始终先处理感受,再谈事实与行动;(b) 专注、用心地聆听;(c) 用愉悦的语气,绝不用讽刺的语气;(d) 避免技术术语;(e) 不要把客户所说的话往心里去,必要时深呼吸调整自己;(f) 若反应失当令自己后悔,可以'对于我们之间的误会以及我所扮演的部分,我感到抱歉'来补救;(g) 对话结束时总结双方同意采取的行动,确保客户同意并理解,随后发出书面确认,并确实履行承诺。每次客户互动都应以适当的沟通与人际技巧进行,经过练习便能更有效地处理互动、冲突与困难情境。"
+      },
+      {
+        "heading": "General guidelines for interacting with clients",
+        "body": "General guidelines include: (a) always prioritise feelings first, then facts and action, when talking to a difficult client; (b) listen attentively and carefully; (c) use a pleasant tone of voice, never a sarcastic one; (d) avoid technical jargon; (e) do not take what a client says personally, taking deep breaths to compose yourself where necessary; (f) if you reacted in a way you regret, recover by saying 'I'm sorry about our misunderstanding and the part in which I have played'; and (g) at the end summarise the agreed actions, ensure the client agrees and understands, send a written acknowledgement, and do what you said you would do. Conduct every interaction with appropriate communication and interpersonal skills; with practice such situations are handled more effectively."
+      },
+      {
+        "heading": "投诉处理的实务",
+        "body": "任何关于服务的投诉都是服务质量的指标,应认真对待;许多投诉源于对保险保障意图的误解。调查投诉(如服务迟缓)通常需查阅相关往来函件,并管理客户(尤其不切实际的)期望,向其解释保单签发的通常时限与步骤。注意:《LIA 人寿保险实务守则》第 3.3 条规定:'我们将在保单签发日(即申请获批且我们已收到全额保费)起 30 天内给您新的保单文件。'有效投诉处理不仅是遵循一套步骤,而应以客户为中心,理解客户的感受与情绪缘由,并妥善运用从投诉得到的反馈。投诉是任何对提供或未能提供产品/服务的不满或不快的口头或书面表达(无论是否合理,可直接关于投诉人或代他人)。投诉虽看似负面,却带来益处——它们是'真相时刻',可改善客户服务(分析投诉类型识别服务薄弱环节)、提升客户忠诚(妥善解决问题者往往更忠诚,获取新客户比服务现有客户更昂贵)、降低成本(改进服务可减少未来投诉)。另一种方法是问题解决法,将客户视为解决方案的一部分:识别真正的问题→找出原因→确定可能方案(邀客户共解)→兼顾双方需求(双赢)→分析并择一实施→与客户讨论方案→实施→与客户复盘确认问题已解决。"
+      },
+      {
+        "heading": "Practical aspects of handling complaints",
+        "body": "Any complaint is an indicator of service quality and should be taken seriously; many arise from misunderstandings about the intention of the cover. Investigating a complaint (e.g. tardiness) usually means studying the relevant correspondence and managing client expectations, explaining the insurer's usual time frame and steps where expectations are unrealistic. Note item 3.3 of the LIA Code: 'We will give you the new policy document within 30 days from the date of policy issuance, which means the application is approved and the full premium has been received by us.' Effective complaints handling is not just following steps — it should be centred on the client, understanding feelings and the reasons for emotions, and using the feedback well. A complaint is any oral or written expression of dissatisfaction about the provision of, or failure to provide, a service or product (justified or not, on one's own behalf or another's). Complaints bring benefits — they are 'moments of truth' that improve client service (analysing types reveals weak areas), build client loyalty (those whose issues are resolved tend to stay loyal; acquiring new clients is more costly), and reduce costs (improved service lowers future complaints). The problem-solving approach views the client as part of the solution: identify the real problem; identify causes; determine possible solutions (involve the client — 'How can we work together to resolve this?'); address both parties' needs (win-win); analyse and select one solution; discuss it with the client; implement it; and review with the client to ensure satisfaction."
+      },
+      {
+        "heading": "吸引与留住客户的因素",
+        "body": "客户是代表的命脉,良好客户服务至关重要。涉及因素有:客户忠诚(满意客户愿继续合作,但代表不可停止提供优质服务;获取新客户比留住现有客户更昂贵);吸引新客户(现有保单持有人会自然流失——离世、移居、转投竞争对手,故须通过业务拓展吸引新客户;良好声誉与口碑是客户购买决策的有力依据,满意客户成为有效'广告'与转介来源;对每个相遇之人[包括服务你的人]都以尊重相待,他们可能成为下一个潜在客户);客户聚焦(聚焦客户需求并持续交付其所欲,以尊重相待、以合理价格提供高质量产品与服务,理解客户及其购买行为是吸引与留住客户的关键);满足客户期望(期望未被满足客户便会转投竞争对手,故须通过市场调研/调查或直接向客户了解期望);改善客户关系(关系须经营,更强的关系催生独特的服务主张,价格未必是决定因素,通过伙伴关系与提供解决方案建立忠诚;联系频率越高,信任与声誉越强);保持客户知情(主动告知进展显示你预见其需求,减少投诉与冲突;主动意味着提前应对预期困难、控制局面而非被动响应)。"
+      },
+      {
+        "heading": "Factors affecting the attraction and retention of clients",
+        "body": "Clients are a representative's lifeblood, so good client service is paramount. Factors include: client loyalty (satisfied policyholders continue, but the representative must keep delivering quality; acquiring a new client costs more than retaining one); attracting new clients (there is a natural decline as policyholders die, migrate or move to competitors, so new clients must be won through business development; a good reputation and word-of-mouth are powerful, and satisfied clients become effective 'advertising' and a source of referrals — treat everyone you meet, including those who serve you, with respect as they may be your next client); client focus (focusing on clients' needs and consistently delivering, treating clients with respect and offering quality products at reasonable prices, with understanding of buying behaviour, is key to attracting and retaining); meeting client expectations (clients move to competitors if expectations are unmet, so know them via market research, surveys or directly); improving client relationships (relationships must be managed; a stronger relationship creates a distinctive service proposition, price is not always decisive, and partnership plus solutions builds loyalty — more frequent contact builds trust and reputation); and keeping clients updated (proactively updating clients shows you anticipate needs, minimising complaints, and being proactive means acting in advance to control a situation rather than merely responding)."
+      },
+      {
+        "heading": "获取客户反馈与销售机会",
+        "body": "客户反馈重要的原因包括:提供绩效衡量、允许标杆比较、支持持续改进、协助未来产品开发、协助改善客户服务。获取反馈的不同方式:内部质量系统(多数机构设有,如查阅档案、复听与客户的录音电话);调查(精心设计的一系列问题以提取所需信息,了解客户想法、感受与偏好);问卷(可纸质、电子或电话进行;与调查的区别在于问卷提供措辞化的答案选项以描述服务,如'一般''好''优秀'或 1 至 5 的评分)。信息收集与分析后,代表即可决定改善客户服务的正面行动,并洞察客户真实需求以制定有效方案。在销售中,须掌握足够的准客户信息以匹配产品特性与利益,需:建立信任(鼓励客户分享信息、建立融洽)、提出正确的问题(收集信息的重要技巧)、聆听(尤其主动聆听,捕捉语言与非语言信号)。将信息与产品挂钩,牢记客户需求(例如客户提及希望女儿日后留学,可推荐储蓄保险提供海外教育资金)。沟通产品特性与利益时,目标是把特性联系到利益、利益联系到客户需求(例如'附加豁免保费附约后,若您日后罹患危疾或残疾,便无须再缴保费')。识别交叉销售机会:向现有保单持有人销售不同的产品(如已有终身寿险者交叉销售危疾保险);其关键要素与任何销售流程相同——建立融洽与信任、了解产品、分析客户需求。"
+      },
+      {
+        "heading": "Obtaining feedback and sales opportunities",
+        "body": "Client feedback is important because it provides a measure of performance, allows benchmarking, supports continuous improvement, helps future product development and improves client service. Ways of obtaining feedback: internal quality systems (e.g. reviewing files and recorded calls); surveys (carefully crafted questions extracting pertinent information about clients' thoughts, feelings and preferences); and questionnaires (paper-based, electronic or by telephone — differing from a survey in offering worded answer choices such as 'average', 'good' or 'excellent', or a 1-to-5 scoring system). Once collated and analysed, the representative decides on positive actions to improve service and gains insight into clients' real needs. In sales, sufficient information about prospects is needed to match features and benefits: build trust (encouraging the client to share and establishing rapport), ask the right questions (a key technique for collecting information) and listen (especially active listening for verbal and non-verbal signals). Link information to products with the client's needs in mind (e.g. a client mentions wanting her daughter to study overseas — an Endowment policy can fund this). When communicating features and benefits, link features to benefits and benefits to needs (e.g. 'A Waiver of Premium Rider means you need not pay premiums if you become critically ill or disabled'). Cross-selling is selling a different product to an existing policyholder (e.g. cross-sell Critical Illness to a Whole Life holder); its key elements are the same as any selling process — building rapport and trust, product knowledge, and analysis of the client's needs."
+      },
+      {
+        "heading": "售后:培养客户忠诚与留存",
+        "body": "代表可通过多种方式建立客户忠诚与留存,关键之一是长期客户关系管理——建立信任、深入理解客户的需求、文化与思维。要点包括:一致的交付——代表须始终如一地兑现承诺,不仅在销售时,更贯穿整个关系;主动的客户关系管理——主动找出能增值并深化客户关系的方法(例如在检视客户的保险组合与投资时讨论一系列目标,如保险需求的变化、投资目标的检讨)。始终把客户当作正在争取的新业务般对待,切勿自满或以为客户会永远留在你身边。"
+      },
+      {
+        "heading": "Post-sales: developing client loyalty and retention",
+        "body": "A representative can build loyalty and retention in many ways, a key one being long-term client relationship management — building trust and a deeper understanding of the client's needs, culture and mindset. Key points: consistent delivery (the representative must consistently deliver promises not only at the point of sale but throughout the relationship); and proactive client relationship management (taking the initiative to identify ways to add value and enhance the relationship, e.g. reviewing the client's insurance portfolio and investments to discuss changes to insurance needs and a review of investment objectives). Always treat the client as if you are trying to capture new business — never be complacent or assume the client will always remain with you."
       }
     ],
     "keyPoints": [
-      "信任 + 清晰沟通 / Trust + clear communication",
-      "开场厘清 scope/收费/责任 / Clarify scope/fees/responsibilities up front",
-      "提供持续服务 / Provide ongoing service"
+      "客户服务=购买前/中/后及使用中提供的服务;须提供难忘体验而非机械交易 / Client service spans before/during/after; deliver a memorable experience",
+      "客户服务更重要的四大动因:互联网与社交媒体、竞争加剧、客户控制权增加、服务期望提高 / Four drivers: internet/social media, competition, client control, service expectations",
+      "客户服务标准=LIA 人寿保险实务守则(2021年12月版);守则 3.3 条=签发后30天内交付保单 / LIA Code; item 3.3 = policy document within 30 days",
+      "解释=事实性描述(不影响);说服≠胁迫;说服是鼓励他人某种思考 / Explanation is factual; persuasion ≠ coercion",
+      "处理冲突四步:认识情绪→同理并致歉→确定事实→找出方案;先感受后事实 / Four conflict steps; feelings before facts",
+      "投诉=口头/书面的不满表达;是'真相时刻',带来改善服务、忠诚、降本三大益处 / Complaint = expression of dissatisfaction; 'moments of truth'",
+      "问卷 vs 调查:问卷提供措辞化答案选项(如'好/优秀'或1-5评分) / Questionnaire offers worded answer choices vs survey",
+      "售后两要点:一致交付 + 主动客户关系管理;勿自满 / Post-sales: consistent delivery + proactive CRM"
     ],
-    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — Developing Client–Representative Relationships (SCI, Version 1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

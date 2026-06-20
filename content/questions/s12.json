@@ -4,65 +4,272 @@
     "part": 1,
     "syllabusItemId": "s12",
     "topicGroup": "conduct",
-    "stem": "Under the SFA, trading while in possession of information that is not generally available and, if it were, would have a material effect on the price or value of the securities, is:",
+    "stem": "A person sitting in Japan carries out transactions intended to manipulate the price of a counter listed and quoted on a Singapore-based exchange. Under the SFA market conduct provisions, this act is:",
     "options": {
-      "A": "Smart investing",
-      "B": "Insider trading, which is prohibited",
-      "C": "Allowed for representatives",
-      "D": "Required by MAS"
+      "A": "Regarded as having taken place in Singapore, and the person may be fined and/or imprisoned",
+      "B": "Outside the reach of the SFA because the person is physically in Japan",
+      "C": "Only actionable under Japanese law",
+      "D": "Permitted, as the SFA has no extraterritorial effect"
     },
-    "answer": "B",
-    "explanation": "SFA 口径:持有\"未普遍公开且若公开将对价格/价值有重大影响\"的信息交易=内幕交易,被禁止。",
+    "answer": "A",
+    "explanation": "教材 1.2 与 Example 12.1 指出市场操守规则具域外效力:对在新加坡有组织市场上市/报价产品的境外操纵,视为在新加坡发生,违者面临罚款及/或监禁。故 B/C/D 错。",
     "difficulty": "easy",
-    "sourceRef": "Securities and Futures Act — Market Conduct",
-    "status": "draft",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s196, Example 12.1",
     "tags": [
-      "insider"
+      "scope",
+      "extraterritorial"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s12-002",
     "part": 1,
     "syllabusItemId": "s12",
     "topicGroup": "conduct",
-    "stem": "Creating a false or misleading appearance of active trading in a security is:",
+    "stem": "Which of the following is NOT listed in the SFA as a category of prohibited market conduct?",
     "options": {
-      "A": "Market manipulation, which is prohibited",
-      "B": "A normal practice",
-      "C": "Allowed if profitable",
-      "D": "Encouraged"
+      "A": "Securities market manipulation",
+      "B": "Insider trading",
+      "C": "Charging a brokerage commission on a client's trade",
+      "D": "False trading and market rigging transactions"
     },
-    "answer": "A",
-    "explanation": "制造活跃交易的虚假表象=市场操纵,被禁止。",
-    "difficulty": "medium",
-    "sourceRef": "Securities and Futures Act — Market Conduct",
-    "status": "draft",
+    "answer": "C",
+    "explanation": "教材 1.5 列出的禁止操守为:虚假交易/操纵市场、市场操纵、虚假或误导陈述、欺诈诱使、操纵欺骗手段、传播非法交易信息、内幕交易。收取经纪佣金是正常业务,不在其列。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s196, s1.5",
     "tags": [
-      "manipulation"
+      "prohibited-conduct"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s12-003",
     "part": 1,
     "syllabusItemId": "s12",
     "topicGroup": "conduct",
-    "stem": "Spreading false rumours intended to move a security’s price is:",
+    "stem": "A person places orders to buy a number of shares of Company D through one broker and, at the same time, orders to sell the same number of shares through another broker, with no change in who ultimately owns the shares. This is best described as:",
     "options": {
-      "A": "Fine if anonymous",
-      "B": "Prohibited as dissemination of false/misleading information",
-      "C": "Allowed",
-      "D": "Only a civil matter with no rules"
+      "A": "A covered short sale",
+      "B": "A wash sale, which is prohibited",
+      "C": "Legitimate arbitrage between brokers",
+      "D": "A reportable short position"
     },
     "answer": "B",
-    "explanation": "散布影响价格的虚假信息被禁止。",
+    "explanation": "教材 2.3–2.4 与 Example 12.3 指出『洗售』(wash sale)是通过市场进行、实益所有权不变的买卖,意在制造活跃交易表象,属禁止行为。其余选项与该情形不符。",
     "difficulty": "medium",
-    "sourceRef": "Securities and Futures Act — Market Conduct",
-    "status": "draft",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s197(5), Example 12.3",
     "tags": [
-      "false-info"
+      "false-trading",
+      "wash-sale"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-004",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Under Section 197(5) of the SFA, there is NO change in the beneficial ownership of a capital markets product where:",
+    "options": {
+      "A": "Legal title passes to a different brokerage account",
+      "B": "The trade is executed at a price higher than the previous traded price",
+      "C": "The sale is settled through The Central Depository",
+      "D": "A person who had an interest in the product before the trade (or an associate) continues to have an interest after it"
+    },
+    "answer": "D",
+    "explanation": "教材 2.4 引第 197(5) 条:若交易前持有权益的人(或其关联人)在买卖之后仍持有该产品的权益,则实益所有权没有改变。A/B/C 均与该法定判断无关。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s197(5)",
+    "tags": [
+      "beneficial-ownership",
+      "false-trading"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-005",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Under Section 198(1) of the SFA on securities market manipulation, a person is prohibited from directly or indirectly effecting:",
+    "options": {
+      "A": "A single transaction at the prevailing market price",
+      "B": "Two or more transactions that have the effect of raising, lowering, maintaining or stabilising the price, with intent to induce others to deal",
+      "C": "Any purchase made on behalf of a client",
+      "D": "A transaction reported to the exchange within the required time"
+    },
+    "answer": "B",
+    "explanation": "教材 3.2 引第 198(1) 条:禁止直接或间接进行两笔或以上交易,其效果为抬高/压低/维持/稳定价格,且意图诱使他人交易。单笔市价交易、代客购买、合规申报本身均非该禁止行为。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s198(1)",
+    "tags": [
+      "manipulation"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-006",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "During the Pre-Open phase, a person enters several large buy orders, places a sell order, and then deletes the buy orders just before the opening price is determined so as to move the opening price in his favour. Under the SFA this is an offence of:",
+    "options": {
+      "A": "Employment of a manipulative and deceptive device",
+      "B": "Securities hawking",
+      "C": "A permitted order-management technique",
+      "D": "Short position non-reporting"
+    },
+    "answer": "A",
+    "explanation": "教材 6.1 与 Example 12.6 指出,在 Pre-Open/Pre-Close 阶段利用挂撤单影响开盘价、欺骗市场,属第 201 条『操纵性与欺骗性手段』。兜售、短仓申报与此无关,该行为也绝非被允许。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s201, Example 12.6",
+    "tags": [
+      "deceptive-device"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-007",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Under Section 202 of the SFA, disseminating information that the price of securities is likely to rise or fall as a result of an 'illegal transaction' is an offence where the person, or a person associated with him:",
+    "options": {
+      "A": "Holds a CMS licence in good standing",
+      "B": "Publishes the information only by word of mouth",
+      "C": "Is a non-connected person under the insider trading provisions",
+      "D": "Has entered (or purports to enter) the illegal transaction, or expects to receive a benefit for the dissemination"
+    },
+    "answer": "D",
+    "explanation": "教材 7.4 引第 202 条:若该人或其关联人已订立/意图订立该非法交易,或已/预期因散布该信息而获得对价或利益,即属犯罪。持牌、口头方式或非关联人身份本身都不是构成要件。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s202, s7.4",
+    "tags": [
+      "dissemination",
+      "illegal-transaction"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-008",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Under Section 215 of the SFA, information is considered to be 'generally available' if:",
+    "options": {
+      "A": "It is known only to the issuer's board of directors",
+      "B": "It has been disclosed privately to a single substantial shareholder",
+      "C": "It consists of readily observable matter, or has been made known to common investors and a reasonable period for dissemination has elapsed, or consists of deductions drawn from such matter",
+      "D": "It relates to a future event that may or may not occur"
+    },
+    "answer": "C",
+    "explanation": "教材 8.2 引第 215 条:『普遍可得』指由可观察事项构成、或已让惯常投资者注意且经过合理传播期、或由以上推断得出。仅董事会知悉或私下告知单一大股东恰恰是『非普遍可得』。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s215, s8.2",
+    "tags": [
+      "insider",
+      "generally-available"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-009",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Which statement correctly describes the difference between a 'connected person' (s218) and a 'non-connected person' (s219) for insider trading?",
+    "options": {
+      "A": "For a connected person it is presumed (until proven otherwise) that he knew the information was not generally available and would have a material effect, whereas for a non-connected person this must be proven",
+      "B": "Only a connected person can be prosecuted for insider trading",
+      "C": "A non-connected person must also be shown to have intended to use the information",
+      "D": "The source of the information must always be proven for a connected person"
+    },
+    "answer": "A",
+    "explanation": "教材 8.7、8.11–8.13 指出:关联人被推定(可反证)知悉信息非普遍可得及其重大效果;非关联人则须证明其知道信息非普遍可得且合理人会预期有重大效果。两类人均可被起诉(B 错);无须证明意图使用(C 错,见第 220 条);非关联人之信息来源并不重要(D 错)。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s218, s219, s220",
+    "tags": [
+      "insider",
+      "connected-person"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-010",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "A customer visits a bank to apply for a credit card. While waiting, a bank employee approaches him and starts pitching a capital markets product without first asking whether he is interested. Under the SFA this is most likely:",
+    "options": {
+      "A": "Permitted because the customer is already on the bank's premises",
+      "B": "Securities hawking, which is prohibited",
+      "C": "Fair dealing",
+      "D": "Execution-related advice (ERA)"
+    },
+    "answer": "B",
+    "explanation": "教材 9.1–9.2 与 Example 12.9 指出,在未经邀约的会面中要约/邀请购买资本市场产品属证券兜售(第 309 条),旨在防止施压推销。客户在场不构成豁免;此情形与公平对待或 ERA 无关。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s309, Example 12.9",
+    "tags": [
+      "hawking"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-011",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "A representative provides execution-related advice (ERA) on a listed Excluded Investment Product (EIP) and relies on the exemption from the FAA/FAR suitability requirements. At account opening he must, among other things:",
+    "options": {
+      "A": "Guarantee the product's capital and returns",
+      "B": "Obtain MAS approval for each trade",
+      "C": "Provide a prominent written disclosure that the ERA does not consider the client's objectives/financial situation/needs and that suitability is the client's responsibility, and state the rationale for the advice",
+      "D": "Refuse to disclose any rationale to avoid giving advice"
+    },
+    "answer": "C",
+    "explanation": "教材 10.16 指出,confine 于上市 EIP 的 ERA 可豁免 FAR 适当性要求,但须在开户时以显著书面方式披露 ERA 不考虑客户情况、适当性由客户负责,并说明 ERA 的理据,且须就提供 ERA 的代表设立登记册。A/B/D 均与教材规定相悖。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — s10.10–10.16 (FAR Reg 33A)",
+    "tags": [
+      "suitability",
+      "era",
+      "eip"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s12-012",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "stem": "Under Regulation 45 of the SFR(LCB), when a CMS licence holder borrows specified products from an owner who is NOT an accredited, expert or institutional investor, it must:",
+    "options": {
+      "A": "Provide collateral of at least 100% of the market value of the products borrowed, with daily mark-to-market and a written agreement",
+      "B": "Provide collateral of only 50% of the market value",
+      "C": "Provide no collateral, as borrowing is exempt",
+      "D": "Report the borrowing to MAS as a net short position"
+    },
+    "answer": "A",
+    "explanation": "教材 11.20–11.21 指出,向非 AI/EI/II 的所有人借入指定产品时,CMS 牌照持有人须提供不低于借入产品市值 100% 的抵押品,整个安排期内维持 100% 市值并每日按市值计价,且须书面记录。50%/无抵押均错;短仓申报(第 137ZK 条)是另一项规则。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFR(LCB) Reg 45, s11.20–11.21",
+    "tags": [
+      "sbl",
+      "collateral"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

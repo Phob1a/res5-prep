@@ -4,45 +4,298 @@
     "part": 1,
     "syllabusItemId": "s13",
     "topicGroup": "products",
-    "stem": "Which CPF account is primarily used for healthcare expenses and approved medical insurance?",
+    "stem": "When did the Central Provident Fund (CPF) commence, and which body administers it?",
     "options": {
-      "A": "Ordinary Account (OA)",
-      "B": "Special Account (SA)",
-      "C": "MediSave Account (MA)",
-      "D": "Retirement Account (RA)"
+      "A": "1 July 1955, administered by the CPF Board, a statutory board under the Ministry of Manpower",
+      "B": "1 January 1984, administered by the Monetary Authority of Singapore",
+      "C": "1 November 2015, administered by the Ministry of Health",
+      "D": "1 July 1955, administered by the Public Trustee's Office"
     },
-    "answer": "C",
-    "explanation": "MediSave(MA)用于医疗及经核准医疗保险。",
+    "answer": "A",
+    "explanation": "教材 2.1 指出 CPF 于 1955 年 7 月 1 日设立,由公积金局(人力部下属法定机构)管理。MAS、MOH 与公共信托人办公室均非 CPF 的管理机构。",
     "difficulty": "easy",
-    "sourceRef": "Central Provident Fund (CPF) framework",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.1",
     "status": "draft",
     "tags": [
       "cpf",
-      "medisave"
+      "background"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s13-002",
     "part": 1,
     "syllabusItemId": "s13",
     "topicGroup": "products",
-    "stem": "Regarding the CPF Investment Scheme (CPF-IS), which is true?",
+    "stem": "Which CPF account is primarily used for a member's healthcare needs and approved medical insurance premiums?",
     "options": {
-      "A": "Returns are guaranteed by the CPF Board",
-      "B": "Investments carry risk and may underperform CPF interest",
-      "C": "All CPF balances must be invested",
-      "D": "Only foreigners may use it"
+      "A": "Ordinary Account (OA)",
+      "B": "Special Account (SA)",
+      "C": "Retirement Account (RA)",
+      "D": "MediSave Account (MA)"
     },
-    "answer": "B",
-    "explanation": "CPF-IS 投资有风险,回报可能低于 CPF 利息,非保证。",
-    "difficulty": "medium",
-    "sourceRef": "Central Provident Fund (CPF) framework",
+    "answer": "D",
+    "explanation": "教材 2.15–2.16 指出 MediSave 账户(MA)用于住院及医疗保险等医疗需求。OA 用于住房/投资/教育,SA 主要为养老,RA 用于退休月领。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.15–2.16",
     "status": "draft",
     "tags": [
       "cpf",
-      "cpf-is"
+      "accounts"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-003",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "From 1 January 2024, what is the total CPF contribution rate (employer plus employee) for an employee aged 55 and below earning more than S$750 a month?",
+    "options": {
+      "A": "31%",
+      "B": "37%",
+      "C": "22%",
+      "D": "16.5%"
+    },
+    "answer": "B",
+    "explanation": "教材 2.6 的缴费率表显示,55 岁及以下雇主 17% + 雇员 20% = 37%。31% 为 55–60 岁,22% 为 60–65 岁,16.5% 为 65–70 岁。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.6",
+    "status": "draft",
+    "tags": [
+      "cpf",
+      "contribution-rate"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-004",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Who is required to make CPF contributions in Singapore?",
+    "options": {
+      "A": "All foreigners working in Singapore regardless of wage",
+      "B": "Only self-employed persons earning more than S$50 a month",
+      "C": "Singapore Citizens and Permanent Residents earning total wages of more than S$50 a month",
+      "D": "Anyone working in Singapore earning more than S$6,000 a year"
+    },
+    "answer": "C",
+    "explanation": "教材 2.4 指出 CPF 缴费适用于在新加坡工作且月总工资超过 S$50 的 SC 与 PR,外国人豁免。S$6,000 是自雇者缴 MediSave 的年净营业收入门槛,非一般缴费门槛。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.4–2.5",
+    "status": "draft",
+    "tags": [
+      "cpf",
+      "liability"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-005",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "What is the legislated minimum interest rate per annum on CPF Ordinary Account (OA) savings?",
+    "options": {
+      "A": "4.0%",
+      "B": "2.6%",
+      "C": "2.5%",
+      "D": "6.0%"
+    },
+    "answer": "C",
+    "explanation": "教材 2.21 指出 OA 利率以本地主要银行 3 个月平均利率计算,受法定最低 2.5% p.a. 约束。4% 是 SA/MA/RA 的现行下限;2.6% 是 HDB 贷款利率;6% 是含额外利息后的可能上限。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.21",
+    "status": "draft",
+    "tags": [
+      "cpf",
+      "interest"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-006",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Which of the following is one of the eligibility requirements to participate in the CPF Investment Scheme (CPFIS)?",
+    "options": {
+      "A": "The member must be at least 21 years old",
+      "B": "The member must have more than S$40,000 in his Ordinary Account",
+      "C": "The member must have more than S$20,000 in his Ordinary Account (for CPFIS-OA) and/or more than S$40,000 in his Special Account (for CPFIS-SA)",
+      "D": "The member must be a foreigner working in Singapore"
+    },
+    "answer": "C",
+    "explanation": "教材 2.25(a) 规定 CPFIS 资格:年满 18 岁、非未解除破产人,且 OA 超过 S$20,000(投 CPFIS-OA)及/或 SA 超过 S$40,000(投 CPFIS-SA)。A 年龄应为 18 而非 21;B 把 SA 门槛错套到 OA;外国人不符合。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.25(a)",
+    "status": "draft",
+    "tags": [
+      "cpfis",
+      "eligibility"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-007",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "From 1 October 2018, what must a new CPFIS investor do before starting to invest under the scheme?",
+    "options": {
+      "A": "Set aside the Full Retirement Sum",
+      "B": "Complete the Self-Awareness Questionnaire (SAQ) on the CPF website",
+      "C": "Obtain written approval from the Monetary Authority of Singapore",
+      "D": "Transfer all OA savings to the Special Account"
+    },
+    "answer": "B",
+    "explanation": "教材 2.25(a) 指出自 2018-10-01 起,新 CPFIS 投资者须先在 CPF 网站完成自我认知问卷(SAQ),以评估其基本财务知识及 CPFIS 是否适合。其余选项均非 CPFIS 的前置要求。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.25(a)",
+    "status": "draft",
+    "tags": [
+      "cpfis",
+      "saq"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-008",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Under the CPF retirement sums framework, the Full Retirement Sum (FRS) is best described as:",
+    "options": {
+      "A": "Equal to the Basic Retirement Sum (BRS)",
+      "B": "Two times the BRS, providing higher payouts that also cover rental expenses",
+      "C": "Four times the BRS",
+      "D": "A sum that covers only basic living needs excluding rent"
+    },
+    "answer": "B",
+    "explanation": "教材 3.2 指出 FRS 是 BRS 的两倍,可提供更高月领并涵盖租金支出。仅覆盖基本生活(不含租金)的是 BRS;四倍 BRS 是 2025 年起的 ERS 上限。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.3.2",
+    "status": "draft",
+    "tags": [
+      "retirement-sum",
+      "frs"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-009",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "A member is automatically included in CPF LIFE if he is a Singapore Citizen or Permanent Resident and:",
+    "options": {
+      "A": "He was born in 1958 or after and has at least S$60,000 in his Retirement Account when he starts his monthly payouts",
+      "B": "He was born before 1958 and has at least S$40,000 in his Retirement Account",
+      "C": "He has reached age 55 with any balance in his Retirement Account",
+      "D": "He has chosen the CPF LIFE Escalating Plan"
+    },
+    "answer": "A",
+    "explanation": "教材 3.13 指出,1958 年或以后出生的 SC/PR,且开始领取月领时 RA 至少 S$60,000 者将自动纳入 CPF LIFE。S$40,000 的旧门槛适用于 2013-2016 年间满 55 岁的特定群体,非现行自动纳入标准。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.3.13",
+    "status": "draft",
+    "tags": [
+      "cpf-life",
+      "auto-inclusion"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-010",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Which statement about the three CPF LIFE plans is correct?",
+    "options": {
+      "A": "The Standard Plan's monthly payouts increase by 2% every year to protect against inflation",
+      "B": "A member who does not choose a plan is placed on the Basic Plan by default",
+      "C": "The Escalating Plan's monthly payouts increase by 2% every year, starting lower but eventually higher than the Standard Plan",
+      "D": "The Basic Plan provides the highest and most level monthly payouts of the three"
+    },
+    "answer": "C",
+    "explanation": "教材 3.14(a) 指出 Escalating Plan 月领每年增 2% 抗通胀,起点较低但最终高于 Standard 与 Basic。每年增 2% 的是 Escalating 而非 Standard;默认计划是 Standard 而非 Basic;Standard 提供较高且水平的月领,Basic 月领较低且会递减。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.3.14(a)",
+    "status": "draft",
+    "tags": [
+      "cpf-life",
+      "plans"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-011",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Contributions to a member's MediSave Account are subject to a maximum amount known as the Basic Healthcare Sum (BHS). Which statement is correct?",
+    "options": {
+      "A": "The BHS continues to be adjusted every year even after the member turns 65",
+      "B": "Amounts above the BHS are forfeited",
+      "C": "The BHS is the same as the Full Retirement Sum",
+      "D": "The BHS is fixed for life when the member turns 65; for those below 65 in 2024 the prevailing BHS is S$71,500"
+    },
+    "answer": "D",
+    "explanation": "教材 3.24–3.25 指出 BHS 在会员 65 岁时定终身;2024 年 65 岁以下会员的现行 BHS 为 S$71,500。超过 BHS 的金额不会被没收,而是转入 SA/RA(或已达 FRS 则转 OA)。BHS 与 FRS 是不同概念。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.3.24–3.25",
+    "status": "draft",
+    "tags": [
+      "medisave",
+      "bhs"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-012",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "What is the maximum sum assured under the Dependants' Protection Scheme (DPS) for a CPF member up to age 60?",
+    "options": {
+      "A": "S$55,000",
+      "B": "S$5,000",
+      "C": "S$70,000",
+      "D": "S$60,000"
+    },
+    "answer": "C",
+    "explanation": "教材 4.3 指出 DPS 对会员 60 岁前的最高保额为 S$70,000;60 至 65 岁为 S$55,000;最低保额为 S$5,000。S$60,000 与 DPS 保额无关。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.4.3",
+    "status": "draft",
+    "tags": [
+      "dps",
+      "sum-assured"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s13-013",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "stem": "Which statement about CPF legacy planning and nominations is correct?",
+    "options": {
+      "A": "CPF savings form part of a member's estate and can be included in his will",
+      "B": "A CPF nomination is automatically revoked upon the member's marriage",
+      "C": "Where no nomination is made, savings are paid directly to nominees within 17 working days",
+      "D": "A CPF nomination does not cover any CPF LIFE premium balance"
+    },
+    "answer": "B",
+    "explanation": "教材 5.4 指出 CPF 提名在会员结婚时自动撤销。CPF 储蓄不构成遗产、不能纳入遗嘱(5.4);17 个工作日适用于有提名的情形(5.2),无提名则交公共信托人办公室、最长可达六个月(5.3);提名涵盖四账户及 CPF LIFE 保费余额(5.1)。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.5.1–5.4",
+    "status": "draft",
+    "tags": [
+      "legacy",
+      "nomination"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

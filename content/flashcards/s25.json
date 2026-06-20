@@ -4,27 +4,142 @@
     "part": 2,
     "syllabusItemId": "s25",
     "topicGroup": "process",
-    "title": "呈现原则 / Presenting",
-    "point": "清晰、客户能懂;披露假设/风险/费用/替代方案。 / Clear; disclose assumptions/risks/fees/alternatives.",
+    "title": "呈现的核心目标 / Aim of the presentation",
+    "point": "确保客户理解所推荐的产品及推荐理由,能解释特性、利益及其如何契合客户处境,并解答有关基本财务规划指引的疑问。 / Ensure the client understands the products recommended and the reasons; explain features, benefits and fit, and answer questions on the Basic Financial Planning Guide.",
     "keyfacts": [
-      "不片面强调收益 / No one-sided returns"
+      "解释须围绕客户的处境 / Explain how products fit his situation"
     ],
-    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.1 — Presenting Your Recommendations",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s25-002",
     "part": 2,
     "syllabusItemId": "s25",
     "topicGroup": "process",
-    "title": "客户决定 / Client decides",
-    "point": "确保理解后由客户自主决定,不施压;留存文件。 / Ensure understanding; client decides; keep records.",
+    "title": "会前准备 / Prepare for the meeting",
+    "point": "核对财务需求分析文件的准确性与完整性,需留副本则复印,遵循系统化流程,并在会前演练以熟悉流程。 / Check the accuracy and completeness of the needs-analysis documents, copy them if leaving a copy, follow a systematic process, and rehearse to be familiar with the flow.",
     "keyfacts": [
-      "建议书备查 / Keep the advice document"
+      "经验越多准备时间越短 / Preparation shortens with experience",
+      "客户偏好视觉时可用简单图示总结 / Summarise pictorially for visual clients"
     ],
-    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.2–1.8 — Prepare For The Meeting",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-003",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "系统化讲解顺序 (a)–(j) / Systematic sequence (a)–(j)",
+    "point": "目的→性质(含税务)→风险→利益与局限→选项→理由→对比基本规划指引→保单利益说明书(保证/非保证)→分销成本费用→14 天 free-look 运作。 / Purpose → nature (incl. tax) → risks → benefits & limitations → options → reasons → compare against Basic Financial Planning Guide → policy illustration (guaranteed/non-guaranteed) → distribution costs/charges → 14-day free-look.",
+    "keyfacts": [
+      "步骤 (a)–(e) 可参考产品摘要 / Steps (a)–(e): refer to the Product Summary"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.5–1.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-004",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "预约客户 / Make an appointment",
+    "point": "事先预约,告知会面所需时长以便客户预留时间,留联系电话便于改期,双方均须守约准时。 / Make a prior appointment, advise how long it will take so the client sets aside time, leave a contact number for rescheduling, and both keep to the appointment and be on time.",
+    "keyfacts": [
+      "因紧急情况须主动联系客户改期 / Contact the client to reschedule for emergencies"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.9–1.11 — Make An Appointment",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-005",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "清晰简明沟通 / Communicate clearly and simply",
+    "point": "用客户能懂的语言,避免技术术语;必须用退保价值、红利等术语时须解释;检查客户理解,鼓励澄清——沟通是双向的。 / Use language the client understands, avoid jargon; where terms like surrender value and bonuses are needed, explain them; check understanding and encourage clarification — communication is two-way.",
+    "keyfacts": [
+      "LIA《Your Guide to Life Insurance》含简明术语定义 / LIA guide gives plain-language term definitions"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.12–1.14 — Communicate Clearly And Simply",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-006",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "重大事实披露 / Material-fact disclosure",
+    "point": "成交填表时强调披露所有重大事实;存疑是否重大即应披露;警告不披露可能使其或受益人在保单下一无所获,并提请注意表上警示声明。 / At closing, stress disclosing all material facts; if in doubt whether material, disclose it; warn that non-disclosure may mean he or his beneficiaries receive nothing, and point to the warning statement on the form.",
+    "keyfacts": [
+      "警示声明印在所有申请/建议书上 / Warning statement appears on all proposal forms"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.15–1.16 — Closing",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-007",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "签署声明与授权 / Declarations & authorisations",
+    "point": "客户签署时声明/授权:已真实披露所有重大事实、未隐瞒、知悉不披露会丧失利益,并授权寿险公司与医疗来源/保险机构/LIA 医疗登记册互相披露相关信息。 / On signing, the client declares/authorises: all material facts disclosed truthfully, none withheld, awareness that benefits may be lost, and authorises mutual release of information with medical sources/insurers/LIA medical register.",
+    "keyfacts": [
+      "授权不论建议书最终是否被接纳均有效 / Authorisation applies whether or not the proposal is taken up",
+      "客户可能须接受体检与检测 / Client may need medical examinations and tests"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.17–1.18",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-008",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "文件提供顺序 / Sequence of documents",
+    "point": "依 LIA 指引按顺序提供:封面页→保单利益说明书→产品摘要→捆绑产品披露,并连同《Your Guide to Life/Health Insurance》一并提供。 / Per LIA Guidelines, provide in sequence: Cover Page → Policy Illustration → Product Summary → Bundled Product Disclosure, together with 'Your Guide to Life/Health Insurance'.",
+    "keyfacts": [
+      "ILP 另提供产品亮点表(Product Highlights Sheet) / ILPs also get a Product Highlights Sheet"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.19–1.22",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-009",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "成本披露与参考清单 / Cost disclosure & checklist",
+    "point": "成本与佣金等分销成本依法须披露,列于保单利益说明书;销售时点须提供并由客户签署参考清单,内容依 FAA-N03。 / All costs and commission-type distribution costs must be disclosed by law in the Policy Illustration; at point of sale provide a reference checklist, signed by the client, with contents per FAA-N03.",
+    "keyfacts": [
+      "FAA-N03 六类:一般资料/身份、报酬、利益冲突、指定投资产品、过往与未来表现示例、营销材料 / FAA-N03 six items",
+      "另须给寿险咨询表副本 / Also give a copy of the Life Insurance Advisory Form"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.23–1.27 — FAA-N03",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s25-010",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "title": "中止销售与拒绝 / Aborting and declining",
+    "point": "若怀疑客户不理解关键特性(尤其投资产品)或未通过客户知识评估(CKA),代表必须能中止销售;客户不适合时应拒售;客户拒绝建议时可问理由但不应坚持。 / If the client may not understand critical features (especially investment products) or fails the CKA, the representative must be able to abort the sale; decline the sale to unsuitable clients; if the client declines, you may ask why but should not insist.",
+    "keyfacts": [
+      "最好的产品是客户能理解的产品 / The best product is the one the client understands"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.28–1.29 — Example: Product Recommendation",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

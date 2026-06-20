@@ -3,33 +3,101 @@
     "id": "note-s23-overview",
     "part": 2,
     "syllabusItemId": "s23",
-    "title": "分析评估客户财务状况 / Analysing Financial Status",
-    "summary": "系统分析现金流、净值、保障缺口与风险承受,对照目标识别盈余/缺口,作为方案依据。 / Systematically analyse cash flow, net worth, protection gaps and risk appetite against goals to identify surpluses/shortfalls as the basis for solutions.",
+    "title": "分析与评估客户的财务状况 / Analysing and Evaluating a Client's Financial Status",
+    "summary": "正如看病要做健康检查,我们通过审视个人财务报表来评估客户的财务健康。核心工具是资产负债表(净值表)与收入表(现金流量表),并以一组个人财务比率与建议指引值对照,判断客户是否在向其财务目标靠近。 / Just as a medical check-up gauges health, examining a client's personal financial statements gauges financial health. The core tools are the Statement of Net Worth (balance sheet) and the Income Statement (cash-flow statement), supported by a set of personal financial ratios compared against guideline values to judge whether the client is moving toward his goals.",
     "sections": [
       {
-        "heading": "分析维度",
-        "body": "现金流(收支结余)、资产负债与净值、现有保障与投资、风险承受与目标的匹配。"
+        "heading": "为何审视个人财务报表",
+        "body": "正如我们去看医生检查健康,审视个人财务报表是为了了解财务健康状况,这是评估客户财务状况不可或缺的第一步。主要财务报表是资产负债表(balance sheet)与收入表(income statement)。资产负债表反映某一特定时点的财务现状(类似银行结单,呈现当下的资金资产);收入表则通过一年期间的收入来源与支出,说明我们如何走到当前状态(类似向新加坡税务局 IRAS 的报税)。审视报表可发现客户是否正在接近其财务目标,是开展任何财务规划前绝对必要的一步。"
       },
       {
-        "heading": "Dimensions",
-        "body": "Cash flow, assets/liabilities and net worth, existing cover/investments, and risk-goal alignment."
+        "heading": "Why examine personal financial statements",
+        "body": "Just as a medical check-up gauges health, examining personal financial statements gauges financial health, and is an indispensable first step in evaluating a client's financial status. The main statements are the balance sheet and the income statement. The balance sheet shows the current state at a specific point in time (like a bank statement showing money assets now); the income statement shows how we got there via income sources and expenditure over a period of usually one year (like a tax filing with IRAS). Examining the statements reveals whether the client is getting closer to his financial goals, and is absolutely necessary before any financial planning."
       },
       {
-        "heading": "识别缺口",
-        "body": "保障缺口=需求与现有保障之差;储蓄/退休缺口=目标所需与现有进度之差。"
+        "heading": "净值表(资产负债表)结构",
+        "body": "资产负债表按特定日期列出资产与负债;资产减去负债即得净值(net worth),代表所有过往财务活动的结果,因此资产负债表又称净值表(statement of net worth)。它分为三部分:(a)资产;(b)负债;(c)净值。教材以 George Chan 于 2023-12-31 的资产负债表为例:总资产 S$310,000、总负债 S$131,000、净值 S$179,000。"
       },
       {
-        "heading": "Identify gaps",
-        "body": "Protection gap = needs minus existing cover; savings/retirement gap = target minus current progress."
+        "heading": "Statement of Net Worth (balance sheet) structure",
+        "body": "The balance sheet lists assets and liabilities as at a specific date; assets minus liabilities gives net worth, the result of all past financial activities — hence the name statement of net worth. It has three sections: (a) Assets; (b) Liabilities; (c) Net worth. George Chan's balance sheet at 31 Dec 2023 shows total assets S$310,000, total liabilities S$131,000, and net worth S$179,000."
+      },
+      {
+        "heading": "三类资产:流动、投资、个人",
+        "body": "资产分三大类:(a)流动资产(Liquid Assets)——现金及可在一年内轻易变现的近现金资源(储蓄/支票账户、定期存款、货币市场工具),用于当前及应急,而非退休等长期用途;(b)投资资产(Investment Assets)——为长期目标持有,如股票、债券、单位信托、贵金属、房地产、企业投资及 CPF 储蓄;(c)个人资产(Personal Assets)——为当前及长期消费,而非长期目标,如车、自住房、衣物、手表。同一资产可归入多类,取决于取得目的与用途(如古董车意在增值变卖则属投资资产;意在留给孙辈的珠宝则属个人资产)。"
+      },
+      {
+        "heading": "Three asset categories: liquid, investment, personal",
+        "body": "Assets fall into three categories: (a) Liquid Assets — cash and near-cash convertible within one year (savings/checking accounts, fixed deposits, money-market instruments), meant for current and emergency use, not long-term purposes like retirement; (b) Investment Assets — held for long-term objectives (stocks, bonds, unit trusts, precious metals, real estate, business investments, CPF savings); (c) Personal Assets — for present and long-term consumption, not long-term objectives (car, home, clothing, watch). The same asset can fall in more than one category depending on why it was acquired and how it is used (an antique car held for capital gains is an investment asset; jewels kept for grandchildren are personal assets)."
+      },
+      {
+        "heading": "应急基金:3–6 个月(收入不规律则 12 个月)",
+        "body": "测算应急用流动资产时,应汇总一个月的家庭及个人开支(含贷款还款、信用卡账单、保险保费与税款),并将必需品与可有可无项分开。建议至少预留相当于 3 至 6 个月开支的应急基金,以应付医疗事件、失业或更换必要家电等大多数紧急情况;若收入不规律,则建议预留相当于 12 个月开支的应急基金。"
+      },
+      {
+        "heading": "Emergency funds: 3–6 months (12 months if income is irregular)",
+        "body": "To size emergency funds, compile one month's household and personal expenses (including loan repayments, credit-card bills, insurance premiums and taxes), separating essentials from good-to-haves. Aim to set aside at least 3 to 6 months' worth of expenses as a buffer for most emergencies (a medical incident, loss of job, replacement of essential appliances). If income is irregular, aim for emergency funds equivalent to 12 months of expenses."
+      },
+      {
+        "heading": "资产与负债的计价",
+        "body": "资产按当前公允市场价值(fair market value)报告,即在市场上可售出的价格;但某些难以估值的资产为保守起见常按原始成本(original cost)报告(如五年前以 S$100,000 入股咨询公司的合伙权益,原始成本客观,无人能反驳其为 S$100,000)。负债是所欠债务,可为短期(如一年内偿付的信用卡债)或长期(如车贷、房贷),通常按原始成本即本金(principal)报告。例:借 S$200,000 购 HDB 组屋,月供 S$3,000 中 S$2,000 为利息、S$1,000 抵减本金,还款后资产负债表上列示 S$199,000。"
+      },
+      {
+        "heading": "Valuation of assets and liabilities",
+        "body": "Assets are reported at current fair market value — the price they might sell for; but assets difficult to value are often reported at original cost to stay conservative (e.g. a S$100,000 partnership bought five years ago, whose original cost is objective). Liabilities are debts owed — short-term (e.g. credit-card debt due within a year) or long-term (car loans, home mortgages) — normally reported at original cost, i.e. the principal. Example: a S$200,000 HDB loan with a S$3,000 monthly instalment of which S$2,000 is interest and S$1,000 reduces principal leaves S$199,000 reported after payment."
+      },
+      {
+        "heading": "净值的意义",
+        "body": "净值 = 资产 − 负债。George 的净值 = S$310,000 − S$131,000 = S$179,000,即变卖全部资产并清偿全部负债后所剩。净值才是真正身家的底线数字:有人自称拥有 S$500 万豪宅,若按揭 S$400 万、另有 S$80 万债务,净值仅 S$200 万就不再耀眼;而拥有一套 S$500,000 全款无债的房子反而更可取。净值不衡量现金流,但客户花钱方式与财务全貌之间存在清晰关系。了解资产构成对规划尤为有用(现金多于股票则优先强调增长;无退休储备则需设法补上)。净值表是客户在某一时点财务位置的快照。"
+      },
+      {
+        "heading": "The meaning of net worth",
+        "body": "Net worth = assets − liabilities. George's net worth = S$310,000 − S$131,000 = S$179,000, what remains if all assets were sold and all liabilities paid off. Net worth is the bottom-line of what one is really worth: a S$5m home with a S$4m mortgage and S$800,000 of other debt leaves only S$200,000 net worth — far less impressive than a fully paid S$500,000 home with no debt. Net worth does not measure cash flow, but there is a clear relationship between how a client spends and his financial picture. Knowing the asset mix aids planning (more cash than stocks → emphasise growth; nothing for retirement → set some aside). The net-worth statement is a snapshot of where the client stands at a point in time."
+      },
+      {
+        "heading": "收入表(现金流量表)与盈余/赤字",
+        "body": "资产负债表显示某时点的财务位置,收入表则显示一段期间(通常一年)的收入对支出。教材假设个人的收入表与现金流量表相同(留意收入与现金可不同:赚到 S$5,000 是收入,但未实收前并非现金)。George 2023 年总收入 S$70,000(净薪 50,000 + 租金 20,000),总支出 S$76,000,盈余/赤字 = (S$6,000)赤字。该值可为正(现金盈余,流入>流出)、负(现金赤字)或零(流入恰等于流出)。现金盈余可用于储蓄/投资、购置资产或减债;但盈余不必然代表资金随时可用——现金流量表显示已发生之事,盈余/赤字的处置反映在资产、负债与净值中。支出可再分为必需(needs:食物、水电、衣物)与非必需(wants:娱乐、欧洲年假等)。"
+      },
+      {
+        "heading": "Statement of Cash Flows (income statement) and surplus/deficit",
+        "body": "The balance sheet shows position at a point in time; the income statement shows income against expenditure over a period, usually one year. The text treats an individual's income statement and cash-flow statement as identical (noting income and cash can differ: earning S$5,000 is income, but it is not cash until paid). George's 2023 total income was S$70,000 (net salary 50,000 + rental 20,000), total expenditure S$76,000, giving a deficit of (S$6,000). The figure may be positive (cash surplus, inflows > outflows), negative (deficit) or zero. A surplus can fund savings/investment, asset purchases or debt reduction, but does not necessarily mean funds are ready to use — the statement shows what occurred, while disposition of the surplus/deficit appears in assets, liabilities and net worth. Expenditure splits into essentials (needs: food, utilities, clothing) and non-essentials (wants: entertainment, a holiday to Europe)."
+      },
+      {
+        "heading": "现金流量表的用途与支持文件",
+        "body": "现金流量表可用作工具,判断个人是否善用其收入,并通过以下方式辅助规划:发现支出模式中的潜在问题;识别这些问题的解决方案;更有效地配置资源。编制个人现金流量表时,宜备齐:收入凭证、雇佣合同、投资结单、保险结单、贷款结单、信用卡结单与税务结单等支持文件;编制个人资产负债表时则宜备齐银行结单、投资组合结单、CDP 账户结单(上市证券)、保险结单、CPF 结单、贷款协议、产权契据与信托契据等。"
+      },
+      {
+        "heading": "Uses of the cash-flow statement and supporting documents",
+        "body": "The cash-flow statement helps assess whether an individual makes good use of his income and aids planning by: discovering potential problems in spending patterns; identifying solutions to those problems; and allocating resources more effectively. Supporting documents for the cash-flow statement include income documents, employment contracts, investment/insurance/loan/credit-card and tax statements; for the balance sheet they include bank statements, investment-portfolio statements, CDP account statements (for listed securities), insurance and CPF statements, loan agreements, title deeds and trust deeds."
+      },
+      {
+        "heading": "个人财务比率(七个)与指引值",
+        "body": "比率分析从财务报表提取数据,生成关键比率以衡量财务健康;没有单一比率能说明全貌,需综合多个比率。以 George 的数据计算的七个比率为:1) 流动性比率 = 流动资产 ÷ 月开支 = 10,000 ÷ (76,000/12) = 1.58(指引 ≥3–6 个月);2) 流动资产对净值比率 = 10,000 ÷ 179,000 = 5.6%(指引 ≥15%);3) 储蓄比率 = 储蓄与投资 ÷ 总收入 = 13,000 ÷ 70,000 = 18.6%(指引 ≥10%);4) 债务对资产比率 = 总负债 ÷ 总资产 = 131,000 ÷ 310,000 = 42.3%(指引 ≤50%);5) 偿债比率 = 年贷款还款 ÷ 年实得薪酬 = 22,000 ÷ 50,000 = 44.0%(指引 ≤35%);6) 投资资产对净值比率 = 投资资产 ÷ 净值 = 100,000 ÷ 179,000 = 55.9%(指引 ≥50%);7) 偿付能力比率 = 净值 ÷ 总资产 = 179,000 ÷ 310,000 = 57.7%。"
+      },
+      {
+        "heading": "The seven personal financial ratios and guidelines",
+        "body": "Ratio analysis takes data from the statements to gauge financial health; no single ratio tells the whole story, so several are used. Using George's figures: 1) Liquidity ratio = liquid assets ÷ monthly expenses = 10,000 ÷ (76,000/12) = 1.58 (guideline ≥3–6 months); 2) Liquid assets to net worth = 10,000 ÷ 179,000 = 5.6% (≥15%); 3) Savings ratio = savings & investments ÷ total income = 13,000 ÷ 70,000 = 18.6% (≥10%); 4) Debt-to-asset = total liabilities ÷ total assets = 131,000 ÷ 310,000 = 42.3% (≤50%); 5) Debt service = annual loan payments ÷ annual take-home pay = 22,000 ÷ 50,000 = 44.0% (≤35%); 6) Investment assets to net worth = investment assets ÷ net worth = 100,000 ÷ 179,000 = 55.9% (≥50%); 7) Solvency ratio = net worth ÷ total assets = 179,000 ÷ 310,000 = 57.7%."
+      },
+      {
+        "heading": "比率解读与 George 的诊断",
+        "body": "流动性比率显示失业后凭流动资产可维持月开支的月数——George 仅 1.58 个月,低于 3–6 个月指引,应增加流动资产(此处也适用于重病/身故风险情境,需额外保险资本)。流动资产对净值比率 5.6% 远低于 15%,同样表明流动性不足,应优先提升。储蓄比率 18.6% 高于 10%,储蓄/投资充足。债务对资产比率 42.3%(每 1 元资产中 42.3 分靠借贷),优于 50% 指引。偿债比率 44% 不及 35% 指引,George 用过多实得薪酬还贷(身故/重病时需寿险清偿债务,否则应将贷款留在可控金额内)。投资资产对净值比率 55.9% 优于 50%(随年龄增长该比率应上升)。偿付能力比率 57.7% 表示每 1 元资产中 57.7 分在清偿全部债务后真正属于他;当负债超过资产时净值为负即技术性资不抵债,故 George 净值市值可下跌至 57.7% 才会资不抵债。"
+      },
+      {
+        "heading": "Interpreting the ratios — George's diagnosis",
+        "body": "The liquidity ratio shows how many months of expenses liquid assets can cover if the job is lost — George lasts only 1.58 months, below the 3–6 month guideline, so he should add liquid assets (this also applies to critical-illness/death risk, needing extra insurance capital). Liquid assets to net worth of 5.6% is far below 15%, again signalling inadequate liquidity to prioritise. The savings ratio of 18.6% exceeds 10% — he saves/invests enough. Debt-to-asset of 42.3% (42.3 cents borrowed per dollar of assets) compares favourably with 50%. Debt service of 44% is unfavourable against the 35% guideline — too much take-home pay services loans (life insurance is needed at death/critical illness to discharge debts, else loans left manageable for survivors). Investment assets to net worth of 55.9% beats 50% (this should rise with age). Solvency of 57.7% means 57.7 cents per dollar of assets truly belong to him after settling debts; when liabilities exceed assets net worth turns negative (technically insolvent), so the market value of his net worth can fall to 57.7% before he becomes insolvent."
       }
     ],
     "keyPoints": [
-      "析现金流/净值/保障/风险 / Analyse cash flow/net worth/cover/risk",
-      "识别保障与储蓄缺口 / Identify protection and savings gaps",
-      "对照目标 / Evaluate against goals"
+      "资产负债表=净值表,某时点快照;净值=资产−负债(George S$179,000) / Balance sheet = net-worth statement; net worth = assets − liabilities",
+      "三类资产:流动/投资/个人;归类取决于取得目的与用途 / Three asset classes: liquid, investment, personal — by purpose and use",
+      "应急基金 3–6 个月开支;收入不规律则 12 个月 / Emergency fund 3–6 months' expenses, 12 months if income irregular",
+      "资产按公允市值(难估值者按原始成本);负债按原始成本=本金 / Assets at fair market value (or cost), liabilities at original cost = principal",
+      "收入表=现金流量表;George 盈余/赤字 = (S$6,000) / Income statement = cash-flow statement; George's deficit (S$6,000)",
+      "七个比率与指引:流动性≥3–6月、流动资产/净值≥15%、储蓄≥10%、债务/资产≤50%、偿债≤35%、投资/净值≥50% / Seven ratios and their guidelines",
+      "George 诊断:流动性不足(1.58月/5.6%)、偿债过高(44%>35%);储蓄、债务/资产、投资比率良好 / George: low liquidity & high debt service; healthy savings/debt/investment ratios"
     ],
-    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — Analysing and Evaluating a Client's Financial Status (SCI, Version 1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

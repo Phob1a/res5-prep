@@ -4,65 +4,295 @@
     "part": 2,
     "syllabusItemId": "s15",
     "topicGroup": "ethics",
-    "stem": "Professionalism requires a representative to:",
+    "stem": "Which of the following is NOT one of the four characteristics of a professional described in this chapter?",
     "options": {
-      "A": "Stop learning after the exam",
-      "B": "Maintain competence through continuing education and act within their competence",
-      "C": "Advise on anything regardless of knowledge",
-      "D": "Prioritise commission over service"
+      "A": "Maximisation of personal commission on every sale",
+      "B": "Evidence of mastery of subject matter",
+      "C": "Reliability",
+      "D": "Spirit of loyalty to fellow financial adviser representatives"
     },
-    "answer": "B",
-    "explanation": "专业精神=持续进修保持胜任、在能力范围内执业。",
+    "answer": "A",
+    "explanation": "教材 1.2–1.5 列出的四大特征为:掌握专业知识的证据、可靠性、管理自身利益、对同业的忠诚精神。'最大化个人佣金'恰是教材所批评的'纯自私的商业观',并非专业特征。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Professionalism",
-    "status": "draft",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.2–1.5",
     "tags": [
-      "professionalism"
+      "characteristics"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s15-002",
     "part": 2,
     "syllabusItemId": "s15",
     "topicGroup": "ethics",
-    "stem": "When a client’s matter is beyond a representative’s competence, they should:",
+    "stem": "According to the chapter, the basic characteristic that gives a professional credibility is:",
     "options": {
-      "A": "Pretend to know and proceed",
-      "B": "Seek assistance or refer to a qualified specialist",
-      "C": "Ignore the client",
-      "D": "Guess"
+      "A": "The size of the firm he represents",
+      "B": "Having the technical knowledge and skills of the product or subject matter",
+      "C": "The number of clients he serves",
+      "D": "The commission rate he charges"
     },
     "answer": "B",
-    "explanation": "超出能力应寻求协助或转介,不可不懂装懂。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Professionalism",
-    "status": "draft",
+    "explanation": "教材 1.2 指出,具备产品或主题的技术知识与技能是专业人士的基本特征,赋予其可信度。其余选项与可信度的来源无关。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.2",
     "tags": [
-      "competence"
+      "mastery",
+      "credibility"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s15-003",
     "part": 2,
     "syllabusItemId": "s15",
     "topicGroup": "ethics",
-    "stem": "Which reflects professionalism?",
+    "stem": "Where there is a conflict of interest between the client's interest and the professional's interest, the chapter states that the professional should:",
     "options": {
-      "A": "Diligence and integrity in serving the client’s interest",
-      "B": "Cutting corners to close fast",
-      "C": "Hiding mistakes",
-      "D": "Avoiding accountability"
+      "A": "Always place his own commercial interest first because he is accountable to his family",
+      "B": "Withdraw immediately from all advisory work",
+      "C": "Allow the client's interest to prevail within a reasonable scope",
+      "D": "Split the benefit equally between himself and the client"
+    },
+    "answer": "C",
+    "explanation": "教材 1.4 明确,利益冲突时专业人士应让客户利益在合理范围内优先。教材也承认执业须商业可行(可纳入盈利因素),但不等于把自身利益绝对放在首位;A 因此错误。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.4",
+    "tags": [
+      "self-interest",
+      "conflict"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-004",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Which statement best reflects the chapter's treatment of a professional doing 'free work' for a client?",
+    "options": {
+      "A": "A professional must always work for free when the client cannot pay",
+      "B": "A professional must never decline any client under any circumstances",
+      "C": "A professional must keep serving even if the client's demands are overwhelming",
+      "D": "A professional is not expected to do free work and may ask to be discharged if the client's interest is too overwhelming"
+    },
+    "answer": "D",
+    "explanation": "教材 1.4 指出专业人士不被要求做免费工作;若客户利益过于压倒性,专业人士应请求被解除对该客户的服务。其余选项与教材相反。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.4",
+    "tags": [
+      "self-interest",
+      "discharge"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-005",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "In the Singapore context, where can the details of the mandatory examination that a financial adviser representative must pass be found?",
+    "options": {
+      "A": "MAS Notice FAA-N26 (Competency Requirements for Representatives of Financial Advisers)",
+      "B": "Section 27(1) of the FAA",
+      "C": "The FAIR Dealing guidelines",
+      "D": "Section 2(1) of the FAA"
     },
     "answer": "A",
-    "explanation": "专业=勤勉、诚信、以客户利益为重。",
-    "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Professionalism",
-    "status": "draft",
+    "explanation": "教材 2.4 明确,代表须通过强制考试,细节见 MAS Notice FAA-N26(代表胜任要求)。s27(1) 是一个主事人规则;s2(1) 是代表定义;FAIR 指引是公平交易准则,均非考试要求出处。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s2.4 / MAS Notice FAA-N26",
     "tags": [
-      "integrity"
+      "exam",
+      "faa-n26"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-006",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is identified in the chapter as a basic requirement for an activity to be regarded as a profession?",
+    "options": {
+      "A": "A guaranteed minimum income for all members",
+      "B": "Entrance barriers, such as passing prescribed examinations and meeting integrity requirements",
+      "C": "A government subsidy for training",
+      "D": "A fixed retirement age for members"
+    },
+    "answer": "B",
+    "explanation": "教材 2.3 指出,一项专业需有入门门槛——通过规定考试以证明能力,并满足诚实、正直、财务健全等要求;个人不可自封专业。其余选项均非教材所列要求。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s2.3",
+    "tags": [
+      "profession",
+      "entrance-barriers"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-007",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Which statute is identified in the chapter as the main statute that regulates the conduct of financial services activities in Singapore?",
+    "options": {
+      "A": "The Insurance Act",
+      "B": "The Securities and Futures Act",
+      "C": "The Financial Advisers Act 2001",
+      "D": "The Companies Act"
+    },
+    "answer": "C",
+    "explanation": "教材 2.7 指出,《2001 年财务顾问法》(FAA 2001)是规管金融服务活动行为的主要成文法,由 MAS 主管。其余法规并非本章所指主要规管成文法。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s2.7",
+    "tags": [
+      "faa",
+      "regulator"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-008",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Regarding professional societies or associations for financial adviser representatives in Singapore, the chapter states that:",
+    "options": {
+      "A": "Every representative must join a single statutory association",
+      "B": "There are no associations at all in the industry",
+      "C": "Membership of any association is prohibited by the FAA",
+      "D": "There is no single association representing all representatives, but several credible associations represent different categories"
+    },
+    "answer": "D",
+    "explanation": "教材 2.8 指出,新加坡没有单一协会代表全体财务顾问代表,但有数个可信协会代表不同类别代表的声音。其余选项与教材描述不符。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s2.8",
+    "tags": [
+      "associations"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-009",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "A client is considering a complex, high-risk specified investment product such as an investment-linked life policy or an exchange-traded fund. According to the client expectations in the chapter, a professional should:",
+    "options": {
+      "A": "Conduct a client knowledge assessment or account review before making the recommendation",
+      "B": "Recommend the product without any assessment because the client asked for it",
+      "C": "Refuse to discuss the product at all",
+      "D": "Collect the full payment in cash before giving any advice"
+    },
+    "answer": "A",
+    "explanation": "教材 3.7 指出,客户知识与风险承受度各异;就 ILP、ETF 等复杂高风险指定投资产品作推荐时,专业人士应进行客户知识评估(CKA)或客户账户审查。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s3.7",
+    "tags": [
+      "client-expectations",
+      "cka"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-010",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Unless specifically authorised, how should a financial adviser representative handle a client's cheque payment, according to the chapter?",
+    "options": {
+      "A": "It should be made payable in the company's name and handed to the firm's cashier as soon as possible",
+      "B": "It should be made payable to the representative personally",
+      "C": "It should be deposited into the representative's own bank account",
+      "D": "It should be held by the representative until the policy is issued"
+    },
+    "answer": "A",
+    "explanation": "教材 3.10 指出,除非另获授权,代表不应直接收款;若以支票支付,应抬头为公司名称并尽快交予公司出纳,以避免混同、不当处理或挪用款项的指控。其余做法均不当。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s3.10",
+    "tags": [
+      "money-handling"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-011",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Why are financial adviser representatives under the FAA required by law to attend continuing professional development (CPD) courses?",
+    "options": {
+      "A": "Because clients pay extra for advisers with more CPD hours",
+      "B": "Because the FAA prohibits any advice without annual re-examination",
+      "C": "Because knowledge becomes outdated over time, and CPD keeps them abreast of products, rules, technology and skills",
+      "D": "Because CPD replaces the need for a fact-find"
+    },
+    "answer": "C",
+    "explanation": "教材 3.12 指出,资历会随时间变得过时与不相关,故法律要求 FAA 下的代表参加 CPD,以紧跟产品知识、规则法规、技术与相关技能的发展,从而提供专业建议。其余选项无教材依据。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s3.12, s1.2",
+    "tags": [
+      "cpd",
+      "competence"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-012",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Under Section 27(1) of the FAA, a representative is to act for only one principal, or for more than one principal only if the principals are related corporations. What are the stated objectives of this rule?",
+    "options": {
+      "A": "To increase the representative's commission and reduce his tax",
+      "B": "To allow the representative to choose the most profitable principal each month",
+      "C": "To limit the number of clients a representative may serve",
+      "D": "To ensure the principal closely supervises the representative and to secure clarity on status and responsibility for complaints and redress"
+    },
+    "answer": "D",
+    "explanation": "教材 4.3 指出该规则目的为:(a) 确保主事人始终密切监督代表;(b) 厘清代表身份及投诉与赔偿的责任归属。其余选项均非教材所述目的。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s4.3 / FAA s27(1)",
+    "tags": [
+      "one-principal",
+      "s27"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s15-013",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "stem": "Although the law places ultimate responsibility for the business conduct of a representative on the corporation (principal), the chapter lists the professional duties of the individual representative. Which is NOT one of those duties?",
+    "options": {
+      "A": "To obey the spirit and letter of the applicable law, rules, regulations and notices",
+      "B": "To follow the code of ethics or advisory sales process of their society or association",
+      "C": "To put the best interests of clients ahead of their own interests",
+      "D": "To guarantee a positive investment return to every client"
+    },
+    "answer": "D",
+    "explanation": "教材 4.4 与 4.9 列出的专业职责为:(a) 遵守法律法规通知的精神与文字;(b) 遵循所属团体的道德守则或咨询销售流程;(c) 将客户最佳利益置于自身之前。'保证投资正回报'并非职责,也与教材其他章节无投资保证的事实相悖。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s4.4, s4.9",
+    "tags": [
+      "duties",
+      "responsibilities"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

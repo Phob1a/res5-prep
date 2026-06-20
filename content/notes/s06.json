@@ -1,0 +1,86 @@
+[
+  {
+    "id": "note-s06-overview",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "title": "MAS 通知第三部分:四份通知概览 / MAS Notices — Part III Overview",
+    "summary": "本章覆盖四份 MAS 通知:FAA-N17(可疑活动与欺诈事件呈报)、FSM-N23(科技风险管理)、FAA-N19(直购保险产品 DPI 的分销)、FSM-N24(网络卫生)。前者重在呈报义务与时限,后三者重在科技/网络韧性与销售合规要求。 / This chapter covers four MAS Notices: FAA-N17 (reporting suspicious activities & fraud), FSM-N23 (technology risk management), FAA-N19 (distribution of Direct Purchase Insurance, \"DPI\"), and FSM-N24 (cyber hygiene). FAA-N17 centres on reporting duties and deadlines; the others set technology/cyber resilience and DPI distribution requirements.",
+    "sections": [
+      {
+        "heading": "FAA-N17 — 可疑活动与欺诈事件呈报:适用与触发",
+        "body": "依《财务顾问法令 2001》第 58 条发出,适用于所有持牌财务顾问。当发现对其安全、稳健或声誉具重大影响(material)的可疑活动或欺诈事件时,持牌财务顾问须向新加坡金融管理局(MAS)呈报。此外仍须依适用的反洗钱/反恐怖融资通知,向新加坡警察部队商业事务局可疑交易呈报办公室(STRO)呈交可疑交易报告。"
+      },
+      {
+        "heading": "FAA-N17 — Reporting suspicious activities & fraud: scope and trigger",
+        "body": "Issued under section 58 of the Financial Advisers Act 2001 and applies to all licensed financial advisers. A licensed FA must lodge a report with MAS upon discovering suspicious activities or incidents of fraud that are material to its safety, soundness or reputation. It must still file suspicious transaction reports with the STRO (Commercial Affairs Department, Singapore Police Force) under the applicable AML/CFT Notices."
+      },
+      {
+        "heading": "FAA-N17 — 表格、时限与不呈报的记录",
+        "body": "呈报须使用 Form F1(\"Suspicious Activities & Incidents of Fraud Report\"),且须在持牌财务顾问发现该活动或事件后不迟于 5 个工作日内呈交。就欺诈事件,应报警并将报案副本呈交 MAS;若未报警,须告知 MAS 其决定理由。若未向 MAS 呈报某可疑活动或事件,须将其决定理由记录在案。本通知即时生效。"
+      },
+      {
+        "heading": "FAA-N17 — Form, deadline and documenting non-reporting",
+        "body": "The report must be in Form F1 and lodged not later than 5 working days after discovery. For fraud, lodge a police report and submit a copy to MAS; if no police report is lodged, notify MAS of the reasons. Where the FA has not reported a suspicious activity/incident to MAS, it must document the reasons for that decision. The Notice takes immediate effect."
+      },
+      {
+        "heading": "FSM-N23 — 科技风险管理:适用与关键定义",
+        "body": "依《2022 年金融服务与市场法令》第 29(1) 条发出,适用于所有依《财务顾问法令 2001》持牌的财务顾问(\"licensee\")。旨在确保关键 IT 系统具高可靠性、可用性与可恢复性,并实施 IT 控制保护客户信息免遭未授权访问或披露。\"关键系统\"指其失效将对持证人运营造成重大中断或重大影响其客户服务的系统(如处理时效性交易或提供基本客户服务);\"相关事件\"(relevant incident)指对持证人运营有严重且广泛影响、或重大影响客户服务的系统故障或 IT 安全事件。"
+      },
+      {
+        "heading": "FSM-N23 — Technology risk management: scope and key definitions",
+        "body": "Issued under section 29(1) of the Financial Services and Markets Act 2022 and applies to all FAs licensed under the FAA 2001 (\"licensee\"). It aims at high reliability, availability and recoverability of critical IT systems and IT controls to protect customer information. A \"critical system\" is one whose failure causes significant disruption to operations or materially impacts customer service (e.g. time-critical transactions or essential customer services). A \"relevant incident\" is a system malfunction or IT security incident with severe and widespread impact on operations or materially impacting customer service."
+      },
+      {
+        "heading": "FSM-N23 — 数值门槛:停机、RTO 与呈报时限",
+        "body": "持证人须建立识别关键系统的框架与流程。每个关键系统在任一 12 个月期间内、影响运营或客户服务的最大非计划停机时间不得超过共 4 小时。须为每个关键系统设定不超过 4 小时的恢复时间目标(RTO),并至少每 12 个月验证并记录系统恢复测试。发现相关事件后须尽快、且不迟于 1 小时内通知 MAS;并须在发现相关事件后 14 天内(或 MAS 允许的更长期间)提交根因与影响分析报告。须实施 IT 控制保护客户信息。本通知自 2024 年 5 月 10 日生效。"
+      },
+      {
+        "heading": "FSM-N23 — Numeric thresholds: downtime, RTO and notification",
+        "body": "A licensee must have a framework to identify critical systems. Maximum unscheduled downtime for each critical system must not exceed a total of 4 hours within any 12-month period. It must set an RTO of not more than 4 hours per critical system, and validate/document recovery testing at least once every 12 months. It must notify MAS as soon as possible but not later than 1 hour upon discovery of a relevant incident, and submit a root cause and impact analysis report within 14 days (or longer if MAS allows). The Notice takes effect on 10 May 2024."
+      },
+      {
+        "heading": "FAA-N19 — DPI 分销:适用与渠道",
+        "body": "依《财务顾问法令 2001》第 58 条发出,设定直购保险产品(DPI)分销的要求,适用于持牌财务顾问、豁免财务顾问或财务顾问的代表(在其行为仅附带于 DPI 分销的财务咨询服务时)。财务顾问只可通过其代表或客户服务主任(CSO)、或经在线直购渠道分销 DPI。属 Tier 1 人寿保险公司的财务顾问,至少须在其主要营业地点或分行(非流动分行)通过代表或 CSO 分销 DPI;也可同时经在线直购渠道分销。代表在代表财务顾问行事时须遵守对财务顾问施加的每一项要求。"
+      },
+      {
+        "heading": "FAA-N19 — DPI distribution: scope and channels",
+        "body": "Issued under section 58 of the FAA 2001; sets requirements for distributing Direct Purchase Insurance (DPI). It applies to a licensed FA, an exempt FA, or a representative of an FA when providing advisory/arranging services solely incidental to DPI distribution. An FA must distribute DPI only through its representative or customer service officer (CSO), or via an online direct channel. A Tier 1 life insurer must, at minimum, distribute DPI through its representative or CSO at its principal place of business or branch (not a mobile branch); it may also use an online direct channel in addition. A representative must comply with every requirement imposed on the FA when acting on its behalf."
+      },
+      {
+        "heading": "FAA-N19 — 五大要求与销售保障",
+        "body": "财务顾问须遵守五类要求:(a) 实施保障措施;(b) 提供产品信息;(c) 提供处理一般查询/投诉/索赔的途径;(d) 实施内部政策与流程;(e) 明确代表或 CSO 的角色与职责。须提供工具/计算器,使客户能计算 DPI 的保障与应付保费总额。代表或 CSO 须向客户提示免责声明、除外与有条件接受(conditional acceptance),并在客户完成申请前以清晰简明方式提醒:DPI 不是储蓄账户或存款;提前终止/退保可能无法(部分或全部)取回已缴保费;部分利益不保证(若适用);以及设有 14 天自由审阅期(free-look)。"
+      },
+      {
+        "heading": "FAA-N19 — Five requirements and point-of-sale safeguards",
+        "body": "An FA must comply with five requirements: (a) implementation of safeguards; (b) provision of product information; (c) avenues to address general queries/complaints/claims; (d) internal policies and processes; (e) roles and responsibilities of a representative or CSO. It must make available tools/calculators so a client can compute the DPI coverage and total premiums payable. The representative or CSO must highlight disclaimers, exclusions and any conditional acceptance, and before the client completes the application alert the client clearly that: the DPI is not a savings account or deposit; premiums may not be recovered (wholly or partly) on early termination/surrender; some benefits are not guaranteed (if applicable); and there is a 14-day free-look period. Contravention may attract a fine not exceeding $25,000 (and $2,500/day for a continuing offence) under section 58(5)."
+      },
+      {
+        "heading": "FSM-N24 — 网络卫生:适用与关键定义",
+        "body": "依《2022 年金融服务与市场法令》第 29(1) 条发出,适用于所有依《财务顾问法令 2001》持牌的财务顾问(\"relevant entity\")。涵盖保护管理员账户、应用安全补丁、建立基线安全标准、部署网络安全设备、实施反恶意软件措施与强化用户认证。\"管理员账户\"指对操作系统、数据库、应用、安全设备或网络设备具完全权限与不受限访问的账户;\"多因素认证\"(MFA)指使用两个或以上因素验证账户持有人身份(所知、所有、所是)。若实体无法对系统行使直接或间接控制、且无合理替代供应商,则就该要求可不合规。"
+      },
+      {
+        "heading": "FSM-N24 — Cyber hygiene: scope and key definitions",
+        "body": "Issued under section 29(1) of the Financial Services and Markets Act 2022 and applies to all FAs licensed under the FAA 2001 (each a \"relevant entity\"). It covers securing administrative accounts, security patching, baseline security standards, network security devices, anti-malware measures and stronger user authentication. An \"administrative account\" has full privileges and unrestricted access to an OS, database, application, security appliance or network device. \"Multi-factor authentication\" uses two or more factors (something you know/have/are). A relevant entity need not comply to the extent it cannot exercise direct/indirect control over a system and cannot reasonably procure an alternative provider."
+      },
+      {
+        "heading": "FSM-N24 — 六项网络卫生实践",
+        "body": "(4.1) 管理员账户:确保每个管理员账户得到保护以防未授权访问或使用。(4.2) 安全补丁:对每个系统应用补丁修补漏洞,时间应与漏洞风险相称;若无补丁可用,须实施控制以降低风险。(4.3) 安全标准:为每个系统制定书面安全标准并确保系统符合;无法符合时须实施控制降低风险。(4.4) 网络边界防御:在网络边界实施控制以限制所有未授权网络流量。(4.5) 恶意软件防护:在每个系统实施一种或多种恶意软件防护措施(在可用且可实施时)。(4.6) 多因素认证:对关键系统的所有管理员账户、以及任何用于经互联网访问客户信息的系统上的所有账户实施 MFA。本通知自 2024 年 5 月 10 日生效。"
+      },
+      {
+        "heading": "FSM-N24 — Six cyber hygiene practices",
+        "body": "(4.1) Administrative accounts: secure every admin account against unauthorised access/use. (4.2) Security patches: apply patches to every system within a timeframe commensurate with the risk; where none is available, institute controls to reduce risk. (4.3) Security standards: maintain a written set of standards for every system and ensure conformity; where non-conforming, institute mitigating controls. (4.4) Network perimeter defence: implement controls at the network perimeter to restrict all unauthorised traffic. (4.5) Malware protection: implement one or more malware protection measures on every system where available/implementable. (4.6) Multi-factor authentication: implement MFA for all admin accounts of any critical system, and for all accounts on any system used to access customer information through the internet. The Notice takes effect on 10 May 2024."
+      }
+    ],
+    "keyPoints": [
+      "FAA-N17:重大可疑活动/欺诈须用 Form F1,发现后 ≤5 个工作日内呈报 MAS / FAA-N17: material suspicious/fraud reported to MAS via Form F1 within 5 working days",
+      "FSM-N23:关键系统 12 个月内最大非计划停机 ≤4 小时;RTO ≤4 小时 / FSM-N23: ≤4h unscheduled downtime per 12 months and RTO ≤4h for critical systems",
+      "FSM-N23:相关事件须 ≤1 小时通知 MAS,≤14 天提交根因与影响分析报告 / FSM-N23: notify MAS ≤1 hour; root-cause & impact report ≤14 days",
+      "FAA-N19:DPI 仅经代表/CSO 或在线直购渠道分销;须设 14 天 free-look 等销售提醒 / FAA-N19: DPI only via rep/CSO or online direct channel; 14-day free-look among point-of-sale alerts",
+      "FAA-N19:Tier 1 人寿保险公司至少须在主要营业地点/分行(非流动)经代表或 CSO 分销 / FAA-N19: Tier 1 life insurer must distribute via rep/CSO at principal place/branch",
+      "FSM-N24:六项实践,MFA 须用于关键系统管理员账户及经互联网访问客户信息的所有账户 / FSM-N24: six practices; MFA for critical-system admin accounts and internet-facing customer-info accounts"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.6 — MAS Notices Part III [FAA-N17; FSM-N23; FAA-N19; FSM-N24]",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

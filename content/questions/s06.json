@@ -1,0 +1,282 @@
+[
+  {
+    "id": "q-s06-001",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under Notice FAA-N17, within what time must a licensed financial adviser lodge a Suspicious Activities & Incidents of Fraud Report (Form F1) with MAS?",
+    "options": {
+      "A": "Not later than 24 hours after discovery",
+      "B": "Not later than 5 working days after discovery",
+      "C": "Not later than 14 days after discovery",
+      "D": "Within 1 hour after discovery"
+    },
+    "answer": "B",
+    "explanation": "FAA-N17 第 4 段规定呈报须用 Form F1,并在发现后不迟于 5 个工作日内呈交。1 小时是 FSM-N23 的相关事件通知时限,14 天是 FSM-N23 的根因报告时限,均不适用此处。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N17 para 4",
+    "status": "draft",
+    "tags": ["FAA-N17", "reporting"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-002",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Notice FAA-N17 requires a licensed financial adviser to report suspicious activities or incidents of fraud to MAS when such activities or incidents are:",
+    "options": {
+      "A": "Of any value, regardless of significance",
+      "B": "Reported in the media",
+      "C": "Material to the safety, soundness or reputation of the licensed financial adviser",
+      "D": "Discovered by an external auditor only"
+    },
+    "answer": "C",
+    "explanation": "FAA-N17 第 2 段将呈报触发限定为对持牌财务顾问的安全、稳健或声誉具重大影响(material)的可疑活动或欺诈事件。其他选项均非通知所设标准。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N17 para 2",
+    "status": "draft",
+    "tags": ["FAA-N17", "materiality"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-003",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Where a licensed financial adviser decides NOT to report a suspicious activity or incident to MAS under FAA-N17, it must:",
+    "options": {
+      "A": "Document the reasons for its decision",
+      "B": "Obtain written approval from the client",
+      "C": "Wait 30 days and reassess",
+      "D": "Do nothing further"
+    },
+    "answer": "A",
+    "explanation": "FAA-N17 第 5 段规定,若未向 MAS 呈报某可疑活动或事件,持牌财务顾问须将其决定理由记录在案。其余选项均无通知依据。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N17 para 5",
+    "status": "draft",
+    "tags": ["FAA-N17", "recordkeeping"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-004",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N17, in relation to an incident of fraud, a licensed financial adviser should ordinarily:",
+    "options": {
+      "A": "Only inform the client and close the file",
+      "B": "Lodge a police report and submit a copy of the report to MAS",
+      "C": "Refer the matter solely to its internal audit committee",
+      "D": "Report only to the Life Insurance Association"
+    },
+    "answer": "B",
+    "explanation": "FAA-N17 第 3 段说明就欺诈事件应报警并将报案副本呈交 MAS;若未报警,须告知 MAS 理由。该段同时确认仍须依 AML/CFT 通知向 STRO 呈交可疑交易报告。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N17 para 3",
+    "status": "draft",
+    "tags": ["FAA-N17", "police-report"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-005",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under Notice FSM-N23, the maximum unscheduled downtime for each critical system that affects operations or customer service must not exceed a total of:",
+    "options": {
+      "A": "1 hour within any 12-month period",
+      "B": "4 hours within any 6-month period",
+      "C": "4 hours within any period of 12 months",
+      "D": "24 hours within any period of 12 months"
+    },
+    "answer": "C",
+    "explanation": "FSM-N23 第 5 段规定每个关键系统在任一 12 个月期间内的最大非计划停机时间不得超过共 4 小时。注意期间是 12 个月而非 6 个月,门槛为 4 小时。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FSM-N23 para 5",
+    "status": "draft",
+    "tags": ["FSM-N23", "downtime"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-006",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under FSM-N23, a licensee must establish a recovery time objective (RTO) for each critical system of:",
+    "options": {
+      "A": "Not more than 4 hours",
+      "B": "Not more than 12 hours",
+      "C": "Not more than 1 hour",
+      "D": "Not more than 24 hours"
+    },
+    "answer": "A",
+    "explanation": "FSM-N23 第 6 段规定 RTO 不得超过 4 小时,即系统自中断点起须在该时长内恢复,并至少每 12 个月验证记录恢复测试。1 小时是相关事件的通知时限,不是 RTO。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FSM-N23 para 6",
+    "status": "draft",
+    "tags": ["FSM-N23", "rto"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-007",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under FSM-N23, upon discovery of a relevant incident, a licensee must notify the Authority:",
+    "options": {
+      "A": "Within 5 working days",
+      "B": "As soon as possible, but not later than 1 hour",
+      "C": "Within 14 days",
+      "D": "Only after completing the root cause analysis"
+    },
+    "answer": "B",
+    "explanation": "FSM-N23 第 7 段要求发现相关事件后尽快、且不迟于 1 小时内通知 MAS。14 天是后续根因与影响分析报告的提交时限(第 8 段),而非初始通知时限。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FSM-N23 para 7",
+    "status": "draft",
+    "tags": ["FSM-N23", "notification"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-008",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under FSM-N23, within what time must a licensee submit a root cause and impact analysis report to the Authority following discovery of a relevant incident?",
+    "options": {
+      "A": "Within 1 hour",
+      "B": "Within 5 working days",
+      "C": "Within 14 days (or such longer period as the Authority may allow)",
+      "D": "Within 12 months"
+    },
+    "answer": "C",
+    "explanation": "FSM-N23 第 8 段规定须在发现相关事件后 14 天内(或 MAS 允许的更长期间)提交根因与影响分析报告,内容含执行摘要、根因、影响与补救措施。1 小时是初始通知时限。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FSM-N23 para 8",
+    "status": "draft",
+    "tags": ["FSM-N23", "root-cause-report"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-009",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under Notice FAA-N19, through which channels may a financial adviser distribute Direct Purchase Insurance (DPI)?",
+    "options": {
+      "A": "Through any third-party introducer of its choice",
+      "B": "Only through unsolicited mass mailings",
+      "C": "Through its representative or customer service officer, or by way of an online direct channel",
+      "D": "Only through a mobile branch"
+    },
+    "answer": "C",
+    "explanation": "FAA-N19 第 8 段规定财务顾问只可通过其代表或客户服务主任(CSO)、或经在线直购渠道分销 DPI。Tier 1 人寿险公司另须至少在主要营业地点/分行(非流动分行)经代表或 CSO 分销(第 9 段)。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N19 paras 8-9",
+    "status": "draft",
+    "tags": ["FAA-N19", "dpi-channels"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-010",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N19, before a client completes an application for a DPI, the representative or customer service officer must alert the client that there is a free-look period of:",
+    "options": {
+      "A": "7 days",
+      "B": "14 days",
+      "C": "21 days",
+      "D": "30 days"
+    },
+    "answer": "B",
+    "explanation": "FAA-N19 第 12 段(e)(iv) 要求在客户完成申请前以清晰简明方式提醒其设有 14 天自由审阅期(free-look),并同时提醒 DPI 非储蓄/存款、提前退保可能取不回保费、部分利益不保证。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N19 para 12(e)",
+    "status": "draft",
+    "tags": ["FAA-N19", "free-look"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-011",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N19, a financial adviser that is a Tier 1 life insurer must, at the minimum, distribute DPI:",
+    "options": {
+      "A": "Solely through an online direct channel",
+      "B": "Through its representative or CSO at its principal place of business or branch office (not a mobile branch)",
+      "C": "Only through unlicensed introducers",
+      "D": "Through a mobile branch at shopping malls"
+    },
+    "answer": "B",
+    "explanation": "FAA-N19 第 9 段规定 Tier 1 人寿保险公司至少须在其主要营业地点或分行(非流动分行)通过代表或 CSO 分销 DPI;在此基础上仍可同时使用在线直购渠道,但不可仅以在线渠道满足该最低要求。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N19 para 9",
+    "status": "draft",
+    "tags": ["FAA-N19", "tier-1"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-012",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under Notice FSM-N24, multi-factor authentication (MFA) must be implemented for which of the following?",
+    "options": {
+      "A": "All administrative accounts of any critical system, and all accounts on any system used to access customer information through the internet",
+      "B": "Only the receptionist's email account",
+      "C": "Only non-critical test systems",
+      "D": "Only accounts that never access customer information"
+    },
+    "answer": "A",
+    "explanation": "FSM-N24 第 4.6 段要求对关键系统的所有管理员账户、以及任何用于经互联网访问客户信息的系统上的所有账户实施 MFA。其余选项与通知范围不符。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FSM-N24 para 4.6",
+    "status": "draft",
+    "tags": ["FSM-N24", "mfa"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-013",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Under FSM-N24, where no security patch is available to address a vulnerability in a system, a relevant entity must:",
+    "options": {
+      "A": "Immediately decommission the system",
+      "B": "Ignore the vulnerability until a patch is released",
+      "C": "Ensure that controls are instituted to reduce any risk posed by such vulnerability",
+      "D": "Report the vulnerability to the Life Insurance Association"
+    },
+    "answer": "C",
+    "explanation": "FSM-N24 第 4.2 段(b) 规定在无补丁可用时,相关实体须实施控制以降低该漏洞对系统所构成的风险。立即停用系统或忽略漏洞均非通知要求。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FSM-N24 para 4.2",
+    "status": "draft",
+    "tags": ["FSM-N24", "patching"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s06-014",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "stem": "Both FSM-N23 (Technology Risk Management) and FSM-N24 (Cyber Hygiene) state that they take effect on:",
+    "options": {
+      "A": "30 August 2019",
+      "B": "1 January 2020",
+      "C": "10 May 2024",
+      "D": "They take immediate effect"
+    },
+    "answer": "C",
+    "explanation": "FSM-N23 第 10 段与 FSM-N24 第 5.1 段均规定通知自 2024 年 5 月 10 日生效。\"即时生效\"是 FAA-N17 的措辞,30 August 2019 是 FAA-N19 修订的生效日,均非这两份 FSM 通知的生效日。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notices FSM-N23 para 10; FSM-N24 para 5.1",
+    "status": "draft",
+    "tags": ["FSM-N23", "FSM-N24", "effective-date"],
+    "updatedAt": "2026-06-19"
+  }
+]

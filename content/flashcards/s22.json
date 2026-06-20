@@ -4,27 +4,199 @@
     "part": 2,
     "syllabusItemId": "s22",
     "topicGroup": "process",
-    "title": "FNA 目的 / Purpose of FNA",
-    "point": "充分了解客户,为适当推荐建立合理基础;须书面。 / Understand the client to establish a reasonable basis; document it.",
+    "title": "事实调查首要目标 / Prime objective of fact-finding",
+    "point": "识别客户的财务规划需求,量化每项需求总额与既有保障,从而得出仍待补足的“缺口”。 / Identify the client's needs and quantify each need, existing provision and the resulting shortfall.",
     "keyfacts": [
-      "KYC 是前提 / KYC first"
+      "缺口 = 所需总额 − 既有保障 / Shortfall = total needed − existing provision",
+      "感知需求可能不同于真实需求 / Perceived needs can differ from real needs"
     ],
-    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.1.1–1.10",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s22-002",
     "part": 2,
     "syllabusItemId": "s22",
     "topicGroup": "process",
-    "title": "信息不足 / Insufficient info",
-    "point": "客户拒答关键信息→记录影响,不做缺乏合理基础的推荐。 / If the client declines, document impact; no unfounded advice.",
+    "title": "FAA-N16 三要求 / FAA-N16 three requirements",
+    "point": "对投资产品作建议的代表须:了解你的客户、进行需求分析、完成文档与记录保存。 / Reps making recommendations must know the client, conduct needs analysis, and complete documentation and record keeping.",
     "keyfacts": [
-      "不贸然推荐 / No premature advice"
+      "须使用规定的人寿保险咨询表 / Use the prescribed Life Insurance Advisory Form"
     ],
-    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.2.3; FAA-N16",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-003",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "LIA 最低标准 / LIA minimum standard",
+    "point": "咨询表须符合 MU 20/15 — LIA《人寿保险咨询流程最低标准》(2015-05-20),生效不迟于 2015-04-01。 / The form must follow MU 20/15 — the LIA Minimum Standard for Life Insurance Advisory Process (20 May 2015), effective no later than 1 April 2015.",
+    "keyfacts": [
+      "适用人寿及意外与健康保险,但不含个人意外险 / Applies to life and A&H, but not personal accident",
+      "无重大变化时加保可沿用旧信息 / Top-ups may rely on prior info if no material change"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.3.1, s.3.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-004",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "第4节投资概况例外 / Section 4 exception",
+    "point": "除产品类型特定的“第4节投资概况”外,须带客户走过每一节;客户拒答须清楚记录。 / Except for the product-type-specific Section 4 (Investment Profile), the client must be taken through every section; document any refusal.",
+    "keyfacts": [
+      "第4a 投资风险概况:为有现金价值产品提供建议时须完成 / Section 4a for products with cash value",
+      "第4b 客户知识评估:为非上市SIP提供建议时须完成 / Section 4b for Unlisted SIPs"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.3.6–3.7",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-005",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "信任个人 / Trusted Individual",
+    "point": "客户若属(≥62岁、英语不流利、中学及以下学历)三项中任意两项,表格建议由信任个人陪同。 / If the client meets any two of — aged 62+, not English-proficient, secondary education or below — the form recommends accompaniment by a Trusted Individual.",
+    "keyfacts": [
+      "信任个人须≥18岁、≥GCE‘N’/‘O’水准、英语流利、获客户信任 / TI: ≥18, ≥GCE 'N'/'O', English-proficient, trusted",
+      "陪同非强制,由客户选择 / Accompaniment is optional"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.5.16–5.17",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-006",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "供养年数估算 / Years to support",
+    "point": "子女:男孩 25−当前龄、女孩 22−当前龄(完成高等教育之龄);父母/其他:预期寿命(女80/男75)再加经验值8年。 / Children: 25−age (boys), 22−age (girls); parents/others: life expectancy (F80/M75) plus a rule-of-thumb 8 years.",
+    "keyfacts": [
+      "受养人越多、年限越长→所需保障越多 / More dependants/longer support → more cover"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.5.14–5.15",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-007",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "客户知识评估 / Client Knowledge Assessment",
+    "point": "为非上市SIP提供建议时须评估;满足三标准之一即通过:相关文凭/学历或CFA/ACCA;三年内CIS/ILP交易≥6次;过去10年内相关工作经验≥3连续年。 / Required for unlisted SIPs; pass by satisfying any ONE: relevant diploma/qualification or CFA/ACCA; ≥6 CIS/ILP transactions in 3 years; ≥3 consecutive years' relevant work experience in the past 10 years.",
+    "keyfacts": [
+      "不理解风险者不得独立购买 / Cannot buy independently if risks not understood"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.7.5–7.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-008",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "收入保障75%与等待期 / 75% income & waiting period",
+    "point": "收入保障最高覆盖税前收入的75%;雇主病假期限决定可选的等待期(如病假6个月→6个月等待期,保费较低)。 / Income protection covers up to 75% of pre-tax income; the employer's sick-leave period sets the waiting period (e.g. 6 months' leave → 6-month waiting period at lower premium).",
+    "keyfacts": [
+      "自雇者须自第一天起自行承担 / The self-employed must provide from day one"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.5.5, s.8.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-009",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "净资产头寸 / Net asset position",
+    "point": "总资产减总负债=净资产头寸;负净资产即视为破产。它只是“残值”,客户净资产可观仍可能全压在不产生收入的资产上。 / Total assets minus total liabilities = net asset position; a negative figure means considered bankrupt. It is merely a residual; a large net worth may be tied up in non-income-producing assets.",
+    "keyfacts": [
+      "资产按当前市值计 / Assets valued at current market value"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.9.13–9.14",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-010",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "缴款人利益附约 / Payor's benefit rider",
+    "point": "为受养人投保时应尽量附加缴款人利益附约,使客户身故/伤残时保单不致失效。 / When insuring a dependant, attach a payor's benefit rider where allowed so the policy does not lapse on the client's death or disability.",
+    "keyfacts": [
+      "见“受养人”关注领域 / Under the dependants focus area"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.15.29",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-011",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "良好倾听三条件 / Three conditions of good listening",
+    "point": "据 Dr Thomas Gordon,良好倾听须满足接纳、同理、真诚;且接纳≠同意、同理≠同情、真诚≠敏感。 / Per Dr Thomas Gordon, good listening requires acceptance, empathy and genuineness — acceptance is not agreement, empathy is not sympathy, genuineness is not sensitivity.",
+    "keyfacts": [
+      "积极倾听须辅以积极观察(肢体语言) / Active listening supplemented by observing body language"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.14.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-012",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "MediShield Life 与 CareShield Life",
+    "point": "MediShield Life 自2015-11-01取代MediShield,覆盖全体公民与PR的大额住院及部分昂贵门诊;CareShield Life是长期护理保险,覆盖1980年及以后出生者,保费可全由MediSave支付。 / MediShield Life replaced MediShield from 1 Nov 2015, covering all citizens and PRs for large hospital bills and selected costly outpatient care; CareShield Life is long-term-care insurance covering those born 1980 onwards, fully payable from MediSave.",
+    "keyfacts": [
+      "两者均由 CPF 局相关管理,属现有保障组合 / Part of the existing portfolio; CPF-administered"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.15.44, s.15.47",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-013",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "中立 vs 引导性问题 / Neutral vs leading questions",
+    "point": "中立问题无偏向、鼓励准确回答;引导性问题措辞诱导对方给出某既定(通常支持提问者立场)的答案。 / Neutral questions carry no bias and encourage accurate answers; leading questions are phrased to push a particular answer that supports the questioner's position.",
+    "keyfacts": [
+      "开放式求详尽/感受,封闭式求是否/事实 / Open = detail/feelings; closed = yes-no/facts"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.14.10–14.16",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s22-014",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "title": "受托人购买与产品风险 / Trustee purchase & risk",
+    "point": "若购买者是客户受托人(照护者/受赠人/遗嘱信托人),由受托人定产品适合性,代表向受托人推荐;因为受益人保管资金,产品整体风险概况应为低。 / If the purchaser is the client's trustee (caregiver/donee/testamentary trustee), the trustee determines suitability and the rep recommends to the trustee; because funds are safeguarded for the beneficiary, the overall product risk profile should be low.",
+    "keyfacts": [
+      "受托人不安时,留存款优于承担产品风险 / If uncomfortable, savings deposits beat product risk"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.16.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

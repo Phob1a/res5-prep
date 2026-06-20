@@ -1,0 +1,324 @@
+[
+  {
+    "id": "q-s10-001",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "FAA-G13 (Guidelines on Addressing Conflicts of Interest in Research) applies to a financial adviser that provides which financial advisory service?",
+    "options": {
+      "A": "Marketing life policies at a roadshow",
+      "B": "Issuing or promulgating research analyses or research reports concerning an investment product",
+      "C": "Operating an online direct channel for the sale of life policies",
+      "D": "Providing digital advisory services through algorithm-based tools"
+    },
+    "answer": "B",
+    "explanation": "教材 10A 第 1 段:FAA-G13 适用于以发出或传播涉及投资产品的研究分析/研究报告方式提供咨询服务的财务顾问。A 属 FSG-G02、C 属 FAA-G15、D 属 CMG-G02。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.10A — FAA-G13 para 1",
+    "tags": [
+      "faa-g13",
+      "scope"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-002",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G13, for how long must a Financial Institution maintain records of the bases and supporting documents of its analysts' research recommendations?",
+    "options": {
+      "A": "Not less than 3 years from the date of publication",
+      "B": "Not less than 5 years from the date of publication",
+      "C": "Not less than 7 years from the date of publication",
+      "D": "Indefinitely"
+    },
+    "answer": "B",
+    "explanation": "教材 10A 第 14 段明确:机构应将研究建议的依据与支持文件自发布之日起保存不少于 5 年。其余年限均非教材所载。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.10A — FAA-G13 para 14",
+    "tags": [
+      "faa-g13",
+      "records"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-003",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G13, which arrangement concerning analysts' reporting lines and compensation is required?",
+    "options": {
+      "A": "Research reports must be reviewed and approved by the corporate finance advisory function before release",
+      "B": "An analyst's bonus should be tied to the corporate finance deals he supports",
+      "C": "Analysts should be separate from staff performing sales trading, dealing or corporate finance advisory, and their pay must not be based on such transactions",
+      "D": "Analysts and dealers should share a single reporting line to improve coordination"
+    },
+    "answer": "C",
+    "explanation": "教材 10A 第 9–10 段:分析师须与销售交易、自营、企业融资咨询职能分开,设独立汇报线;研究报告不得由这些职能审阅或批准;薪酬不得基于任何销售交易、自营或企业融资交易。故 A、B、D 均与指引相反。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10A — FAA-G13 paras 9–10",
+    "tags": [
+      "faa-g13",
+      "independence"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-004",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G15, when must a financial adviser also make an equivalent Direct Purchase Insurance product (DPI) available on its online direct channel?",
+    "options": {
+      "A": "Only when the client specifically requests a DPI",
+      "B": "Never — DPIs may only be sold through a human adviser",
+      "C": "In all cases, regardless of whether the FA has an online platform",
+      "D": "Where it offers a specific life policy online and the insurer currently offers an equivalent DPI"
+    },
+    "answer": "D",
+    "explanation": "教材 10B 第 8–9 段:在网上直接渠道提供某保单前,应先确定该保险公司是否提供等值 DPI;若有,则应在该渠道一并提供。MAS 不强制所有 FA 上线 DPI(故 C 错),但有网上平台者须提供。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10B — FAA-G15 paras 8–9",
+    "tags": [
+      "faa-g15",
+      "dpi"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-005",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Among the prominent statements FAA-G15 requires before a client completes an online purchase of a life policy, what is the stated free-look period?",
+    "options": {
+      "A": "7 days",
+      "B": "14 days",
+      "C": "21 days",
+      "D": "30 days"
+    },
+    "answer": "B",
+    "explanation": "教材 10B 第 10(c)(iv) 段:须提示客户有 14 天自由检视期(free-look period)。其余天数均非教材所载。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.10B — FAA-G15 para 10",
+    "tags": [
+      "faa-g15",
+      "free-look"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-006",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G16, Regulation 32CB prescribes a relevant entity as an exempt financial adviser under which provision of the FAA?",
+    "options": {
+      "A": "Section 23(1)(f)",
+      "B": "Section 20(1)",
+      "C": "Section 27(1)",
+      "D": "Section 64"
+    },
+    "answer": "A",
+    "explanation": "教材 10C 第 6 段:Reg 32CB 将相关实体规定为第 23(1)(f) 条下的获豁免财务顾问。第 64 条是这些指引的发出依据,而非豁免依据。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10C — FAA-G16 para 6",
+    "tags": [
+      "faa-g16",
+      "reg32cb"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-007",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G16, which jurisdictions are listed in the Appendix as ASEAN participating countries with Recognised ACMF Members?",
+    "options": {
+      "A": "Thailand, Malaysia and the Philippines",
+      "B": "Indonesia, Vietnam and Brunei",
+      "C": "Malaysia, Indonesia and Thailand",
+      "D": "Thailand, Vietnam and the Philippines"
+    },
+    "answer": "A",
+    "explanation": "教材 10C 附录列明三个参与国及其认可成员:泰国(SEC)、马来西亚(SC)、菲律宾(SEC)。其余组合包含未列入附录的国家。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10C — FAA-G16 Appendix",
+    "tags": [
+      "faa-g16",
+      "acmf"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-008",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G16, which is one of the assessment criteria the Authority considers when deciding whether to approve an arrangement under Regulation 32CB?",
+    "options": {
+      "A": "The relevant entity maintains minimum assets under management of S$1 billion",
+      "B": "The relevant entity possesses a minimum of five years' corporate track record in the specific financial advisory services it proposes to effect",
+      "C": "The relevant entity is incorporated in Singapore",
+      "D": "The relevant entity holds a Capital Markets Services licence for fund management"
+    },
+    "answer": "B",
+    "explanation": "教材 10C 第 10 段:评估标准(非详尽)包括在拟提供服务上有至少 5 年企业往绩、该 5 年内财务稳健且诚实公平履职、并在指定东盟国持牌受认可成员监管。S$10 亿 AUM 与新加坡注册并非 32CB 的标准(前者属 CMG-G02 数字顾问语境)。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.10C — FAA-G16 para 10",
+    "tags": [
+      "faa-g16",
+      "criteria"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-009",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under CMG-G02, when may a digital adviser operating as an FA rely on the 'Dealing Exemption' from holding a CMS licence for dealing in capital markets products?",
+    "options": {
+      "A": "Only if the client accepts the specific recommendation made by the digital adviser",
+      "B": "Only for OTC derivatives contracts passed to a brokerage firm",
+      "C": "When it merely assists to pass on clients' buy or sell orders to brokerage firms for execution, incidental to its financial advisory activities",
+      "D": "When it takes custody of clients' moneys to settle the trades"
+    },
+    "answer": "C",
+    "explanation": "教材 10D 第 16–18 段:Dealing Exemption 适用于仅将客户买卖盘传予经纪行执行且附带于咨询活动的情形,适用于除 OTC 衍生合约外的指定产品。其与客户是否接受具体建议无关(故 A 错);B 方向相反;FA 数字顾问不得持有客户资产(故 D 错)。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 16–18",
+    "tags": [
+      "cmg-g02",
+      "dealing-exemption"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-010",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under CMG-G02, the 'Fund Management Exemption' for periodic portfolio rebalancing is limited to portfolios comprising:",
+    "options": {
+      "A": "Individual listed securities only",
+      "B": "Solely listed and unlisted collective investment schemes (CIS)",
+      "C": "Any mix of CIS and individual securities",
+      "D": "OTC derivatives contracts"
+    },
+    "answer": "B",
+    "explanation": "教材 10D 第 20–21 段:基金管理豁免仅限于仅由上市与非上市 CIS 组成的组合再平衡;含个别证券的组合需 FA 就具体证券给出意见并取得客户同意,故不在豁免范围。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 20–21",
+    "tags": [
+      "cmg-g02",
+      "fund-management-exemption"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-011",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under CMG-G02, who is ultimately responsible and accountable for the proper development, monitoring and testing of a digital adviser's client-facing tools?",
+    "options": {
+      "A": "The third-party technology provider that white-labels the platform",
+      "B": "The independent human adviser conducting post-transaction sample testing",
+      "C": "MAS, as the licensing authority",
+      "D": "The Board and Senior Management, even where they delegate day-to-day operational oversight"
+    },
+    "answer": "D",
+    "explanation": "教材 10D 第 28、30 段:董事会与高级管理层对客户端工具的治理与监督负最终责任;即便将日常运营监督委托他人,仍对其妥善开发、监控与测试负责。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 28, 30",
+    "tags": [
+      "cmg-g02",
+      "governance"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-012",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under CMG-G02, a fully-automated digital adviser relying on the FAA-N16 Exception (not collecting full information under paras 11(c)–(i)) must still satisfy all required conditions. Which of the following is NOT one of those conditions?",
+    "options": {
+      "A": "The advice is fully automated with no human adviser intervention in the advisory process",
+      "B": "There are in-built 'knock-out' or threshold questions to identify and eliminate unsuitable clients",
+      "C": "The advice is limited to CIS that are in substance Excluded Investment Products (EIPs)",
+      "D": "The adviser need not collect any information on the client's financial objectives or risk tolerance"
+    },
+    "answer": "D",
+    "explanation": "教材 10D 第 47–48 段:即使适用 FAA-N16 豁免,数字顾问仍须采取合理步骤收集客户的财务目标与风险承受度,以确认建议适合。A、B、C 均为豁免的必备条件,故 D 不是条件且与教材相反。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 47–48",
+    "tags": [
+      "cmg-g02",
+      "faa-n16-exception"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-013",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FSG-G02 Safeguard 2, mystery shopping exercises and site visits should be conducted on a regular basis and cover at least what proportion of the financial institution's marketing and distribution arrangements in that year?",
+    "options": {
+      "A": "At least one-quarter",
+      "B": "At least one-third",
+      "C": "At least half",
+      "D": "All of them"
+    },
+    "answer": "C",
+    "explanation": "教材 10E 第 2.1.12 段:神秘购物与现场巡查应全年定期进行,并覆盖该机构当年至少一半的营销分销安排。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.10E — FSG-G02 para 2.1.12 (Safeguard 2)",
+    "tags": [
+      "fsg-g02",
+      "mystery-shopping"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s10-014",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "stem": "Under FSG-G02, for which sales is a financial institution expected to implement Safeguard 1 (call-backs or surveys before or within the free-look/cooling-off period)?",
+    "options": {
+      "A": "Banking and general insurance products related to the main product bought",
+      "B": "Simple life policies sold as an ancillary product to loans with a simple payment basis",
+      "C": "Life insurance policies, accident and health policies, and collective investment schemes",
+      "D": "All products, with no exceptions"
+    },
+    "answer": "C",
+    "explanation": "教材 10E Safeguard 1:机构应对人寿保单、意外与健康保单及集合投资计划的销售实施回访/调查。作为简单还款贷款附带的简单人寿保单被排除(故 B 错);A 属 Safeguard 2 的豁免范畴;回访仅适用于有自由检视/冷静期的产品,故并非毫无例外(D 错)。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.10E — FSG-G02 Safeguard 1",
+    "tags": [
+      "fsg-g02",
+      "call-backs"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

@@ -4,65 +4,297 @@
     "part": 2,
     "syllabusItemId": "s21",
     "topicGroup": "process",
-    "stem": "An important early step in building the client relationship is to:",
+    "stem": "According to the chapter, client service is provided to the client:",
     "options": {
-      "A": "Close a sale immediately",
-      "B": "Clarify the scope of engagement, fees and mutual responsibilities",
-      "C": "Avoid discussing fees",
-      "D": "Promise guaranteed returns"
+      "A": "Only at the point of sale",
+      "B": "Only when a complaint is received",
+      "C": "Only after a policy is issued",
+      "D": "Before, during and after purchasing, and in using the product and service"
     },
-    "answer": "B",
-    "explanation": "开场厘清服务范围、收费与责任,管理期望。",
+    "answer": "D",
+    "explanation": "教材 1.1 明确客户服务是在购买之前、之中、之后以及使用产品与服务过程中提供的服务。其余选项把客户服务窄化为单一时点,与教材不符。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.1.1",
     "status": "draft",
     "tags": [
-      "scope"
+      "client-service"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s21-002",
     "part": 2,
     "syllabusItemId": "s21",
     "topicGroup": "process",
-    "stem": "The client–representative relationship is best characterised as:",
+    "stem": "Which of the following is NOT listed in the chapter as a reason why good client service has become more important in insurance?",
     "options": {
-      "A": "A one-off transaction",
-      "B": "An ongoing relationship built on trust and clear communication",
-      "C": "Adversarial",
-      "D": "Purely commission-driven"
+      "A": "The advent of the Internet and social media",
+      "B": "Increasing competition from banks and offshore institutions",
+      "C": "A statutory requirement to survey every client annually",
+      "D": "Increasing client control and options through portals and aggregators"
     },
-    "answer": "B",
-    "explanation": "关系基于信任与沟通,且为持续性的。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "answer": "C",
+    "explanation": "教材 3.2–3.5 列出的动因为互联网与社交媒体、竞争加剧、客户控制权与选择增加、服务期望提高。'每年须法定调查每位客户'并非教材所述,属编造的干扰项。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.3.2–3.5",
     "status": "draft",
     "tags": [
-      "relationship"
+      "importance",
+      "drivers"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s21-003",
     "part": 2,
     "syllabusItemId": "s21",
     "topicGroup": "process",
-    "stem": "Good ongoing service includes:",
+    "stem": "In Singapore, which body established the Code of Life Insurance Practice for life insurers and their representatives?",
     "options": {
-      "A": "Disappearing after the sale",
-      "B": "Periodic reviews, answering queries and adjusting as needs change",
-      "C": "Refusing to meet again",
-      "D": "Ignoring the client’s changes in circumstances"
+      "A": "The Monetary Authority of Singapore (MAS)",
+      "B": "The Financial Industry Disputes Resolution Centre (FIDReC)",
+      "C": "The Life Insurance Association (LIA)",
+      "D": "The Singapore College of Insurance (SCI)"
     },
-    "answer": "B",
-    "explanation": "持续服务含检视、答疑、按需调整。",
+    "answer": "C",
+    "explanation": "教材 4.2 指出,在新加坡是人寿保险协会(LIA)订立了《LIA 人寿保险实务守则》(截至 2021 年 12 月版)。MAS 是监管机构、FIDReC 处理争议、SCI 是培训机构,均非守则订立者。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.4.2",
     "status": "draft",
     "tags": [
-      "service"
+      "lia-code",
+      "standards"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-004",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "Under item 3.3 of the LIA Code of Life Insurance Practice cited in the chapter, the new policy document will be given to the client within how many days from the date of policy issuance?",
+    "options": {
+      "A": "14 days",
+      "B": "21 days",
+      "C": "30 days",
+      "D": "60 days"
+    },
+    "answer": "C",
+    "explanation": "教材 8.3 引用守则第 3.3 条:在保单签发日(申请获批且全额保费已收)起 30 天内交付新保单文件。其余天数均非守则所定。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.8.3 (LIA Code item 3.3)",
+    "status": "draft",
+    "tags": [
+      "lia-code",
+      "timeframe"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-005",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "How does the chapter distinguish an 'explanation' from 'persuasion'?",
+    "options": {
+      "A": "An explanation is a factual description that should not aim to influence, while persuasion is an intentional attempt to influence attitude or behaviour",
+      "B": "An explanation is always written, while persuasion is always spoken",
+      "C": "An explanation is used only for complaints, while persuasion is used only for sales",
+      "D": "An explanation aims to influence, while persuasion merely states facts"
+    },
+    "answer": "A",
+    "explanation": "教材 5.2 指出解释是事实性描述,不应旨在影响听者;5.12 指出说服是有意以言语影响他人态度或行为。D 恰好把两者颠倒;B、C 的区分依据教材未提及。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.5.2, s.5.12",
+    "status": "draft",
+    "tags": [
+      "explanation",
+      "persuasion"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-006",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "The chapter contrasts persuasion with coercion. Which statement is correct?",
+    "options": {
+      "A": "Coercion encourages others to think in a certain way, while persuasion forces an action",
+      "B": "Persuasion encourages others to think in a certain way, while coercion attempts to convince others to do something they really do not want to do",
+      "C": "Persuasion and coercion are the same thing",
+      "D": "Coercion is usually more effective than persuasion"
+    },
+    "answer": "B",
+    "explanation": "教材 5.13 指出胁迫是说服他人去做其实不愿做的事;说服是鼓励他人以某种方式思考,且在具备公信力与合理论据时通常更有效。A 把两者颠倒,D 说反了有效性,C 错误。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.5.13",
+    "status": "draft",
+    "tags": [
+      "persuasion",
+      "coercion"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-007",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "What is the correct sequence of the four recommended steps for dealing with conflicts or challenges with clients?",
+    "options": {
+      "A": "Determine the facts → recognise feelings → find a solution → apologise",
+      "B": "Find a solution → recognise feelings → empathise → determine the facts",
+      "C": "Recognise the client's feelings/resistance → empathise and apologise → determine the facts → find an appropriate solution",
+      "D": "Apologise → find a solution → determine the facts → recognise feelings"
+    },
+    "answer": "C",
+    "explanation": "教材 6.3 列出四步顺序:认识客户的情绪或抗拒→同理并致歉→确定事实→找出适当方案。这呼应'先感受,后事实与行动'的原则;其余选项打乱了顺序。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.6.3–6.9",
+    "status": "draft",
+    "tags": [
+      "conflict",
+      "steps"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-008",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "When recognising an angry client's feelings, what does the chapter advise the representative to do?",
+    "options": {
+      "A": "Immediately tell the client, 'You need to calm down'",
+      "B": "First calm himself, then let the client express his feelings and listen to his frustrations",
+      "C": "Share a similar bad experience of his own to build rapport",
+      "D": "Blame the company's system for the problem"
+    },
+    "answer": "B",
+    "explanation": "教材 6.4–6.5 建议代表先平复自己,再让客户宣泄、倾听其挫折;明确指出不要说'你需要冷静下来'(会使情况更糟)。6.8 又提醒勿分享类似经历;6.7 提醒勿归咎公司系统。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.6.4–6.8",
+    "status": "draft",
+    "tags": [
+      "conflict",
+      "feelings"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-009",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "According to the chapter, a 'complaint' is best defined as:",
+    "options": {
+      "A": "Any oral or written expression of dissatisfaction about the provision of, or failure to provide, a service or product",
+      "B": "Only a written expression of dissatisfaction submitted on an official form",
+      "C": "A dispute that must always be escalated to FIDReC",
+      "D": "A request for a refund of premiums"
+    },
+    "answer": "A",
+    "explanation": "教材 8.5 定义投诉为任何对提供或未能提供产品/服务的不满或不快的口头或书面表达,无论是否合理,可直接关于投诉人或代他人。B 把投诉限于书面表单,C、D 是无据的干扰项。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.8.5",
+    "status": "draft",
+    "tags": [
+      "complaint",
+      "definition"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-010",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "The chapter describes complaints as presenting 'moments of truth'. Which of the following is identified as a benefit of receiving and handling complaints well?",
+    "options": {
+      "A": "Increased client loyalty and reduced costs",
+      "B": "An automatic increase in commission rates",
+      "C": "Exemption from the LIA Code of Life Insurance Practice",
+      "D": "A guarantee that no further complaints will ever arise"
+    },
+    "answer": "A",
+    "explanation": "教材 8.6–8.9 指出投诉带来的益处包括改善客户服务、提升客户忠诚、降低成本。B、C、D 均非教材所述,且 D 把'可减少未来投诉'夸大为'保证不再有投诉',明显错误。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.8.6–8.9",
+    "status": "draft",
+    "tags": [
+      "complaint",
+      "benefits"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-011",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "What is the key difference between a 'questionnaire' and a 'survey' as described in the chapter?",
+    "options": {
+      "A": "A survey can only be conducted by telephone, while a questionnaire is always paper-based",
+      "B": "A questionnaire is anonymous, while a survey always identifies the client",
+      "C": "A questionnaire contains a choice of worded answers (e.g. 'average', 'good', 'excellent') or a scoring system, whereas a survey is a series of crafted questions to extract information",
+      "D": "There is no difference; the terms are interchangeable"
+    },
+    "answer": "C",
+    "explanation": "教材 10.3–10.4 指出问卷提供措辞化的答案选项(如'一般''好''优秀')或 1 至 5 的评分,而调查是一系列精心设计以提取所需信息的问题。问卷可纸质、电子或电话进行,故 A 错;B、D 无据。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.10.3–10.4",
+    "status": "draft",
+    "tags": [
+      "feedback",
+      "questionnaire"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-012",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "A client already holds a Whole Life policy and the representative offers him a Critical Illness policy. According to the chapter, this is an example of:",
+    "options": {
+      "A": "Twisting",
+      "B": "Cross-selling",
+      "C": "Churning",
+      "D": "Coercion"
+    },
+    "answer": "B",
+    "explanation": "教材 11.7 将向现有保单持有人销售不同产品(如已有终身寿险者销售危疾保险)定义为交叉销售(cross-selling)。Twisting/churning 指不当转保,coercion 是胁迫,均与本情形不符。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.11.7",
+    "status": "draft",
+    "tags": [
+      "cross-selling",
+      "sales"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s21-013",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "stem": "Which pair best describes the two key points for developing client loyalty and retention post-sales, as set out in the chapter?",
+    "options": {
+      "A": "Aggressive discounting and one-off gifts",
+      "B": "Reducing contact frequency and avoiding portfolio reviews",
+      "C": "Relying solely on price competition",
+      "D": "Consistent delivery of promises and proactive client relationship management"
+    },
+    "answer": "D",
+    "explanation": "教材 12.2–12.5 指出售后建立忠诚与留存的两要点是一致的交付(贯穿整个关系兑现承诺)与主动的客户关系管理(主动增值,如检视保险组合与投资),并提醒勿自满、勿以为客户会永远留下。其余选项与教材相悖。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.12.2–12.5",
+    "status": "draft",
+    "tags": [
+      "post-sales",
+      "retention"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

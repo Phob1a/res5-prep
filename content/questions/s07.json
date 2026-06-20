@@ -4,45 +4,313 @@
     "part": 1,
     "syllabusItemId": "s07",
     "topicGroup": "products",
-    "stem": "In an investment-linked policy (ILP), the investment risk is borne by:",
+    "stem": "Under which statutory provision is MAS Notice 307 on Investment-linked Policies issued?",
     "options": {
-      "A": "The insurer",
-      "B": "MAS",
-      "C": "The policyholder",
-      "D": "The CPF Board"
+      "A": "Section 64(2) of the Insurance Act",
+      "B": "Section 2(1) of the Financial Advisers Act",
+      "C": "Section 321 of the Securities and Futures Act",
+      "D": "Section 4A of the Securities and Futures Act"
     },
-    "answer": "C",
-    "explanation": "ILP 价值随基金浮动,风险由保单持有人承担。",
-    "difficulty": "easy",
-    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "answer": "A",
+    "explanation": "教材开篇明确:本通知依《保险法》(Cap.142)第64(2)条颁布。其他法条只是定义中引用的关联法规,非本通知的授权依据。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 para 1",
     "status": "draft",
     "tags": [
-      "ilp",
-      "risk"
+      "scope"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s07-002",
     "part": 1,
     "syllabusItemId": "s07",
     "topicGroup": "products",
-    "stem": "Which statement about ILPs is correct?",
+    "stem": "How far in advance must an insurer notify the Authority of its intention to launch a new ILP sub-fund?",
     "options": {
-      "A": "They guarantee the principal",
-      "B": "Their value fluctuates with the performance of the chosen sub-funds and fees apply",
-      "C": "They have no fees",
-      "D": "They are risk-free deposits"
+      "A": "At least 7 days before",
+      "B": "At least 14 days before",
+      "C": "At least 21 days before",
+      "D": "At least 1 month before"
     },
-    "answer": "B",
-    "explanation": "ILP 无资本保证,价值随基金浮动且收取费用。",
-    "difficulty": "medium",
-    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "answer": "C",
+    "explanation": "第7(a)段:推出新子基金须在设立前至少 21 天通知 MAS。1 个月是适用于'重大变更'(第7(b)段)的提前期,不要混淆。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice 307 para 7(a)",
     "status": "draft",
     "tags": [
-      "ilp",
-      "disclosure"
+      "notification"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-003",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "An increase in 'any other fees or charges' payable out of an ILP sub-fund must be notified to the Authority as a significant change when it is at least what percentage of the sub-fund's NAV?",
+    "options": {
+      "A": "0.01% of NAV",
+      "B": "0.1% of NAV",
+      "C": "0.5% of NAV",
+      "D": "1% of NAV"
+    },
+    "answer": "B",
+    "explanation": "第7(b)(iii)段:占子基金 NAV 0.1% 或以上的其他费用增加属须提前通知的重大变更。0.5% 是估值错误补偿门槛,属另一条款。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice 307 para 7(b)(iii)",
+    "status": "draft",
+    "tags": [
+      "notification",
+      "fees"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-004",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "How is the price for issuing, redeeming or repurchasing units of an ILP sub-fund determined (outside the initial offer period)?",
+    "options": {
+      "A": "By the original premium paid divided by the number of units",
+      "B": "By the guaranteed amount regardless of market value",
+      "C": "By dividing the NAV of the sub-fund by the number of units outstanding",
+      "D": "By the issuer's quoted bid price only"
+    },
+    "answer": "C",
+    "explanation": "第12段:单位价格 = 子基金 NAV ÷ 流通单位数,并可按产品概要披露的费用加减调整;第13段说明初始发售期除外。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice 307 paras 12-13",
+    "status": "draft",
+    "tags": [
+      "valuation",
+      "pricing"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-005",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "At the maturity of a capital guaranteed ILP sub-fund, units are redeemed at:",
+    "options": {
+      "A": "The guaranteed amount only",
+      "B": "The NAV per unit only",
+      "C": "The lower of the guaranteed amount or the NAV per unit",
+      "D": "The higher of the guaranteed amount or the NAV per unit"
+    },
+    "answer": "D",
+    "explanation": "第14段:资本保证子基金到期时,以保证金额与 NAV/单位数二者较高者赎回,从而既兑现保证又让保单持有人享有更高的市值。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 para 14",
+    "status": "draft",
+    "tags": [
+      "capital-guaranteed"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-006",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Which describes the 'second method' of the annual audit of ILP sub-funds under MAS Notice 307?",
+    "options": {
+      "A": "An audit on the financial statements of each ILP sub-fund",
+      "B": "An audit on the internal controls and processes of the ILP sub-funds",
+      "C": "A self-certification by the insurer's board",
+      "D": "An actuarial valuation by the appointed actuary"
+    },
+    "answer": "B",
+    "explanation": "第15段:第一法是对每个子基金财务报表审计,第二法是对子基金内控与流程审计。选项A是第一法,C/D非教材所述方法。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 para 15",
+    "status": "draft",
+    "tags": [
+      "audit"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-007",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Within what period must the audit certificate for a terminated or matured ILP sub-fund be completed?",
+    "options": {
+      "A": "Within 30 days after termination or maturity",
+      "B": "Within 3 months after termination or maturity",
+      "C": "Within 6 months after termination or maturity",
+      "D": "Within 12 months after termination or maturity"
+    },
+    "answer": "C",
+    "explanation": "第24段:审计证明须在子基金终止或到期后 6 个月内完成。30 天是其后送交 MAS 的时限(第25段),勿混淆。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice 307 paras 24-25",
+    "status": "draft",
+    "tags": [
+      "audit",
+      "termination"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-008",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "For an ILP issued on or after 8 October 2021, how must the insurer disclose upfront deductions?",
+    "options": {
+      "A": "As a 'premium allocation rate'",
+      "B": "As a single charge termed 'premium charge'",
+      "C": "Separately for each component with no single term",
+      "D": "It need not be disclosed at all"
+    },
+    "answer": "B",
+    "explanation": "第27A-27B段:须将前端扣费合并披露为单一'premium charge',且明确禁止对该等 ILP 使用'premium allocation rate'一词。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 paras 27A-27B",
+    "status": "draft",
+    "tags": [
+      "disclosure",
+      "fees"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-009",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Regarding soft dollars, which goods or services are expressly stated NOT to qualify for the exceptions allowing a manager to receive them?",
+    "options": {
+      "A": "Research and advisory services",
+      "B": "Economic and political analyses",
+      "C": "Data and quotation services",
+      "D": "Travel, accommodation and entertainment"
+    },
+    "answer": "D",
+    "explanation": "第45(b)段:旅行、住宿、娱乐等虽落入'软美元'定义但不符合第45(a)的例外条件。A/B/C属软美元定义中可协助投资过程的研究类服务。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice 307 paras 45-46; Definition of soft dollars",
+    "status": "draft",
+    "tags": [
+      "soft-dollars"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-010",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "A valuation error must be compensated to affected policyholders and the sub-fund when the error represents at least what proportion of the sub-fund's NAV per unit after adjustment?",
+    "options": {
+      "A": "0.1%",
+      "B": "0.25%",
+      "C": "0.5%",
+      "D": "1%"
+    },
+    "answer": "C",
+    "explanation": "第79段:估值错误达调整后 NAV/单位 0.5% 或以上须补偿保单持有人及子基金。低于 0.5%(第80段)无强制补偿义务。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 paras 79-80",
+    "status": "draft",
+    "tags": [
+      "valuation-error"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-011",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Even where a valuation error is 0.5% or more, the requirement to compensate a policyholder does not apply if the compensation due to any single policyholder does not exceed:",
+    "options": {
+      "A": "$10",
+      "B": "$20",
+      "C": "$50",
+      "D": "$100"
+    },
+    "answer": "B",
+    "explanation": "第79段:若应付单一保单持有人的补偿不超过 $20,则可免于向其补偿;但对子基金损失的补偿在所有情形下仍适用。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice 307 para 79",
+    "status": "draft",
+    "tags": [
+      "valuation-error",
+      "compensation"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-012",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Under the Part II non-mandatory standards, within what timeframe should redemption proceeds for bond and money market ILP sub-funds be paid out?",
+    "options": {
+      "A": "Within T+4 business days",
+      "B": "Within T+6 business days",
+      "C": "Within T+7 business days",
+      "D": "Within T+10 business days"
+    },
+    "answer": "A",
+    "explanation": "第53段:债券与货币市场子基金为 T+4 工作日;馈给另一 CIS 的子基金为 T+7;其他类型为 T+6。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 para 53",
+    "status": "draft",
+    "tags": [
+      "redemption"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-013",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Which terms are expressly prohibited from being used in an ILP sub-fund's name and description?",
+    "options": {
+      "A": "'capital guaranteed' and 'index fund'",
+      "B": "'money market' and 'property fund'",
+      "C": "'capital protected' and 'principal protected'",
+      "D": "'hedge fund' and 'fund-of-funds'"
+    },
+    "answer": "C",
+    "explanation": "第93(d)段:'capital protected'与'principal protected'及其任何衍生形式在子基金命名与描述中被禁用。其他术语只要符合相应附录指引可使用。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice 307 para 93(d)",
+    "status": "draft",
+    "tags": [
+      "naming"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s07-014",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "stem": "Within how many business days after becoming aware of a breach must the insurer inform the Authority?",
+    "options": {
+      "A": "1 business day",
+      "B": "3 business days",
+      "C": "7 business days",
+      "D": "14 business days"
+    },
+    "answer": "B",
+    "explanation": "第91段:保险公司须在知悉违反本通知要求或标准后 3 个工作日内通知 MAS(第92段列有因市值变动等无须报告的例外)。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice 307 para 91",
+    "status": "draft",
+    "tags": [
+      "breach",
+      "notification"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

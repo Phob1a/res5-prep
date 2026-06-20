@@ -4,27 +4,156 @@
     "part": 2,
     "syllabusItemId": "s23",
     "topicGroup": "process",
-    "title": "分析维度 / Dimensions",
-    "point": "现金流、净值、现有保障/投资、风险与目标匹配。 / Cash flow, net worth, cover/investments, risk-goal fit.",
+    "title": "两大财务报表 / Two financial statements",
+    "point": "资产负债表显示某时点财务现状;收入表显示一段期间(通常一年)的收入与支出。 / The balance sheet shows the position at a point in time; the income statement shows income and expenditure over a period, usually one year.",
     "keyfacts": [
-      "识别盈余/缺口 / Find surpluses/shortfalls"
+      "审视报表是财务规划绝对必要的第一步 / Examining them is the necessary first step in planning"
     ],
-    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s23-002",
     "part": 2,
     "syllabusItemId": "s23",
     "topicGroup": "process",
-    "title": "保障缺口 / Protection gap",
-    "point": "保障缺口=需求 − 现有保障;储蓄缺口同理。 / Protection gap = needs − existing cover.",
+    "title": "净值公式 / Net worth formula",
+    "point": "净值 = 总资产 − 总负债;资产负债表又称净值表。George:310,000 − 131,000 = S$179,000。 / Net worth = total assets − total liabilities; the balance sheet is also called the statement of net worth. George: 310,000 − 131,000 = S$179,000.",
     "keyfacts": [
-      "作为方案依据 / Basis for solutions"
+      "净值=变卖全部资产、清偿全部负债后所剩 / What remains after selling all assets and paying all debts",
+      "净值不衡量现金流 / Net worth does not measure cash flow"
     ],
-    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.5",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-003",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "三类资产 / Three asset categories",
+    "point": "流动资产、投资资产、个人资产;归类取决于取得目的与用途,同一资产可入多类。 / Liquid, investment and personal assets; classification depends on why acquired and how used, and one asset can fall in more than one category.",
+    "keyfacts": [
+      "流动资产=现金及一年内可变现的近现金 / Liquid = cash/near-cash convertible within one year",
+      "投资资产为长期目标(含 CPF);个人资产为消费 / Investment for long-term goals (incl. CPF); personal for consumption"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.2 (A1–A3)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-004",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "应急基金额度 / Emergency fund size",
+    "point": "至少预留 3 至 6 个月开支作应急基金;若收入不规律,则预留 12 个月。 / Set aside at least 3 to 6 months' expenses as an emergency fund; 12 months if income is irregular.",
+    "keyfacts": [
+      "汇总月度开支时区分必需与可有可无 / Separate essentials from good-to-haves when budgeting"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.2 (A1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-005",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "资产与负债计价 / Valuation",
+    "point": "资产按公允市场价值(难估值者按原始成本);负债按原始成本即本金。 / Assets at fair market value (difficult ones at original cost); liabilities at original cost, i.e. the principal.",
+    "keyfacts": [
+      "S$200,000 HDB 贷款月供 3,000(其中 2,000 利息)还后列 199,000 / S$200k loan, S$1,000 of a S$3,000 instalment cuts principal → 199,000"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.3–2.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-006",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "盈余/赤字 / Surplus or deficit",
+    "point": "盈余/赤字 = 总流入 − 总流出;可正、负或零。George 2023:70,000 − 76,000 = (S$6,000) 赤字。 / Surplus/deficit = total inflows − total outflows; may be positive, negative or zero. George 2023: 70,000 − 76,000 = (S$6,000) deficit.",
+    "keyfacts": [
+      "盈余可用于储蓄/投资、购置资产或减债 / A surplus can fund savings, assets or debt reduction",
+      "盈余不必然代表资金随时可用 / A surplus does not mean funds are ready to use"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.3.1–3.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-007",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "流动性比率 / Liquidity ratio",
+    "point": "流动性比率 = 流动资产 ÷ 月开支;指引 ≥3–6 个月。George = 10,000 ÷ (76,000/12) = 1.58 个月(偏低)。 / Liquidity ratio = liquid assets ÷ monthly expenses; guideline ≥3–6 months. George = 1.58 months (low).",
+    "keyfacts": [
+      "衡量失业后凭流动资产可维持的月数 / Months one can cover expenses if the job is lost"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.1–4.2",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-008",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "流动资产对净值 / 储蓄比率 / Liquid-to-net-worth & savings ratios",
+    "point": "流动资产/净值 = 10,000÷179,000 = 5.6%(指引 ≥15%);储蓄比率 = 储蓄与投资÷总收入 = 13,000÷70,000 = 18.6%(指引 ≥10%)。 / Liquid/net worth = 5.6% (guideline ≥15%); savings = 13,000÷70,000 = 18.6% (≥10%).",
+    "keyfacts": [
+      "储蓄含投资;George 储蓄充足但流动性不足 / Savings include investments; George saves enough but lacks liquidity"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.4–4.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-009",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "债务对资产 / 偿债比率 / Debt-to-asset & debt-service ratios",
+    "point": "债务/资产 = 131,000÷310,000 = 42.3%(指引 ≤50%,越低越好);偿债比率 = 年贷款还款÷年实得薪酬 = 22,000÷50,000 = 44.0%(指引 ≤35%,偏高)。 / Debt/asset = 42.3% (≤50%); debt service = 22,000÷50,000 = 44.0% (≤35%, too high).",
+    "keyfacts": [
+      "年贷款还款 = 房贷 12,000 + 车贷 10,000 = 22,000 / Annual loan payments = 12,000 mortgage + 10,000 car = 22,000"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.6–4.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-010",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "投资对净值 / 偿付能力比率 / Investment-to-net-worth & solvency ratios",
+    "point": "投资资产/净值 = 100,000÷179,000 = 55.9%(指引 ≥50%,应随年龄上升);偿付能力比率 = 净值÷总资产 = 179,000÷310,000 = 57.7%。 / Investment/net worth = 55.9% (≥50%, should rise with age); solvency = net worth÷total assets = 57.7%.",
+    "keyfacts": [
+      "负债超过资产则净值为负=技术性资不抵债 / Liabilities exceeding assets → negative net worth = technically insolvent"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.9–4.10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s23-011",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "title": "比率分析原则 / Principle of ratio analysis",
+    "point": "比率分析从财务报表提取数据生成关键比率;没有单一比率能说明全貌,需综合多个比率形成整体判断。 / Ratio analysis takes data from the statements to generate key ratios; no single ratio tells the whole story, so several must be viewed together.",
+    "keyfacts": [
+      "比率须与建议指引值对照 / Compare ratios against suggested guideline values"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

@@ -4,45 +4,320 @@
     "part": 2,
     "syllabusItemId": "s20",
     "topicGroup": "sales",
-    "stem": "Which marketing practice is ethical?",
+    "stem": "According to the chapter, what is the goal of an ethically sound sales process?",
     "options": {
-      "A": "Emphasising returns while hiding risks",
-      "B": "Presenting balanced information on benefits, risks and fees with a reasonable basis for the recommendation",
-      "C": "Creating false urgency to close the sale",
-      "D": "Promising guaranteed high returns on an ILP"
+      "A": "To close the sale as quickly as possible",
+      "B": "To maximise the commission earned by the representative",
+      "C": "Not to sell a product, but to inform the client why the product is in his best interest",
+      "D": "To meet the financial institution's quarterly sales targets"
     },
-    "answer": "B",
-    "explanation": "道德营销=均衡披露收益/风险/费用且推荐有合理基础。",
+    "answer": "C",
+    "explanation": "教材 1.3(c) 明确:符合道德的销售流程目标不是把产品卖出去,而是告知客户该产品为何符合其最佳利益。其余选项均以卖出/佣金/指标为先,与该原则相悖。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.1.3(c)",
     "status": "draft",
     "tags": [
-      "marketing",
-      "disclosure"
+      "sales-process",
+      "principle"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s20-002",
     "part": 2,
     "syllabusItemId": "s20",
     "topicGroup": "sales",
-    "stem": "High-pressure tactics that rush a client into buying are:",
+    "stem": "Which of the following is NOT one of the three ethical pitfalls in the marketing and sales process?",
     "options": {
-      "A": "Acceptable if targets are high",
-      "B": "Unethical and inconsistent with fair dealing",
-      "C": "Required by MAS",
-      "D": "Fine if disclosed afterwards"
+      "A": "Misrepresentation",
+      "B": "Failure to recommend and sell only suitable products",
+      "C": "Failure to recognise and disclose relevant conflicts of interest",
+      "D": "Charging a fee for financial advisory services"
+    },
+    "answer": "D",
+    "explanation": "教材 2.1 列出的三大陷阱为虚假陈述、未只推荐适当产品、未识别并披露利益冲突。就咨询服务收费本身并非教材所列陷阱。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.2.1",
+    "status": "draft",
+    "tags": [
+      "pitfalls"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-003",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "In the sale of a life insurance policy, who bears the risk on the non-guaranteed elements of the policy?",
+    "options": {
+      "A": "The client",
+      "B": "The insurer",
+      "C": "The MAS",
+      "D": "The financial adviser representative personally"
+    },
+    "answer": "A",
+    "explanation": "教材 1.3(e) 指出,人寿保单中客户承担非保证部分的风险,而保险人承担保证部分的风险。代表须清楚向客户说明这一点。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.1.3(e)",
+    "status": "draft",
+    "tags": [
+      "sales-process",
+      "risk"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-004",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "Which statement best captures the difference between misrepresentation and fraud?",
+    "options": {
+      "A": "Fraud is always unintentional, while misrepresentation is always deliberate",
+      "B": "Fraud is an intentional act of deception, while misrepresentation can be an unintentional omission or inadvertent misstatement",
+      "C": "Misrepresentation is a criminal offence while fraud is only a civil matter",
+      "D": "There is no difference; the two terms are interchangeable"
     },
     "answer": "B",
-    "explanation": "高压逼单不道德,违背公平交易。",
+    "explanation": "教材 3.4–3.5 指出,欺诈是故意的欺骗行为;而虚假陈述可以是无意的遗漏或疏忽的失实陈述,即可为 (a) 无意的或 (b) 遗漏行为。A 颠倒了概念,C/D 与教材不符。",
     "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.3.4–3.5",
+    "status": "draft",
+    "tags": [
+      "misrepresentation",
+      "fraud"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-005",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "'Lying by omission', where an important fact is left out in order to foster a misconception, is also known as:",
+    "options": {
+      "A": "Lying by commission",
+      "B": "Caveat emptor",
+      "C": "A continuing misrepresentation",
+      "D": "An act of negligence per se"
+    },
+    "answer": "C",
+    "explanation": "教材 3.10 指出,lying by omission 又称 continuing misrepresentation(续行虚假陈述),包括未纠正既存误解。Lying by commission 则是把不实/半真陈述当事实传达(3.11)。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.3.10–3.11",
+    "status": "draft",
+    "tags": [
+      "misrepresentation",
+      "omission"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-006",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "In Singapore, from which sources is the law of misrepresentation derived?",
+    "options": {
+      "A": "Solely the Financial Advisers Act 2001",
+      "B": "Both the common law and the Misrepresentation Act (1967)",
+      "C": "Solely the Misrepresentation Act (1967)",
+      "D": "The Penal Code and the Securities and Futures Act"
+    },
+    "answer": "B",
+    "explanation": "教材 3.3 明确,在新加坡虚假陈述法源自普通法与《虚假陈述法 Misrepresentation Act (1967)》两者。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.3.3",
+    "status": "draft",
+    "tags": [
+      "misrepresentation",
+      "law"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-007",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "Under Holley's continuum, which disclosure strategy corresponds to the 'caveat emptor' (buyer beware) rule?",
+    "options": {
+      "A": "The Maximal Information Rule",
+      "B": "The Fairness Rule",
+      "C": "The Minimal Information Rule",
+      "D": "The Mutual Benefit Rule"
+    },
+    "answer": "C",
+    "explanation": "教材 4.4 指出,最低信息规则(Minimal Information Rule)即 'caveat emptor'(买方自负);修订最低信息规则则为 'caveat emptor plus'。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.4.3(a)–4.4",
+    "status": "draft",
+    "tags": [
+      "disclosure",
+      "holley"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-008",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "The chapter suggests that the best disclosure strategy for a financial services professional is to really 'know' his client and apply which approach?",
+    "options": {
+      "A": "The Minimal Information Rule",
+      "B": "The 'Mutual Benefit Rule Plus'",
+      "C": "The strict Maximal Information Rule in all cases",
+      "D": "The 'caveat emptor plus' rule"
+    },
+    "answer": "B",
+    "explanation": "教材 4.15 建议采用 'Mutual Benefit Rule Plus' 策略——专业人士须具备足够知识、能力与专业,帮助客户在可选项中做出最佳选择。最大信息规则被认为对代表过于苛刻(4.14)。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.4.14–4.15",
+    "status": "draft",
+    "tags": [
+      "disclosure",
+      "mutual-benefit-plus"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-009",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "Regulation requires FA corporations and their representatives to have a reasonable basis for any recommendation of an investment product. This requirement is found in:",
+    "options": {
+      "A": "Section 27(1) of the FAA and the Misrepresentation Act 1967",
+      "B": "FAA Notice FAA-N03 only",
+      "C": "Section 36 of the Financial Advisers Act 2001 and FAA Notice No. 16",
+      "D": "Regulation 21 of the FAR"
+    },
+    "answer": "C",
+    "explanation": "教材 5.6 指出,合理依据要求源自《财务顾问法 FAA 2001》第 36 条 及 FAA Notice No: 16。FAA-N03(选项 B)是关于利益冲突披露的;Reg 21 关于 'independent' 称谓。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.5.6 / FAA s.36, FAA Notice 16",
+    "status": "draft",
+    "tags": [
+      "suitability",
+      "regulation"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-010",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "Which MAS Notice requires a financial adviser to disclose in writing any actual or potential conflict of interest arising from its connection with a product provider?",
+    "options": {
+      "A": "FAA Notice FAA-N03",
+      "B": "FAA Notice No. 16",
+      "C": "FAA-G05",
+      "D": "FAA Notice FAA-N13"
+    },
+    "answer": "A",
+    "explanation": "教材 6.4 引用 FAA Notice FAA-N03,要求财务顾问就与任何产品提供方关联引起的实际或潜在利益冲突,以书面形式向客户披露。FAA Notice 16 是关于推荐合理依据的(适当性)。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.6.4 / FAA-N03",
+    "status": "draft",
+    "tags": [
+      "conflict-of-interest",
+      "disclosure"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-011",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "A bank's representative is proposing a financial product to a client who has a loan while also holding investments and fixed deposits with the same bank. What is the ethical course of action?",
+    "options": {
+      "A": "Say nothing, since the loan and the product are unrelated",
+      "B": "Highlight the potential conflict of interest, because on default the bank may use the assets to off-set the loan",
+      "C": "Recommend the client move his deposits to another bank first",
+      "D": "Refuse to serve the client because of the conflict"
+    },
+    "answer": "B",
+    "explanation": "教材 6.15(例一)指出,因贷款违约时银行有权动用客户资产抵销贷款,故代表提议产品时合乎道德的做法是点明这一潜在利益冲突,而非隐瞒或拒绝服务。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.6.15 (Example 1)",
+    "status": "draft",
+    "tags": [
+      "conflict-of-interest",
+      "scenario"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-012",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "Which of the following is one of the three pitfalls that can occur within the marketing process?",
+    "options": {
+      "A": "Offering a cooling-off period",
+      "B": "Using scare tactics that draw attention to 'doomsday examples'",
+      "C": "Providing a balanced product illustration",
+      "D": "Disclosing referral fees to the client"
+    },
+    "answer": "B",
+    "explanation": "教材 7.4 列出三类营销陷阱:用材料虚假呈现能力/资历、使用恐吓策略(scare tactics,如 doomsday examples)、设定不切实际的期望。其余选项是合乎道德的做法,非陷阱。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.7.4 / s.7.13–7.15",
     "status": "draft",
     "tags": [
       "marketing",
-      "conduct"
+      "scare-tactics"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-013",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "Peter used workshops to urge clients to surrender all their whole life policies and buy term insurance plus investments, without mentioning the re-setting of the incontestability clause, the non-guaranteed returns of the new funds, or the lack of a non-forfeiture clause on term insurance. Peter's conduct is BEST described as:",
+    "options": {
+      "A": "Ethical, because he helped clients restructure their policies",
+      "B": "Ethical, because clients made their own decisions",
+      "C": "Unethical, because he marketed the new products using only selective information",
+      "D": "Acceptable, because term insurance is cheaper than whole life"
+    },
+    "answer": "C",
+    "explanation": "教材 7.32(例一)指出,Peter 仅以选择性信息营销新产品、隐瞒不可争议条款重置、非保证回报与缺乏不丧失价值条款等关键事实,因而行为不道德。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.7.32 (Example 1)",
+    "status": "draft",
+    "tags": [
+      "marketing",
+      "selective-information"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s20-014",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "stem": "According to the chapter, what is the key distinction between marketing and selling?",
+    "options": {
+      "A": "Marketing converts the product into cash, while selling researches client needs",
+      "B": "Marketing emphasises client satisfaction (meeting needs and wants), while selling is the action of converting the product or service into cash and emphasises the product",
+      "C": "Marketing and selling are identical activities",
+      "D": "Selling is regulated by MAS, while marketing is not regulated at all"
+    },
+    "answer": "B",
+    "explanation": "教材 7.1–7.2 指出,营销关乎满足客户需要与想要、强调客户满意;而销售是把产品/服务变现的行为、强调产品本身。A 颠倒了二者,C/D 与教材不符。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.7.1–7.2",
+    "status": "draft",
+    "tags": [
+      "marketing",
+      "definition"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

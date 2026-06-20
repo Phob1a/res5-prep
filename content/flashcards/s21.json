@@ -4,27 +4,167 @@
     "part": 2,
     "syllabusItemId": "s21",
     "topicGroup": "process",
-    "title": "关系基石 / Foundations",
-    "point": "信任 + 清晰沟通;开场厘清 scope/收费/责任。 / Trust + clear communication; clarify scope/fees/responsibilities.",
+    "title": "什么是客户服务 / What is client service",
+    "point": "客户服务是在购买之前、之中、之后及使用产品/服务过程中提供的服务,须提供难忘体验而非机械交易。 / Client service is provided before, during and after purchasing and in using the product/service, and should deliver a memorable experience rather than a robotic transaction.",
     "keyfacts": [
-      "管理客户期望 / Manage expectations"
+      "组织内每个人都提供客户服务 / Everyone in the organisation provides it"
     ],
-    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.1.1–1.3",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s21-002",
     "part": 2,
     "syllabusItemId": "s21",
     "topicGroup": "process",
-    "title": "持续服务 / Ongoing service",
-    "point": "关系含售后检视/答疑/调整,非一次性销售。 / Includes reviews/queries/adjustments, not a one-off.",
+    "title": "服务更重要的动因 / Drivers of importance",
+    "point": "客户服务日益重要的四大动因:互联网与社交媒体、竞争加剧、客户控制权与选择增加、服务期望提高。 / Four drivers make client service more important: internet & social media, increasing competition, increasing client control & options, and higher expectations of service.",
     "keyfacts": [
-      "随需求变化调整 / Adjust as needs change"
+      "门户与比价平台让客户一键换供应商 / Portals and aggregators let clients switch at a click"
     ],
-    "sourceRef": "CMFAS M5 — Developing Client–Representative Relationships",
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.3.2–3.5",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-003",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "LIA 实务守则 / LIA Code",
+    "point": "新加坡 LIA 为人寿保险公司及代表订立《LIA 人寿保险实务守则》(2021年12月版);守则 3.3 条:保单签发后30天内交付保单文件。 / The LIA established the Code of Life Insurance Practice (Dec 2021); item 3.3 — deliver the policy document within 30 days from policy issuance.",
+    "keyfacts": [
+      "签发=申请获批且全额保费已收 / Issuance = approved and full premium received",
+      "守则见本章附录 1 / Code is in Appendix 1"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.4.2, s.8.3 (LIA Code item 3.3)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-004",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "解释 vs 说服 / Explanation vs persuasion",
+    "point": "解释是不旨在影响的事实性描述;说服是有意以言语影响态度或行为。 / Explanation is a factual description not aiming to influence; persuasion is an intentional verbal attempt to influence attitude or behaviour.",
+    "keyfacts": [
+      "解释举例:描述理赔流程,非推销 / Explaining a claim process is not selling"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.5.2, s.5.12",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-005",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "说服≠胁迫 / Persuasion ≠ coercion",
+    "point": "胁迫是使人做其实不愿做之事;说服是鼓励他人某种思考,凭公信力与合理论据通常更有效。 / Coercion makes others do what they do not want; persuasion encourages a way of thinking and, with credibility and sound reasoning, is usually more effective.",
+    "keyfacts": [],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.5.13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-006",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "处理冲突四步 / Four conflict steps",
+    "point": "认识情绪/抗拒→同理并致歉→确定事实→找出适当方案;原则:先感受,后事实与行动。 / Recognise feelings/resistance → empathise and apologise → determine the facts → find an appropriate solution; rule: feelings first, then facts and action.",
+    "keyfacts": [
+      "先平复自己再安抚客户,勿说'你需要冷静' / Calm yourself first; never say 'You need to calm down'"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.6.3–6.9, s.7.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-007",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "投诉的定义与益处 / Complaint: definition and benefits",
+    "point": "投诉是对提供或未提供产品/服务的不满的口头或书面表达;它是'真相时刻',带来改善服务、提升忠诚、降低成本三大益处。 / A complaint is any oral or written expression of dissatisfaction about the provision or failure to provide a product/service; it is a 'moment of truth' bringing improved service, greater loyalty and reduced cost.",
+    "keyfacts": [
+      "无论是否合理,可代他人提出 / Justified or not, on one's own or another's behalf"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.8.5–8.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-008",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "问题解决法 / Problem-solving approach",
+    "point": "把客户视为解决方案的一部分:识别真正问题→找原因→定可能方案(邀客户共解)→兼顾双方需求(双赢)→择一实施→讨论→实施→复盘。 / View the client as part of the solution: identify the real problem → find causes → determine solutions (involve the client) → address both needs (win-win) → select one → discuss → implement → review.",
+    "keyfacts": [
+      "问句:'我们如何一起解决这个问题?' / 'How can we work together to resolve this?'"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.8.10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-009",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "吸引与留住客户 / Attraction and retention",
+    "point": "涉及客户忠诚、吸引新客户、客户聚焦、满足期望、改善关系、保持知情;获取新客户比留住现有客户更昂贵。 / Involves loyalty, attracting new clients, client focus, meeting expectations, improving relationships and keeping clients updated; acquiring a new client costs more than retaining one.",
+    "keyfacts": [
+      "满意客户=有效'广告'与转介来源 / Satisfied clients are 'advertising' and referrals",
+      "联系频率越高,信任越强 / More contact builds more trust"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.9.1–9.14",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-010",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "调查 vs 问卷 / Survey vs questionnaire",
+    "point": "调查是一系列精心设计的开放/提取式问题;问卷则提供措辞化答案选项(如'一般/好/优秀'或1至5评分)。 / A survey uses carefully crafted questions to extract information; a questionnaire offers worded answer choices (e.g. 'average/good/excellent' or a 1-to-5 score).",
+    "keyfacts": [
+      "问卷可纸质、电子或电话进行 / Questionnaires can be paper, electronic or telephone"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.10.3–10.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-011",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "交叉销售 / Cross-selling",
+    "point": "交叉销售是向现有保单持有人销售不同的产品(如已有终身寿险者交叉销售危疾保险);关键要素与任何销售相同。 / Cross-selling is selling a different product to an existing policyholder (e.g. Critical Illness to a Whole Life holder); its key elements are the same as any selling process.",
+    "keyfacts": [
+      "建立融洽与信任、产品知识、需求分析 / Rapport and trust, product knowledge, needs analysis"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.11.7–11.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s21-012",
+    "part": 2,
+    "syllabusItemId": "s21",
+    "topicGroup": "process",
+    "title": "售后忠诚与留存 / Post-sales loyalty",
+    "point": "售后两要点:一致交付(贯穿整个关系兑现承诺)与主动客户关系管理(主动增值,如检视组合与投资);勿自满。 / Two post-sales keys: consistent delivery (keep promises throughout the relationship) and proactive client relationship management (add value, e.g. portfolio/investment reviews); never be complacent.",
+    "keyfacts": [
+      "始终把客户当作正争取的新业务 / Treat the client as new business to be won"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.21 — s.12.1–12.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

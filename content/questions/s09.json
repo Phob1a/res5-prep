@@ -1,0 +1,371 @@
+[
+  {
+    "id": "q-s09-001",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Which guideline number deals with the Guidelines on Structured Deposits?",
+    "options": {
+      "A": "FAA-G10",
+      "B": "FSG-G04",
+      "C": "FAA-G09",
+      "D": "FAA-G14"
+    },
+    "answer": "C",
+    "explanation": "FAA-G09 是结构性存款指引。FAA-G10 是转换、FSG-G04 是公平交易、FAA-G14 是平衡计分卡。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Guide Part I Ch.9 — chapter outline",
+    "status": "draft",
+    "tags": [
+      "faa-g09",
+      "structured-deposits"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-002",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G09, advice on a structured deposit is NOT covered by the Guidelines when it is given to:",
+    "options": {
+      "A": "A retail customer aged 65",
+      "B": "An accredited, expert or institutional investor as defined in Regulation 2(1) of the FAR",
+      "C": "A customer who declines a fact-find",
+      "D": "Any customer of a deposit-taking institution"
+    },
+    "answer": "B",
+    "explanation": "第1.1段:指引不适用于向认可投资者、专家投资者或机构投资者(FAR 第2(1)条定义)提供意见的情形。其余客户仍受指引规管。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G09 para 1.1",
+    "status": "draft",
+    "tags": [
+      "faa-g09",
+      "applicability"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-003",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "According to FAA-G09, the principal sum of a structured deposit is guaranteed only if the deposit is:",
+    "options": {
+      "A": "Held to maturity",
+      "B": "Below S$50,000",
+      "C": "Sold to an accredited investor",
+      "D": "Covered by deposit insurance"
+    },
+    "answer": "A",
+    "explanation": "第1.10(f)段:本金仅在持有至到期时才获保证;提前提取可能损失本金。结构性存款不受存款保险(Cap.77B)承保,故 D 错。",
+    "difficulty": "easy",
+    "sourceRef": "FAA-G09 paras 1.10(f), 1.10(h)",
+    "status": "draft",
+    "tags": [
+      "faa-g09",
+      "disclosure"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-004",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "When a client does not require any recommendation on a structured deposit and the usual fact-find is dispensed with, FAA-G09 requires that the warning given to the client be:",
+    "options": {
+      "A": "Given verbally only and need not be recorded",
+      "B": "Sent only if the client later complains",
+      "C": "In writing, prominent and clear, and documented as read and understood",
+      "D": "Replaced by a higher commission disclosure"
+    },
+    "answer": "C",
+    "explanation": "第1.14–1.15段:警示须以书面、显著、清晰方式作出,并记录客户已阅读理解后仍愿继续。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G09 paras 1.14–1.15",
+    "status": "draft",
+    "tags": [
+      "faa-g09",
+      "warnings"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-005",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G09, an FA that is also a deposit-taking institution should ensure that:",
+    "options": {
+      "A": "Bank tellers actively cross-sell structured deposits to depositors",
+      "B": "The marketing/advisory process for structured deposits is distinct from the deposit-acceptance process",
+      "C": "All structured deposits are sold only online",
+      "D": "Structured deposits are marketed as identical to fixed deposits"
+    },
+    "answer": "B",
+    "explanation": "第1.21–1.22段:为区分结构性存款与传统定期存款,营销/咨询流程须与收存款流程区分;不合资格的存款区员工(如柜员)不得参与营销或建议,故 A 错;不可误导客户认为与定期存款相同,故 D 错。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G09 paras 1.21–1.22",
+    "status": "draft",
+    "tags": [
+      "faa-g09",
+      "segregation"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-006",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G10, \"switching\" is best described as a situation where a client:",
+    "options": {
+      "A": "Renews a fixed deposit at the same bank",
+      "B": "Disposes of or reduces interest in one investment product to acquire or increase interest in another",
+      "C": "Files a complaint with FIDReC",
+      "D": "Updates personal particulars in a fact-find"
+    },
+    "answer": "B",
+    "explanation": "第1.4段:\"转换\"包括客户处置或减持某产品的全部或部分,以取得或增持另一产品。",
+    "difficulty": "easy",
+    "sourceRef": "FAA-G10 para 1.4",
+    "status": "draft",
+    "tags": [
+      "faa-g10",
+      "switching"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-007",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "When reviewing whether a recommended switch is appropriate under FAA-G10 (per paragraph 42 of FAA-N16), which of the following is NOT one of the factors the supervisor must consider?",
+    "options": {
+      "A": "Whether the client suffers a penalty for terminating the original product",
+      "B": "Whether the client incurs transaction costs without gaining any real benefit",
+      "C": "Whether the replacement product is less suitable for the client",
+      "D": "Whether the representative will earn a higher commission from the switch"
+    },
+    "answer": "D",
+    "explanation": "第1.13段列出四项因素:终止罚则、无实益的交易成本、更高/相同成本但更低利益(或更高成本相同利益)、替代产品是否更不适合。代表佣金高低不在列,故 D 是正确答案(即不属考量因素)。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-G10 para 1.13 (FAA-N16 para 42)",
+    "status": "draft",
+    "tags": [
+      "faa-g10",
+      "supervisor-review"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-008",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "FAA-G10 notes that a remuneration structure based solely on sales volume may:",
+    "options": {
+      "A": "Encourage product pushing and undesirable switching",
+      "B": "Eliminate the need for supervisor review",
+      "C": "Guarantee suitable recommendations",
+      "D": "Exempt the FA from FAA-N16"
+    },
+    "answer": "A",
+    "explanation": "第1.17段:仅以销售量为基础的薪酬可能鼓励产品推销与不当转换;财务顾问应使薪酬结构维护代表提供优质专业建议的责任。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G10 para 1.17",
+    "status": "draft",
+    "tags": [
+      "faa-g10",
+      "remuneration"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-009",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Which of the following correctly states a fair dealing outcome under FSG-G04?",
+    "options": {
+      "A": "Outcome Three: Financial institutions maximise shareholder returns",
+      "B": "Outcome Three: Customers are served by competent representatives",
+      "C": "Outcome Three: Customers receive the lowest possible fees",
+      "D": "Outcome Three: Representatives meet fixed sales quotas"
+    },
+    "answer": "B",
+    "explanation": "第1.3段:成果三为\"客户由有能力的代表服务\"。五项成果为文化、产品适合性、代表能力、信息清晰、投诉处理。",
+    "difficulty": "easy",
+    "sourceRef": "FSG-G04 para 1.3",
+    "status": "draft",
+    "tags": [
+      "fsg-g04",
+      "fair-dealing-outcomes"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-010",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FSG-G04, when deciding whether to distribute a new financial product, a financial institution should:",
+    "options": {
+      "A": "Rely solely on the product provider's assessment of suitability",
+      "B": "Distribute to all customer segments to maximise reach",
+      "C": "Conduct its own formal due diligence and form an independent conclusion on suitability",
+      "D": "Skip due diligence if the provider is reputable"
+    },
+    "answer": "C",
+    "explanation": "第3.18、3.22段:金融机构须自行进行正式产品尽职调查,识别适合与明显不适合的客户群,且不应仅依赖产品提供方的评估。",
+    "difficulty": "medium",
+    "sourceRef": "FSG-G04 paras 3.18, 3.22",
+    "status": "draft",
+    "tags": [
+      "fsg-g04",
+      "due-diligence"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-011",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FSG-G04, the principle of utmost good faith (uberrima fides) means that for an insurance contract:",
+    "options": {
+      "A": "Only the insurer must disclose material facts",
+      "B": "The customer must disclose all material facts, failing which the policy may be voided",
+      "C": "Caveat emptor fully applies and no disclosure is required",
+      "D": "Material non-disclosure has no consequence after the policy is issued"
+    },
+    "answer": "B",
+    "explanation": "第3.62段脚注:保险合约属最大诚信(uberrima fides)的特殊合约,有别于一般\"buyers beware\"(caveat emptor)。客户须披露所有重要事实,重大不实披露可导致保单被作废。",
+    "difficulty": "hard",
+    "sourceRef": "FSG-G04 para 3.62 (footnote on uberrima fides)",
+    "status": "draft",
+    "tags": [
+      "fsg-g04",
+      "utmost-good-faith"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-012",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FSG-G04 (Outcome Five), which dispute resolution avenue should customers be made aware of when they cannot resolve a dispute directly with the financial institution?",
+    "options": {
+      "A": "The Small Claims Tribunal only",
+      "B": "The Monetary Authority of Singapore directly",
+      "C": "The Financial Industry Disputes Resolution Centre Ltd (FIDReC)",
+      "D": "The Commercial Affairs Department"
+    },
+    "answer": "C",
+    "explanation": "第3.80段:客户应先向金融机构寻求解决,但应被告知可向 FIDReC 求助,这可纳入新客户的入职流程。",
+    "difficulty": "medium",
+    "sourceRef": "FSG-G04 para 3.80",
+    "status": "draft",
+    "tags": [
+      "fsg-g04",
+      "complaints",
+      "fidrec"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-013",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G14, a client is a \"selected client\" if the client meets any TWO of the following criteria. Which set correctly states the criteria?",
+    "options": {
+      "A": "Aged 62 or older; not proficient in spoken or written English; below GCE 'O'/'N' level or equivalent",
+      "B": "Aged 55 or older; unemployed; no prior investments",
+      "C": "Aged 65 or older; a CPF member; holds a structured deposit",
+      "D": "Aged 60 or older; non-resident; low income"
+    },
+    "answer": "A",
+    "explanation": "第4段定义:选定客户须符合以下任两项:(a)62岁或以上;(b)口语或书面英语不熟练;(c)低于 GCE 'O' 或 'N' 水准或同等学历(已书面评估具足够投资经验知识者除外)。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-G14 para 4 (Definition)",
+    "status": "draft",
+    "tags": [
+      "faa-g14",
+      "selected-client"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-014",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G14, the close supervision of a representative assigned a balanced scorecard grade of \"E\" should include having the supervisor accompany the representative for a minimum of:",
+    "options": {
+      "A": "Two closed sales",
+      "B": "Three closed sales",
+      "C": "Ten closed sales",
+      "D": "Five closed sales"
+    },
+    "answer": "D",
+    "explanation": "第16(a)段:主管须陪同\"E\"代表进行至少5笔成交销售(closed sales);此外 ISA 单位须对其每笔交易进行至少3个月的全面独立交易后核查。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G14 para 16(a)",
+    "status": "draft",
+    "tags": [
+      "faa-g14",
+      "grade-e"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-015",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G14, when an FA conducts a reference check on someone it intends to recruit who was previously a representative or supervisor at other FAs, it should request:",
+    "options": {
+      "A": "The last four balanced scorecard grades assigned by previous principal(s) within the past 10 years",
+      "B": "Only the most recent balanced scorecard grade",
+      "C": "All grades over the past 30 years",
+      "D": "No grades, as these are confidential"
+    },
+    "answer": "A",
+    "explanation": "第21段:进行背景核查时,应向其前principal索取过去10年内分配给该人的最近四个平衡计分卡等级;收到核查请求的财务顾问亦应披露其曾给该人的等级。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-G14 paras 21–22",
+    "status": "draft",
+    "tags": [
+      "faa-g14",
+      "reference-checks"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s09-016",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G14, if an investment product is found to be unsuitable for a client during pre-transaction checks, the FA should:",
+    "options": {
+      "A": "Proceed with the transaction and note the issue for the next quarter",
+      "B": "Allow the client to modify or cancel the transaction without bearing any value difference or cancellation/modification fees",
+      "C": "Charge the client a penalty for the supervisor's time",
+      "D": "Report the client to MAS"
+    },
+    "answer": "B",
+    "explanation": "第31段:若交易前核查发现产品不适合客户,财务顾问应允许受影响客户选择修改或取消交易,且不得要求其承担产品价值差额及任何相关取消或修改费用;并应按要求提供新建议。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G14 para 31",
+    "status": "draft",
+    "tags": [
+      "faa-g14",
+      "pre-transaction-checks"
+    ],
+    "updatedAt": "2026-06-19"
+  }
+]

@@ -3,33 +3,109 @@
     "id": "note-s11-overview",
     "part": 1,
     "syllabusItemId": "s11",
-    "title": "集体投资计划守则 / Collective Investment Schemes (CIS)",
-    "summary": "CIS 汇集众多投资者资金由管理人统一管理;零售发售须授权/认可 + 注册招股书;但 MAS 授权≠背书或保证。 / A CIS pools many investors’ money under collective management; retail offers must be authorised/recognised with a registered prospectus — but MAS authorisation is not an endorsement or guarantee.",
+    "title": "修订版集体投资计划守则总览 / Overview of the Revised Code on Collective Investment Schemes",
+    "summary": "守则由 MAS 依 SFA 第 321 条发出,属非法定性质,设定基金管理、运作与营销的最佳实践。修订版自 2011-10-01 生效,首发于 2002-05-23、最近修订于 2023-05-23,涵盖受托人/VCC、管理人、计划、账目与报告、交易与估值、违规、核心投资要求,以及对冲基金与资本保证基金附录。 / Issued by MAS under s321 of the SFA, the Code is non-statutory and sets out best practices for managing, operating and marketing schemes. The revised Code took effect on 1 Oct 2011 (first issued 23 May 2002, last revised 23 May 2023) and covers the trustee/VCC, manager, scheme, accounts and reports, dealing and valuation, breaches, core investment requirements, and the hedge-fund and capital-guaranteed-fund appendices.",
     "sections": [
       {
-        "heading": "什么是 CIS",
-        "body": "汇集多名投资者资金、按既定目标统一投资,投资者按份额分享收益与风险(如单位信托/基金)。"
+        "heading": "守则的法律地位",
+        "body": "守则由 MAS(\"Authority\")依 SFA(2001)第 321 条发出,设定管理人、获批受托人、VCC 董事及 VCC/子基金托管人应遵守的最佳实践。守则属非法定性质,违反本身不致使任何人承担刑责;但在民事或刑事诉讼中可被援引以证立或否定相关责任。计划责任人违反守则,MAS 可据 SFA 第 286/287 条考虑撤销或暂停计划的授权或认可,或拒绝其新计划;受托人或托管人违反,MAS 可据第 289 条考虑撤回批准或禁止其担任新计划的受托人/托管人。守则首发于 2002-05-23,最近修订于 2023-05-23。"
       },
       {
-        "heading": "What is a CIS",
-        "body": "Pools investors’ money invested collectively toward a stated objective; investors share returns and risks pro-rata (e.g. unit trusts/funds)."
+        "heading": "Legal status of the Code",
+        "body": "Issued by MAS (the \"Authority\") under s321 of the SFA (2001), the Code sets out best practices that managers, approved trustees, VCC directors and custodians of a VCC or sub-fund should observe. It is non-statutory: a failure to comply does not of itself render a person liable to criminal proceedings, but it may be relied upon in any civil or criminal proceedings to establish or negate liability. A breach by the responsible person may lead MAS to revoke/suspend authorisation or recognition under SFA s286/287 or refuse new schemes; a breach by a trustee/custodian may lead MAS to revoke approval under s289 or prohibit it from acting for new schemes. First issued 23 May 2002, last revised 23 May 2023."
       },
       {
-        "heading": "授权与提示",
-        "body": "零售发售须获授权(本地)/认可(境外)并注册招股书披露目标/风险/费用;MAS 授权/注册并非背书或回报保证。"
+        "heading": "修订版引入的主要变化",
+        "body": "修订版自 2011-10-01 生效,旨在提高清晰度、增加基金经理管理灵活性并加强对零售投资者的保障。MAS 仅在确信外国计划所受投资指引与修订版守则\"实质相似\"时才予认可。主要变化:(a)强化核心投资要求——引入可投资清单、加强金融衍生品与交易对手要求、完善证券借贷与结构性工具规定;(b)为专门基金类别引入新指引——指数基金、货币市场基金的加权组合到期日概念;(c)其他投资者保护措施——标准化业绩费计算方法、引入基金命名原则、禁止披露模拟过往业绩数据。守则共 92 页、10 章、7 个附录。"
       },
       {
-        "heading": "Authorisation & caveat",
-        "body": "Retail offers must be authorised (local)/recognised (foreign) with a registered prospectus disclosing objective/risks/fees; MAS authorisation/registration is not an endorsement or guarantee."
+        "heading": "Key changes introduced",
+        "body": "The revised Code took effect on 1 Oct 2011 to provide greater clarity, increase flexibility for fund managers and enhance safeguards for retail investors. MAS will only recognise a foreign scheme if satisfied its investment guidelines are substantially similar to the revised Code. Key changes: (a) strengthening core investment requirements — a permissible-investments list, stronger financial-derivative and counterparty rules, enhanced securities-lending and structured-instrument rules; (b) new guidelines for specialised categories — index funds and the weighted-portfolio-maturity concept for money market funds; (c) other investor-protection measures — standardised performance-fee calculation, fund-naming principles, and a prohibition on simulated past-performance data. The Code has 92 pages, ten chapters and seven Appendices."
+      },
+      {
+        "heading": "受托人与 VCC 架构",
+        "body": "单位信托型计划适用受托人章。受托人应独立于管理人:若任何人持有受托人 20% 或以上股份并同时持有管理人或其相关法团 20% 或以上股份,则不视为独立。受托人应以公平交易(arm's length)方式进行交易,并应在察觉 SFA 第 289(3) 条违规后三个营业日内通知 MAS。VCC 型计划适用 VCC 章:至少一名 VCC 董事应独立于业务关系、管理人及其相关法团、VCC 托管人与重大股东;VCC 托管人应独立于 VCC 与管理人(同样适用 20% 股份测试)。VCC 托管人即使将职能委托第三方,仍对所托管财产的安全保管负最终责任,且未经 VCC 事先同意不得重用其财产。"
+      },
+      {
+        "heading": "The trustee and VCC structure",
+        "body": "The trustee chapter applies to unit-trust schemes. The trustee should be independent of the manager: it may not be independent if any person with 20% or more of the trustee's shares also has 20% or more of the manager's (or related corporations') shares. The trustee should transact at arm's length and must inform MAS of any breach of SFA s289(3) within three business days of becoming aware. For VCC schemes, at least one VCC Director should be independent of business relationships, the manager and its related corporations, the VCC Custodian and substantial shareholders; the VCC Custodian should be independent of the VCC and manager (same 20% test). Even where functions are delegated to third parties, the VCC Custodian remains ultimately responsible for safekeeping and may not reuse VCC property without the VCC's prior consent."
+      },
+      {
+        "heading": "管理人的责任与运作义务",
+        "body": "管理人应始终依计划组成文件并以参与者最佳利益行事,以公平交易方式进行交易,并遵守 Notice SFA 04-N16(客户订单执行/最佳执行)。管理人不得将计划资金投资于自身或相关法团证券(除非属基准成分并符合附录 1 第 2.3 段),不得向相关法团借出资金,不得作为计划所投 OTC 衍生品的交易对手。管理人不得仅机械依赖信用评级,须建立内部评估;评级出现差异时应采用最低评级。赎回款应在 T+7 营业日内支付(对冲基金 90 天)。重大变更须至少在生效前一个月通知 MAS 与现有参与者;无法提前一个月确定的变更应尽快通知。"
+      },
+      {
+        "heading": "Manager's responsibilities and operational obligations",
+        "body": "The manager should at all times act per the constituent document and in participants' best interest, transact at arm's length, and comply with Notice SFA 04-N16 (best execution). It must not invest scheme monies in its own or related corporations' securities (unless a benchmark constituent meeting Appendix 1 para 2.3), must not lend scheme monies to related corporations, and must not be the counterparty of an OTC derivative the scheme invests in. The manager must not rely solely or mechanistically on credit ratings; where ratings differ, the lowest must be used. Redemption proceeds are payable within T+7 business days (90 days for hedge funds). Significant changes require at least one month's prior notice to MAS and existing participants; changes that cannot be determined a month ahead must be notified as soon as practicable."
+      },
+      {
+        "heading": "业绩费的标准化",
+        "body": "业绩费的计算应对所有参与者公平,在考虑所有其他支付后计算与支付,且结晶(crystallisation)频率不得超过每年一次。计算应基于以下其一:(A)支点费(fulcrum fee)——随业绩相对指定基准对称上下浮动,限于基础费的 0% 至 200%(例如基础费 1.5% 则支点费区间为 0~3.0%);或(B)高水位线(high water mark)——仅在期末 NAV 创历史新高时重置至计划 NAV。若拟用其他方法须咨询 MAS。招股书须披露业绩费的存在与收取对象、即便回报为负也可能收取的事实、可能占 NAV 的最大金额或百分比、计算的数值示例,以及是否实现业绩费均等化。"
+      },
+      {
+        "heading": "Standardisation of performance fees",
+        "body": "Performance fees must be equitable to all participants, calculated and paid after all other payments, and crystallise no more frequently than once a year. They must be calculated on either (A) a fulcrum fee — moving symmetrically with performance against a specified benchmark, limited to between 0% and 200% of the base fee (e.g. a 1.5% base fee gives a 0-3.0% fulcrum range); or (B) a high water mark — reset to the scheme's NAV only when NAV reaches a new historical high at the end of each performance period. Any other method requires consulting MAS. The prospectus must disclose that a performance fee is payable and to whom, that it may be levied even if returns are negative, the maximum amount/percentage of NAV, numerical illustrations, and whether equalisation is achieved."
+      },
+      {
+        "heading": "计划命名与禁止活动",
+        "body": "计划名称应恰当、不可不当或具误导性;MAS 会考虑是否与他计划名称实质相似、是否暗示无依据的优点或管理人特质、是否与投资目标不一致、是否暗示其非集体投资计划(如称\"plan\"或\"account\")等。\"capital protected\"与\"principal protected\"等词被禁用。计划不得从事:直接放贷、提供担保、承销,或卖空(除非源自依附录 1 第 4、5 节投资的金融衍生品)。参与者责任应限于其在计划中的投资,信托契据须含限责条款。"
+      },
+      {
+        "heading": "Scheme naming and prohibited activities",
+        "body": "A scheme's name should be appropriate, not undesirable and not misleading; MAS considers whether it is substantially similar to another scheme's name, implies unjustified merits or manager qualities, is inconsistent with the investment objective, or implies the scheme is not a CIS (e.g. a \"plan\" or \"account\"). The terms \"capital protected\" and \"principal protected\" are prohibited. A scheme must not engage in direct lending of monies, granting of guarantees, underwriting, or short selling (except where arising from derivatives invested per Appendix 1 sections 4 and 5). Participants' liability is limited to their investment, and the trust deed must contain a limited-liability provision."
+      },
+      {
+        "heading": "账目、报告与交易估值",
+        "body": "管理人按 ISCA RAP 7(单位信托报告框架)编制半年/年度财务报表。受托人应在期末两个月内寄送半年账目与报告,在每个财政年度结束三个月内寄送年度账目、审计报告与年报。计划应至少每月有一个交易日;管理人仅可在例外情形且符合参与者最佳利益时暂停交易,须立即通知参与者与 MAS,暂停一般应在 21 天内结束(可经受托人每周复核后延长)。单位价格 = NAV ÷ 流通单位数;计划应每个营业日估值(每月至少一次),并至少每个交易日公布单位价值。报价投资以官方收盘价/最后成交价计,非报价或价格不具代表性者按公允价值。估值错误达 NAV 每单位 0.5% 或以上时须补偿受影响参与者(单一参与者补偿额不超过 $20 者除外)及计划;须用 Illustration 4 模板向 MAS 与受托人报告。"
+      },
+      {
+        "heading": "Accounts, reports, dealing and valuation",
+        "body": "The manager prepares half-yearly and audited financial statements per ISCA RAP 7. The trustee sends semi-annual accounts and report within two months of period-end, and annual accounts, auditor's report and annual report within three months of each financial year-end. A scheme must have at least one dealing day a month; the manager may suspend dealing only in exceptional circumstances in participants' best interest, must immediately notify participants and MAS, and suspension should generally end within 21 days (extendable subject to weekly trustee review). Unit price = NAV / units outstanding; the scheme must be valued every business day (at least monthly) and unit value published at least every dealing day. Quoted investments use the official closing/last transacted price; unquoted or unrepresentative prices use fair value. A valuation error of 0.5% or more of NAV per unit requires compensating affected participants (unless any single participant's compensation is $20 or less) and the scheme, reported to MAS and the trustee using the Illustration 4 template."
+      },
+      {
+        "heading": "违规处理与喂养结构通知",
+        "body": "管理人应尽快采取一切必要行动纠正任何违规,且不得进行扩大违规程度的交易,并应在察觉违反 Part I/II 指引或限额后三个营业日内通知 MAS。但因投资增值/贬值、单位赎回或付款、公司资本变动、基准成分权重下降、信用评级下调或终止所致的被动违规,只要按守则在违规之日起不超过三个月内纠正(可经受托人按月复核后延长),无须上报。对认可计划及喂养上层计划:若其母国监管机构施加/变更条件,应尽快但不晚于 14 天内告知 MAS;风险管理流程文件修订应不晚于一个月内提交 MAS。"
+      },
+      {
+        "heading": "Breaches and feeder-scheme notifications",
+        "body": "The manager must take all necessary action to rectify any breach as soon as practicable, must not enter into transactions increasing the breach, and must inform MAS within three business days of becoming aware of any breach of Part I/II guidelines or limits. However, passive breaches caused by appreciation/depreciation, redemptions or payments, changes in a company's capital, a reduction in a benchmark constituent's weight, or a credit-rating downgrade/cessation need not be reported provided they are rectified within three months of the breach date (extendable subject to monthly trustee review). For recognised and feeder schemes: where the home supervisory authority imposes/varies a condition, MAS must be informed as soon as practicable but no later than 14 days; revised risk-management-process documentation must be submitted no later than one month."
+      },
+      {
+        "heading": "核心投资要求(附录 1)",
+        "body": "所有非专门授权计划(物业基金与对冲基金除外)须遵守附录 1。可投资标的仅限:可转让证券、货币市场工具、合资格存款、其他计划单位、金融衍生品,以及未上市股份/等同证券。单一实体限额:对单一实体的可转让证券或货币市场工具投资不超过 NAV 的 10%;集团限额:对一组实体的可转让证券、货币市场工具、合资格存款及 OTC 衍生品对手风险合计不超过 20%。政府/公共债务在满足最低评级(BBB/Baa)且单一发行不超过 20% 时,单一实体限额可升至 35%;评级达 AA/Aa 时单一实体限额不适用。未评级或非投资级公司债限额降至 5%。金融衍生品的全球敞口任何时候不超过 NAV 的 100%,按承诺法或(经咨询 MAS)VaR 法计算。临时借款仅用于赎回与过桥,期限不超过一个月,合计不超过 NAV 的 10%。禁止使用回测/模拟过往业绩数据。"
+      },
+      {
+        "heading": "Core investment requirements (Appendix 1)",
+        "body": "All non-specialised authorised schemes (except property and hedge funds) must comply with Appendix 1. Permissible investments are limited to transferable securities, money market instruments, eligible deposits, units in other schemes, financial derivatives, and unlisted shares/equivalent securities. Single-entity limit: investments in a single entity's transferable securities or money market instruments must not exceed 10% of NAV; group limit: aggregate exposure to a group through transferable securities, money market instruments, eligible deposits and OTC-derivative counterparty risk must not exceed 20%. The single-entity limit may rise to 35% for government/public debt rated at least BBB/Baa with no single issue above 20%, and does not apply where the rating is AA/Aa. Unrated or non-investment-grade corporate debt is capped at 5%. Global exposure to derivatives must not exceed 100% of NAV at all times, calculated under the Commitment Approach or (after consulting MAS) the VaR Approach. Temporary borrowing is for redemptions and bridging only, for no more than one month and not exceeding 10% of NAV. Back-tested or simulated past-performance data is prohibited."
+      },
+      {
+        "heading": "对冲基金(附录 3)",
+        "body": "对冲基金以先进投资策略(可能含流动性差工具、衍生品、集中持仓、杠杆或卖空)及另类资产追求高回报;附录 1 第 1~8 节不适用,且经覆盖后可卖空。单一对冲基金最低初始认购为每名参与者 $100,000;基金中的对冲基金(FOHF)为 $20,000。FOHF 多元化:至少投资 15 只对冲基金、单一对冲基金配置不超过 8%。管理人(或外包的次级管理人/顾问)须有专长,且至少两名高管各具至少五年对冲基金管理经验(FOHF 须其中至少三年为 FOHF 管理经验)。每月至少一个常规交易日,赎回款在受理交易日起 90 天内支付。FOHF 借款期限不超过三个月、合计不超过 NAV 的 25%。除年度与半年报告外,对冲基金还须编制季度报告(资本保证型除外)。"
+      },
+      {
+        "heading": "Hedge funds (Appendix 3)",
+        "body": "A hedge fund seeks high returns via advanced strategies (which may involve illiquid instruments, derivatives, concentration, leverage or short selling) and alternative asset classes; Appendix 1 sections 1-8 do not apply and covered short selling is permitted. The minimum initial subscription is S$100,000 per participant for a single hedge fund and S$20,000 for a fund-of-hedge-funds (FOHF). FOHF diversification: at least 15 hedge funds and no more than 8% to a single hedge fund. The manager (or outsourced sub-manager/adviser) must have expertise, with at least two executives each having at least five years' hedge-fund experience (for a FOHF, at least three of those years in FOHF management). At least one regular dealing day a month; redemption proceeds within 90 days of the dealing day the request is accepted. FOHF borrowing is for no more than three months and not exceeding 25% of NAV. Besides annual and semi-annual reports, hedge funds must also prepare quarterly reports (except capital-guaranteed ones)."
+      },
+      {
+        "heading": "资本保证基金(附录 4)",
+        "body": "资本保证基金在未来预定日期保证返还参与者所投资本。不符合附录 4 者不得在名称或宣传中使用\"guarantee/assured/insured/warranty\"。合资格担保人:金融机构须至少 AA/Aa 评级,其他情形须至少 AAA/Aaa;担保人发行且占 NAV 超过 10% 的证券不得由其担任担保人。担保须由担保人与受托人订立书面协议,为无条件、见索即付(first-demand)且在新加坡可对担保人强制执行,覆盖不少于所投资本的 100%(可扣初始销售费或前端费、或仅在特定日期/期间适用,但须显著披露)。担保人评级跌破最低标准或不再获评级时,管理人一般应在六个月内更换为符合评级标准的新担保人,提供同等保障。"
+      },
+      {
+        "heading": "Capital guaranteed funds (Appendix 4)",
+        "body": "A capital guaranteed fund guarantees the return of participants' invested capital at a pre-determined future date. A scheme not complying with Appendix 4 must not use \"guarantee\", \"assured\", \"insured\" or \"warranty\" in its name or promotion. An eligible guarantor must be rated at least AA/Aa (financial institutions) or AAA/Aaa (all other cases), and may not be the issuer of securities exceeding 10% of NAV. The guarantee requires a written agreement between guarantor and trustee, must be unconditional, first-demand and legally enforceable in Singapore against the guarantor, and must cover not less than 100% of capital invested (it may be 100% less front-end loads, or apply only on particular dates/after a period, subject to prominent disclosure). If the guarantor's rating falls below the minimum or it ceases to be rated, the manager should generally, within six months, enter a new agreement with a guarantor meeting the rating criterion and providing the same level of guarantee."
       }
     ],
     "keyPoints": [
-      "汇集资金、统一管理 / Pooled money, collective management",
-      "零售发售须授权+招股书 / Retail offer needs authorisation + prospectus",
-      "MAS 授权/注册≠背书或保证 / MAS authorisation ≠ guarantee"
+      "守则非法定,违反不致刑责但可在诉讼中援引;MAS 可据 SFA 286/287/289 处理 / Code is non-statutory; breach is not itself criminal but may be relied upon, and MAS may act under SFA s286/287/289",
+      "修订版自 2011-10-01 生效;首发 2002-05-23、最近修订 2023-05-23 / Revised Code effective 1 Oct 2011; first issued 23 May 2002, last revised 23 May 2023",
+      "受托人/VCC 托管人独立性以 20% 股份测试判断 / Trustee/VCC-Custodian independence judged by the 20% shareholding test",
+      "业绩费须按支点费(0~200% 基础费)或高水位线计算,结晶频率≤每年一次 / Performance fees use a fulcrum fee (0-200% of base) or high water mark, crystallising no more than once a year",
+      "单一实体限额 10%、集团限额 20%、衍生品全球敞口≤NAV 100%、临时借款≤10% / 10% single-entity, 20% group, ≤100% NAV global derivative exposure, ≤10% temporary borrowing",
+      "对冲基金最低认购 $100,000(FOHF $20,000);FOHF 须≥15 只基金且单只≤8% / Hedge-fund minimum S$100,000 (FOHF S$20,000); FOHF needs ≥15 funds with ≤8% each",
+      "资本保证须无条件、见索即付、可在新加坡强制执行、覆盖≥100% 资本;担保人 AA/AAA 评级 / Guarantee must be unconditional, first-demand, enforceable in Singapore, cover ≥100% capital; guarantor rated AA/AAA"
     ],
-    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Revised Code on Collective Investment Schemes (MAS, SFA s321)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

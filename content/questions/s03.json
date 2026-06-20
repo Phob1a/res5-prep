@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q-s03-001",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Under which section of the Financial Advisers Act (2001) are MAS Notices FAA-N16, FAA-N03 and FAA-N11 issued?",
+    "options": {
+      "A": "Section 58",
+      "B": "Section 27",
+      "C": "Section 25",
+      "D": "Section 296"
+    },
+    "answer": "A",
+    "explanation": "三份通告均依《财务顾问法(2001)》第58条发出。第25条是披露义务、第27条是合理依据义务,均非发出通告的依据。",
+    "difficulty": "easy",
+    "sourceRef": "FAA-N16 para 1.1; FAA-N11 para 1",
+    "status": "draft",
+    "tags": [
+      "faa-n16",
+      "legal-basis"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-002",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Before recommending an UNLISTED Specified Investment Product, which assessment must a financial adviser conduct?",
+    "options": {
+      "A": "A Customer Account Review (CAR)",
+      "B": "A Customer Knowledge Assessment (CKA)",
+      "C": "A Fit and Proper check",
+      "D": "An anti-money-laundering screening"
+    },
+    "answer": "B",
+    "explanation": "非上市 SIP 须依附件2进行客户知识评估(CKA)。CAR(客户账户审查)适用于上市 SIP,评估的是衍生品知识。",
+    "difficulty": "easy",
+    "sourceRef": "FAA-N16 para 16, Annex 2",
+    "status": "draft",
+    "tags": [
+      "cka",
+      "unlisted-sip"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-003",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "For how long does a positive Customer Knowledge Assessment (CKA) outcome remain valid before a new assessment is required?",
+    "options": {
+      "A": "6 months",
+      "B": "1 year",
+      "C": "3 years",
+      "D": "5 years"
+    },
+    "answer": "B",
+    "explanation": "CKA 阳性结果有效期为评估之日起1年,逾期须重做。3年是 CAR(客户账户审查)的有效期,易混淆。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N16 para 26",
+    "status": "draft",
+    "tags": [
+      "cka",
+      "validity"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-004",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "A client provides no information on educational qualifications, investment experience or work experience for a CKA. How must the financial adviser treat the client?",
+    "options": {
+      "A": "Deem the client to possess knowledge or experience by default",
+      "B": "Postpone the assessment indefinitely",
+      "C": "Deem the client NOT to possess knowledge or experience in the unlisted SIP",
+      "D": "Refer the client to MAS for assessment"
+    },
+    "answer": "C",
+    "explanation": "若客户不提供教育资历、投资经验或工作经验信息,顾问须视其为不具备该非上市 SIP 的知识或经验(CAR 对衍生品亦同此理)。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N16 para 17",
+    "status": "draft",
+    "tags": [
+      "cka",
+      "no-information"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-005",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Under Annex 2 of FAA-N16, a client may be assessed as having the knowledge/experience for an unlisted SIP if, in the preceding 3 years, the client has transacted in CIS or ILPs at least:",
+    "options": {
+      "A": "3 times",
+      "B": "6 times",
+      "C": "10 times",
+      "D": "12 times"
+    },
+    "answer": "B",
+    "explanation": "附件2规定:过去3年内就 CIS/ILP(或非上市非报价 SIP)至少交易6次,可被评估为具备知识或经验。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N16 Annex 2 para 1(c)",
+    "status": "draft",
+    "tags": [
+      "cka",
+      "annex-2"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-006",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Under Annex 2/Annex 3 of FAA-N16, the work-experience limb requires a minimum of how many consecutive years of relevant experience, within the past 10 years?",
+    "options": {
+      "A": "1 consecutive year",
+      "B": "2 consecutive years",
+      "C": "3 consecutive years",
+      "D": "5 consecutive years"
+    },
+    "answer": "C",
+    "explanation": "工作经验门槛为过去10年内至少连续3年的相关经验(产品的开发、结构设计、管理、销售、交易、研究、分析或培训等),会计/精算/资金/金融风险管理经验亦算。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N16 Annex 2 para 1(d); Annex 3 para 1(d)",
+    "status": "draft",
+    "tags": [
+      "work-experience",
+      "annex"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-007",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "After how many years does a Customer Account Review (CAR) outcome generally expire, requiring a new review unless the client meets the prescribed trading-frequency condition?",
+    "options": {
+      "A": "1 year",
+      "B": "2 years",
+      "C": "3 years",
+      "D": "5 years"
+    },
+    "answer": "C",
+    "explanation": "CAR 结果在评估满3年后失效;除非客户在前一3年期(及其后每个3年期)内就上市 SIP 交易超过一次,否则须重做 CAR。1年是 CKA 的有效期。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N16 para 27T",
+    "status": "draft",
+    "tags": [
+      "car",
+      "validity"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-008",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Which of the following is NOT one of the three general disclosure principles under FAA-N03?",
+    "options": {
+      "A": "Clear",
+      "B": "Adequate",
+      "C": "Not false or misleading",
+      "D": "Guaranteed returns"
+    },
+    "answer": "D",
+    "explanation": "FAA-N03 第11段的三原则是:清晰(Clear)、充分(Adequate)、不虚假或误导(Not false or misleading)。\"保证回报\"并非披露原则,反而 CIS 通常不得预测未来表现。",
+    "difficulty": "easy",
+    "sourceRef": "FAA-N03 para 11",
+    "status": "draft",
+    "tags": [
+      "faa-n03",
+      "disclosure-principles"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-009",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N03, which section of the Act prohibits a licensed financial adviser from making a false or misleading statement WITH INTENT TO DECEIVE about amounts payable under a proposed contract?",
+    "options": {
+      "A": "Section 23",
+      "B": "Section 25",
+      "C": "Section 26",
+      "D": "Section 27"
+    },
+    "answer": "C",
+    "explanation": "第26条禁止以欺骗意图作出关于应付金额或合约条款效力的虚假或误导陈述。第25条是披露重大信息的义务,二者常被混淆。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-N03 para 5 (ss.25 & 26)",
+    "status": "draft",
+    "tags": [
+      "faa-n03",
+      "section-26"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-010",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N11, the use of which term to name or describe a dual currency investment (DCI) in marketing material is prohibited?",
+    "options": {
+      "A": "'Investment'",
+      "B": "'Deposit' (or 'structured deposit') or any derivative in any language",
+      "C": "'Dual currency'",
+      "D": "'Currency option'"
+    },
+    "answer": "B",
+    "explanation": "FAA-N11 第6段禁止以\"deposit\"或\"structured deposit\"(及任何语言的衍生词)命名或描述 DCI,因可能误导投资者以为本金以基础货币计有保证。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N11 paras 5–6",
+    "status": "draft",
+    "tags": [
+      "faa-n11",
+      "dci",
+      "naming"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-011",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "To whom does FAA-N11 (Dual Currency Investments) NOT apply when advice is given?",
+    "options": {
+      "A": "A retail client who is an individual",
+      "B": "An accredited, expert or institutional investor",
+      "C": "A first-time investor",
+      "D": "A client purchasing for hedging"
+    },
+    "answer": "B",
+    "explanation": "FAA-N11 第2段规定,向合格投资者、专家投资者或机构投资者(如 FAR 2(1) 定义)提供 DCI 建议时本通告不适用。普通零售个人客户仍受其约束。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N11 para 2",
+    "status": "draft",
+    "tags": [
+      "faa-n11",
+      "applicability"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-012",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N16, for how long must a financial adviser keep records of a client's acknowledgement of the Overseas-Listed Investment Product risk warning statement?",
+    "options": {
+      "A": "Not less than 5 years",
+      "B": "Not less than 3 years",
+      "C": "Not less than 1 year",
+      "D": "Indefinitely"
+    },
+    "answer": "A",
+    "explanation": "第41E段要求海外上市投资产品风险警示确认记录保存不少于5年。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-N16 para 41E",
+    "status": "draft",
+    "tags": [
+      "faa-n16",
+      "overseas-listed",
+      "record-keeping"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-013",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "A client is assessed as NOT possessing knowledge/experience and insists on transacting in an unlisted SIP that the adviser did NOT recommend. Before proceeding, FAA-N16 requires that the trade be approved by:",
+    "options": {
+      "A": "Senior management who is not involved in the trade and not a connected person (or a designated person / approved written framework)",
+      "B": "MAS directly",
+      "C": "The client's spouse",
+      "D": "Any available representative of the firm"
+    },
+    "answer": "A",
+    "explanation": "第25段规定,此类\"relevant trade\"须经未参与该交易且与客户无关联的高级管理层确认与批准,或依第25A段由指定人/经批准的书面框架代为履行。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-N16 paras 24, 25, 25A",
+    "status": "draft",
+    "tags": [
+      "cka",
+      "senior-management-approval"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s03-014",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "topicGroup": "notices",
+    "stem": "Under section 58(5) of the Act, a person who contravenes a requirement in a MAS Notice is liable on conviction to a fine not exceeding:",
+    "options": {
+      "A": "$2,500",
+      "B": "$10,000",
+      "C": "$25,000",
+      "D": "$50,000"
+    },
+    "answer": "C",
+    "explanation": "依第58(5)条,违反通告可处不超过 $25,000 罚款;持续违反者,定罪后每日另罚不超过 $2,500($2,500 是每日续罚额,非主罚额)。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-N16 para 45 note; FAA-N03 note; FAA s.58(5)",
+    "status": "draft",
+    "tags": [
+      "penalty",
+      "section-58"
+    ],
+    "updatedAt": "2026-06-19"
+  }
+]

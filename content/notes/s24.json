@@ -3,33 +3,102 @@
     "id": "note-s24-overview",
     "part": 2,
     "syllabusItemId": "s24",
-    "title": "制定适当的策略与方案 / Strategies & Solutions",
-    "summary": "方案须针对已识别需求,适合风险承受与负担;先保障应急后积累;推荐有与分析挂钩的合理基础。 / Solutions must address identified needs, suit risk appetite and affordability, prioritise protection/emergency before accumulation, and have a reasonable basis tied to the analysis.",
+    "title": "制定合适的策略与解决方案 / Developing Appropriate Strategies and Solutions",
+    "summary": "在完成需求分析、识别客户需求之后,本章讲解如何针对客户的需求与处境(财务状况、人生阶段)制定合适的策略与产品方案。两条基本原则:只在客户确有需要时推荐产品,且只推荐对其最合适的产品。 / After needs analysis, this chapter covers how to develop appropriate strategies and product solutions for a client's needs and circumstances (financial situation, life stage). Two basic principles: only recommend products the client needs, and only the most suitable ones for his circumstances.",
     "sections": [
       {
-        "heading": "适当性",
-        "body": "方案匹配需求、风险承受、负担能力与时间;不可一刀切或推销高佣不适合产品。"
+        "heading": "引言与基本财务规划指南",
+        "body": "在前面章节学习了需求分析流程及如何识别客户需求后,本章讲解如何根据客户的需求与处境(如当前财务状况、所处人生阶段)制定合适的策略与解决方案。进行产品推荐时,强烈建议熟悉并与客户一同走读《基本财务规划指南》(Basic Financial Planning Guide,第二部分第 27 章),这有助于建立长期可信赖的关系。该指南列出适用于大多数人的基本、简单步骤,但并非穷尽式,也未必照顾到每个人的特定需求、处境与偏好;若需更个性化的规划,建议客户与财务顾问代表面谈。"
       },
       {
-        "heading": "Suitability",
-        "body": "Match needs, risk appetite, affordability and horizon; no one-size-fits-all or high-commission misfit."
+        "heading": "Introduction and the Basic Financial Planning Guide",
+        "body": "Having learnt the needs analysis process and how to identify a client's needs, this chapter covers developing appropriate strategies and solutions given the client's needs and circumstances (e.g. current financial situation, life stage). When making product recommendations it is highly recommended to be familiar with, and to go through, the Basic Financial Planning Guide (Part II Chapter 27) with clients, which helps build a trustworthy long-term relationship. The Guide sets out basic, simple steps broadly applicable to most, but is not exhaustive and may not cater to every individual's specific needs, circumstances and preferences; for more customised planning, a conversation with an FA representative is recommended."
       },
       {
-        "heading": "优先级与依据",
-        "body": "通常先解决保障与应急,再追求积累;推荐基于事实收集与分析,能解释\"为何适合\"。"
+        "heading": "产品推荐的两条基本原则与良好产品知识",
+        "body": "做任何产品推荐前应注意两条基本原则:(a)只在客户确有需要时才推荐产品;(b)只推荐在其处境下对客户最合适的产品。要判断产品是否合适,须对所掌握的产品有良好理解。应熟悉产品的以下方面:产品系列;保单功能(保障——身故/伤残/危疾等、储蓄、投资、费用报销或收入替代);保单性质(分红、非分红或投资连结);是否累积现金价值及其影响;红利(如适用)如何派发及影响;特别功能(如可转换性、保证续保、保证保费率、即时退保价值);利益何时及如何支付;保单的限制与风险及由谁承担(如提前终止损失本金、投资回报不保证);分销成本、费用与开支;保障期限;保费及缴付频率能否更改;不缴保费的后果;14 天自由审视(free-look)条款如何运作;以及产品的体检与非体检限额。"
       },
       {
-        "heading": "Priority & basis",
-        "body": "Address protection/emergency first, then accumulation; base advice on the fact-find/analysis and explain why it fits."
+        "heading": "Two basic principles and good product knowledge",
+        "body": "Before any recommendation, note two basic principles: (a) only recommend products if the client needs them; and (b) only recommend products most suitable for the client given his circumstances. To judge suitability you must understand the products available. Be familiar with: the product range; what the policy serves to do (protection — death/disability/critical illness, savings, investments, reimbursement of expenses, income replacement); the nature of the policy (participating, non-participating or investment-linked); whether it accumulates cash value and the effect; how bonuses (if any) are declared and their effect; special features (convertibility, guaranteed renewability, guaranteed premium rate, immediate surrender value); when and how benefits are payable; limitations and risks and who bears them (e.g. loss of capital on early termination, non-guaranteed returns); distribution costs, charges and expenses; duration of cover; premium and frequency and whether changeable; implications of non-payment; how the 14-day free-look provision works; and the products' medical and non-medical limits."
+      },
+      {
+        "heading": "客户目标与储蓄/投资需求产品",
+        "body": "除具备良好产品知识外,在筛选合适产品时还须考虑客户的目标。走需求导向销售流程的目的,正是确保推荐产品因满足客户基于其目标所产生的需求而适合客户;客户目标在需求分析阶段即已了解。储蓄/投资方面,教材表 4.1 列出可推荐的投资工具及其本金损失风险;为长期更高的退休月领,补缴 CPF 退休储蓄(因复利)也是可行选项。在寻求其他投资工具前,客户须先备妥应急储蓄——有固定收入者应至少备足 3 至 6 个月开支,可使用高流动性低风险工具(如国库券 Treasury Bills、新加坡储蓄债券 SSB)或存入储蓄账户。表 4.1 风险:货币市场证券(低)、固定收益证券即债券(低至高)、股票投资(高)、衍生工具(高)、房地产(高)、单位信托与 ETF(低至高)、终身寿险(低)、储蓄型保险(低)、投连产品(视底层资产低至高)、年金(低)。"
+      },
+      {
+        "heading": "Client's objectives and saving/investment products",
+        "body": "Besides product knowledge, consider the client's objectives when short-listing products. The needs-based sales process ensures the recommendation suits the client because it meets needs arising from his objectives, understood during needs analysis. For saving/investment needs, Table 4.1 lists investment instruments and their risk of losing capital; topping up CPF retirement savings is also viable long-term for higher monthly payouts due to compounding. Before sourcing other tools the client should set aside adequate emergency savings — those with regular income should aim for at least 3 to 6 months' expenses, using high-liquidity low-risk tools (e.g. Treasury Bills, Singapore Savings Bonds) or a savings account. Table 4.1 risk: money market securities (Low), fixed income/bonds (Low to High), equities (High), derivatives (High), property (High), unit trusts/ETFs (Low to High), whole life (Low), endowment (Low), ILPs (Low to High depending on underlying assets), annuities (Low)."
+      },
+      {
+        "heading": "退休需求产品",
+        "body": "表 4.1 中所有投资工具也可用于满足客户退休需求,具体哪种更合适取决于各客户的处境。例如,身体健康且希望获得固定收入的客户可考虑终身年金(life annuity),只要他在世该保单便会按期支付收入。若客户年满 55 岁或以上,可探索将房产变现(monetise)的选项,变现方式包括银发安居花红(Silver Housing Bonus)、屋契回购计划(Lease Buyback Scheme)以及出租房间/整套组屋。"
+      },
+      {
+        "heading": "Products to meet retirement needs",
+        "body": "All instruments in Table 4.1 can also meet retirement needs; which is more suitable depends on each client's circumstance. For example, a life annuity may suit a client in good health who wants a fixed income, as it pays a regular income for as long as he is alive. A client aged 55 or above may explore monetising the property — options include the Silver Housing Bonus, Lease Buyback Scheme, and renting out a room or the flat."
+      },
+      {
+        "heading": "保障需求产品与 DPS",
+        "body": "保险产品最适合满足客户的保障需求,因其具备为客户创造\"即时资产\"(immediate estate)的独特功能——即使只缴过一次保费,投保事件发生时也会全额支付保单所载保额。其他投资工具较不合适,如储蓄需时间累积,且客户身故、伤残或重病时可能停止积累,届时无法实现目标。若客户年满 55 岁或以上,须每 2 至 3 年检视保险计划以确保其保持可负担。MAS《基本财务规划指南》建议保额为:(a)身故及完全永久伤残取 9 倍年收入;(b)标准危疾取 4 倍年收入。现有计划如受养人保障计划(DPS)——一项定期人寿计划,在身故、末期疾病或完全永久伤残时支付赔付(60 岁前最高 S$70,000;60 岁以上至 65 岁最高 S$55,000),并在 21 至 65 岁新加坡公民及永久居民首次 CPF 工作缴款时自动延展。"
+      },
+      {
+        "heading": "Products to meet protection needs and DPS",
+        "body": "Insurance products are most suitable for protection needs, given their unique feature of creating an immediate estate — paying the full sum assured upon the insured event even if only one premium has been paid. Other instruments are less suitable: savings take time to accumulate and may stop once the client dies, is disabled or seriously ill. A client aged 55 or above should have insurance plans reviewed every 2 to 3 years to stay affordable. MAS' Basic Financial Planning Guide recommends coverage of (a) 9 x annual income for death and total permanent disability; and (b) 4 x annual income for standard critical illness. The Dependants' Protection Scheme (DPS), a term life scheme, pays a payout (up to S$70,000 until age 60; up to S$55,000 from above 60 to 65) on death, terminal illness or TPD, and is automatically extended to Singapore Citizens and PRs aged 21 to 65 on their first CPF working contribution."
+      },
+      {
+        "heading": "保障产品类型、定期险与附加险(Riders)",
+        "body": "表 4.2 列出满足保障需求的人寿与健康保险产品:定期险、终身寿险、储蓄型保险、投连人寿——均覆盖身故及完全永久伤残;附加险(riders)以低成本在基本保单之上提供额外财务保障;危疾保险——确诊受保危疾之一时一次性赔付;长期护理保险——无法进行特定数量日常生活活动(如沐浴)时支付护理费用;医疗费用保险及管理式医疗保险——抵御疾病;伤残收入保险——伤残时按月给付收入。定期险是高性价比的保障方式,尤其在年轻时\"锁定\"较低保费;更经济的选项还包括团体定期保险(如适用于全职国民服役人员及其受养人的 MINDEF 与 MHA 团体定期保单)以及直接购买保险(Direct Purchase Insurance,因不附带财务建议而不收佣金)。附加险又称补充利益,是基本保单合约中没有、或对其作出调整的特殊条款,\"附加\"在定期或终身等基本保单之上。常见附加险:豁免保费、完全永久伤残(TPD)、危疾、定期、付款人利益(Payor Benefit)、保证可保选项(Guaranteed Insurability Option)、意外身故利益、意外身故及断肢/伤残、住院现金(收入)利益。"
+      },
+      {
+        "heading": "Protection product types, term insurance and riders",
+        "body": "Table 4.2 lists life and health products for protection: term, whole life, endowment and investment-linked life — all meet death as well as total and permanent disability; riders add financial protection on the basic policy at low cost; critical illness insurance pays a lump sum on contracting a covered critical illness; long term care insurance pays care costs when one cannot perform a specified number of activities of daily living (e.g. bathing); medical expense and managed healthcare insurance protect against ill health; disability income insurance pays a monthly income when disabled. Term insurance is cost-effective, especially when lower premiums are 'locked-in' young; more affordable options include group term policies (e.g. MINDEF & MHA group term for Full-time National Servicemen and dependants) and Direct Purchase Insurance (no commission as it carries no financial advice). Riders, also known as supplementary benefits, are special provisions not in the basic contract or that adjust it, attached to ('riding' on) a basic term or whole life policy. Common riders: Waiver of Premium, TPD, Critical Illness, Term, Payor Benefit, Guaranteed Insurability Option, Accidental Death Benefit, Accidental Death and Dismemberment/Disablement, and Hospital Cash (Income) Benefit."
+      },
+      {
+        "heading": "可负担性与税务",
+        "body": "拟推荐的产品还应对客户可负担,因为负担不起保费的客户会让保单失效;早期失效对人寿保险公司、财务顾问代表与客户三方均无益:客户损失保障及在保单取得现金价值前已缴的保费;代表损失客户好感与应得佣金;保险公司须承担承保的高额初期成本。快速指引:(a)用于保险保障的支出最多为收入(扣除 CPF 缴款后)的 15%,但捆绑产品因兼含投资与保障成分,可能超过 15%;(b)将收入(扣除 CPF 缴款后)的至少 10% 用于退休及其他财务目标的投资。税务方面应谨慎,因为你并非税务专家,且税务立场会变化;不过可向客户强调现行税制的好处以便其作出知情决定,例如指引客户参考 CPF 辅助退休计划(SRS)网站。"
+      },
+      {
+        "heading": "Affordability and taxation",
+        "body": "The product recommended should also be affordable, since a client who cannot afford premiums will let the policy lapse; early lapses benefit no one — the client loses cover and premiums paid before any cash value accrues, the FA representative loses goodwill and any commissions, and the insurer absorbs high initial underwriting costs. A quick guide: (a) spend at most 15% of income (after CPF contributions) on insurance protection — bundled products may exceed 15% as they hold both investment and protection elements; and (b) invest at least 10% of income (after CPF contributions) for retirement and other financial goals. Be cautious recommending on tax positions because you are not a tax specialist and tax positions change; you may, however, highlight the benefits of the existing tax regime so the client can decide, e.g. pointing to CPF's Supplementary Retirement Scheme website."
+      },
+      {
+        "heading": "客户风险承受度",
+        "body": "只应推荐符合客户风险承受度的产品,这在向客户推荐高风险产品时尤为重要。非分红计划本质上是保证的,客户在保单下不保留任何投资风险。客户的风险承受度在需求分析阶段即已采集。评估时须考虑两点:(a)客户的风险承受度如何;(b)投资期限是否足够长。若客户厌恶风险且投资期限较短,回报相对稳定的投资产品较为合适;如须在投连计划(ILP)或单位信托基金间抉择,可推荐含大量债券、少量股票的基金。若客户为风险偏好者,则股票、或投资于大量股票及极少量债券的 ILP/单位信托可能合适;股票价格波动高于货币市场或固定收益证券,更适合有长期投资期限者。因此,临近退休、为退休储蓄者投资期限可能较短,应避免高波动基金。"
+      },
+      {
+        "heading": "Client's risk tolerance",
+        "body": "Only recommend products meeting the client's level of risk tolerance — important when recommending high-risk products. Non-participating plans are guaranteed in nature, so the client retains no investment risk under the policy. Risk tolerance was gathered during needs analysis. Consider: (a) what is the client's risk tolerance; and (b) is the investment period long enough. If the client is risk-averse with a short horizon, a product with relatively stable returns suits him; for an ILP or unit trust fund, recommend one comprising substantial bonds with a small percentage of stocks. If the client is a risk seeker, equities or an ILP/unit trust investing substantially in equities with a very small percentage of bonds may suit. Equities have higher price volatility than money market or fixed income securities and suit those with a long-term horizon; so a client saving for and approaching retirement, with a likely short horizon, should avoid high-volatility funds."
+      },
+      {
+        "heading": "需求排序(Prioritisation)",
+        "body": "客户可能有多项需求,却无法同时负担满足所有需求的保费,此时应帮助客户为其需求/目标排序。若客户有年幼子女,可建议他先保障家庭免受其身故与伤残的影响,为子女储蓄计划投保较低保额,并提出次年再检视。若客户希望永久保障却暂时负担不起,可建议可转换定期(Convertible Term)保单,待其财务状况改善后再转为永久保单。排序大概没有硬性规则,但在有受养人的情况下,应优先满足保障需求。客户可能不认同你的排序——即便你有充分依据,他也可能是对的,因为他更了解自己的目标;作为代表,你须能强调优先覆盖某些需求的重要性并为推荐说明理由。"
+      },
+      {
+        "heading": "Prioritisation",
+        "body": "Clients may have multiple needs but cannot afford premiums to meet them all at once, so help the client prioritise needs/objectives. If the client has young children, advise focusing on protecting the family against his death and disability first, insuring a lower sum assured for children's savings plans and offering to review the following year. For a client who wants permanent coverage but cannot afford it now, propose a Convertible Term policy so it can be converted to a permanent policy when his finances improve. There are probably no hard and fast rules on prioritising, but where there are dependants, protection needs should be met first. The client may disagree even where you have a good basis — he may be right since he knows his objectives better; as a representative you must highlight the importance of covering certain needs first and justify your recommendation."
+      },
+      {
+        "heading": "通胀与货币时间价值、遗产/传承规划及范例",
+        "body": "确定产品类型时须考虑通胀与货币时间价值的影响:通胀随时间侵蚀货币购买力;货币时间价值指今日手中的一元比未来承诺的一元更有价值,因为今日的钱可赚取利息而增长。你也可协助客户做遗产/传承规划——即就如何在丧失能力时或身后按其意愿管理与分配资产作出安排,规划领域包括:遗嘱(设定身后遗产如何分配的指示);CPF 提名(决定身后 CPF 储蓄如何分配);持久授权书(Lasting Power of Attorney,在丧失心智能力时授权所信任的人代为行事与决策);以及预先护理计划(Advance Care Plan,设定未来健康与个人护理的意愿)。范例(产品推荐):向客户解释产品至其理解是顾问的责任;若顾问怀疑客户不理解某些关键产品特征(尤其投资产品),应考虑中止销售。对于未通过客户知识评估(Customer Knowledge Assessment)的客户尤其如此——有些客户不适合购买任何金融产品,须自行承担财务规划风险,代表可选择拒绝此类销售。"
+      },
+      {
+        "heading": "Inflation and time value of money, estate/legacy planning and example",
+        "body": "When determining product types, consider inflation and the time value of money: inflation erodes the purchasing power of money over time; the time value of money is that a dollar in hand today is worth more than a dollar promised in future, since today's money can earn interest and grow. You may also assist with estate/legacy planning — arranging how to manage and distribute assets per the client's wishes if incapacitated or after death. Planning areas: a will (instructions on distributing the estate after death); a CPF nomination (how CPF savings are distributed on passing); a Lasting Power of Attorney (appointing trusted persons to act and decide should he lose mental capacity); and an Advance Care Plan (wishes for future health and personal care). Example (product recommendation): it is the adviser's responsibility to explain the product to the client's understanding; if in doubt that the client does not understand critical features (especially in investment products), the adviser should consider aborting the sale. This is especially so for a client who does not pass the Customer Knowledge Assessment — some clients are not suitable to purchase any financial products and must bear the financial planning risks themselves, and the representative may decline such sales."
       }
     ],
     "keyPoints": [
-      "方案匹配需求/风险/负担 / Match needs/risk/affordability",
-      "先保障应急后积累 / Protection/emergency before accumulation",
-      "推荐有合理基础 / Reasonable basis"
+      "两条基本原则:只在客户需要时推荐、只推荐最合适的产品 / Two basic principles: only if needed, only most suitable",
+      "应急储蓄至少 3-6 个月开支(可用 T-Bills、SSB) / Emergency savings: at least 3-6 months' expenses",
+      "MAS 指南:身故/TPD 9 倍年收入,标准危疾 4 倍年收入 / 9x income for death/TPD, 4x for standard CI",
+      "DPS 赔付:60 岁前最高 S$70,000;60 岁以上至 65 岁最高 S$55,000;21-65 岁自动延展 / DPS payouts and auto-extension",
+      "可负担性指引:保障≤15% 收入(扣 CPF 后)、退休投资≥10% / Affordability: ≤15% protection, ≥10% retirement",
+      "保险\"即时资产\"特性:一次缴费即全额赔付保额 / Insurance creates an immediate estate",
+      "排序:有受养人时保障需求优先;Convertible Term 解决暂不可负担的永久保障 / Prioritise protection where dependants",
+      "遗产规划四工具:遗嘱、CPF 提名、LPA、预先护理计划 / Estate planning: will, CPF nomination, LPA, ACP"
     ],
-    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "sourceRef": "RES 5 Study Text Part II Ch.24 — Developing Appropriate Strategies and Solutions (SCI, Version 1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

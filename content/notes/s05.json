@@ -3,33 +3,84 @@
     "id": "note-s05-overview",
     "part": 1,
     "syllabusItemId": "s05",
-    "title": "AML/CFT — 反洗钱与反恐融资 / Anti-Money Laundering (FAA-N06)",
-    "summary": "FAA-N06 要求顾问在建立关系时及存续期间执行 CDD、持续监控并上报可疑交易。 / FAA-N06 requires advisers to perform CDD at onboarding and throughout the relationship, monitor on an ongoing basis, and report suspicious transactions.",
+    "title": "MAS Notice FAA-N06 — 反洗钱与反恐怖融资 / AML/CFT for Financial Advisers",
+    "summary": "FAA-N06 依据 MAS Act 1970 第 27B 条发布,适用于持牌财务顾问、获豁免的注册保险经纪及特定豁免人士(仅发布研究分析/报告者除外)。核心要求为基于风险的客户尽职审查(CDD)、必要时的简化或加强尽职审查(SDD/EDD)、可疑交易报告(STR)及至少 5 年的记录保存。 / FAA-N06 is issued under s27B of the MAS Act 1970 and applies to licensed FAs, exempt registered insurance brokers and certain exempt persons (except research-only providers). It mandates a risk-based CDD regime, simplified or enhanced due diligence (SDD/EDD) where appropriate, suspicious transaction reporting (STR) and record retention of at least 5 years.",
     "sections": [
       {
-        "heading": "核心规则",
-        "body": "建立业务关系前必须完成 CDD:识别并验证客户身份、了解关系目的、识别实益拥有人;高风险客户执行 EDD。"
+        "heading": "适用范围与原则",
+        "body": "Notice 依 MAS Act 1970 第 27B 条发布,适用于:(a) FAA 2001 下的持牌财务顾问;(b) 依 FAA 第 23(1)(c) 条豁免持牌的注册保险经纪;(c) 依 FAA 第 23(1)(f) 条结合 FAR Reg 27(1)(d) 豁免的人士。仅以发布研究分析或研究报告方式提供意见者不在适用范围。三项基础原则:对客户尽职、以高道德标准经营并防范洗钱/恐怖融资、协助新加坡执法机关。"
       },
       {
-        "heading": "Core rule",
-        "body": "Complete CDD before establishing the relationship: identify and verify the client, understand the purpose, identify beneficial owners; apply EDD for higher-risk clients."
+        "heading": "Scope and underlying principles",
+        "body": "The Notice is issued under s27B of the MAS Act 1970 and applies to (a) licensed FAs under the FAA 2001; (b) registered insurance brokers exempt under s23(1)(c); and (c) persons exempt under s23(1)(f) read with FAR Reg 27(1)(d). Research-only providers are excluded. Three underlying principles: exercise due diligence over customers, conduct business with high ethical standards guarding against ML/TF, and assist Singapore law-enforcement authorities."
       },
       {
-        "heading": "监控与上报",
-        "body": "关系存续期间须持续监控;发现可疑交易须向 STRO 上报,且不得 tipping-off(泄露已上报,属违法)。"
+        "heading": "风险评估与基于风险的方法",
+        "body": "财务顾问须识别、评估并理解其在客户、客户所在国家/地区、自身经营国家/地区及产品/服务/交易/交付渠道方面的洗钱与恐怖融资风险,并须记录风险评估、保持更新、向 MAS 提供评估信息。风险缓释政策须经高级管理层批准;识别出更高风险时须采取加强措施。新产品、新业务实践与新技术须在推出前评估风险,并对有利于匿名的产品/技术予以特别关注。"
       },
       {
-        "heading": "Monitoring & reporting",
-        "body": "Monitor throughout the relationship; report suspicious transactions to STRO and never tip off the client (disclosing a report is unlawful)."
+        "heading": "Risk assessment and risk-based approach",
+        "body": "An FA must identify, assess and understand its ML/TF risks across its customers, the countries/jurisdictions of its customers and its own operations, and its products, services, transactions and delivery channels — documenting assessments, keeping them up-to-date and providing them to MAS. Risk-mitigation policies must be approved by senior management, with enhanced measures where higher risks arise. New products, practices and technologies must be risk-assessed before launch, with special attention to those favouring anonymity."
+      },
+      {
+        "heading": "客户尽职审查(CDD)——何时与如何",
+        "body": "禁止开立或维持匿名账户或假名账户(6.1)。建立业务关系前,若有合理理由怀疑资金为 CDSA 下的犯罪/贩毒所得或 TSOFA 下的恐怖融资财产,须不建立业务关系/不进行交易,并提交 STR 抄送 MAS(6.2)。须执行 CDD 的情形(6.3):建立业务关系、怀疑洗钱/恐怖融资、对先前所获信息真实性或充分性存疑。须识别客户(姓名/别名、唯一识别号、地址、出生或成立日期、国籍或注册地)并以可靠独立来源核实身份(6.5、6.8);法人/法律安排须识别其法律形式、章程与权力,并识别关联方(connected party)。须识别并以合理措施核实受益所有人(beneficial owner)身份(6.12–6.13),除非客户属 6.15 豁免类别(如在新交所上市并交易的实体、Appendix 5A 金融机构等)。须了解业务关系目的与性质,并持续监控(6.18–6.23)。"
+      },
+      {
+        "heading": "Customer Due Diligence (CDD) — when and how",
+        "body": "Anonymous or fictitious-name accounts are prohibited (6.1). Before establishing relations, if there are reasonable grounds to suspect funds are proceeds of drug dealing/criminal conduct under the CDSA or property related to a TF offence under the TSOFA, the FA must not proceed and must file an STR copied to MAS (6.2). CDD is triggered (6.3) when establishing business relations, on suspicion of ML/TF, or where there are doubts about earlier information. The FA must identify the customer (full name/aliases, unique ID number, address, date of birth/establishment, nationality/place of registration) and verify identity from reliable, independent sources (6.5, 6.8). For legal persons/arrangements it must identify legal form, constitution and powers, and identify connected parties. It must identify and take reasonable measures to verify beneficial owners (6.12–6.13) unless the customer falls within a 6.15 exemption (e.g. an entity listed and traded on SGX, an Appendix 5A financial institution). It must understand the purpose of relations and conduct ongoing monitoring (6.18–6.23)."
+      },
+      {
+        "heading": "核实时点、未完成情形与既有客户",
+        "body": "原则上须在建立业务关系前完成对客户、受托代理自然人及受益所有人的身份核实(6.30);仅在不延后即会中断正常业务且洗钱/恐怖融资风险可有效管理时,方可先建立关系后核实(6.31–6.32),并须尽快完成。若无法完成 CDD 措施(6.33),不得开始或继续业务关系、不得进行交易,并须考量情形是否可疑而提交 STR。联名账户须对每一名持有人分别执行 CDD(6.35)。既有客户须基于重要性与风险评估执行相关措施(6.36)。须对客户、代理人、关联方及受益所有人进行名单筛查(6.37–6.38)。"
+      },
+      {
+        "heading": "Timing of verification, incomplete measures and existing customers",
+        "body": "Verification of the customer, appointed natural persons and beneficial owners must in principle be completed before establishing business relations (6.30); relations may be established before verification only where deferral is essential not to interrupt normal business and ML/TF risks can be effectively managed (6.31–6.32), with verification completed as soon as practicable. Where CDD measures cannot be completed (6.33), the FA must not commence or continue relations or undertake a transaction, and must consider filing an STR. For joint accounts, CDD is performed on each holder as if individually a customer (6.35). Existing customers are subject to measures based on materiality and risk (6.36). Screening of customers, agents, connected parties and beneficial owners is required (6.37–6.38)."
+      },
+      {
+        "heading": "简化尽职审查(SDD)",
+        "body": "在风险被评估为低且有充分风险分析支持时,可对客户、受托代理人及受益所有人执行简化 CDD(7.1–7.3)。但在下列情形不得执行简化 CDD(7.4):客户或受益所有人来自/位于 FATF 已呼吁采取反制措施的国家/地区;来自/位于已知 AML/CFT 措施不足的国家/地区;或怀疑涉及洗钱或恐怖融资。对属 Appendix 5B 所列金融机构的客户可执行简化 CDD(7.5)。须记录风险评估细节与简化措施性质(7.6)。"
+      },
+      {
+        "heading": "Simplified CDD (SDD)",
+        "body": "Where risk is assessed as low and supported by adequate analysis, simplified CDD may be applied to the customer, appointed persons and beneficial owners (7.1–7.3). However SDD must NOT be applied (7.4) where the customer or any beneficial owner is from/in a country for which the FATF has called for countermeasures, from/in a country known to have inadequate AML/CFT measures, or where ML/TF is suspected. SDD may be applied to a customer that is an Appendix 5B financial institution (7.5). The FA must document the risk assessment and the nature of the simplified measures (7.6)."
+      },
+      {
+        "heading": "加强尽职审查(EDD)——PEP 与其他高风险",
+        "body": "对政治公众人物(PEP,含 domestic/foreign/international organisation PEP)及其家庭成员、密切关系人,除一般 CDD 外须执行加强 CDD(8.3):取得高级管理层批准建立/继续关系、以合理手段确定客户及受益所有人的财富来源与资金来源、并对业务关系进行加强监控。对 domestic PEP、国际组织 PEP 及已卸任 PEP 可采用基于风险的方法决定是否/在何种程度上执行 EDD,但其关系/交易呈现更高风险时除外(8.4)。其他高风险情形(8.6)包括:来自 FATF 呼吁反制的国家/地区(须视为更高风险)、来自 AML/CFT 不足国家/地区、以及无可见经营/经济目的或实质金融活动的法人。"
+      },
+      {
+        "heading": "Enhanced CDD (EDD) — PEPs and other higher-risk",
+        "body": "For politically exposed persons (PEPs — domestic, foreign or international-organisation) and their family members and close associates, in addition to ordinary CDD the FA must perform enhanced CDD (8.3): obtain senior-management approval to establish/continue relations; establish by reasonable means the source of wealth and source of funds of the customer and any beneficial owner; and conduct enhanced monitoring. A risk-based approach may be taken for domestic PEPs, international-organisation PEPs and stepped-down PEPs unless their relations/transactions present higher risk (8.4). Other higher-risk circumstances (8.6) include customers from FATF-countermeasure countries (which MUST be treated as higher risk), from countries with inadequate AML/CFT measures, and legal persons with no apparent operation, economic purpose or substantive financial activity."
+      },
+      {
+        "heading": "依赖第三方、记录保存与个人数据",
+        "body": "财务顾问可依赖第三方(定义见 9.1,如 Appendix 5B 金融机构、受 FATF 一致标准监管的境外金融机构、同集团关联机构)执行第 6、7、8 段措施,但须满足 9.2 条件,且不得依赖第三方进行持续监控(9.3);须立即向第三方取得其所得的 CDD 信息(9.4),并仍对自身 AML/CFT 义务负责(9.5)。记录保存:CDD/账户/通信/分析结果须自业务关系终止后保存至少 5 年;交易相关数据须自交易完成后保存至少 5 年(10.3)。个人数据:遵循 PDPA 框架,豁免部分访问/更正义务,但应请求须给予访问/更正特定类别数据的权利(11.2–11.3);为遵循本 Notice 可在未经同意下收集、使用、披露个人数据(11.4)。"
+      },
+      {
+        "heading": "Third-party reliance, record keeping and personal data",
+        "body": "An FA may rely on a third party (defined in 9.1, e.g. Appendix 5B FIs, foreign FIs supervised to FATF-consistent standards, related corporations) to perform paragraph 6, 7 and 8 measures if the 9.2 conditions are met, but may NOT rely on a third party for ongoing monitoring (9.3); it must immediately obtain the CDD information from the third party (9.4) and remains responsible for its own AML/CFT obligations (9.5). Record keeping: CDD/account/correspondence/analysis records must be retained at least 5 years after termination of business relations, and transaction records at least 5 years after completion of the transaction (10.3). Personal data: within the PDPA framework certain access/correction duties are dis-applied, but on request the FA must give access to and correction of specified data categories (11.2–11.3), and may collect, use and disclose personal data without consent to comply with the Notice (11.4)."
+      },
+      {
+        "heading": "可疑交易报告(STR)与内部政策、合规、审计、培训",
+        "body": "财务顾问须设立单一内部参考点,所有员工/代表/职员须立即向其转报可疑交易,以便经 STRO 提交 STR,并保存所有转报记录及内部分析(12.1)。无论交易金额大小(含未遂交易),须立即向 STRO 提交可疑交易报告并抄送 MAS(12.2)。无法完成 CDD、或客户不愿/无法提供信息或撤回申请/终止关系时,须考量是否提交 STR 并记录依据(12.3)。若执行 CDD 会触发「通风报信」(tipping-off,注意 CDSA 第 48 条),可停止该措施,记录依据并提交 STR(12.4)。内部治理须包括:经高管批准的内部政策与控制、集团 AML/CFT 政策(13.4,境外采用两者中较高标准 13.8)、管理层级 AML/CFT 合规官(13.10)、独立审计职能(13.12)、招聘筛查(13.13)及定期员工培训(13.14)。"
+      },
+      {
+        "heading": "Suspicious Transaction Reporting (STR) and internal policies, compliance, audit, training",
+        "body": "The FA must establish a single reference point to whom all employees, representatives and officers promptly refer suspicious transactions for referral to STRO via STRs, and keep records of all referrals and internal analysis (12.1). Reports on suspicious transactions (including attempted transactions), regardless of amount, must be promptly submitted to STRO and copied to MAS (12.2). Where CDD cannot be completed, or a customer is reluctant/unable to provide information or withdraws an application/terminates relations, the FA must consider filing an STR and document the basis (12.3). If performing CDD would tip off the customer (note CDSA s48), the FA may stop those measures, document the basis and file an STR (12.4). Internal governance requires senior-management-approved policies and controls, a group AML/CFT policy (13.4, applying the higher of the two standards overseas — 13.8), a management-level AML/CFT compliance officer (13.10), an independent audit function (13.12), hiring screening (13.13) and regular staff training (13.14)."
       }
     ],
     "keyPoints": [
-      "CDD 须在建立关系前完成 / CDD before onboarding",
-      "高风险客户执行 EDD / EDD for higher-risk clients",
-      "上报 STRO,禁止 tipping-off / Report to STRO; no tipping-off"
+      "依 MAS Act 1970 s27B 发布;研究报告类提供者豁免 / Issued under s27B MAS Act 1970; research-only providers excluded",
+      "禁止匿名/假名账户;CDD 触发于建立关系、怀疑 ML/TF、信息存疑 / No anonymous/fictitious accounts; CDD triggered on onboarding, suspicion, or doubt",
+      "低风险可 SDD,但 FATF 反制国/AML 不足国/怀疑情形禁用 SDD / SDD only for low risk; barred for FATF-countermeasure or inadequate-AML countries or suspicion",
+      "PEP 须 EDD:高管批准+查明财富/资金来源+加强监控 / PEPs require EDD: senior approval + source of wealth/funds + enhanced monitoring",
+      "记录至少保存 5 年(关系终止后 / 交易完成后) / Records retained at least 5 years (after termination / completion)",
+      "STR 无论金额向 STRO 提交并抄送 MAS;注意 CDSA s48 防通风报信 / STRs filed to STRO regardless of amount, copied to MAS; mind CDSA s48 tipping-off"
     ],
-    "sourceRef": "MAS Notice FAA-N06",
+    "sourceRef": "MAS Notice FAA-N06 — Prevention of Money Laundering and Countering the Financing of Terrorism (Financial Advisers); RES5 Study Text Part I Ch.5",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

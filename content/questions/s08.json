@@ -1,0 +1,315 @@
+[
+  {
+    "id": "q-s08-001",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G01, to whom will a financial adviser's licence be granted?",
+    "options": {
+      "A": "Only to an individual representative",
+      "B": "Only to a corporation that establishes a physical presence in Singapore",
+      "C": "To any partnership operating overseas",
+      "D": "To both individuals and corporations equally"
+    },
+    "answer": "B",
+    "explanation": "FAA-G01 明确牌照只发给公司,且该公司须在新加坡设立实体存在;个人是以委任代表身份登记,而非持牌。",
+    "difficulty": "easy",
+    "sourceRef": "FAA-G01 para 7",
+    "status": "draft",
+    "tags": [
+      "licensing"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-002",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "What is the minimum paid-up capital under FAA-G01 for an applicant providing only general FA services (not involving futures, spot FX or currency OTC derivatives)?",
+    "options": {
+      "A": "$50,000",
+      "B": "$100,000",
+      "C": "$300,000",
+      "D": "$150,000"
+    },
+    "answer": "D",
+    "explanation": "FAA-G01 第 8.1 段:一般 FA 服务的实缴资本为 $150,000;只有涉及期货、即期外汇或货币 OTC 衍生品(或组合)时才升至 $300,000。$50,000 与 $100,000 教材未规定为资本门槛。",
+    "difficulty": "easy",
+    "sourceRef": "FAA-G01 para 8.1; FAR reg.15",
+    "status": "draft",
+    "tags": [
+      "capital"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-003",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G01, the minimum indemnity limit of a standalone non-hybrid Professional Indemnity Insurance (PII) policy must not be less than:",
+    "options": {
+      "A": "$150,000",
+      "B": "$300,000",
+      "C": "$500,000",
+      "D": "$1,000,000"
+    },
+    "answer": "C",
+    "explanation": "FAA-G01 第 8.2 段要求独立非混合 PII 保额不低于 $500,000,且免赔额不超过上一财年净资产值的 20%(FAR 第 17 条)。其他数字是资本门槛或干扰项,非 PII 保额。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G01 para 8.2; FAR reg.17",
+    "status": "draft",
+    "tags": [
+      "pii"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-004",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G01, the deductible allowed on the standalone non-hybrid PII must not exceed what proportion of the applicant's net asset value at the end of its immediately preceding financial year?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "25%",
+      "D": "50%"
+    },
+    "answer": "B",
+    "explanation": "FAA-G01 第 8.2 段规定免赔额不得超过上一财年净资产值的 20%;若 Group PII 的免赔额超过此 20%,还须母公司出具承诺函承担超出部分。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G01 para 8.2",
+    "status": "draft",
+    "tags": [
+      "pii"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-005",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G01, the CEO and Executive Directors of an applicant must have a minimum of how many years of relevant working experience, and how much of that in a managerial capacity?",
+    "options": {
+      "A": "3 years total, with 1 year managerial",
+      "B": "5 years total, with 3 years managerial",
+      "C": "5 years total, with 5 years managerial",
+      "D": "10 years total, with 5 years managerial"
+    },
+    "answer": "B",
+    "explanation": "FAA-G01 第 7(ii) 段:CEO 与各执行董事须至少 5 年相关经验,其中至少 3 年管理职,并具备认可学历或专业资格。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G01 para 7(ii)",
+    "status": "draft",
+    "tags": [
+      "management"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-006",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Where an applicant does not satisfy the 3-year track-record requirement under FAA-G01, what are the shareholding requirements?",
+    "options": {
+      "A": "The CEO must own at least 20%, and the CEO and EDs together at least 50%",
+      "B": "The CEO must own at least 50%, and the EDs the remainder",
+      "C": "Each director must own at least 20%",
+      "D": "No shareholding requirement applies"
+    },
+    "answer": "A",
+    "explanation": "FAA-G01 第 8.4 段:不满足 8.3 的 3 年往绩时,CEO 须持股不少于 20%,CEO 与 ED 合计持股不少于 50%。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-G01 paras 8.3, 8.4",
+    "status": "draft",
+    "tags": [
+      "shareholding"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-007",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "According to FSG-G01, which three criteria are used to consider whether a relevant person is fit and proper?",
+    "options": {
+      "A": "Honesty/integrity/reputation, competence/capability, and financial soundness",
+      "B": "Capital, insurance and track record",
+      "C": "Citizenship, age and language ability",
+      "D": "Qualification, nationality and residency"
+    },
+    "answer": "A",
+    "explanation": "FSG-G01 第 1.6 段列出三准则:(a) 诚实、正直与声誉;(b) 能力与胜任;(c) 财务稳健。其余选项是牌照或个人资料层面的要求,非 fit & proper 准则本身。",
+    "difficulty": "easy",
+    "sourceRef": "FSG-G01 para 1.6",
+    "status": "draft",
+    "tags": [
+      "fit-and-proper"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-008",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FSG-G01, on whom does the onus fall to establish that a relevant person is fit and proper?",
+    "options": {
+      "A": "On MAS to prove the person is not fit and proper",
+      "B": "On each relevant person to establish that it or he is fit and proper",
+      "C": "On the client of the financial adviser",
+      "D": "On an independent auditor appointed by MAS"
+    },
+    "answer": "B",
+    "explanation": "FSG-G01 第 1.3 段:举证责任在相关人士本身,须自证 fit & proper,而非由 MAS 反证;若某人有责任确保他人 fit & proper,则由前者向 MAS 证明后者合格。",
+    "difficulty": "medium",
+    "sourceRef": "FSG-G01 para 1.3",
+    "status": "draft",
+    "tags": [
+      "fit-and-proper",
+      "onus"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-009",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under CMI 01/2011, employing a person while a prohibition order (PO) issued by MAS is still in effect is an offence under which provisions?",
+    "options": {
+      "A": "Section 101B of the SFA and Section 60 of the FAA",
+      "B": "Section 23L of the FAA only",
+      "C": "Regulation 21 of the FAR",
+      "D": "Section 64 of the FAA"
+    },
+    "answer": "A",
+    "explanation": "CMI 01/2011 Annex 2 第 5 段:依 SFA 第 101B 条与 FAA 第 60 条,在 PO 有效期内雇用被发 PO 者属违法。第 23L 条针对虚假陈述,第 21 条针对 independent 用语,第 64 条是指引的发出依据。",
+    "difficulty": "hard",
+    "sourceRef": "CMI 01/2011 Annex 2 para 5",
+    "status": "draft",
+    "tags": [
+      "prohibition-order"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-010",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under CMI 01/2011, an individual who provides a false or misleading statement in a material particular to his principal (subsequently lodged with MAS) is liable on conviction to a fine not exceeding:",
+    "options": {
+      "A": "$10,000",
+      "B": "$25,000",
+      "C": "$50,000",
+      "D": "$100,000"
+    },
+    "answer": "C",
+    "explanation": "CMI 01/2011 Annex 1 第 3 段:依 SFA 第 99O 条与 FAA 第 23L 条,提供虚假/误导性重大陈述者一经定罪罚款不超过 $50,000。",
+    "difficulty": "medium",
+    "sourceRef": "CMI 01/2011 Annex 1 para 3",
+    "status": "draft",
+    "tags": [
+      "false-statement",
+      "penalty"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-011",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under CMI 01/2011, how is a representative's written self-declaration best described within the FI's due-diligence process?",
+    "options": {
+      "A": "A sufficient measure on its own, requiring no further checks",
+      "B": "A necessary but insufficient measure, to be supplemented by independent verification and checks",
+      "C": "Optional and only required for foreign representatives",
+      "D": "A substitute for checking the Public Register of Representatives"
+    },
+    "answer": "B",
+    "explanation": "CMI 01/2011 Annex 1 第 5 段:自我声明是必要但不充分的尽调措施,FI 仍须核验文件、进行独立查册(含公开代表登记册、破产与背景查询)。",
+    "difficulty": "medium",
+    "sourceRef": "CMI 01/2011 Annex 1 para 5",
+    "status": "draft",
+    "tags": [
+      "due-diligence"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-012",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G04, in the case of a life policy, what must a financial adviser disclose regarding remuneration?",
+    "options": {
+      "A": "The exact dollar commission for every product recommended",
+      "B": "Nothing, as life policies are exempt from disclosure",
+      "C": "The \"distribution cost\" item in the Benefit Illustration, instead of the amount and type of remuneration",
+      "D": "Only soft-dollar benefits received from the insurer"
+    },
+    "answer": "C",
+    "explanation": "FAA-G04 第 1.34 段:就寿险保单,FA 只须披露 Benefit Illustration 中的\"distribution cost\"一项,而无须披露上文所述的报酬金额与类型。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-G04 para 1.34",
+    "status": "draft",
+    "tags": [
+      "disclosure",
+      "remuneration"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-013",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G05, absent any contractual restriction, MAS will normally NOT regard a financial adviser as independent if it represents fewer than how many product providers for each class of investment product?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "Five"
+    },
+    "answer": "C",
+    "explanation": "FAA-G05 第 1.24 段:即使无合约限制,若 FA 每类投资产品代表少于 4 家供应商,MAS 一般不视其为独立。",
+    "difficulty": "hard",
+    "sourceRef": "FAA-G05 para 1.24",
+    "status": "draft",
+    "tags": [
+      "independent",
+      "product-restriction"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s08-014",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "stem": "Under FAA-G05, as a general rule of thumb, commissions or benefits are considered 'significant' if they constitute more than what percentage of the financial adviser's total revenue?",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "25%",
+      "D": "20%"
+    },
+    "answer": "D",
+    "explanation": "FAA-G05 第 1.21 段:MAS 一般以 20% 为经验法则——佣金/利益超过总收入 20%,或不同类别佣金率差异超过 20%,均视为显著。",
+    "difficulty": "medium",
+    "sourceRef": "FAA-G05 para 1.21",
+    "status": "draft",
+    "tags": [
+      "independent",
+      "significance"
+    ],
+    "updatedAt": "2026-06-19"
+  }
+]

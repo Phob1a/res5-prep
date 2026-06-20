@@ -4,27 +4,174 @@
     "part": 2,
     "syllabusItemId": "s16",
     "topicGroup": "ethics",
-    "title": "道德四要素 / Four elements",
-    "point": "诚实、公平、客观、保密。 / Honesty, fairness, objectivity, confidentiality.",
+    "title": "七大道德原则 / Seven principles",
+    "point": "诚信、客观、胜任、公平、保密、专业、勤勉。 / Integrity, objectivity, competence, fairness, confidentiality, professionalism and diligence.",
     "keyfacts": [
-      "信息妥善保护 / Protect information"
+      "守则规范成员行为与业务操守 / Codes govern members' behavior and conduct"
     ],
-    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Ethical Behavior",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s16-002",
     "part": 2,
     "syllabusItemId": "s16",
     "topicGroup": "ethics",
-    "title": "客户优先 / Client first",
-    "point": "个人利益与客户冲突时,客户利益为先。 / When interests conflict, the client comes first.",
+    "title": "诚信=整全 / Integrity = whole",
+    "point": "\"integrity\"源自整数(integer),意为完整、整全、未受减损;即言行一致、说到做到。 / 'Integrity' comes from 'integer' — being whole, entire and undiminished; doing what one says one will do.",
     "keyfacts": [
-      "冲突避免/披露管理 / Avoid/disclose conflicts"
+      "不止诚实,还含负责、公平、公正与道德勇气 / More than honesty: accountable, fair, impartial, moral courage",
+      "无论情境用同一套原则 / Same principles regardless of situation"
     ],
-    "sourceRef": "CMFAS M5 — Ethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Integrity",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-003",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "客观的两大障碍 / Obstacles to objectivity",
+    "point": "客观性的两大障碍是认知偏差与利益冲突。 / The two main obstacles to objectivity are cognitive bias and conflict of interest.",
+    "keyfacts": [
+      "最常见的认知偏差=确认偏差 / Most common cognitive bias = confirmation bias",
+      "纯粹客观是不可达的理想 / Pure objectivity is unachievable"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Objectivity",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-004",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "胜任范围 / Sphere of competence",
+    "point": "只在胜任与专长范围内提供建议或销售产品,并有勇气坦承不懂、拒绝越界。 / Advise or sell only within one's sphere of competence, with the moral courage to admit what one does not know and refuse to act outside it.",
+    "keyfacts": [
+      "须完成规定 CPD 时数 / Must complete prescribed CPD hours",
+      "如寿险代理不应建议衍生品/双币产品 / E.g. a life agent should not advise on derivatives/dual-currency products"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Competence",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-005",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "公平三概念 / Three concepts of fairness",
+    "point": "公平围绕平等、黄金法则、各得其所三个概念。 / Fairness revolves around equality, the Golden Rule, and giving each person what is due.",
+    "keyfacts": [
+      "平等=\"相似之事相似处理\",差别须有正当理由 / Equality = treat like things alike; differences must be justified",
+      "黄金法则=己所欲施于人 / Golden Rule = do unto others"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Fairness",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-006",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "利益相关者 / Stakeholders",
+    "point": "金融机构传统利益相关者:股东、服务提供者、雇员、代理与代表、供应商、社区、监管者与政府。 / Traditional stakeholders: shareholders, service providers, employees, agents/representatives, suppliers, community, regulators and government.",
+    "keyfacts": [
+      "尊重利益相关者利益亦符合自身利益 / Respecting stakeholders' interests serves one's self-interest"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Fairness",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-007",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "PDPA 罚则 / PDPA penalties",
+    "point": "个人违反 PDPA 罚款≤S$5,000 及/或监禁≤2 年;公司罚款 S$100 万或年营业额 10%,取较高者。 / Individual breach: fine ≤ S$5,000 and/or jail ≤ 2 yrs; company: S$1 million or 10% of annual turnover, whichever greater.",
+    "keyfacts": [
+      "个人数据=可识别个人身份的数据(无论真假) / Personal data = data identifying an individual, true or not",
+      "另有声誉损害与银行保密法等制裁 / Also reputational damage and banking-secrecy sanctions"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Confidentiality (PDPA 2012)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-008",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "专业两要求 / Two requirements of professionalism",
+    "point": "以尊重对待所有人、不视为\"纯粹手段\";并以带来信任与尊严的方式行事,保持端正与正直。 / Treat all persons with respect, not as 'mere means'; act so as to bring trust and dignity to the profession with propriety and probity.",
+    "keyfacts": [
+      "行业依赖公众信心与信任 / The industry depends on public confidence and trust"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Professionalism",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-009",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "勤勉三要素 / Three components of diligence",
+    "point": "及时周全地提供服务、以应有审慎(due care)行事、确保支持人员亦专业。 / Provide services promptly and thoroughly, with due care, and ensure support staff also act professionally.",
+    "keyfacts": [
+      "due care=\"painstaking\"般细致 / Due care = a 'painstaking' manner",
+      "勿过度承诺、交付不足 / Do not over-promise and under-deliver"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Diligence",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-010",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "道德的益处 / Benefits of ethics",
+    "point": "建立客户忠诚、提升声誉、留住好员工、营造正向环境、避免法律问题——\"好道德就是好生意\"。 / Build client loyalty, enhance reputation, retain good employees, create a positive environment, avoid legal problems — 'good ethics is good business'.",
+    "keyfacts": [
+      "行业基于信任,产品无形 / The industry is based on trust; products are intangible",
+      "服务现有客户比开发新客户成本更低 / Serving existing clients costs less than prospecting"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Benefits of Ethical Behavior",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-011",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "确认偏差 / Confirmation bias",
+    "point": "确认偏差是只寻找并解读支持既有假设或理论的信息的认知偏差。 / Confirmation bias is looking for and interpreting information that supports an assumption or theory one already holds.",
+    "keyfacts": [
+      "认知偏差是对现实的主观建构 / Cognitive bias is a subjective construction of reality"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Principle of Objectivity (Cognitive Bias)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s16-012",
+    "part": 2,
+    "syllabusItemId": "s16",
+    "topicGroup": "ethics",
+    "title": "LIA 与 IMAS 守则 / LIA and IMAS codes",
+    "point": "LIA 核心价值含专业、道德、公平、公开诚实、主动;IMAS 要求诚信专业、胜任并提升、应有勤勉与专业判断。 / LIA values include professional, ethical, fair, open & honest, proactive; IMAS requires integrity/professionalism, competence and its improvement, and due diligence with professional judgment.",
+    "keyfacts": [
+      "守则用于规范并指引成员业务操守 / Codes govern and guide members' conduct"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.16 — Codes of Ethics and Standards",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

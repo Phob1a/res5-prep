@@ -4,14 +4,141 @@
     "part": 1,
     "syllabusItemId": "s05",
     "topicGroup": "aml",
-    "title": "客户尽职调查 CDD",
-    "point": "建立关系前识别并验证客户身份;持续监控。 / Identify and verify the client before onboarding; monitor on an ongoing basis.",
+    "title": "FAA-N06 适用范围 / Who FAA-N06 applies to",
+    "point": "依 MAS Act 1970 s27B 发布,适用于持牌 FA、依 s23(1)(c) 豁免的注册保险经纪、依 s23(1)(f) 豁免人士;仅做研究报告者除外。 / Issued under s27B MAS Act 1970; applies to licensed FAs, brokers exempt under s23(1)(c), and persons exempt under s23(1)(f) — research-only providers excluded.",
     "keyfacts": [
-      "关系前完成 / Before the relationship",
-      "持续监控 / Ongoing monitoring"
+      "研究分析/报告类提供者豁免 / Research-only providers excluded"
     ],
-    "sourceRef": "MAS Notice FAA-N06",
+    "sourceRef": "MAS Notice FAA-N06 para 1.1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-002",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "匿名/假名账户 / Anonymous accounts",
+    "point": "财务顾问不得开立或维持匿名账户或假名账户。 / An FA must not open or maintain an anonymous or fictitious-name account.",
+    "keyfacts": [
+      "FAA-N06 para 6.1 绝对禁止 / Absolute prohibition (6.1)"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 6.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-003",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "何时须执行 CDD / When CDD is required",
+    "point": "建立业务关系时、怀疑洗钱/恐怖融资时、或对先前信息真实性/充分性存疑时,须执行 CDD。 / CDD is required on establishing relations, on suspicion of ML/TF, or on doubts about the veracity/adequacy of earlier information.",
+    "keyfacts": [
+      "三大触发情形 (6.3) / Three triggers (6.3)"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 6.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-004",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "客户身份识别信息 / Customer identification data",
+    "point": "至少取得:全名(含别名)、唯一识别号、住址/营业地址、出生或成立日期、国籍或注册地。 / Obtain at least: full name (incl. aliases), unique ID number, residential/business address, date of birth/establishment, nationality/place of registration.",
+    "keyfacts": [
+      "须以可靠独立来源核实身份 (6.8) / Verify from reliable independent sources (6.8)"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 6.5, 6.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-005",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "受益所有人 / Beneficial owner",
+    "point": "最终拥有或控制客户、或代其行事的自然人;须识别并以合理措施核实其身份,除非属 6.15 豁免类别(如新交所上市并交易实体)。 / The natural person who ultimately owns/controls the customer; must be identified and reasonably verified unless within a 6.15 exemption (e.g. an entity listed and traded on SGX).",
+    "keyfacts": [
+      "上市并交易于 SGX 的实体可豁免询问 BO / SGX-listed-and-traded entity exempt from BO inquiry"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 6.12–6.15",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-006",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "简化 CDD 禁用情形 / When SDD is barred",
+    "point": "低风险可做 SDD;但客户/BO 来自 FATF 反制国、来自 AML/CFT 不足国、或怀疑涉 ML/TF 时,一律不得 SDD。 / SDD allowed for low risk, but barred where the customer/BO is from a FATF-countermeasure country, an inadequate-AML/CFT country, or ML/TF is suspected.",
+    "keyfacts": [
+      "三类情形禁用 SDD (7.4) / Three bars to SDD (7.4)"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 7.1, 7.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-007",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "PEP 的加强 CDD / EDD for PEPs",
+    "point": "对 PEP 及其家庭成员/密切关系人,除一般 CDD 外须:取得高管批准、查明财富与资金来源、进行加强监控。 / For PEPs and their family/close associates, beyond ordinary CDD: obtain senior-management approval, establish source of wealth and funds, and conduct enhanced monitoring.",
+    "keyfacts": [
+      "三项强制 EDD 措施 (8.3) / Three mandatory EDD measures (8.3)"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 8.2–8.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-008",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "依赖第三方 / Reliance on third parties",
+    "point": "可依赖合格第三方执行第 6/7/8 段措施,但不得依赖第三方进行持续监控;FA 仍对自身 AML/CFT 义务负责。 / May rely on an eligible third party for paragraph 6/7/8 measures, but NOT for ongoing monitoring; the FA remains responsible for its own AML/CFT obligations.",
+    "keyfacts": [
+      "持续监控不可外包 (9.3) / Ongoing monitoring cannot be relied out (9.3)",
+      "须立即取得第三方所得 CDD 信息 (9.4) / Obtain CDD info immediately (9.4)"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 9.2–9.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-009",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "记录保存期 / Record retention period",
+    "point": "CDD/账户/通信/分析记录:业务关系终止后至少 5 年;交易记录:交易完成后至少 5 年。 / CDD/account/correspondence/analysis records: at least 5 years after termination of relations; transaction records: at least 5 years after completion.",
+    "keyfacts": [
+      "两类记录均为至少 5 年 (10.3) / Both at least 5 years (10.3)"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 10.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s05-010",
+    "part": 1,
+    "syllabusItemId": "s05",
+    "topicGroup": "aml",
+    "title": "STR 与 tipping-off / STR and tipping-off",
+    "point": "可疑交易(含未遂)无论金额须立即向 STRO 提交并抄送 MAS;注意 CDSA 第 48 条禁止通风报信。 / Suspicious transactions (incl. attempted), regardless of amount, must be promptly reported to STRO with a copy to MAS; CDSA s48 prohibits tipping-off.",
+    "keyfacts": [
+      "无金额门槛 / No monetary threshold (12.2)",
+      "STRO = 商业事务局可疑交易报告办公室 / STRO is the Suspicious Transaction Reporting Office"
+    ],
+    "sourceRef": "MAS Notice FAA-N06 para 12.2–12.4; CDSA s48",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

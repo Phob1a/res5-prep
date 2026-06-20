@@ -4,45 +4,279 @@
     "part": 2,
     "syllabusItemId": "s14",
     "topicGroup": "ethics",
-    "stem": "How does ethical conduct differ from mere compliance?",
+    "stem": "According to the chapter, what is the motivation behind compliance?",
     "options": {
-      "A": "They are identical",
-      "B": "Compliance is the legal minimum; ethics requires acting in the client’s interest and delivering fair, suitable outcomes beyond the law",
-      "C": "Ethics is optional and compliance is not real",
-      "D": "Compliance is stricter than ethics in all cases"
+      "A": "To avoid sanctions such as warnings, prohibition orders, penalties or imprisonment, out of fear of being caught",
+      "B": "To go beyond the law because it is the right thing to do",
+      "C": "To maximise the client's affection for the adviser",
+      "D": "To increase the adviser's sales commissions"
     },
-    "answer": "B",
-    "explanation": "合规是法律底线;道德要求在法律之外仍以客户利益为重、给出公平且适当的结果。",
+    "answer": "A",
+    "explanation": "教材指出合规的动机是逃避制裁(警告、训诫、禁止令、罚款、吊照、刑事监禁),核心是“被抓的恐惧”所带来的强制性。B 描述的是道德而非合规。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2.1–2.2",
     "status": "draft",
-    "tags": [
-      "ethics",
-      "compliance"
-    ],
-    "updatedAt": "2026-06-05"
+    "tags": ["compliance", "motivation"],
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s14-002",
     "part": 2,
     "syllabusItemId": "s14",
     "topicGroup": "ethics",
-    "stem": "Why do professional ethics matter especially in financial advisory?",
+    "stem": "How does the chapter distinguish ethics from compliance?",
     "options": {
-      "A": "Because clients never trust advisers",
-      "B": "Because of information asymmetry and the trust clients place in advisers for major financial decisions",
-      "C": "Because MAS pays advisers to be ethical",
-      "D": "They do not matter"
+      "A": "Ethics is the letter of the law; compliance is the spirit of the law",
+      "B": "Ethics reflects the spirit/intention of the law, while compliance refers to the letter of the law",
+      "C": "Ethics and compliance are identical in practice",
+      "D": "Compliance is always stricter than ethics"
     },
     "answer": "B",
-    "explanation": "信息不对称与客户的高度信任,使道德尤为关键。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
+    "explanation": "教材明确:道德反映“法律的精神/意图”,合规仅是“法律的字面”。道德要求超越法律所规定的去做对的事,因此 A、D 颠倒或夸大,C 否定二者差异。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2.4",
     "status": "draft",
-    "tags": [
-      "ethics",
-      "trust"
-    ],
-    "updatedAt": "2026-06-05"
+    "tags": ["ethics", "compliance"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-003",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "From which language does the word 'ethics' originate, and how did Aristotle describe the ethical person?",
+    "options": {
+      "A": "From Latin 'ethica'; the ethical person is one who maximises profit",
+      "B": "From French 'éthique'; the ethical person is one who obeys all rules",
+      "C": "From the Greek 'ethos'; the ethical person is one who has virtuous habits",
+      "D": "From the Greek 'ethos'; the ethical person is one who avoids all decisions"
+    },
+    "answer": "C",
+    "explanation": "教材:ethics 源自希腊语 ethos;亚里士多德认为有德之人即拥有美德习惯(诚实、正义、荣誉、好脾气)之人,且美德可经教育、训练与实践习得。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §1.1",
+    "status": "draft",
+    "tags": ["definition", "aristotle"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-004",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "In the Adam example, a seasoned trainer uses a training course to covertly recruit advisers from other firms without being transparent. What does the chapter conclude?",
+    "options": {
+      "A": "It breached compliance rules and was therefore unethical",
+      "B": "It did not breach any compliance rules but was highly unethical",
+      "C": "It was both compliant and ethical",
+      "D": "It was non-compliant but perfectly ethical"
+    },
+    "answer": "B",
+    "explanation": "Adam 的整个流程未违反任何合规规则,但因不透明地利用培训挖角,被教材判为“高度不道德”,正是“合规却不道德”的例证(合法未必合德)。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2.5",
+    "status": "draft",
+    "tags": ["case", "compliant-unethical"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-005",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "A representative signs up for a one-day CPD course, plays games at the back of the classroom, then signs out and collects the CPD hours. How should this be assessed?",
+    "options": {
+      "A": "Both compliant and ethical, since hours were earned",
+      "B": "Technically/legally compliant in earning the hours, but ethically he has not done the right thing",
+      "C": "Non-compliant, because he did not pay attention",
+      "D": "Unethical and also a breach of compliance rules"
+    },
+    "answer": "B",
+    "explanation": "教材:他在法律/技术层面确已取得 CPD 学时(合规),但 CPD 的目的是持续提升知识与胜任力,他并未做对的事——道德上的答案多半为否。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2.8",
+    "status": "draft",
+    "tags": ["cpd", "compliant-unethical"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-006",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "The chapter calls the FA representative's role a 'privilege'. Why?",
+    "options": {
+      "A": "Because he can ask a complete stranger for sensitive financial information that people rarely share even with family",
+      "B": "Because he earns the highest commissions in the economy",
+      "C": "Because he is exempt from MAS regulation",
+      "D": "Because he can sell products without giving any advice"
+    },
+    "answer": "A",
+    "explanation": "教材将顾问角色视为特权:他能向陌生人索取连挚友家人都未必透露的敏感财务信息;因此必须分析信息、推荐使客户处境优于从前的产品,不可轻视此特权。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §1.4",
+    "status": "draft",
+    "tags": ["privilege", "professional"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-007",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "Why does the chapter argue that ethics is especially critical in the financial services industry compared with selling tangible goods?",
+    "options": {
+      "A": "Because financial products are cheaper than cars or apartments",
+      "B": "Because customers never need any advice for financial products",
+      "C": "Because regulators forbid selling tangible goods",
+      "D": "Because financial products are intangible, creating information asymmetry, so customers must rely on the representative for suitable advice"
+    },
+    "answer": "D",
+    "explanation": "教材:金融产品无形、存在信息不对称,客户无法像看汽车房产般评估,只能依赖代表给出适当建议,故信任与道德尤为关键。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3.2–3.3, 3.11",
+    "status": "draft",
+    "tags": ["intangible", "trust"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-008",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "Which of the following correctly states Charles H. Green's trust equation as cited in the chapter?",
+    "options": {
+      "A": "Trust = Credibility × Reliability × Intimacy × Self-Interest",
+      "B": "Trust = Self-Interest / (Credibility + Reliability + Intimacy)",
+      "C": "Trust = (Credibility + Reliability + Intimacy) / Self-Interest",
+      "D": "Trust = (Credibility + Reliability) − Intimacy + Self-Interest"
+    },
+    "answer": "C",
+    "explanation": "教材引用 Green 的信任方程式:Trust = (Credibility + Reliability + Intimacy) / Self-Interest。自利在分母,绝对以自利为先会摧毁前三要素,从而降低信任。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3.21",
+    "status": "draft",
+    "tags": ["trust-equation", "green"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-009",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "The chapter lists three motivations behind a representative's 'good' conduct toward clients. Which set is correct?",
+    "options": {
+      "A": "Fear, greed and ambition",
+      "B": "Self-interest, affection and moral",
+      "C": "Compliance, marketing and product knowledge",
+      "D": "Credibility, reliability and intimacy"
+    },
+    "answer": "B",
+    "explanation": "教材:良好行为通常源于三种动机——(a) 自利、(b) 情感、(c) 道德。三者常同时存在,关键在何者为主导;D 是信任方程式要素,非动机。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §4.2",
+    "status": "draft",
+    "tags": ["motivations"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-010",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "Regarding self-interest, what is the chapter's key point?",
+    "options": {
+      "A": "Having self-interest is wrong and a professional must eliminate it entirely",
+      "B": "Self-interest must always take priority over the client",
+      "C": "There is nothing wrong with having self-interest, but the duty of care to the client must come first",
+      "D": "Self-interest and affection are forbidden motivations"
+    },
+    "answer": "C",
+    "explanation": "教材:专业人士有自利并无不妥,但对客户的关怀义务(duty of care)必须先于自利。广义上以客户利益为先本身也符合自利。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §4.6",
+    "status": "draft",
+    "tags": ["self-interest", "duty-of-care"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-011",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "The 2011 case where a representative sold fake policies to loyal ultra-HNW clients and pocketed $6.2m in premiums is used in the chapter to illustrate which motivation/factor?",
+    "options": {
+      "A": "Affection",
+      "B": "Peer pressure",
+      "C": "Rationalisation (self-rationalisation)",
+      "D": "Moral motivation"
+    },
+    "answer": "C",
+    "explanation": "教材用此案例说明“合理化”:该代表自我合理化、说服自己无人会发现,从而为犯罪行为开脱。挪用客户资金还私债也属同类。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §4.11",
+    "status": "draft",
+    "tags": ["rationalisation", "case"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-012",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "According to the report cited in the chapter, what were the MAS enforcement results over the 18 months to June that year?",
+    "options": {
+      "A": "9 criminal convictions and $11.7 million in civil penalties",
+      "B": "25 criminal convictions and $3.4 million in civil penalties",
+      "C": "282 criminal convictions and $11.7 million in fines",
+      "D": "3 criminal convictions and $2 trillion in penalties"
+    },
+    "answer": "A",
+    "explanation": "教材引用《海峡时报》:MAS 在 18 个月内取得 9 项刑事定罪与 1,170 万元(S$11.7m)民事罚款。其余选项混淆了禁止令、监管提醒数目或财务罚款金额。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3.17–3.18",
+    "status": "draft",
+    "tags": ["mas", "enforcement"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-013",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "The quote 'It takes twenty years to build a reputation and five minutes to destroy it' is attributed in the chapter to whom, and what point does it support?",
+    "options": {
+      "A": "Ravi Menon; that compliance is enough",
+      "B": "Peggy Pao; that enforcement is unnecessary",
+      "C": "Aristotle; that virtue cannot be learned",
+      "D": "Warren Buffett; that reputation built over years can be destroyed in minutes, so ethics matters"
+    },
+    "answer": "D",
+    "explanation": "教材将此名言归于巴菲特,用以说明声誉建立耗时而毁掉极快;社交媒体更使不当行为瞬间传播,故须守德护信。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3.6, 3.8",
+    "status": "draft",
+    "tags": ["reputation", "buffett"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s14-014",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "stem": "What is the chapter's concluding 'take-away' on the relationship between self-regulation and government supervision?",
+    "options": {
+      "A": "More regulation is always better regardless of conduct",
+      "B": "If institutions and staff self-regulate and act ethically, there may be less need for stringent regulatory supervision",
+      "C": "Ethics is irrelevant to the level of regulation",
+      "D": "Only MAS, not firms, is responsible for ethical conduct"
+    },
+    "answer": "B",
+    "explanation": "教材结论:机构与员工若能自律守德,或可减少对金融业更严苛的监管与控制;反之,行业普遍缺德将招致更多政府监管。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3.3, 3.20",
+    "status": "draft",
+    "tags": ["self-regulation", "conclusion"],
+    "updatedAt": "2026-06-19"
   }
 ]

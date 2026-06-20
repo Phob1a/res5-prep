@@ -4,44 +4,365 @@
     "part": 1,
     "syllabusItemId": "s11",
     "topicGroup": "products",
-    "stem": "A collective investment scheme (CIS) is best described as:",
+    "stem": "Under which provision of the Securities and Futures Act is the Code on Collective Investment Schemes issued by MAS?",
     "options": {
-      "A": "A single-stock account",
-      "B": "Pooled investors’ money managed collectively toward a stated objective",
-      "C": "A bank fixed deposit",
-      "D": "A personal insurance policy"
+      "A": "Section 321",
+      "B": "Section 289",
+      "C": "Section 286",
+      "D": "Section 287"
     },
-    "answer": "B",
-    "explanation": "CIS=汇集多名投资者资金、按目标统一管理。",
+    "answer": "A",
+    "explanation": "教材 1.1 指出守则由 MAS 依 SFA(2001)第 321 条发出。第 286/287 条涉及撤销/暂停计划授权或认可,第 289 条涉及受托人/托管人批准——均非守则的发出依据。",
     "difficulty": "easy",
-    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s1.1 (SFA s321)",
     "status": "draft",
     "tags": [
-      "cis"
+      "code",
+      "legal-basis"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s11-002",
     "part": 1,
     "syllabusItemId": "s11",
     "topicGroup": "products",
-    "stem": "Before a CIS is offered to retail investors in Singapore, it generally must be:",
+    "stem": "On what date did the revised Code on Collective Investment Schemes come into effect?",
     "options": {
-      "A": "Kept secret",
-      "B": "Authorised/recognised with a registered prospectus disclosing objective, risks and fees",
-      "C": "Sold without any documentation",
-      "D": "Guaranteed by MAS"
+      "A": "23 May 2002",
+      "B": "1 October 2011",
+      "C": "23 May 2023",
+      "D": "1 October 2002"
     },
     "answer": "B",
-    "explanation": "零售发售须获授权/认可并注册招股书披露关键信息。",
-    "difficulty": "medium",
-    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "explanation": "教材 2.1 明确修订版守则于 2011 年 10 月 1 日生效。A 是守则首次发出之日,C 是最近一次修订之日,D 为干扰项。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s2.1",
     "status": "draft",
     "tags": [
-      "cis",
-      "prospectus"
+      "commencement"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-003",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Which statement about the legal nature of the Code is correct?",
+    "options": {
+      "A": "The Code is non-statutory, but a failure to comply may be relied upon in civil or criminal proceedings",
+      "B": "A failure to comply automatically renders a person liable to criminal proceedings",
+      "C": "The Code overrides the SFA where they conflict",
+      "D": "The Code applies only to foreign-recognised schemes"
+    },
+    "answer": "A",
+    "explanation": "教材 1.2 指出守则属非法定性质,违反本身不致使人承担刑责,但可在民事或刑事诉讼中被任一方援引以证立或否定相关责任。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s1.2",
+    "status": "draft",
+    "tags": [
+      "code",
+      "non-statutory"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-004",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "A trustee may NOT be considered independent of the manager if a single person has an interest in at least what percentage of the shares of BOTH the trustee and the manager (or its related corporations)?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "20%",
+      "D": "50%"
+    },
+    "answer": "C",
+    "explanation": "教材第 3 节 Guidance 指出,若任何人持有受托人 20% 或以上股份并同时持有管理人或其相关法团 20% 或以上股份,则受托人不视为独立。同一 20% 测试也适用于 VCC 托管人。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s3 Conditions for Appointment (Guidance)",
+    "status": "draft",
+    "tags": [
+      "trustee",
+      "independence"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-005",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Within how many business days should a trustee inform the Authority of a breach of section 289(3) of the SFA?",
+    "options": {
+      "A": "Within one business day",
+      "B": "Within three business days",
+      "C": "Within seven business days",
+      "D": "Within fourteen business days"
+    },
+    "answer": "B",
+    "explanation": "教材第 3 节 Operational Obligations(a)规定受托人应在察觉违反 SFA 第 289(3) 条后三个营业日内通知 MAS。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s3C Operational Obligations",
+    "status": "draft",
+    "tags": [
+      "trustee",
+      "notification"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-006",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Under the Code, within what timeframe should the manager pay out redemption proceeds to participants of an ordinary (non-hedge, non-property) authorised scheme?",
+    "options": {
+      "A": "Within T+3 business days",
+      "B": "Within T+5 business days",
+      "C": "Within T+7 business days",
+      "D": "Within 90 days"
+    },
+    "answer": "C",
+    "explanation": "教材第 4 节 Operational Obligations(a)规定一般计划赎回款应在 T+7 营业日内支付。90 天适用于对冲基金,物业基金另依附录 6。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s4B (ch.3.2(a))",
+    "status": "draft",
+    "tags": [
+      "redemption",
+      "manager"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-007",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "How frequently, at most, may a scheme's performance fee crystallise under the Code?",
+    "options": {
+      "A": "No more frequently than once a month",
+      "B": "No more frequently than once a quarter",
+      "C": "There is no limit on crystallisation frequency",
+      "D": "No more frequently than once a year"
+    },
+    "answer": "D",
+    "explanation": "教材第 4F 节(ch.3.6(a)(iii))规定业绩费的结晶频率不得超过每年一次。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s4F Performance Fees",
+    "status": "draft",
+    "tags": [
+      "performance-fee"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-008",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Where a performance fee is calculated on a fulcrum-fee basis, the fulcrum fee should be limited to what range relative to the base fee?",
+    "options": {
+      "A": "Between zero and 100% of the base fee",
+      "B": "Between zero and 150% of the base fee",
+      "C": "Between zero and 200% of the base fee",
+      "D": "Between 50% and 200% of the base fee"
+    },
+    "answer": "C",
+    "explanation": "教材第 4F 节(ch.3.6(a)(v))规定支点费应随业绩相对基准对称浮动,限于基础费的 0% 至 200%。例如基础费 1.5%,支点费区间为 0~3.0%。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s4F (ch.3.6(a)(v))",
+    "status": "draft",
+    "tags": [
+      "performance-fee",
+      "fulcrum"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-009",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Which of the following terms is expressly PROHIBITED in a scheme's name and description?",
+    "options": {
+      "A": "\"Capital protected\"",
+      "B": "\"Fund-of-funds\"",
+      "C": "\"Capital guaranteed\"",
+      "D": "\"Index\""
+    },
+    "answer": "A",
+    "explanation": "教材第 5A 节(d)明确禁止在名称及描述中使用\"capital protected\"与\"principal protected\"。\"capital guaranteed\"在符合附录 4 时可用,\"fund-of-funds\"与\"index\"在符合相应指引时亦可用。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s5A Name of Scheme",
+    "status": "draft",
+    "tags": [
+      "naming",
+      "prohibited"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-010",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Which activity is a scheme NOT prohibited from carrying out under the Code?",
+    "options": {
+      "A": "Direct lending of monies",
+      "B": "Granting of guarantees",
+      "C": "Underwriting",
+      "D": "Short selling arising from financial derivatives invested per Appendix 1 sections 4 and 5"
+    },
+    "answer": "D",
+    "explanation": "教材第 5B 节列明禁止直接放贷、提供担保、承销及卖空,但卖空在源自依附录 1 第 4、5 节投资的金融衍生品时属例外、可被允许。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s5B Prohibited Activities",
+    "status": "draft",
+    "tags": [
+      "prohibited-activities",
+      "short-selling"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-011",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "A manager may suspend dealings in units of a scheme. Within what period should the suspension cease, absent any extension?",
+    "options": {
+      "A": "Within 21 days of commencement",
+      "B": "Within 14 days of commencement",
+      "C": "Within 7 days of commencement",
+      "D": "Within 30 days of commencement"
+    },
+    "answer": "A",
+    "explanation": "教材第 7B 节(c)规定暂停应在例外情形消失后尽快结束,且无论如何应在暂停开始后 21 天内结束;延长须经受托人每周复核。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s7B Suspension of Dealings",
+    "status": "draft",
+    "tags": [
+      "suspension",
+      "dealing"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-012",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "A valuation error triggers a requirement for the manager to compensate affected participants and the scheme when the error represents at least what proportion of the scheme's NAV per unit (after adjustment)?",
+    "options": {
+      "A": "0.1%",
+      "B": "0.25%",
+      "C": "1.0%",
+      "D": "0.5%"
+    },
+    "answer": "D",
+    "explanation": "教材第 7E 节(b)规定当估值错误达 NAV 每单位 0.5% 或以上时,管理人须补偿受影响参与者及计划;但若单一参与者应得补偿不超过 $20,则可免补偿该参与者(对计划的补偿仍适用)。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s7E Valuation Errors and Compensation",
+    "status": "draft",
+    "tags": [
+      "valuation-error",
+      "compensation"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-013",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Under Appendix 1, aggregate investments in or exposures to a single entity's transferable securities or money market instruments should not exceed what percentage of the scheme's NAV (the single-entity limit)?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "20%",
+      "D": "35%"
+    },
+    "answer": "B",
+    "explanation": "教材附录 1 第 2.1(a)规定单一实体限额为 NAV 的 10%。20% 为集团限额;5% 为未评级/非投资级公司债的下调限额;35% 为满足评级条件的政府/公共债务上调上限。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 1 s2.1(a)",
+    "status": "draft",
+    "tags": [
+      "single-entity-limit",
+      "spread"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-014",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "The global exposure of a scheme to financial derivatives or embedded derivatives should not exceed what proportion of the scheme's NAV at all times?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "50%",
+      "D": "100%"
+    },
+    "answer": "D",
+    "explanation": "教材附录 1 第 3.1 规定衍生品(含嵌入式衍生品)的全球敞口任何时候不得超过 NAV 的 100%,按承诺法或经咨询 MAS 后的 VaR 法计算。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 1 s3.1",
+    "status": "draft",
+    "tags": [
+      "global-exposure",
+      "derivatives"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-015",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Under Appendix 3, what is the minimum initial subscription per participant for a single hedge fund and for a fund-of-hedge-funds (FOHF) respectively?",
+    "options": {
+      "A": "S$20,000 and S$100,000",
+      "B": "S$100,000 and S$20,000",
+      "C": "S$50,000 and S$10,000",
+      "D": "S$100,000 and S$50,000"
+    },
+    "answer": "B",
+    "explanation": "教材附录 3 第 4.1 规定单一对冲基金最低初始认购为每名参与者 S$100,000;第 5.1 规定 FOHF 为 S$20,000。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 3 s4.1, s5.1",
+    "status": "draft",
+    "tags": [
+      "hedge-fund",
+      "minimum-subscription"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s11-016",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "stem": "Under Appendix 4, an eligible guarantor of a capital guaranteed fund that is a financial institution must have a minimum long-term rating of at least:",
+    "options": {
+      "A": "BBB by Fitch, Baa by Moody's or BBB by S&P",
+      "B": "A by Fitch, A by Moody's or A by S&P",
+      "C": "AA by Fitch, Aa by Moody's or AA by S&P",
+      "D": "AAA by Fitch, Aaa by Moody's or AAA by S&P"
+    },
+    "answer": "C",
+    "explanation": "教材附录 4 第 3.2(a)规定金融机构担保人须至少 AA/Aa/AA 评级;第 3.2(b)规定其他情形须至少 AAA/Aaa/AAA。A 评级仅是评级下跌时的容忍下限(3.3),并非合资格担保人的最低门槛。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 4 s3.2",
+    "status": "draft",
+    "tags": [
+      "capital-guaranteed",
+      "guarantor-rating"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

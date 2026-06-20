@@ -1,0 +1,205 @@
+[
+  {
+    "id": "fc-s09-001",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "四套指引编号 / The four guideline numbers",
+    "point": "本章四套指引:FAA-G09(结构性存款)、FAA-G10(转换)、FSG-G04(公平交易)、FAA-G14(平衡计分卡)。 / The four: FAA-G09 (Structured Deposits), FAA-G10 (Switching), FSG-G04 (Fair Dealing), FAA-G14 (Balanced Scorecard).",
+    "keyfacts": [
+      "FAA-G09/G10/FAA-G14 依 FAA 第64条发出 / FAA-G09/G10/G14 issued under s64 FAA"
+    ],
+    "sourceRef": "RES 5 Study Guide Part I Ch.9 — chapter outline",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-002",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "FAA-G09 适用与豁免 / FAA-G09 scope and exception",
+    "point": "适用于就任何结构性存款提供意见者;但向认可/专家/机构投资者提供意见除外。 / Applies to advising on any structured deposit; except advice to accredited, expert or institutional investors.",
+    "keyfacts": [
+      "豁免依据:FAR 第2(1)条定义 / Exception per Reg 2(1) FAR",
+      "双货币投资另适用 FAA-N11 / DCIs governed by FAA-N11"
+    ],
+    "sourceRef": "FAA-G09 para 1.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-003",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "结构性存款的本质 / Nature of a structured deposit",
+    "point": "结构性存款是一种存款,非独立工具类别;本金仅持有至到期才获保证。 / It is a type of deposit, not a separate instrument class; principal is guaranteed only if held to maturity.",
+    "keyfacts": [
+      "不受存款保险(Cap.77B)承保 / Not an insured deposit (Cap.77B)",
+      "误用\"存款\"标示=误导行为 / Mislabelling as deposit = misleading conduct"
+    ],
+    "sourceRef": "FAA-G09 paras 1.4, 1.10(f), 1.10(h)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-004",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "结构性存款:警示与筛查 / SD warnings and screening",
+    "point": "对不需建议的客户可免事实查找,但须给书面、显著警示并记录;须筛查每位客户。 / Fact-find may be dispensed with for clients not needing advice, but a written prominent warning must be given and documented; every client must be screened.",
+    "keyfacts": [
+      "可能提前取款者(如年长者)应被鼓励征询意见 / Encourage early-withdrawal clients (e.g. elderly) to seek advice"
+    ],
+    "sourceRef": "FAA-G09 paras 1.13–1.17",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-005",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "结构性存款:培训与隔离 / SD competency and segregation",
+    "point": "代表须通过 CMFAS 单元5,且通过单元8或机构自设培训;兼收存款机构须区分营销与收存款流程。 / Reps must pass CMFAS Module 5 plus Module 8 (or own training); a deposit-taking FA must keep marketing distinct from deposit-acceptance.",
+    "keyfacts": [
+      "柜员等不合资格员工不得营销/建议结构性存款 / Tellers must not market/recommend SDs"
+    ],
+    "sourceRef": "FAA-G09 paras 1.19, 1.22",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-006",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "FAA-G10:转换的定义 / Definition of switching",
+    "point": "\"转换\"指处置/减持某产品全部或部分以取得/增持另一产品;不得作出对客户不利的转换建议。 / \"Switching\" = disposing of/reducing one product to acquire/increase another; no recommendation detrimental to the client.",
+    "keyfacts": [
+      "依 FAA-N16;须遵守 KYC、需求分析、记录保存 / Per FAA-N16; KYC, needs analysis, record-keeping"
+    ],
+    "sourceRef": "FAA-G10 paras 1.4, 1.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-007",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "转换:主管复核四因素 / Supervisor's four switching factors",
+    "point": "主管须书面复核转换建议,依 FAA-N16 第42段考虑:终止罚则、无实益的交易成本、更高成本/更低利益、是否更不适合。 / Supervisor reviews in writing per FAA-N16 para 42: termination penalty, transaction cost with no benefit, higher cost/lower benefit, less suitable.",
+    "keyfacts": [
+      "前端:客户书面声明是否被建议转换 / Front-end: client declares the switch in writing"
+    ],
+    "sourceRef": "FAA-G10 paras 1.10–1.13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-008",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "FSG-G04:五项公平交易成果 / Five fair dealing outcomes",
+    "point": "1 文化、2 产品适合目标客户群、3 代表有能力、4 信息清晰相关及时、5 投诉独立有效迅速处理。 / 1 culture, 2 suitable products, 3 competent reps, 4 clear/relevant/timely info, 5 independent/effective/prompt complaints.",
+    "keyfacts": [
+      "由董事会与高管负责 / Board and Senior Management responsibility",
+      "适用于所有金融产品与服务 / Applies to all financial products and services"
+    ],
+    "sourceRef": "FSG-G04 para 1.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-009",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "公平交易:产品尽职调查 / Product due diligence",
+    "point": "须自行做正式尽职调查识别适合/明显不适合的客户群,不可仅依赖产品提供方评估。 / Conduct formal due diligence to identify suitable and clearly-unsuitable segments; do not rely solely on the product provider.",
+    "keyfacts": [
+      "复杂投资产品一般不可无建议销售 / Complex products generally cannot be sold without advice",
+      "向知识有限客户销售须更高层级批准 / Higher-level approval for limited-knowledge customers"
+    ],
+    "sourceRef": "FSG-G04 paras 3.18, 3.22, 3.27",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-010",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "公平交易:RoR 条款与最大诚信 / RoR clause and utmost good faith",
+    "point": "审查权(RoR)条款不应轻率行使,须经独立控制单位与高管批准、提前书面通知;保险适用 uberrima fides。 / RoR clauses must not be exercised lightly — independent control unit + senior management approval, early written notice; insurance is uberrima fides.",
+    "keyfacts": [
+      "客户须披露所有重要事实,否则保单可被作废 / Non-disclosure of material facts can void the policy",
+      "费用修订例:最少30天通知 / Fee revisions: e.g. minimum 30 days' notice"
+    ],
+    "sourceRef": "FSG-G04 paras 3.62, 3.68–3.70, footnote on uberrima fides",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-011",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "公平交易:投诉与 FIDReC / Complaints and FIDReC",
+    "point": "投诉须独立、有效、迅速处理,由与投诉无关者评估;客户应知悉可向 FIDReC 求助。 / Complaints handled independently, effectively, promptly, assessed by persons not connected to the complaint; customers made aware of FIDReC.",
+    "keyfacts": [
+      "复杂投诉须提供书面临时回复 / Complex complaints: written interim response",
+      "重大投诉上报董事会与高管 / Significant complaints escalated to Board/SM"
+    ],
+    "sourceRef": "FSG-G04 paras 3.79–3.87",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-012",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "FAA-G14:selected client 定义 / Definition of selected client",
+    "point": "符合任两项即为选定客户:(a)≥62岁;(b)英语口语或书面不熟练;(c)低于 GCE 'O'/'N' 水准。 / Meets any two: (a) aged ≥62; (b) not proficient in spoken/written English; (c) below GCE 'O'/'N' level.",
+    "keyfacts": [
+      "已书面评估具足够投资经验知识者除外 / Excludes those assessed (in writing) to have adequate experience/knowledge"
+    ],
+    "sourceRef": "FAA-G14 para 4 (Definition)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-013",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "FAA-G14:\"E\"等级代表的处理 / Handling an \"E\"-grade representative",
+    "point": "须严密监督:主管陪同≥5笔成交销售,ISA 对每笔交易做≥3个月全面交易后核查;一年内不得任监督/管理职。 / Close supervision: supervisor accompanies ≥5 closed sales, ISA full post-transaction checks for ≥3 months; no supervisory role for one year.",
+    "keyfacts": [
+      "CEO 或其指定人(非主管)须监督 / CEO or designate (not supervisor) oversees"
+    ],
+    "sourceRef": "FAA-G14 paras 15–18",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s09-014",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "topicGroup": "guidelines",
+    "title": "FAA-G14:背景核查与记录保存 / Reference checks and records",
+    "point": "招聘前代表/主管应索取其过去10年内最近四个平衡计分卡等级;交易前核查记录须保存≥5年。 / On hiring an ex-rep/supervisor, request the last four scorecard grades within 10 years; keep pre-transaction-check records ≥5 years.",
+    "keyfacts": [
+      "交易前核查发现的违规不计入计分卡、不影响薪酬 / Pre-transaction-check infractions not factored into scorecard/remuneration",
+      "本指引自2016年1月1日生效 / Took effect 1 Jan 2016"
+    ],
+    "sourceRef": "FAA-G14 paras 21, 26, 33, 34",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

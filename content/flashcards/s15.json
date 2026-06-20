@@ -4,27 +4,169 @@
     "part": 2,
     "syllabusItemId": "s15",
     "topicGroup": "ethics",
-    "title": "专业精神 / Professionalism",
-    "point": "持续进修保持胜任,只在能力范围内执业。 / Maintain competence via CPD; act within your competence.",
+    "title": "专业人士四大特征 / Four characteristics of a professional",
+    "point": "掌握专业知识的证据、可靠性、管理自身利益、对同业的忠诚精神。 / Evidence of mastery of subject matter, reliability, management of self-interest, and a spirit of loyalty to fellow representatives.",
     "keyfacts": [
-      "超能力→转介 / Beyond competence → refer"
+      "专业人士=从事特定活动的胜任者 / A professional is a competent person engaged in a specific activity"
     ],
-    "sourceRef": "CMFAS M5 — Professionalism",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.2–1.5",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s15-002",
     "part": 2,
     "syllabusItemId": "s15",
     "topicGroup": "ethics",
-    "title": "态度 / Attitude",
-    "point": "勤勉、诚信、负责,以客户利益为重。 / Diligence, integrity and accountability, serving the client.",
+    "title": "掌握知识的证据 / Evidence of mastery",
+    "point": "技术知识与技能赋予可信度;代表须达入门学历、通过相关课程并每年完成规定 CPD 时数。 / Technical knowledge and skills give credibility; representatives must meet academic entry requirements, pass relevant courses, and complete prescribed CPD hours per year.",
     "keyfacts": [
-      "维护行业声誉 / Protect the profession’s reputation"
+      "CPD 用于紧跟法律、新产品与新技术 / CPD keeps reps abreast of law, new products and technologies"
     ],
-    "sourceRef": "CMFAS M5 — Professionalism",
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-003",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "管理自身利益 / Management of self-interest",
+    "point": "利益冲突时客户利益在合理范围内优先;追求自利可接受,但'纯自私的商业观'不可接受。 / On a conflict of interest the client's interest prevails within a reasonable scope; pursuing self-interest is acceptable but a 'strictly selfish commercial view' is not.",
+    "keyfacts": [
+      "代表无须做免费工作 / A professional is not expected to do free work",
+      "客户利益过于压倒性可请求被解除服务 / If client's interest is too overwhelming, may ask to be discharged"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-004",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "对同业的忠诚 / Loyalty to fellow reps",
+    "point": "对整个行业的福祉、地位与声誉负有谨慎义务,共同谴责害群之马的不道德及违法行为。 / A duty of care to the industry's well-being, status and reputation, jointly condemning the unethical and illegal acts of a few 'black sheep'.",
+    "keyfacts": [
+      "维持信任与坦诚的专业声誉 / Maintain a reputation of trust and candour"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s1.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-005",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "强制考试 Notice / Mandatory exam Notice",
+    "point": "新加坡代表须通过强制考试,细节见 MAS Notice FAA-N26(代表胜任要求)。 / A Singapore representative must pass a mandatory exam; details are in MAS Notice FAA-N26 (Competency Requirements for Representatives).",
+    "keyfacts": [
+      "FAA-N26 全称:Competency Requirements for Representatives of Financial Advisers"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s2.4 / MAS Notice FAA-N26",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-006",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "构成专业的要素 / Requirements for a profession",
+    "point": "学术研习、入门门槛、独立性、公众认可、管理机关、专业协会、道德守则。 / Academic study, entrance barriers, independence, public recognition, a governing authority, professional associations, and a code of ethics.",
+    "keyfacts": [
+      "不可自封专业,须设入门门槛 / No self-declared professional; barriers to entry required",
+      "FAA 2001 为主要规管成文法,MAS 主管 / FAA 2001 is the main statute; MAS administers it"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s2.2–2.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-007",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "新加坡无单一协会 / No single association",
+    "point": "新加坡没有单一协会代表全体代表,但有数个可信协会代表不同类别代表;MAS 另发公平交易指引。 / There is no single association for all representatives in Singapore, but several credible associations represent different categories; the MAS also issues FAIR Dealing guidelines.",
+    "keyfacts": [
+      "协会以道德守则设定成员行为标准 / Associations set conduct standards via a code of ethics"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s2.5, s2.8–2.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-008",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "客户十项期望 / Ten client expectations",
+    "point": "倾听、答疑、充分事实查找、教育客户、评估风险/知识、告知资历、持续服务、妥善处理金钱、转介专家、信息不脱节。 / Listen, answer questions, gather sufficient info, educate, assess knowledge/risk, state credentials, give on-going service, handle money properly, refer to experts, and stay in touch with information.",
+    "keyfacts": [
+      "复杂高风险产品(ILP/ETF)应做客户知识评估 CKA / CKA needed for complex high-risk products like ILPs/ETFs"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s3.3–3.12",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-009",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "处理金钱事务 / Handling money matters",
+    "point": "除非另获授权,代表不应直接收款;现金交公司出纳,支票抬头为公司并尽快交出纳。 / Unless authorised, a representative should not collect payment directly; cash goes to the firm's cashier and cheques are made payable to the company and handed over promptly.",
+    "keyfacts": [
+      "目的:避免混同、不当处理或挪用款项的指控 / Purpose: avoid allegations of comingling or misappropriation"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s3.10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-010",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "代表定义 FAA s2(1) / Definition of 'representative'",
+    "point": "FAA 第 2(1) 条:为财务顾问执行任何财务咨询服务的人,无论是否获酬或报酬形式如何,含其高级人员。 / Under s2(1), a person who performs any financial advisory service for a financial adviser, whether or not remunerated and however remunerated, including its officers.",
+    "keyfacts": [
+      "受 MAS 依 FAA 规管 / Regulated by the MAS under the FAA"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s4.2 / FAA s2(1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-011",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "一个主事人规则 FAA s27(1) / One-principal rule",
+    "point": "代表只能为一个主事人行事,或为属相关法团的多个主事人行事。 / A representative acts for only one principal, or for more than one only if they are related corporations.",
+    "keyfacts": [
+      "目的(a)主事人密切监督;(b)厘清身份与投诉赔偿责任 / Aims: (a) close supervision; (b) clarity on status and redress"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s4.3 / FAA s27(1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s15-012",
+    "part": 2,
+    "syllabusItemId": "s15",
+    "topicGroup": "ethics",
+    "title": "专业三大职责 / Three professional duties",
+    "point": "(a) 守法律法规通知的精神与文字;(b) 遵循所属团体道德守则/咨询销售流程;(c) 客户最佳利益优先。 / (a) Obey the spirit and letter of the law, rules and notices; (b) follow the code of ethics/advisory sales process; (c) put clients' best interests first.",
+    "keyfacts": [
+      "业务行为最终责任在主事人,但个人须专业行事 / Ultimate responsibility on the principal, but the individual must act professionally"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.15 — s4.4, s4.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

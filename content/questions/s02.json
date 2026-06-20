@@ -4,68 +4,239 @@
     "part": 1,
     "syllabusItemId": "s02",
     "topicGroup": "rules",
-    "stem": "Making a false or misleading statement to induce a client to buy a product is:",
+    "stem": "Under Section 34(1) of the FAA, to whom must a licensed financial adviser disclose all material information about a recommended designated investment product?",
     "options": {
-      "A": "Allowed if sales targets are high",
-      "B": "An offence under the FAA",
-      "C": "Encouraged by MAS",
-      "D": "Acceptable if disclosed later"
+      "A": "Every client and prospective client",
+      "B": "Only existing paying clients",
+      "C": "Only the MAS",
+      "D": "Only clients who ask in writing"
     },
-    "answer": "B",
-    "explanation": "虚假/误导陈述诱导交易属 FAA 下的罪行。",
+    "answer": "A",
+    "explanation": "Section 34(1) 要求向\"每位客户及潜在客户\"披露推荐指定投资产品的所有重大资料,不限于已付费或主动查询的客户。",
     "difficulty": "easy",
-    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "sourceRef": "FAA s.34(1)",
     "status": "draft",
-    "tags": [
-      "offence",
-      "conduct"
-    ],
-    "updatedAt": "2026-06-05"
+    "tags": ["disclosure"],
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s02-002",
     "part": 1,
     "syllabusItemId": "s02",
     "topicGroup": "rules",
-    "stem": "Which best describes MAS’ powers over financial advisers?",
+    "stem": "A licensed FA, with intent to deceive, makes a misleading statement about the amount payable under a proposed investment contract, but no contract is ever concluded. Under Section 35 of the FAA:",
     "options": {
-      "A": "MAS cannot inspect FAs",
-      "B": "MAS may inspect, investigate and take regulatory/enforcement action (directions, restrictions, suspension/revocation, prohibition)",
-      "C": "MAS only issues licences and nothing else",
-      "D": "Only the police can act"
+      "A": "No offence is committed because the contract did not come into being",
+      "B": "It is still an offence; fine up to S$50,000 or imprisonment up to 12 months or both",
+      "C": "Only a civil warning applies",
+      "D": "The fine is capped at S$25,000"
     },
     "answer": "B",
-    "explanation": "MAS 可检查、调查并对违规采取监管/执法行动(指令/限制/暂停撤销牌照/禁业)。",
+    "explanation": "Section 35 明确规定即使合约未成立仍属犯罪,罚款最高 S$50,000 或监禁最高 12 个月或两者兼施;故 A 错;此处罚则为 S$50,000 而非 S$25,000,D 错。",
     "difficulty": "medium",
-    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "sourceRef": "FAA s.35",
     "status": "draft",
-    "tags": [
-      "mas",
-      "powers"
-    ],
-    "updatedAt": "2026-06-05"
+    "tags": ["statements", "penalty"],
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s02-003",
     "part": 1,
     "syllabusItemId": "s02",
     "topicGroup": "rules",
-    "stem": "When recommending a product, a representative must:",
+    "stem": "Under Section 36 of the FAA, a licensed FA is said to have a 'reasonable basis' for a recommendation when it:",
     "options": {
-      "A": "Hide the fees",
-      "B": "Disclose material information such as risks, fees and conflicts, with a reasonable basis",
-      "C": "Avoid mentioning risks",
-      "D": "Guarantee returns"
+      "A": "Recommends the product with the highest commission",
+      "B": "Obtains the client's signature on a disclaimer",
+      "C": "Gives reasonable consideration and investigation to the client's objectives, financial situation and needs, and bases the recommendation on that",
+      "D": "Confirms the client has read the prospectus"
+    },
+    "answer": "C",
+    "explanation": "Section 36(2) 规定合理基础是指就客户的投资目标、财务状况及特定需要作合理考量与调查,且推荐基于该考量;其余选项与适合性义务无关。",
+    "difficulty": "medium",
+    "sourceRef": "FAA s.36(1)-(2)",
+    "status": "draft",
+    "tags": ["recommendation", "reasonable-basis"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-004",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Section 37 of the FAA, a lien or claim on client's money or property in an account is void UNLESS:",
+    "options": {
+      "A": "The client has given oral consent",
+      "B": "The amount is below S$3,000",
+      "C": "MAS has been notified within seven days",
+      "D": "The moneys in the account are for fees due and owing to the licensed financial adviser"
+    },
+    "answer": "D",
+    "explanation": "Section 37(2) 规定账户上的留置权/索赔权一律无效,唯一例外是账户款项为应付予 FA 的费用;其余选项均非法定例外。",
+    "difficulty": "hard",
+    "sourceRef": "FAA s.37(2)",
+    "status": "draft",
+    "tags": ["client-money"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-005",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Section 41(1) of the FAA, a financial adviser that receives insurance moneys must establish and maintain a separate account with:",
+    "options": {
+      "A": "Any overseas bank chosen by the client",
+      "B": "A bank licensed under the Banking Act 1970",
+      "C": "The MAS directly",
+      "D": "A cash safe on its own premises"
     },
     "answer": "B",
-    "explanation": "须披露风险/费用/冲突等重要信息且推荐有合理基础。",
-    "difficulty": "easy",
-    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "explanation": "Section 41(1) 要求在《Banking Act 1970》下持牌的银行开立并维持独立的人寿保险经纪保费账户。",
+    "difficulty": "medium",
+    "sourceRef": "FAA s.41(1)",
     "status": "draft",
-    "tags": [
-      "disclosure",
-      "conduct"
-    ],
-    "updatedAt": "2026-06-05"
+    "tags": ["premium-account"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-006",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Regulation 20(3) of the FAR, which of the following is NOT a permitted reason to withdraw moneys from a life insurance broking premium account?",
+    "options": {
+      "A": "Payment to a person entitled to receive the moneys",
+      "B": "Payment to an insurer for amounts due under a contract of insurance",
+      "C": "A personal loan to a director of the financial adviser",
+      "D": "Repayment of moneys paid into the account in error"
+    },
+    "answer": "C",
+    "explanation": "Reg 20(3) 仅允许付予有权收款者、付予保险人、存入持牌银行投资、退还误存款项四类提款;向董事发放个人贷款不在其中。",
+    "difficulty": "hard",
+    "sourceRef": "FAR Reg 20(3)",
+    "status": "draft",
+    "tags": ["premium-account", "withdrawal"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-007",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Section 42 of the FAA, the prohibition on negotiating a contract of insurance with an unlicensed insurer does NOT apply to:",
+    "options": {
+      "A": "Reinsurance and risks situated outside Singapore",
+      "B": "Any life policy sold to a Singapore resident",
+      "C": "Contracts under S$50,000 in premium",
+      "D": "Sales made through a website"
+    },
+    "answer": "A",
+    "explanation": "Section 42 的禁止不适用于再保险、新加坡以外的风险及其他订明风险;其余选项并非法定豁免,且条文正是针对境外网售保险。",
+    "difficulty": "medium",
+    "sourceRef": "FAA s.42(1)-(2)",
+    "status": "draft",
+    "tags": ["unlicensed-insurer"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-008",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Regulation 20A of the FAR, a licensed FA (or its representative) must enter particulars of an acquired interest in Listed Specified Products into the register, and retain that entry, within / for which periods?",
+    "options": {
+      "A": "Within 14 days; retain 3 years",
+      "B": "Within 30 days; retain 10 years",
+      "C": "Within 7 days of trade settlement only; no minimum retention",
+      "D": "Within 7 days of acquiring the interest; retain not less than 5 years"
+    },
+    "answer": "D",
+    "explanation": "Reg 20A(1) 要求取得权益后 7 日内登记,并以易于查阅的形式保留该记录不少于 5 年,且须在新加坡存放副本。",
+    "difficulty": "hard",
+    "sourceRef": "FAR Reg 20A(1)",
+    "status": "draft",
+    "tags": ["conflict-of-interest", "register"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-009",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Regulation 18 of the FAR, the aggregate amount of unsecured advances, loans and credit facilities a licensed FA may grant to its directors, officers, employees or representatives must not, outstanding at any one time, exceed:",
+    "options": {
+      "A": "S$1,000",
+      "B": "S$3,000",
+      "C": "S$25,000",
+      "D": "S$50,000"
+    },
+    "answer": "B",
+    "explanation": "Reg 18(1) 设定无抵押垫款/贷款/信贷便利任何一刻未偿还合计上限为 S$3,000;其余数字分别对应不同罚则金额,与此处无关。",
+    "difficulty": "medium",
+    "sourceRef": "FAR Reg 18(1)",
+    "status": "draft",
+    "tags": ["unsecured-credit"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-010",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Section 63(1) of the FAA, prior approval of the MAS (via Form 11) is required when a licensed FA wishes to:",
+    "options": {
+      "A": "Appoint its chief executive officer or a director, or change a director from non-executive to executive",
+      "B": "Open a new branch office",
+      "C": "Launch a new investment product",
+      "D": "Change its external auditor"
+    },
+    "answer": "A",
+    "explanation": "Section 63(1) 要求委任 CEO 或董事、或将董事由非执行改为执行须经 MAS 事先批准(提交 Form 11);其余事项不在该条文范围。",
+    "difficulty": "easy",
+    "sourceRef": "FAA s.63(1)",
+    "status": "draft",
+    "tags": ["ceo-director-approval"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-011",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "A prohibition order has been made against a person and notified to a licensed FA. Under Section 69(2) of the FAA, if the FA nonetheless employs that person to provide prohibited financial advisory services, the FA is liable on conviction to a fine not exceeding:",
+    "options": {
+      "A": "S$10,000",
+      "B": "S$25,000",
+      "C": "S$50,000",
+      "D": "S$100,000"
+    },
+    "answer": "C",
+    "explanation": "Section 69(2) 规定受通知的 FA 在禁止范围内聘用或使用该人即属犯罪,罚款最高 S$50,000。",
+    "difficulty": "hard",
+    "sourceRef": "FAA s.69(2)",
+    "status": "draft",
+    "tags": ["prohibition-order", "penalty"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s02-012",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "stem": "Under Section 113 of the FAA, an officer or employee of a licensed FA who wilfully makes a false entry in the FA's records shall be liable on conviction to a fine not exceeding S$100,000 or imprisonment for a term not exceeding:",
+    "options": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "12 months",
+      "D": "2 years"
+    },
+    "answer": "D",
+    "explanation": "Section 113(1) 对故意伪造/遗漏/更改记录订明罚款最高 S$100,000 或监禁最高 2 年或两者兼施;同一上限亦见于 s.112。",
+    "difficulty": "medium",
+    "sourceRef": "FAA s.113(1)",
+    "status": "draft",
+    "tags": ["falsification", "penalty"],
+    "updatedAt": "2026-06-19"
   }
 ]

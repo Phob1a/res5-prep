@@ -1,0 +1,177 @@
+[
+  {
+    "id": "fc-s06-001",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FAA-N17 呈报触发 / FAA-N17 reporting trigger",
+    "point": "发现对其安全、稳健或声誉具重大影响的可疑活动或欺诈事件时,持牌财务顾问须向 MAS 呈报。 / A licensed FA must report to MAS suspicious activities/fraud that are material to its safety, soundness or reputation.",
+    "keyfacts": [
+      "依 FAA 2001 第 58 条发出 / Issued under s.58 FAA 2001",
+      "适用于所有持牌财务顾问 / Applies to all licensed FAs"
+    ],
+    "sourceRef": "MAS Notice FAA-N17 paras 1-2",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-002",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FAA-N17 表格与时限 / FAA-N17 form & deadline",
+    "point": "呈报用 Form F1,须在发现后不迟于 5 个工作日内呈交 MAS。 / Report on Form F1, lodged not later than 5 working days after discovery.",
+    "keyfacts": [
+      "未呈报须记录决定理由 / Document reasons if not reported",
+      "本通知即时生效 / Takes immediate effect"
+    ],
+    "sourceRef": "MAS Notice FAA-N17 paras 4-6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-003",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FAA-N17 与 STRO 报警 / FAA-N17 & police report",
+    "point": "仍须依 AML/CFT 通知向 STRO 呈交可疑交易报告;欺诈事件应报警并将报案副本交 MAS,未报警须说明理由。 / Still file STRs with the STRO; for fraud lodge a police report and submit a copy to MAS, or notify MAS of reasons if none lodged.",
+    "keyfacts": [
+      "STRO = 商业事务局可疑交易呈报办公室 / STRO at Commercial Affairs Dept, SPF"
+    ],
+    "sourceRef": "MAS Notice FAA-N17 para 3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-004",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FSM-N23 停机与 RTO / FSM-N23 downtime & RTO",
+    "point": "每个关键系统 12 个月内最大非计划停机 ≤4 小时;RTO ≤4 小时。 / Per critical system: ≤4h unscheduled downtime within 12 months; RTO of not more than 4 hours.",
+    "keyfacts": [
+      "至少每 12 个月验证并记录恢复测试 / Validate/document recovery testing ≥ every 12 months"
+    ],
+    "sourceRef": "MAS Notice FSM-N23 paras 5-6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-005",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FSM-N23 相关事件呈报 / FSM-N23 incident reporting",
+    "point": "发现相关事件后须尽快、不迟于 1 小时通知 MAS;并须在 14 天内提交根因与影响分析报告。 / Notify MAS as soon as possible, not later than 1 hour; submit a root cause & impact analysis report within 14 days.",
+    "keyfacts": [
+      "报告含执行摘要、根因、影响、补救措施 / Report covers summary, root cause, impact, remedial measures",
+      "自 2024 年 5 月 10 日生效 / Effective 10 May 2024"
+    ],
+    "sourceRef": "MAS Notice FSM-N23 paras 7-8, 10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-006",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FSM-N23 关键系统定义 / FSM-N23 critical system",
+    "point": "关键系统指其失效将对持证人运营造成重大中断或重大影响客户服务的系统。 / A critical system is one whose failure causes significant disruption to operations or materially impacts customer service.",
+    "keyfacts": [
+      "如处理时效性交易或提供基本客户服务 / e.g. time-critical transactions or essential services",
+      "依 FSMA 2022 第 29(1) 条发出 / Issued under s.29(1) FSMA 2022"
+    ],
+    "sourceRef": "MAS Notice FSM-N23 para 2",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-007",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FAA-N19 DPI 分销渠道 / FAA-N19 DPI channels",
+    "point": "财务顾问只可经其代表或客户服务主任(CSO)、或在线直购渠道分销 DPI。 / An FA may distribute DPI only through its representative or CSO, or via an online direct channel.",
+    "keyfacts": [
+      "依 FAA 2001 第 58 条发出 / Issued under s.58 FAA 2001",
+      "Tier 1 人寿险须至少在主要营业地点/分行经代表或 CSO 分销 / Tier 1 life insurer: at least via rep/CSO at principal place/branch"
+    ],
+    "sourceRef": "MAS Notice FAA-N19 paras 8-9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-008",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FAA-N19 销售前提醒 / FAA-N19 pre-sale alerts",
+    "point": "完成申请前须提醒客户:DPI 非储蓄/存款;提前退保可能取不回保费;部分利益不保证;有 14 天 free-look。 / Before application: DPI is not a savings/deposit; premiums may not be recovered on early surrender; some benefits not guaranteed; 14-day free-look.",
+    "keyfacts": [
+      "须提示有条件接受(conditional acceptance) / Highlight conditional acceptance",
+      "须提供保障与保费计算工具 / Provide coverage & premium calculators"
+    ],
+    "sourceRef": "MAS Notice FAA-N19 paras 11-12",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-009",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FAA-N19 五大要求 / FAA-N19 five requirements",
+    "point": "DPI 分销五类要求:保障措施、产品信息、查询途径、内部政策流程、代表/CSO 角色职责。 / Five DPI requirements: safeguards, product information, query avenues, internal policies/processes, roles of rep/CSO.",
+    "keyfacts": [
+      "违反可处不超过 $25,000 罚款 / Contravention: fine up to $25,000 (s.58(5))"
+    ],
+    "sourceRef": "MAS Notice FAA-N19 para 10; s.58(5) FAA",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-010",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FSM-N24 六项网络卫生 / FSM-N24 six practices",
+    "point": "六项实践:管理员账户、安全补丁、安全标准、网络边界防御、恶意软件防护、多因素认证。 / Six practices: admin accounts, security patches, security standards, network perimeter defence, malware protection, MFA.",
+    "keyfacts": [
+      "依 FSMA 2022 第 29(1) 条发出 / Issued under s.29(1) FSMA 2022",
+      "自 2024 年 5 月 10 日生效 / Effective 10 May 2024"
+    ],
+    "sourceRef": "MAS Notice FSM-N24 paras 4.1-4.6, 5.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-011",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FSM-N24 MFA 范围 / FSM-N24 MFA scope",
+    "point": "MFA 须用于:关键系统的所有管理员账户;以及经互联网访问客户信息的系统上的所有账户。 / MFA required for: all admin accounts of any critical system; and all accounts on any system used to access customer info via the internet.",
+    "keyfacts": [
+      "MFA = 两个或以上验证因素(所知/所有/所是) / MFA = 2+ factors (know/have/are)"
+    ],
+    "sourceRef": "MAS Notice FSM-N24 paras 2.1, 4.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s06-012",
+    "part": 1,
+    "syllabusItemId": "s06",
+    "topicGroup": "notices",
+    "title": "FSM-N24 控制不能例外 / FSM-N24 control exception",
+    "point": "若实体无法对系统行使直接或间接控制、且无合理替代供应商,则就该要求可不合规。 / A relevant entity need not comply where it cannot exercise direct/indirect control and cannot reasonably procure an alternative provider.",
+    "keyfacts": [
+      "无补丁时须实施控制降低风险 / If no patch available, institute mitigating controls"
+    ],
+    "sourceRef": "MAS Notice FSM-N24 paras 3.1, 4.2-4.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

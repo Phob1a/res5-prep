@@ -4,27 +4,172 @@
     "part": 1,
     "syllabusItemId": "s13",
     "topicGroup": "products",
-    "title": "CPF 账户 / CPF accounts",
-    "point": "OA(住房/投资)、SA(退休)、MA(医疗);55 岁设 RA。 / OA (housing/investment), SA (retirement), MA (healthcare); RA at 55.",
+    "title": "CPF 起源与管理 / CPF origin and administration",
+    "point": "CPF 于 1955-07-01 设立,由公积金局(人力部下属法定机构)管理,涵盖退休、医疗、住房三大目标。 / CPF started on 1 Jul 1955, administered by the CPF Board (a statutory board under MOM), covering retirement, healthcare and housing.",
     "keyfacts": [
-      "MediSave=医疗 / MediSave = healthcare"
+      "三大目标:退休、医疗、住房 / Three aims: retirement, healthcare, housing"
     ],
-    "sourceRef": "Central Provident Fund (CPF) framework",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.1–2.2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s13-002",
     "part": 1,
     "syllabusItemId": "s13",
     "topicGroup": "products",
-    "title": "CPF-IS",
-    "point": "OA/SA 超门槛可投资经核准产品,但有风险。 / OA/SA above thresholds may be invested, but with risk.",
+    "title": "缴费义务 / Contribution liability",
+    "point": "SC 与 PR 月总工资超过 S$50 须缴费,外国人豁免;自雇者年净营业收入超 S$6,000 只须缴 MediSave(4%–10.5%)。 / SC and PR earning over S$50/month must contribute, foreigners exempt; self-employed earning over S$6,000/year contribute only to MediSave (4%–10.5%).",
     "keyfacts": [
-      "可能低于 CPF 利息 / May underperform CPF interest"
+      "外国人豁免缴费 / Foreigners are exempt",
+      "自雇仅缴 MediSave / Self-employed only to MediSave"
     ],
-    "sourceRef": "Central Provident Fund (CPF) framework",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.4–2.8",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-003",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "缴费率(2024 起) / Contribution rates (from 2024)",
+    "point": "月薪 > S$750 时总缴费率视年龄 12.5%–37%;55 岁及以下雇主 17%、雇员 20%、共 37%。 / For wages > S$750, total rates run 12.5%–37% by age; for 55 and below it is 17% employer, 20% employee, 37% total.",
+    "keyfacts": [
+      "70 岁以上共 12.5%(7.5/5) / Above 70: 12.5% total (7.5/5)"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-004",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "三大账户 / The three accounts",
+    "point": "OA(住房/投资/教育)、SA(养老,1977 设)、MA(医疗,1984 设);55 岁建 RA(1987 设),从 SA 再 OA 转入至 FRS。 / OA (housing/investment/education), SA (old age, est. 1977), MA (healthcare, est. 1984); RA (est. 1987) created at 55, funded from SA then OA up to the FRS.",
+    "keyfacts": [
+      "OA 利率低于其他账户 / OA earns less than other accounts",
+      "55 岁:SA 先转、OA 后转 / At 55: SA first, then OA"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.12–2.18",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-005",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "CPF 利率 / CPF interest rates",
+    "point": "OA 法定最低 2.5%;SA/MA 为 10 年 SGS 12 个月平均加 1%、现行下限 4%。 / OA legislated minimum 2.5%; SA/MA is 12-month average of 10-year SGS plus 1%, current floor 4%.",
+    "keyfacts": [
+      "OA 按季检讨;RA 按年检讨 / OA reviewed quarterly; RA annually"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.21",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-006",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "额外利息 / Extra interest",
+    "point": "首 S$60,000 综合余额(OA 上限 S$20,000)享额外利息:55 岁以下 +1%;55 岁及以上首 S$30,000 +2%、次 S$30,000 +1%。 / Extra interest on first S$60,000 combined (OA capped S$20,000): below 55 +1%; 55 and above +2% on first S$30,000 and +1% on next S$30,000.",
+    "keyfacts": [
+      "余额低者受益更多 / Lower balances benefit more"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.22–2.24",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-007",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "CPFIS 资格 / CPFIS eligibility",
+    "point": "须年满 18 岁、非未解除破产人,且 OA > S$20,000(CPFIS-OA)及/或 SA > S$40,000(CPFIS-SA);2018-10-01 起新投资者须先做 SAQ。 / Must be at least 18, not an undischarged bankrupt, with OA > S$20,000 (CPFIS-OA) and/or SA > S$40,000 (CPFIS-SA); from 1 Oct 2018 new investors must first complete the SAQ.",
+    "keyfacts": [
+      "投资有资本损失风险 / Investments carry capital-loss risk",
+      "可能低于 CPF 保证利息 / May underperform guaranteed CPF interest"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.2.25(a)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-008",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "退休金额 / Retirement sums",
+    "point": "BRS 覆盖基本生活(不含租金);FRS = 2×BRS(含租金);ERS 更高,自 2025 年由 BRS 的 3 倍提至 4 倍。 / BRS covers basic needs (excluding rent); FRS = 2×BRS (covers rent); ERS is higher, rising from 3x to 4x BRS from 2025.",
+    "keyfacts": [
+      "2024 年 55 岁 FRS S$205,800 / FRS S$205,800 for 55 in 2024",
+      "BRS 每期递增 3.5%(2023–2027) / BRS +3.5% per cohort (2023–2027)"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.3.2–3.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-009",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "CPF LIFE 自动纳入 / CPF LIFE auto-inclusion",
+    "point": "1958 年或以后出生的 SC/PR,且开始领取时 RA 至少 S$60,000 者自动纳入;每递延一年月领最高增 7%。 / SC/PR born in 1958 or after with at least S$60,000 in the RA at payout start are auto-included; each year deferred raises payouts by up to 7%.",
+    "keyfacts": [
+      "三种计划:Escalating/Standard/Basic;默认 Standard / Three plans: Escalating/Standard/Basic; default Standard",
+      "Escalating 月领每年增 2% / Escalating rises 2% yearly"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.3.12–3.13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-010",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "MediSave 与 BHS / MediSave and BHS",
+    "point": "MediSave(1984-04 设)缴入上限为 Basic Healthcare Sum(BHS),65 岁定终身;2024 年现行 BHS 为 S$71,500,超额转入 SA/RA(或已达 FRS 则转 OA)。 / MediSave (Apr 1984) is capped at the Basic Healthcare Sum (BHS), fixed for life at 65; current 2024 BHS is S$71,500, with excess flowing to SA/RA (or OA if FRS met).",
+    "keyfacts": [
+      "MA 无最低余额要求 / No minimum balance in MA"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.3.23–3.25",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-011",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "DPS 保障 / DPS coverage",
+    "point": "DPS 由 Great Eastern Life 独家管理,自动覆盖 21–65 岁有有效缴费的 SC/PR;最高保额 60 岁前 S$70,000、60–65 岁 S$55,000,最低 S$5,000,全球承保。 / DPS is administered solely by Great Eastern Life, auto-covering SC/PR aged 21–65 with a valid contribution; maximum sum assured S$70,000 up to 60 and S$55,000 for 60–65, minimum S$5,000, worldwide.",
+    "keyfacts": [
+      "可随时退出 / Members may opt out anytime"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.4.1–4.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s13-012",
+    "part": 1,
+    "syllabusItemId": "s13",
+    "topicGroup": "products",
+    "title": "遗产规划与提名 / Legacy planning and nomination",
+    "point": "CPF 储蓄按提名分配(有提名约 17 个工作日,无提名交公共信托人办公室、可达六个月);CPF 储蓄不入遗产、不能纳入遗嘱,结婚即撤销提名。 / CPF savings are distributed by nomination (about 17 working days with one; without one, via the Public Trustee's Office, up to six months); CPF savings are not part of the estate and cannot be in a will, and a nomination is revoked on marriage.",
+    "keyfacts": [
+      "提名涵盖四账户+CPF LIFE 余额+折扣 Singtel 股 / Covers four accounts + CPF LIFE balance + discounted Singtel shares"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.13 — CPF s.5.1–5.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

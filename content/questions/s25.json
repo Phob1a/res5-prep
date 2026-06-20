@@ -4,65 +4,275 @@
     "part": 2,
     "syllabusItemId": "s25",
     "topicGroup": "process",
-    "stem": "When presenting recommendations, a representative should:",
+    "stem": "What is the primary aim when presenting your recommendations to a client?",
     "options": {
-      "A": "Emphasise returns and omit risks",
-      "B": "Clearly disclose assumptions, risks and fees",
-      "C": "Use jargon to impress",
-      "D": "Rush the client"
+      "A": "To close the sale as quickly as possible",
+      "B": "To ensure the client understands the products recommended and the reasons for the recommendations",
+      "C": "To impress the client with technical product knowledge",
+      "D": "To collect all the required forms before any explanation"
     },
     "answer": "B",
-    "explanation": "呈现须清晰披露假设、风险与费用。",
+    "explanation": "教材 §1.1 明确:你应确保客户理解所推荐的产品及推荐理由,并能解释产品特性、利益及其如何契合客户处境。A/C/D 与该目标相悖或本末倒置。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.1",
     "status": "draft",
     "tags": [
-      "disclosure"
+      "presentation",
+      "aim"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s25-002",
     "part": 2,
     "syllabusItemId": "s25",
     "topicGroup": "process",
-    "stem": "Before the client decides, the representative should ensure that:",
+    "stem": "When preparing for the meeting, what should the representative do with the financial needs analysis documents?",
     "options": {
-      "A": "The client is confused",
-      "B": "The client understands the recommendation and its implications",
-      "C": "The paperwork is hidden",
-      "D": "The decision is made for the client"
+      "A": "Leave them at the office to avoid confusion",
+      "B": "Check their accuracy and completeness, and make a copy if a copy will be left with the client",
+      "C": "Show only the parts that support the sale",
+      "D": "Hand them to the client unread"
     },
     "answer": "B",
-    "explanation": "决定前须确保客户理解建议及其影响。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "explanation": "教材 §1.3 要求核对财务需求分析文件的准确性与完整性,并在打算给客户留底时事先复印。其余选项均与忠实、完整呈现的要求不符。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.3",
     "status": "draft",
     "tags": [
-      "understanding"
+      "preparation",
+      "documents"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s25-003",
     "part": 2,
     "syllabusItemId": "s25",
     "topicGroup": "process",
-    "stem": "The final decision to proceed should be made by:",
+    "stem": "In the suggested systematic sequence for explaining a recommendation, which step is listed LAST?",
     "options": {
-      "A": "The representative under pressure tactics",
-      "B": "The client, freely and informed",
-      "C": "The client’s neighbour",
-      "D": "MAS"
+      "A": "Stating the purpose of the product",
+      "B": "Highlighting the risk elements",
+      "C": "Explaining the operation of the 14-day free-look provision",
+      "D": "Disclosing distribution costs, charges and expenses"
     },
-    "answer": "B",
-    "explanation": "最终决定由客户在知情、无压力下自主作出。",
-    "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "answer": "C",
+    "explanation": "教材 §1.5 的系统化顺序中,(j) 解释 14 天 free-look 条款的运作是最后一步。说明目的为 (a)、强调风险为 (c)、披露分销成本为 (i),均在其前。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.5(a)–(j)",
     "status": "draft",
     "tags": [
-      "client-decision"
+      "sequence",
+      "free-look"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-004",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "For which steps of the systematic explanation sequence is the representative advised to refer to the Product Summary prepared by the life insurer?",
+    "options": {
+      "A": "Steps (a) to (e)",
+      "B": "Steps (f) to (j)",
+      "C": "Only step (h), the policy illustration",
+      "D": "All ten steps (a) to (j)"
+    },
+    "answer": "A",
+    "explanation": "教材 §1.6 指出,对步骤 (a) 至 (e)(目的、性质/税务、风险、利益与局限、选项),代表可参考寿险公司编制的产品摘要。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.6",
+    "status": "draft",
+    "tags": [
+      "product-summary",
+      "sequence"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-005",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "When arranging an appointment with the client, the representative should:",
+    "options": {
+      "A": "Avoid telling the client how long it will take so as not to deter him",
+      "B": "Advise the client how long the meeting is likely to take and keep to the time allocated",
+      "C": "Refuse to give a contact number to prevent rescheduling",
+      "D": "Treat punctuality as the client's responsibility only"
+    },
+    "answer": "B",
+    "explanation": "教材 §1.10–1.11 要求告知客户会面大约时长以便其预留时间、遵守约定时段、留联系方式便于改期,且代表自身也须守约准时。A/C/D 均违反这些要求。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.10–1.11",
+    "status": "draft",
+    "tags": [
+      "appointment"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-006",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "According to the chapter, where can a client find a comprehensive list of insurance terms and definitions explained in simple, easy-to-understand language?",
+    "options": {
+      "A": "The Product Highlights Sheet",
+      "B": "The Bundled Product Disclosure",
+      "C": "The LIA's 'Your Guide to Life Insurance'",
+      "D": "The Policy Illustration"
+    },
+    "answer": "C",
+    "explanation": "教材 §1.13 指出,LIA 编制的《Your Guide to Life Insurance》提供了用简明语言表述的保险术语与定义清单。其余文件各有用途但非术语词汇表。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.13",
+    "status": "draft",
+    "tags": [
+      "communication",
+      "lia-guide"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-007",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "When completing the application or proposal form, if the representative or the client is doubtful whether a fact is material, the representative should:",
+    "options": {
+      "A": "Advise the client to disclose it",
+      "B": "Omit it to keep the form simple",
+      "C": "Decide for the client that it is not material",
+      "D": "Ask the insurer to remove the warning statement"
+    },
+    "answer": "A",
+    "explanation": "教材 §1.16 规定:若对某事实是否重大有疑,应建议客户照样披露,并警告不披露重大事实可能使其或受益人在保单下一无所获。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.16",
+    "status": "draft",
+    "tags": [
+      "closing",
+      "material-facts"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-008",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "Under the LIA Guidelines for Life Insurance Advisory, in what sequence should the prescribed documents be given to a prospective buyer?",
+    "options": {
+      "A": "Product Summary, Cover Page, Policy Illustration, Bundled Product Disclosure",
+      "B": "Cover Page, Policy Illustration, Product Summary, Bundled Product Disclosure",
+      "C": "Policy Illustration, Product Summary, Cover Page, Bundled Product Disclosure",
+      "D": "Bundled Product Disclosure, Product Summary, Policy Illustration, Cover Page"
+    },
+    "answer": "B",
+    "explanation": "教材 §1.19–1.20 列明顺序为:封面页 → 保单利益说明书 → 产品摘要 → 捆绑产品披露,并连同《Your Guide to Life/Health Insurance》一并提供。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.19–1.20",
+    "status": "draft",
+    "tags": [
+      "documents",
+      "sequence",
+      "lia"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-009",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "Which document specifically describes the key features and risks of the relevant sub-fund of an Investment-Linked Policy (ILP)?",
+    "options": {
+      "A": "The Cover Page",
+      "B": "The Product Summary",
+      "C": "The Product Highlights Sheet",
+      "D": "The Life Insurance Advisory Form"
+    },
+    "answer": "C",
+    "explanation": "教材 §1.22 指出,产品亮点表(Product Highlights Sheet)为 ILP 提供,描述相关 ILP 子基金的关键特性与风险;产品摘要描述客户欲购产品的特性。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.22",
+    "status": "draft",
+    "tags": [
+      "ilp",
+      "phs"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-010",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "Where are the distribution costs, including any commission the insurer will pay to the representative, shown to the client?",
+    "options": {
+      "A": "In the Cover Page",
+      "B": "In the Policy Illustration",
+      "C": "In the reference checklist only",
+      "D": "They need not be disclosed to the client"
+    },
+    "answer": "B",
+    "explanation": "教材 §1.23 指出,保险公司依法须披露所有成本与收费,其中包括付给代表佣金的分销成本,这些细节列在产品的保单利益说明书(Policy Illustration)中。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.23",
+    "status": "draft",
+    "tags": [
+      "cost-disclosure",
+      "commission"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-011",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "The point-of-sale reference checklist should include information as required under which Notice?",
+    "options": {
+      "A": "FAA-N03 — Information to Clients and Product Information Disclosure",
+      "B": "FAA-N13 — Minimum Entry and Examination Requirements",
+      "C": "FAA-N16 — Recommendations on Investment Products",
+      "D": "MAS Notice 314 — Market Conduct"
+    },
+    "answer": "A",
+    "explanation": "教材 §1.26 指出参考清单应包含 FAA《向客户提供资料及产品信息披露通知》(FAA-N03)所要求的资料,包括代表一般资料/身份、报酬、利益冲突、指定投资产品、过往与未来表现示例及营销材料。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.25–1.26",
+    "status": "draft",
+    "tags": [
+      "faa-n03",
+      "checklist"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s25-012",
+    "part": 2,
+    "syllabusItemId": "s25",
+    "topicGroup": "process",
+    "stem": "If, at any time, the representative doubts that the client understands certain critical product features (especially investment products) or the client does not pass the Customer Knowledge Assessment, the right course of action is to:",
+    "options": {
+      "A": "Proceed but record the doubt in the file",
+      "B": "Have an alternative to abort the sale, and decline the sale where the client is not suitable",
+      "C": "Simplify the contract terms and proceed",
+      "D": "Refer the client to another representative to close the sale"
+    },
+    "answer": "B",
+    "explanation": "教材 §1.29 指出,若怀疑客户不理解关键特性(尤其投资产品)或未通过客户知识评估(CKA),代表必须有中止销售的备选方案;对不适合购买任何产品的客户,正确做法是拒绝销售。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 §1.29",
+    "status": "draft",
+    "tags": [
+      "cka",
+      "abort-sale"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

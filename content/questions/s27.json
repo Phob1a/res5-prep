@@ -4,45 +4,321 @@
     "part": 2,
     "syllabusItemId": "s27",
     "topicGroup": "process",
-    "stem": "Which is the correct ordering of the basic financial planning process?",
+    "stem": "On what date, and with which industry associations, did the MAS launch the Basic Financial Planning Guide?",
     "options": {
-      "A": "Implement → set goals → review",
-      "B": "Set goals → gather data → analyse → develop plan → implement → review",
-      "C": "Sell product → gather data → stop",
-      "D": "Review → implement → set goals"
+      "A": "7 October 2023, with ABS, AFAS and LIA",
+      "B": "1 January 2024, with ABS and LIA only",
+      "C": "7 October 2023, with the SGX and CPF Board",
+      "D": "26 November 2010, with AFAS and the GIA"
     },
-    "answer": "B",
-    "explanation": "规划是目标→收集→分析→方案→执行→检视的有序过程。",
+    "answer": "A",
+    "explanation": "教材 1.1 指出 MAS 于 2023 年 10 月 7 日联合新加坡银行公会(ABS)、新加坡财务顾问协会(AFAS)与人寿保险协会(LIA)推出该指南。2024 年 1 月只是定制版本上线的时间,并非推出日。",
     "difficulty": "easy",
-    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — s.1.1",
     "status": "draft",
     "tags": [
-      "planning",
-      "process"
+      "guide",
+      "launch"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s27-002",
     "part": 2,
     "syllabusItemId": "s27",
     "topicGroup": "process",
-    "stem": "In financial planning, which generally takes priority before wealth accumulation?",
+    "stem": "Under the Guide's rules of thumb, how many months' worth of expenses should be set aside for emergency needs?",
     "options": {
-      "A": "Speculative trading",
-      "B": "Adequate protection and an emergency fund",
-      "C": "Buying the riskiest fund",
-      "D": "Ignoring insurance"
+      "A": "1 to 2 months",
+      "B": "At least 12 months in all cases",
+      "C": "At least 3 to 6 months",
+      "D": "Exactly 9 months"
     },
-    "answer": "B",
-    "explanation": "一般先建立保障与应急储备,再追求增长。",
-    "difficulty": "medium",
-    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "answer": "C",
+    "explanation": "教材 1.2 与第 2 节均规定应急金至少为 3 至 6 个月的开支。12 个月仅适用于收入不稳定者(如自由职业者),并非通用规则。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — s.1.2 / Emergency Funds",
     "status": "draft",
     "tags": [
-      "planning",
+      "emergency-funds",
+      "rule-of-thumb"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-003",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "What insurance coverage does the Guide recommend for death and total permanent disability (TPD), and for critical illness?",
+    "options": {
+      "A": "4x annual income for death/TPD and 9x for critical illness",
+      "B": "9x annual income for death/TPD and 4x for critical illness",
+      "C": "10x annual income for death/TPD and 5x for critical illness",
+      "D": "15x annual income for both"
+    },
+    "answer": "B",
+    "explanation": "教材第 2 节明确:身故与全残(TPD)为年收入的 9 倍,危疾为年收入的 4 倍。选项 A 将两者颠倒。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Coverage for Death, TPD and CI",
+    "status": "draft",
+    "tags": [
+      "protection",
+      "coverage-multiples"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-004",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "The Guide's 15% (protection) and 10% (investment) rules of thumb are expressed as a percentage of which income measure?",
+    "options": {
+      "A": "Gross annual income before any deductions",
+      "B": "Net income after income tax only",
+      "C": "Household income including a spouse's income",
+      "D": "Income after deducting CPF contributions (take-home pay)"
+    },
+    "answer": "D",
+    "explanation": "教材指南表格脚注指出 '^After deducting CPF contributions',即以扣除 CPF 后的实得收入(take-home pay)为基数计算 15% 与 10%。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Guide table notes",
+    "status": "draft",
+    "tags": [
+      "income-basis",
+      "rule-of-thumb"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-005",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "Why does the Guide note that the purchase of a bundled product such as a whole life policy may exceed 15% of income?",
+    "options": {
+      "A": "Because whole life policies are exempt from the rule of thumb",
+      "B": "Because bundled products contain both investment and protection elements",
+      "C": "Because MAS mandates a minimum spend of 15% on whole life",
+      "D": "Because critical illness cover is always priced above 15%"
+    },
+    "answer": "B",
+    "explanation": "教材脚注 '**' 说明捆绑型产品(如终身寿险)同时含有投资与保障两种成分,因此其总成本可能超过收入的 15%。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Guide table notes",
+    "status": "draft",
+    "tags": [
+      "bundled-products",
       "protection"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-006",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "According to the Guide, can a person's CPF funds be used as their emergency fund?",
+    "options": {
+      "A": "No, because CPF funds are tied to retirement, healthcare and home-ownership needs",
+      "B": "Yes, CPF funds are the recommended source of emergency cash",
+      "C": "Yes, but only the amount above the Full Retirement Sum",
+      "D": "No, because CPF balances cannot legally exceed three months of expenses"
+    },
+    "answer": "A",
+    "explanation": "教材消费者 FAQ(应急金第 5 题)明确指出 CPF 资金不能用作应急金,因为其使用附有特定条件,须用于退休、医疗与置业需求。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Consumer FAQ (Emergency Funds Q5)",
+    "status": "draft",
+    "tags": [
+      "emergency-funds",
+      "cpf"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-007",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "Under the Dependants' Protection Scheme (DPS), what is the maximum coverage for a member who is still aged 60 or below?",
+    "options": {
+      "A": "$30,000",
+      "B": "$55,000",
+      "C": "$70,000",
+      "D": "$100,000"
+    },
+    "answer": "C",
+    "explanation": "教材附录指出 DPS 在 60 岁前提供最高 $70,000 的一次性赔付;60 岁以上至 65 岁则降为最高 $55,000。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Appendix (DPS)",
+    "status": "draft",
+    "tags": [
+      "dps",
+      "coverage"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-008",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "Which statement about Direct Purchase Insurance (DPI) as described in the Guide is correct?",
+    "options": {
+      "A": "It carries the highest commission of all term products",
+      "B": "It is only available to Full-time National Servicemen",
+      "C": "It can only be bought through a financial adviser representative",
+      "D": "No commission is charged because it does not come with any financial advice"
+    },
+    "answer": "D",
+    "explanation": "教材保障部分指出,直接购买保险(DPI)因不附带任何财务建议,故不收取佣金,是更经济的选项之一。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Coverage (affordable options)",
+    "status": "draft",
+    "tags": [
+      "dpi",
+      "affordable-options"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-009",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "Under CareShield Life, a person is regarded as having a 'severe disability' when he is unable to perform independently at least how many of the six activities of daily living (ADLs)?",
+    "options": {
+      "A": "At least 1 of the 6 ADLs",
+      "B": "At least 3 of the 6 ADLs",
+      "C": "At least 4 of the 6 ADLs",
+      "D": "All 6 ADLs"
+    },
+    "answer": "B",
+    "explanation": "教材 CareShield Life 部分定义:无法独立完成 6 项日常生活活动(进食、穿衣、如厕、洗澡、移位、行走)中的至少 3 项即属严重残疾。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — CareShield Life",
+    "status": "draft",
+    "tags": [
+      "careshield-life",
+      "severe-disability"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-010",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "CareShield Life automatically covers which group of Singapore Citizens and Permanent Residents?",
+    "options": {
+      "A": "Those born in 1980 onwards",
+      "B": "Those born before 1970",
+      "C": "Only those aged 40 and above",
+      "D": "Only those who opted out of ElderShield"
+    },
+    "answer": "A",
+    "explanation": "教材指出 CareShield Life 覆盖 1980 年及以后出生的所有新加坡公民与永久居民,保费可全额由 MediSave 支付;尚未发生严重残疾的 ElderShield 持有人可选择加入。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — CareShield Life",
+    "status": "draft",
+    "tags": [
+      "careshield-life",
+      "eligibility"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-011",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "Which of the following is NOT one of the four legacy-planning tools highlighted in the Guide?",
+    "options": {
+      "A": "A Will",
+      "B": "A CPF nomination",
+      "C": "A Trust Deed registered with MAS",
+      "D": "A Lasting Power of Attorney (LPA)"
+    },
+    "answer": "C",
+    "explanation": "教材遗产规划部分列出四项工具:遗嘱、CPF 提名、持久授权书(LPA)与预先护理计划(ACP)。'向 MAS 注册的信托契据'并非指南所列工具。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Legacy Planning",
+    "status": "draft",
+    "tags": [
+      "legacy-planning",
+      "lpa"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-012",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "A customer's existing portfolio of insurance policies costs more than 15% of his income. Based on the Guide's consumer FAQ, what is the most appropriate first response?",
+    "options": {
+      "A": "Immediately demand a full refund from the insurer",
+      "B": "Review whether the portfolio remains affordable in the long term before deciding on changes",
+      "C": "Surrender all policies at once to fall below 15%",
+      "D": "Report the representative to MAS for mis-selling"
+    },
+    "answer": "B",
+    "explanation": "教材消费者 FAQ(保障第 7 题)指出,超过 15% 不必惊慌;应先检视该组合长期是否仍可负担,再决定是否调整,并不必然意味被过度销售。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Consumer FAQ (Protection Q7)",
+    "status": "draft",
+    "tags": [
+      "fifteen-percent",
+      "affordability"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-013",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "Is an FA representative in breach of MAS' requirements if he shares the Guide's recommendations with a customer before conducting the full Financial Needs Analysis (FNA)?",
+    "options": {
+      "A": "Yes, the full FNA must always be completed before the Guide is even mentioned",
+      "B": "Yes, sharing the Guide constitutes a specific product recommendation",
+      "C": "Yes, but only if the customer is an accredited investor",
+      "D": "No, but the full FNA must still be completed before any transaction to ensure suitability"
+    },
+    "answer": "D",
+    "explanation": "教材行业 FAQ 指出,代表在完成完整 FNA 之前先分享指南并不违规,因为指南只是一般性建议;但任何交易完成前仍须走完完整 FNA 以确保产品适合性。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Industry FAQ (FNA Q3)",
+    "status": "draft",
+    "tags": [
+      "fna",
+      "suitability"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s27-014",
+    "part": 2,
+    "syllabusItemId": "s27",
+    "topicGroup": "process",
+    "stem": "What is the regulatory status of the Basic Financial Planning Guide for FA firms and their representatives?",
+    "options": {
+      "A": "It is not a regulatory requirement, though MAS strongly encourages adoption where appropriate",
+      "B": "It is a mandatory requirement and non-use is an offence under the FAA",
+      "C": "It must be shown verbatim to every customer at every meeting",
+      "D": "It replaces the obligation to have a reasonable basis for recommendation"
+    },
+    "answer": "A",
+    "explanation": "教材消费者与行业 FAQ 均指出指南并非监管要求,未使用不会受罚,但 MAS 强烈鼓励 FA 公司与代表在适当情况下采纳;代表仍须遵守现行监管要求(如合理推荐基础)。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.27 — Consumer FAQ Q2 / Industry FAQ",
+    "status": "draft",
+    "tags": [
+      "regulatory-status",
+      "adoption"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

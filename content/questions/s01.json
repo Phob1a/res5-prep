@@ -4,44 +4,295 @@
     "part": 1,
     "syllabusItemId": "s01",
     "topicGroup": "rules",
-    "stem": "Under the Financial Advisers Act, who holds the financial adviser licence?",
+    "stem": "On what date did the Financial Advisers Act (FAA) come into operation in Singapore?",
     "options": {
-      "A": "Each individual representative personally",
-      "B": "The financial advisory firm/entity, while individuals act as registered representatives",
-      "C": "Only MAS staff",
-      "D": "The client"
+      "A": "1 October 2002",
+      "B": "26 November 2010",
+      "C": "2 December 2005",
+      "D": "28 May 2008"
     },
-    "answer": "B",
-    "explanation": "牌照发给实体;个人以委任代表身份经 RNF 登记。",
+    "answer": "A",
+    "explanation": "教材 1.2 明确 FAA 2001 于 2002 年 10 月 1 日生效。B 是 RNF 推出日;C 是结构性存款被归为投资产品之日;D 是某些投资者分类的截止日。",
     "difficulty": "easy",
-    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
-    "status": "draft",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.1.2",
     "tags": [
-      "licensing"
+      "faa",
+      "commencement"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s01-002",
     "part": 1,
     "syllabusItemId": "s01",
     "topicGroup": "rules",
-    "stem": "Before an individual may begin providing financial advisory services as a representative, they must:",
+    "stem": "Under Section 2(1) of the FAA, the word 'person' in the definition of 'financial adviser' refers to:",
     "options": {
-      "A": "Pass any one exam and start immediately",
-      "B": "Be fit and proper and be registered with MAS (RNF) under a licensed/exempt FA",
-      "C": "Open a CPF account",
-      "D": "Obtain a personal FA licence"
+      "A": "An individual representative",
+      "B": "A natural person of at least 21 years of age",
+      "C": "A corporation, and not an individual",
+      "D": "Either a corporation or an individual"
+    },
+    "answer": "C",
+    "explanation": "教材 4.6 指出该定义中的'person'指公司(corporation)而非个人;个人是公司的代表(representative)。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.4.5–4.6",
+    "tags": [
+      "definition",
+      "financial-adviser"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-003",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Which of the following is NOT one of the four principles underpinning the FAA and FAR?",
+    "options": {
+      "A": "Customers' interest",
+      "B": "Consistency",
+      "C": "Profitability",
+      "D": "Accountability"
+    },
+    "answer": "C",
+    "explanation": "教材第 3 节列出的四项原则为客户利益、一致性、问责与独立性。'Profitability'(盈利能力)并非其中之一。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.3",
+    "tags": [
+      "principles"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-004",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Which product is EXCLUDED from the definition of an 'investment product' under the FAA?",
+    "options": {
+      "A": "A life policy",
+      "B": "A unit in a collective investment scheme",
+      "C": "A structured deposit",
+      "D": "A general insurance policy"
+    },
+    "answer": "D",
+    "explanation": "教材 4.12–4.13 将一般保险保单(消费性)、吸收存款产品、贷款与按揭排除在投资产品之外。人寿保单、CIS 单位均受规管;结构性存款自 2005-12-02 起属投资产品。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.4.10–4.13",
+    "tags": [
+      "products",
+      "excluded"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-005",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Under Section 20(1) of the FAA, which of the following is an exempt financial adviser that need not hold a financial adviser's licence?",
+    "options": {
+      "A": "An individual appointed representative",
+      "B": "A newspaper proprietor giving incidental advice",
+      "C": "An advocate and solicitor whose advice is solely incidental",
+      "D": "A bank licensed under the Banking Act 1970"
+    },
+    "answer": "D",
+    "explanation": "教材 4.7 列举的第 20(1) 豁免人士包括持牌银行。报纸经营者与律师属第一附表'排除财务顾问'(根本不属 FA 定义),不属第 20(1) 豁免;个人代表不持牌而是经登记。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.4.7 / s.20(1)",
+    "tags": [
+      "exempt",
+      "licensing"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-006",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "An exempt fund manager who is also an exempt financial adviser may serve a maximum total of how many qualified and accredited investors?",
+    "options": {
+      "A": "12",
+      "B": "30",
+      "C": "21",
+      "D": "50"
     },
     "answer": "B",
-    "explanation": "代表须 fit & proper 并经 RNF 登记后方可展业。",
+    "explanation": "教材 6.2 与 9.6 指出该豁免实体服务的合格投资者与认可投资者总数不得超过 30 名。",
     "difficulty": "medium",
-    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
-    "status": "draft",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.6.2, s.9.6",
     "tags": [
-      "representative",
+      "exempt",
+      "threshold"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-007",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "On what date did the MAS launch the Representative Notification Framework (RNF)?",
+    "options": {
+      "A": "1 October 2002",
+      "B": "26 November 2010",
+      "C": "2 December 2005",
+      "D": "1 January 2021"
+    },
+    "answer": "B",
+    "explanation": "教材 9.1 指出 RNF 于 2010 年 11 月 26 日推出;自该日起代表无须再单独持牌。A 是 FAA 生效日。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.9.1–9.2",
+    "tags": [
       "rnf"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-008",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Under Section 27(1) of the FAA, an appointed or provisional representative may represent more than one principal only if:",
+    "options": {
+      "A": "The representative has more than five years' experience",
+      "B": "The representative passes an additional examination",
+      "C": "It is approved by the MAS in writing, or the principals are related corporations",
+      "D": "The two principals are in different industries"
+    },
+    "answer": "C",
+    "explanation": "教材 10.3–10.4 指出,除非 MAS 书面批准,代表不得同时代理多于一个主事人;但当各主事人为相关法团时,委任代表可代理多于一个主事人。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.27(1), s.10.3–10.4",
+    "tags": [
+      "one-principal",
+      "accountability"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-009",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "What is the key distinction between a provisional representative and an appointed representative?",
+    "options": {
+      "A": "A provisional representative meets entry requirements but has not yet passed the required examinations, with a grace period of up to three months",
+      "B": "A provisional representative cannot provide any financial advisory service",
+      "C": "A provisional representative must be at least 30 years old",
+      "D": "A provisional representative holds his own financial adviser's licence"
+    },
+    "answer": "A",
+    "explanation": "教材 10.9–10.10 与 13.2 指出,委任代表已满足入门+考试要求;临时代表满足入门但未通过考试,获三个月宽限期且期间可展业。临时代表也无须持牌(经登记)。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.10.9–10.10, s.13.2",
+    "tags": [
+      "provisional",
+      "appointed"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-010",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Under Section 24(2) of the FAA read with Regulation 4B(1) of the FAR, an individual may be a provisional representative for a period not exceeding:",
+    "options": {
+      "A": "One month",
+      "B": "Three months",
+      "C": "Six months",
+      "D": "Twelve months"
+    },
+    "answer": "B",
+    "explanation": "教材 12.2 与 13.3 指出临时代表自登记之日起最长三个月。注意:六个月是委任代表未展业即自动停止状态的期限(Reg 8A),勿混淆。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.24(2), FAR Reg 4B(1)",
+    "tags": [
+      "provisional",
+      "grace-period"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-011",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "A licensed financial adviser may use the word 'independent' in describing its business only if it satisfies all the conditions in Regulation 21 of the FAR. Which is one of those conditions?",
+    "options": {
+      "A": "It receives no commission or benefit from a product provider that may create product bias",
+      "B": "It serves no more than 30 accredited investors",
+      "C": "It maintains net assets exceeding S$10 million",
+      "D": "It is a related corporation of a bank"
+    },
+    "answer": "A",
+    "explanation": "教材第 8 节(FAR Reg 21)规定 FA 须不收/不付可能造成产品偏向的佣金或利益、不受相关产品限制、无利益冲突,方可使用'independent'。其余选项与'独立'条件无关。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAR Reg 21, FAA-G05",
+    "tags": [
+      "independent",
+      "reg21"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-012",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "Under Regulation 4A(3) of the FAR, for how long must a principal keep copies of the information and documents it relied on when certifying a representative as fit and proper?",
+    "options": {
+      "A": "One year from the date of lodgment",
+      "B": "Three years from the date of lodgment",
+      "C": "Five years from the date of lodgment",
+      "D": "Indefinitely"
+    },
+    "answer": "C",
+    "explanation": "教材 14.6 指出主事人须将所依据的资料自存档之日起保存五年。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAR Reg 4A(3), s.14.6",
+    "tags": [
+      "notification",
+      "retention"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s01-013",
+    "part": 1,
+    "syllabusItemId": "s01",
+    "topicGroup": "rules",
+    "stem": "A person aggrieved by the MAS's refusal under Section 30(1) to enter his particulars in the public register, or by the revocation/suspension of his representative status, may appeal to whom, and within what period?",
+    "options": {
+      "A": "To the MAS, within 14 days",
+      "B": "To the High Court, within 21 days",
+      "C": "To the Minister, within 90 days, with a further right of appeal",
+      "D": "To the Minister, within 30 days, whose decision is final"
+    },
+    "answer": "D",
+    "explanation": "教材第 18 节(FAA 第 33 条)规定,受影响者可在收到 MAS 决定后 30 日内向部长上诉,部长的决定为最终。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — FAA s.33",
+    "tags": [
+      "appeals"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

@@ -4,27 +4,202 @@
     "part": 1,
     "syllabusItemId": "s11",
     "topicGroup": "products",
-    "title": "CIS 本质 / What is a CIS",
-    "point": "汇集众多投资者资金,由管理人按目标统一投资。 / Pools investors’ money managed collectively toward an objective.",
+    "title": "守则的法律性质 / Legal nature of the Code",
+    "point": "守则依 SFA 第 321 条发出,属非法定;违反本身不致刑责,但可在民事/刑事诉讼中被援引。 / Issued under SFA s321, the Code is non-statutory; a breach is not itself criminal but may be relied upon in civil or criminal proceedings.",
     "keyfacts": [
-      "如单位信托/基金 / e.g. unit trusts/funds"
+      "首发 2002-05-23,最近修订 2023-05-23 / First issued 23 May 2002, last revised 23 May 2023"
     ],
-    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s1 Introduction (SFA s321)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s11-002",
     "part": 1,
     "syllabusItemId": "s11",
     "topicGroup": "products",
-    "title": "CIS 授权 / CIS authorisation",
-    "point": "零售须授权 + 招股书;但 MAS 授权≠回报保证。 / Retail needs authorisation + prospectus; MAS authorisation ≠ guaranteed returns.",
+    "title": "修订版生效日 / Revised Code commencement",
+    "point": "修订版守则自 2011-10-01 生效,提高清晰度、增加管理灵活性、加强零售投资者保护。 / The revised Code took effect on 1 Oct 2011 to add clarity, flexibility and retail-investor protection.",
     "keyfacts": [
-      "非\"稳赚不赔\" / Not risk-free"
+      "外国计划须\"实质相似\"才获 MAS 认可 / Foreign schemes recognised only if substantially similar"
     ],
-    "sourceRef": "SFA CIS offer regime + MAS Code on Collective Investment Schemes / OPERA prospectus registration",
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s2 Key Changes Introduced",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-003",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "受托人独立性 20% 测试 / Trustee 20% independence test",
+    "point": "若任何人同时持有受托人与管理人(或其相关法团)各 20% 或以上股份,受托人不视为独立于管理人。 / The trustee is not independent if any person holds 20% or more of both the trustee and the manager (or its related corporations).",
+    "keyfacts": [
+      "受托人须以公平交易方式进行交易 / Trustee must transact at arm's length",
+      "同一 20% 测试适用于 VCC 托管人 / Same 20% test applies to the VCC Custodian"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s3 The Trustee / s3A VCC",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-004",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "管理人禁止的关联交易 / Manager's prohibited related-party dealings",
+    "point": "管理人不得将计划资金投资于自身/相关法团证券(基准成分例外)、不得借资金给相关法团、不得作为计划所投 OTC 衍生品对手。 / The manager must not invest scheme monies in its own/related securities (benchmark exception), lend monies to related corporations, or be the counterparty of an OTC derivative the scheme invests in.",
+    "keyfacts": [
+      "评级有差异时采用最低评级 / Use the lowest rating where ratings differ"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s4 The Manager (ch.3.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-005",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "业绩费计算方法 / Performance-fee methods",
+    "point": "业绩费须按支点费或高水位线计算,结晶不超过每年一次;支点费对称浮动且限于基础费的 0~200%。 / Performance fees use a fulcrum fee or high water mark, crystallising no more than once a year; the fulcrum fee moves symmetrically and is limited to 0-200% of the base fee.",
+    "keyfacts": [
+      "高水位线仅在期末 NAV 创新高时重置 / High water mark resets only at a new NAV high",
+      "其他方法须咨询 MAS / Other methods require consulting MAS"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s4F Performance Fees (ch.3.6)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-006",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "禁用的命名词 / Prohibited naming terms",
+    "point": "计划名称及描述中禁止使用\"capital protected\"与\"principal protected\";名称须恰当、不可不当或误导。 / The terms \"capital protected\" and \"principal protected\" are prohibited in a scheme's name and description; the name must be appropriate, not undesirable and not misleading.",
+    "keyfacts": [
+      "不得暗示其非 CIS(如 plan/account)/ Must not imply it is not a CIS (e.g. plan/account)"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s5A Name of Scheme",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-007",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "计划禁止活动 / Scheme prohibited activities",
+    "point": "计划不得直接放贷、提供担保、承销,或卖空(除非源自依附录 1 第 4、5 节投资的金融衍生品)。 / A scheme must not engage in direct lending, granting guarantees, underwriting, or short selling (except arising from derivatives invested per Appendix 1 sections 4 and 5).",
+    "keyfacts": [
+      "参与者责任限于其投资 / Participants' liability limited to their investment"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s5B Prohibited Activities",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-008",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "暂停交易 / Suspension of dealings",
+    "point": "管理人仅可在例外情形且符合参与者最佳利益时暂停交易,须立即通知参与者与 MAS,暂停一般应在 21 天内结束。 / The manager may suspend dealing only in exceptional circumstances in participants' best interest, must immediately notify participants and MAS, and suspension should generally end within 21 days.",
+    "keyfacts": [
+      "延长须经受托人每周复核 / Extension subject to weekly trustee review",
+      "流动性暂时短缺本身不足以构成理由 / A temporary liquidity shortfall alone is not sufficient"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s7B Suspension of Dealings",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-009",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "估值错误补偿门槛 / Valuation-error compensation threshold",
+    "point": "估值错误达 NAV 每单位 0.5% 或以上时,管理人须补偿受影响参与者及计划;单一参与者补偿额不超过 $20 者可免补偿该参与者。 / Where a valuation error is 0.5% or more of NAV per unit, the manager must compensate affected participants and the scheme; the participant requirement does not apply if compensation to any single participant is $20 or less.",
+    "keyfacts": [
+      "须用 Illustration 4 模板报告 MAS 与受托人 / Report to MAS and trustee using the Illustration 4 template",
+      "对计划的补偿在所有情况下均适用 / Compensation to the scheme applies in all cases"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s7E Valuation Errors and Compensation",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-010",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "违规通知时限 / Breach notification timeline",
+    "point": "管理人应在察觉违反 Part I/II 指引或限额后三个营业日内通知 MAS,并尽快纠正且不扩大违规。 / The manager must inform MAS within three business days of becoming aware of a breach of Part I/II guidelines/limits, and rectify it as soon as practicable without increasing the breach.",
+    "keyfacts": [
+      "被动市场性违规可在 3 个月内纠正而免报 / Passive market-driven breaches may be rectified within 3 months without reporting"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — s8 Breaches (ch.7)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-011",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "单一实体与集团限额 / Single-entity and group limits",
+    "point": "对单一实体的可转让证券/货币市场工具不超过 NAV 的 10%;对一组实体的合计敞口(含 OTC 对手风险)不超过 20%。 / Investments in a single entity's transferable securities/money market instruments must not exceed 10% of NAV; aggregate exposure to a group (incl. OTC counterparty risk) must not exceed 20%.",
+    "keyfacts": [
+      "政府债评级达 AA/Aa 时 10% 单一限额不适用 / The 10% single-entity limit does not apply to government debt rated AA/Aa",
+      "未评级/非投资级公司债限额降至 5% / Unrated/non-investment-grade corporate debt capped at 5%"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 1 s2 Spread of Investments",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-012",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "全球敞口与借款 / Global exposure and borrowing",
+    "point": "衍生品全球敞口任何时候≤NAV 100%(承诺法或 VaR 法);临时借款仅用于赎回/过桥,期限≤1 个月、合计≤NAV 10%。 / Global derivative exposure must be ≤100% of NAV at all times (Commitment or VaR Approach); temporary borrowing is for redemptions/bridging only, ≤1 month and ≤10% of NAV.",
+    "keyfacts": [
+      "VaR 法须先咨询 MAS / The VaR Approach requires prior consultation with MAS"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 1 s3 Global Exposure / s7 Borrowings",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-013",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "对冲基金最低认购与多元化 / Hedge-fund minimums and diversification",
+    "point": "单一对冲基金最低初始认购 $100,000、FOHF $20,000;FOHF 须投资至少 15 只对冲基金且单只不超过 8%。 / Minimum initial subscription is S$100,000 for a single hedge fund and S$20,000 for a FOHF; a FOHF must invest in at least 15 hedge funds with no more than 8% to a single fund.",
+    "keyfacts": [
+      "赎回款在交易日起 90 天内支付 / Redemption proceeds within 90 days of the dealing day",
+      "FOHF 借款≤NAV 25%、期限≤3 个月 / FOHF borrowing ≤25% of NAV, ≤3 months"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 3 Hedge Funds (s4, s5)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s11-014",
+    "part": 1,
+    "syllabusItemId": "s11",
+    "topicGroup": "products",
+    "title": "资本保证基金的担保 / Capital-guaranteed-fund guarantee",
+    "point": "担保须由担保人与受托人书面订立、无条件、见索即付、在新加坡可强制执行,覆盖不少于所投资本 100%。 / The guarantee must be a written guarantor-trustee agreement, unconditional, first-demand, enforceable in Singapore, covering not less than 100% of capital invested.",
+    "keyfacts": [
+      "金融机构担保人须 AA/Aa,其他须 AAA/Aaa / FI guarantor must be AA/Aa, others AAA/Aaa",
+      "评级跌破最低标准须在 6 个月内换担保人 / Replace guarantor within 6 months if rating falls below minimum"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.11 — Appendix 4 Capital Guaranteed Funds (s3, s4)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

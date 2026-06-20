@@ -1,0 +1,94 @@
+[
+  {
+    "id": "note-s08-overview",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "title": "MAS 指引（第一部分）综述 / MAS Guidelines — Part I Overview",
+    "summary": "本章涵盖五份 MAS 文件：FA 牌照发放标准 FAA-G01、fit & proper 标准 FSG-G01、代表委任尽职调查通函 CMI 01/2011、FA 与代表行为操守标准 FAA-G04、以及\"independent\"用语指引 FAA-G05。 / This chapter covers five MAS instruments: licensing criteria FAA-G01, fit and proper criteria FSG-G01, due-diligence circular CMI 01/2011 for appointing representatives, standards of conduct FAA-G04, and use of the term \"independent\" FAA-G05.",
+    "sections": [
+      {
+        "heading": "FAA-G01 — FA 牌照发放标准",
+        "body": "依《财务顾问法》(FAA 2001) 第 64 条发出。牌照只发给公司,且须在新加坡设立实体存在。MAS 评估时要求:至少聘用 2 名全职委任代表;CEO 与各执行董事至少 5 年相关经验(其中至少 3 年管理职)并具备认可学历/专业资格;董事会至少 2 名成员,其中至少 1 名常驻新加坡;CEO 常驻新加坡;CEO/ED 无利益冲突。"
+      },
+      {
+        "heading": "FAA-G01 — Licensing criteria",
+        "body": "Issued under s.64 of the FAA (2001). A licence is granted only to a corporation, which must establish a physical presence in Singapore. MAS requires at least 2 full-time appointed representatives; the CEO and Executive Directors to have a minimum of 5 years' relevant experience (at least 3 in a managerial capacity) plus acceptable academic/professional qualifications; a board of at least 2 members with at least one resident in Singapore; the CEO resident in Singapore; and no conflict of interest for the CEO/EDs."
+      },
+      {
+        "heading": "FAA-G01 — 财务、PII 与其他门槛",
+        "body": "实缴资本:一般 FA 服务 $150,000;涉及期货、即期外汇或货币 OTC 衍生品则 $300,000;两者组合 $300,000(FAR 第 15 条)。须持独立非混合专业责任险(PII)保额不低于 $500,000,免赔额不超过上一财年净资产值的 20%(FAR 第 17 条)。须有 3 年财务顾问业务的良好往绩;若不满足往绩要求,CEO 须持股不少于 20%,CEO 与 ED 合计不少于 50%。另含系统与流程、fit & proper、责任函(Letter of Responsibility)与科技风险管理等要求。"
+      },
+      {
+        "heading": "FAA-G01 — Financial, PII and other thresholds",
+        "body": "Paid-up capital: $150,000 for general FA services; $300,000 where futures, spot FX or currency OTC derivatives are advised on; $300,000 for a combination (FAR reg.15). A standalone non-hybrid PII with indemnity of not less than $500,000 is required, with a deductible no more than 20% of net asset value at the end of the immediately preceding financial year (FAR reg.17). A 3-year proven track record is expected; if not met, the CEO should own at least 20% and the CEO and EDs together at least 50% shareholding. Other requirements cover systems and processes, fit and proper, a Letter of Responsibility, and technology risk management."
+      },
+      {
+        "heading": "FSG-G01 — Fit & Proper 标准",
+        "body": "适用于 MAS 监管下从事受规管活动的所有相关人士。三大准则:(a) 诚实、正直与声誉;(b) 能力与胜任;(c) 财务稳健。举证责任在相关人士本身,须自证 fit & proper,而非由 MAS 反证;若某人有责任确保他人 fit & proper,则由前者向 MAS 证明后者合格。未满足任一准则不必然导致自动拒绝,MAS 会按严重性、与职责的相关性及时间久远程度综合判断。"
+      },
+      {
+        "heading": "FSG-G01 — Fit and proper criteria",
+        "body": "Applies to all relevant persons carrying out MAS-regulated activity. Three criteria: (a) honesty, integrity and reputation; (b) competence and capability; and (c) financial soundness. The onus is on each relevant person to establish that it/he is fit and proper, not for MAS to show otherwise; where one person must ensure another is fit and proper, the former must satisfy MAS of the latter. Failure to meet any one criterion does not lead to automatic refusal — MAS weighs the seriousness, relevance to duties, and passage of time."
+      },
+      {
+        "heading": "CMI 01/2011 — 代表委任的尽职调查通函",
+        "body": "FI 的董事会与高管须制定清晰书面政策,确保只招募/留用 fit & proper 的委任、临时(provisional)或暂时(temporary)代表。须取得书面自我声明(自证已阅读并满足指引各准则),并进行独立尽职调查:核验身份证件(NRIC/FIN/护照)、向前雇主做背景查询、查 MAS 公开代表登记册及禁止令(PO)。依 SFA 第 101B 条与 FAA 第 60 条,在 PO 有效期内雇用被发 PO 者属违法。须核查破产/财务状况(IPTO 在线门户、CPF、信用机构)。自我声明是必要但不充分的措施。FI 应定期(如每年)重做自我声明与尽职调查。"
+      },
+      {
+        "heading": "CMI 01/2011 — Due-diligence circular",
+        "body": "An FI's Board and Senior Management must put in place documented policies to recruit and retain only fit and proper appointed, provisional or temporary representatives. The FI obtains written self-declarations (that the person has read and satisfies the Guidelines) and conducts independent checks: verifying identity (NRIC/FIN/passport), reference checks with previous employers, and searching MAS' Public Register of Representatives and prohibition orders (POs). Under s.101B SFA and s.60 FAA it is an offence to employ a person while a PO against him is in effect. Financial-status checks use the IPTO Online portal, CPF and credit agencies. Self-declaration is necessary but insufficient; periodic (e.g. annual) re-declaration and checks are expected."
+      },
+      {
+        "heading": "CMI 01/2011 — 虚假陈述罚则与冲突评估",
+        "body": "依 SFA 第 99O 条与 FAA 第 23L 条,个人向 principal 提供虚假或误导性重大陈述(随后呈交 MAS)即属犯罪,一经定罪罚款不超过 $50,000。依 SFA 第 99M(1)(n) 与 FAA 第 23J(1)(n),MAS 若认为所交资料虚假/误导,可拒绝登记、拒绝增加受规管活动/FA 服务类别,或撤销代表身份。FI 还须评估代表的利益冲突(持股、其他业务、关联人士职业等),若无法缓释则不应委任。"
+      },
+      {
+        "heading": "CMI 01/2011 — False statements and conflicts",
+        "body": "Under s.99O SFA and s.23L FAA, an individual who gives a false or misleading statement in a material particular to his principal (subsequently lodged with MAS) commits an offence, liable on conviction to a fine not exceeding $50,000. Under s.99M(1)(n) SFA and s.23J(1)(n) FAA, where MAS believes information furnished is false/misleading it may refuse register entry, refuse an additional regulated-activity/FA-service type, or revoke representative status. The FI must also assess conflicts of interest (shareholdings, other business interests, connected persons' occupations) and should not appoint where these cannot be mitigated."
+      },
+      {
+        "heading": "FAA-G04 — 行为操守标准",
+        "body": "列明 FA 与代表应遵守的操守:正直(诚实、公平、专业,不涉欺诈)、客观、保密(除依法交 MAS/政府机构或客户同意外不得披露)、能力(只在胜任领域提供建议、持续教育)、应有谨慎与勤勉(及时最佳执行、监督代表、停业安排)。披露义务涵盖 FA 一般资料、产品关键特征、警示与免责声明、清晰且不误导、区分事实与意见、以及报酬披露(佣金、费用、trailer/soft commission;寿险产品披露 Benefit Illustration 中的\"distribution cost\"即可)。"
+      },
+      {
+        "heading": "FAA-G04 — Standards of conduct",
+        "body": "Sets out conduct for FAs and representatives: integrity (honest, fair, professional, no fraud); objectivity; confidentiality (no disclosure except to MAS/government under law or with client consent); competence (advise only where competent; continuing education); and due care and diligence (prompt and best execution, supervision of representatives, orderly cessation of business). Disclosure duties cover general information about the FA, key product features, warnings/exclusions/disclaimers, clear-and-not-misleading communications, separating fact from opinion, and remuneration (commission, fees, trailer/soft commission; for a life policy, disclosing the \"distribution cost\" in the Benefit Illustration suffices)."
+      },
+      {
+        "heading": "FAA-G04 — KYC、冲突、投诉与守法",
+        "body": "Know Your Client:推荐前须查明客户财务目标、风险承受度、财务状况、投资经验与特定需要;建议须有合理依据并适合客户,不得以佣金回扣作推荐依据;须保存记录并由管理层定期复核;并遵守反洗钱通知 FAA-N06。利益冲突须书面披露并妥善分隔职责。须有公平、及时、适当的投诉处理程序,指定专人处理并设投诉登记册。须知悉并遵守所有适用法律法规。"
+      },
+      {
+        "heading": "FAA-G04 — KYC, conflicts, complaints and compliance",
+        "body": "Know Your Client: before recommending, determine the client's financial objectives, risk tolerance, financial situation, investment experience and particular needs; recommendations must have a reasonable basis and be suitable, and must not be based on any rebate of commissions; records must be kept and reviewed by management; comply with the AML notice FAA-N06. Conflicts of interest must be disclosed in writing with proper segregation of duties. Adequate, fair, timely complaints-handling procedures with a designated officer and a complaints register are required, alongside compliance with all applicable laws."
+      },
+      {
+        "heading": "FAA-G05 — \"Independent\" 用语指引",
+        "body": "依 FAA 第 64 条发出,规范 FA 何时可使用\"independent\"。核心是 FAR 第 21 条:除非 (i) 不收取/不支付会造成产品偏向的佣金或利益;(ii) 不受任何直接/间接产品限制;(iii) 无因与产品供应商关联产生的利益冲突,否则不得使用该词。基本测试:理性投资者在知悉全部事实后是否会认为顾问存在利益冲突、建议不客观公正。MAS 预期只有少数 FA 能使用该词。"
+      },
+      {
+        "heading": "FAA-G05 — Use of the term \"independent\"",
+        "body": "Issued under s.64 FAA, governing when an FA may use \"independent\". The core rule is FAR reg.21: the term may not be used unless (i) the FA receives/pays no commission or benefit that may create product bias; (ii) it operates free of any direct or indirect product restriction; and (iii) it operates without conflict of interest from any link to a product provider. The basic test is whether a reasonable investor, knowing all the facts, would perceive a conflict making the advice not objective and impartial. MAS expects only a small number of FAs to qualify."
+      },
+      {
+        "heading": "FAA-G05 — 显著性、产品限制与罚则",
+        "body": "佣金/利益若超过 FA 总收入的 20% 一般视为\"显著\";不同类别产品佣金率差异超过 20% 一般亦视为显著。产品限制:与某供应商签约只售其产品、或须达成销售目标,均属直接/间接限制;即使无合约,若每类投资产品代表少于 4 家供应商,一般不视为独立。FA 本身为产品供应商(如银行、基金公司、寿险公司)或受供应商重大影响时,不应自称独立。违反 FAR 第 21(1)/(2) 的 FA 及违反 21(3) 的代表均属犯罪。"
+      },
+      {
+        "heading": "FAA-G05 — Significance, product restriction and penalty",
+        "body": "Commissions/benefits exceeding 20% of total revenue are generally significant, as are differences in commission rates exceeding 20%. Product restriction: a contract to sell only one provider's products, or to meet sales targets, is a direct/indirect restriction; even absent a contract, representing fewer than four product providers for each class of investment product is normally not independent. An FA that is itself a product provider (bank, fund manager, life insurer) or under a provider's significant influence should not claim to be independent. An FA contravening FAR reg.21(1)/(2), and a representative contravening reg.21(3), is guilty of an offence."
+      }
+    ],
+    "keyPoints": [
+      "FA 牌照只发给公司,实缴资本 $150k/$300k,PII≥$500k、免赔额≤净资产20% / FA licence only to a corporation; paid-up capital $150k/$300k; PII ≥ $500k, deductible ≤ 20% of NAV",
+      "至少 2 名全职委任代表;CEO/ED 至少 5 年经验(含 3 年管理) / At least 2 full-time appointed reps; CEO/EDs ≥ 5 years' experience (3 managerial)",
+      "Fit & proper 三准则:诚信、能力、财务稳健;举证责任在相关人士 / Three fit-and-proper criteria; onus on the relevant person",
+      "CMI 01/2011:自我声明+独立尽调;PO 期间雇用违法;虚假陈述罚款≤$50,000 / Self-declaration + independent checks; employing a PO holder is an offence; false statement fine ≤ $50,000",
+      "FAA-G04:正直/客观/保密/能力/谨慎、披露、KYC、合理依据、投诉处理 / FAA-G04 conduct, disclosure, KYC, reasonable basis, complaints",
+      "\"Independent\":FAR 第21条+20%显著性阈值+每类至少4家供应商 / \"Independent\": FAR reg.21, 20% significance threshold, ≥ 4 providers per class"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.8 — MAS Guidelines FAA-G01, FSG-G01, FAA-G04, FAA-G05 & Circular CMI 01/2011",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

@@ -4,32 +4,65 @@
     "part": 2,
     "syllabusItemId": "s17",
     "title": "不道德行为 / Unethical Behavior",
-    "summary": "典型:虚假陈述、churning(刷佣频繁交易)、twisting(损客户换单)、隐瞒、不适合推荐、挪用资金;后果含处分与失信。 / Typical examples: misrepresentation, churning (excessive trading for commission), twisting (detrimental policy replacement), concealment, unsuitable recommendations and misuse of funds; consequences include sanctions and lost trust.",
+    "summary": "金融机构过度强调销售目标与利润、加上佣金导向的薪酬结构,会诱使财务顾问代表给出不当建议或销售不适合的产品。本章列举行业中已见诸报道的不道德行为类型,并指出阻碍道德决策的四个障碍。 / Excessive focus on sales targets and profit, combined with commission-based pay, pushes adviser representatives toward unsuitable advice and products. This chapter sets out the typical types of unethical behavior reported in the industry and the four obstacles to ethical decision making.",
     "sections": [
       {
-        "heading": "典型表现",
-        "body": "churning=为赚佣金诱导频繁交易;twisting=诱导退保换新单而损客户利益;误导/隐瞒风险费用/推荐不适合产品。"
+        "heading": "不道德行为的根源",
+        "body": "当金融机构过度聚焦于销售目标与利润时,财务顾问代表为保住工作而诉诸不道德手段。佣金导向的薪酬与奖励结构会不可避免地造成偏向:给出不当建议或为达标、增收而向客户销售不适合的产品。"
       },
       {
-        "heading": "Typical forms",
-        "body": "Churning = excessive trading for commission; twisting = inducing a detrimental policy replacement; misleading/concealing risks or fees/unsuitable recommendations."
+        "heading": "Root cause of unethical behavior",
+        "body": "When financial institutions place excessive focus on sales targets and profit, adviser representatives resort to unethical practices to stay employed. Commission-based compensation and reward structures inevitably create bias toward inappropriate advice or selling unsuitable products to meet targets and generate income."
       },
       {
-        "heading": "更严重情形与后果",
-        "body": "挪用客户资金、伪造文件属严重违规甚至犯罪;后果含罚款/禁业/撤牌乃至刑责。"
+        "heading": "高佣金产品与不当推荐",
+        "body": "例如代理寿险公司的代表可能只推高佣金的寿险产品。明明定期寿险(term)更合适或更便宜,他却向客户推荐终身寿险(whole life)保单。这是典型的为佣金而非客户利益服务。"
       },
       {
-        "heading": "Severe forms & consequences",
-        "body": "Misappropriating funds or forging documents is serious misconduct or crime; consequences include fines/prohibition/revocation and criminal liability."
+        "heading": "High-commission products and unsuitable recommendations",
+        "body": "For example, a representative acting for a life insurer may push high-commission life products. He may recommend a whole life policy where a term life policy would be more suitable or cheaper — serving commission, not the client's interest."
+      },
+      {
+        "heading": "洗单(Churning)与不必要的转保",
+        "body": "Churning(洗单)指寿险代理人说服客户在持有保单短时间后即终止现有保单,转购对客户无实质益处的相似产品。若公司只盯销售与利润,高层可能对洗单或不必要的转保视而不见、纵容、默许甚至鼓励,使其成为常态;此类做法迟早会曝光并被媒体报道,给公司与相关代表带来不利后果。"
+      },
+      {
+        "heading": "Churning and unnecessary switching",
+        "body": "Churning is a sales method where life agents persuade clients to terminate existing policies after a short period and switch to similar products with no real benefit to the clients. If a company focuses only on sales and profit, senior management may turn a blind eye, tolerate, condone or even encourage churning as a norm — and such practices eventually come to light in the media, with adverse consequences."
+      },
+      {
+        "heading": "案例:错配的保险保单(Mismatched Insurance Policy)",
+        "body": "据 2015 年 10 月 5 日《海峡时报》报道,一名离婚客户被销售一份年保费 40,000 新元的保险保单,高于其年收入。客户离婚后存入约 350,000 新元储蓄,但她从未表示要定期供款储蓄计划,只想要更好的储蓄利率(因可能需用这笔钱购房)。她在第二年退保时发现退保价值极低,才知道自己买的其实是与其流动性需求不匹配的保险保单。"
+      },
+      {
+        "heading": "Case: Mismatched Insurance Policy",
+        "body": "On 5 Oct 2015, the Straits Times reported that a divorcee client was sold a policy of S$40K annual premium, higher than her annual income. She had deposited about S$350K from her divorce settlement but only wanted a better savings rate (she might need the money to buy a home) — she never asked for a regular-premium savings plan. On surrendering in the second year there was very little surrender value, revealing a mismatch with her liquidity needs."
+      },
+      {
+        "heading": "不道德行为的类型",
+        "body": "教材从已报道案例归纳出典型类型,例如:操纵与定价合谋(rigging and price fixing);产品保费/费率定价缺陷;投资产品的洗单与转保;营销/广告/销售中对产品或服务的虚假或误导性陈述;未能识别或满足客户需求、未推荐适合产品;以行话/术语困惑客户;缺乏胜任能力或隐瞒能力局限;个人利益与职责冲突;贬损竞争对手;未充分披露后果即修改/替换合同;回扣部分佣金作诱因;由非持牌/未注册人士营销销售;拒赔有效索赔、拖延理赔、处理客户投诉不当;以及滥用客户个人资料等。"
+      },
+      {
+        "heading": "Types of unethical behavior",
+        "body": "Reported cases yield typical types: rigging and price fixing; flaws in premium/fee pricing; churning and switching of investment products; false or misleading representations in marketing/advertising/sales; failure to identify client needs or recommend suitable products; confusing clients with jargon; lack of competence or concealing one's limitations; conflict of personal gain with duty; disparaging competitors; replacing contracts without full disclosure; rebating commission as an incentive; selling by non-licensed/non-registered persons; denying valid claims, delaying payouts, mishandling complaints; and misuse of client personal data."
+      },
+      {
+        "heading": "道德决策与四个障碍",
+        "body": "道德决策是依据道德原则在各方案中评估并作出选择的过程,需要察觉并剔除不道德选项、选出最佳道德方案。不同人带着不同的世界观进入决策,导致对同一情境有不同的看法与解读。障碍是指妨碍、拖慢或阻止在特定情境中作出最佳道德选择的因素。教材列出四个障碍:(a) 品格败坏(corrupted character)、(b) 缺乏道德感知(lack of moral perception)、(c) 屈服于诱惑(giving in to temptation)、(d) 合理化(rationalization)。"
+      },
+      {
+        "heading": "Ethical decision making and its four obstacles",
+        "body": "Ethical decision making is evaluating and choosing among alternatives consistent with ethical principles — perceiving and eliminating unethical options and selecting the best ethical alternative. Different worldviews cause people to interpret the same situation differently. An obstacle is something that slows or stops the best ethical choice. The four obstacles are: (a) a corrupted character, (b) lack of moral perception, (c) giving in to temptation, and (d) rationalization."
       }
     ],
     "keyPoints": [
-      "churning=刷佣频繁交易 / Churning = excessive trading for commission",
-      "twisting=损客户换单 / Twisting = detrimental replacement",
-      "挪用资金属严重违规 / Misappropriation is serious misconduct"
+      "根源:过度强调销售目标/利润 + 佣金导向薪酬造成偏向 / Root cause: excessive sales/profit focus + commission-based pay create bias",
+      "Churning(洗单)=短期内终止旧保单转购无实质益处的相似产品 / Churning = terminating policies early to switch to similar no-benefit products",
+      "案例:2015-10-05《海峡时报》年保费 S$40K 错配保单 / Case: 2015-10-05 Straits Times, S$40K-premium mismatched policy",
+      "四个道德决策障碍:品格败坏、缺乏道德感知、屈服诱惑、合理化 / Four obstacles: corrupted character, lack of moral perception, giving in to temptation, rationalization"
     ],
-    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

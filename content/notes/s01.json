@@ -4,32 +4,115 @@
     "part": 1,
     "syllabusItemId": "s01",
     "title": "FAA & FAR — 财务顾问与代表 / Financial Advisers & Representatives",
-    "summary": "FAA 规定谁可提供财务咨询、须持牌或获豁免;个人以委任代表身份执业,须 fit & proper 并经 RNF 登记。 / The FAA governs who may provide financial advisory services (licensed or exempt); individuals act as appointed representatives, must be fit and proper, and are registered via RNF.",
+    "summary": "FAA 2001 于 2002 年 10 月 1 日生效,统一规管投资产品(资本市场产品、人寿保单、集体投资计划)的财务咨询活动;实体须持 FA 牌照或获豁免,个人则以委任/临时代表身份经 RNF 登记并须 fit & proper。 / The FAA 2001 (in force 1 Oct 2002) consolidates the regulation of financial advisory services on investment products; entities hold an FA licence or are exempt, while individuals act as appointed/provisional representatives registered via the RNF and must be fit and proper.",
     "sections": [
       {
-        "heading": "谁须持牌",
-        "body": "提供受规管财务咨询服务的实体须持 FA 牌照,或属法定豁免(如银行、持牌保险公司)。"
+        "heading": "FAA 与 FAR 的关系",
+        "body": "FAA 2001 于 2002 年 10 月 1 日生效,将原《证券业法》《期货交易法》《保险中介法》三套规管证券、期货与人寿保单的制度合并为单一立法,为同类活动提供一致的规则与标准。FAR 同日作为附属立法生效,由 MAS 颁布以落实 FAA,规定牌照豁免、条款适用以及条件/限制的撤销或更改等事项;两者均有频繁修订,以官网最新版本为准。"
       },
       {
-        "heading": "Who is licensed",
-        "body": "The entity providing regulated financial advisory services holds the FA licence, or is statutorily exempt (e.g. banks, licensed insurers)."
+        "heading": "Relationship of FAA and FAR",
+        "body": "The Financial Advisers Act 2001 came into operation on 1 October 2002, consolidating the former Securities Industry Act, Futures Trading Act and Insurance Intermediaries Act into a single piece of legislation so that similar activities are subject to consistent rules. The FAR took effect the same day as subsidiary legislation prescribed by the MAS to give effect to the FAA, covering exemptions from licensing, application of provisions, and revocation/variation of conditions. Both are amended frequently."
       },
       {
-        "heading": "代表登记",
-        "body": "个人不单独持牌,受雇于 FA 以委任代表身份执业,须 fit & proper 并经 MAS 公开登记册(RNF)登记后展业。"
+        "heading": "四大原则",
+        "body": "FAA 与 FAR 由四项原则支撑:(1) 客户利益至上——以公平、专业、合乎道德的方式提供咨询,并对建议有合理依据(KYC + Needs Analysis);(2) 一致性——同一产品跨渠道适用相同规则,功能相似产品(如单一保费投连险与单位信托)适用相似规则;(3) 问责——'代表只可代理一个主事人',主事人负责发展、监督和监控其代表;(4) 独立性——'独立'一词的判定见 FAR 第 21 条及指引 FAA-G05。"
       },
       {
-        "heading": "Representative registration",
-        "body": "Individuals are not separately licensed; they act as appointed representatives under an FA, must be fit and proper, and are registered on the public register (RNF) before doing business."
+        "heading": "Four governing principles",
+        "body": "The FAA/FAR rest on four principles: (1) Customers' interest — advice must be fair, professional and ethical with a reasonable basis (Know-Your-Client plus Needs Analysis); (2) Consistency — the same product across channels follows the same rules, and functionally similar products (e.g. single-premium ILPs and unit trusts) follow similar rules; (3) Accountability — the 'one principal' rule, with the principal responsible for developing, supervising and monitoring its representatives; (4) Independence — determined under Regulation 21 of the FAR and Guideline FAA-G05."
+      },
+      {
+        "heading": "持牌需求与豁免/排除",
+        "body": "FAA 第 6(1) 条规定:除非持有 FA 牌照或为豁免财务顾问,任何人不得在新加坡从事财务咨询服务。'财务顾问'指经营财务咨询业务的'人'(指公司而非个人),不含第一附表的排除人士。第 20(1) 条豁免银行、商人银行、持牌保险公司/合作社、持 CMS 牌照者、获豁免的财务公司等。第一附表'排除财务顾问'(如业务仅附带于法律/会计实务的律师、公共会计师、信托公司、报纸经营者、信用评级机构、法定机构等)不属 FA 定义。"
+      },
+      {
+        "heading": "Licensing need, exemptions and exclusions",
+        "body": "Section 6(1) FAA prohibits acting as a financial adviser unless licensed or an exempt financial adviser. A 'financial adviser' (Section 2(1)) is a 'person' (a corporation, not an individual) carrying on the business of financial advisory services, excluding First Schedule persons. Section 20(1) exempts banks, merchant banks, licensed insurers/co-operatives, CMS-licence holders and certain finance companies. First Schedule 'excluded financial advisers' (e.g. advocates/solicitors and accountants whose advice is solely incidental, trust companies, newspaper proprietors, credit-rating providers, statutory corporations) fall outside the FA definition."
+      },
+      {
+        "heading": "受规管与排除产品",
+        "body": "FAA 仅涵盖投资性质产品。第 2(1) 条定义'投资产品'为:资本市场产品、非杠杆外汇的即期外汇合约、人寿保单及其他订明产品;结构性存款自 2005 年 12 月 2 日起被归为投资产品。排除产品为:一般保险保单(消费性)、吸收存款产品(低风险且易于理解)、贷款与按揭(无投资成分、属负债管理)。受规管的咨询服务类型见第二附表:就投资产品提供建议、发布研究分析/报告、以及安排人寿保单(再保险除外)。"
+      },
+      {
+        "heading": "Regulated and excluded products",
+        "body": "The FAA covers only products of an investment nature. 'Investment product' (Section 2(1)) means capital markets products, spot FX contracts other than for leveraged FX trading, any life policy, and other prescribed products; structured deposits became investment products from 2 December 2005. Excluded products are general insurance policies (consumption-based), deposit-taking products (low risk, well understood) and loans/mortgages (liability management, no investment element). The Second Schedule lists the regulated services: advising on investment products, issuing research analyses/reports, and arranging life policies (other than reinsurance)."
+      },
+      {
+        "heading": "牌照申请与豁免人士",
+        "body": "FA 牌照申请依第 7(1) 条以 Form 1 提交并附不可退还的申请费;MAS 评估往绩、管理专长与财务稳健、最低财务与专业弥偿(PI)要求、内部合规、业务计划及 fit & proper。第 9(1) 条要求持牌 FA 始终维持最低财务要求并持有 PI 保单。自 2010 年 11 月 26 日起牌照无须续期,缴年费即持续有效(除非停业、失效或被撤销/暂停)。豁免人士须持续 fit & proper、在新加坡维持运营并具备相应资源;不得表述自己为受 MAS 牌照/规管/监督/登记。豁免基金经理兼豁免 FA 服务的合格投资者与认可投资者总数不得超过 30 名。"
+      },
+      {
+        "heading": "Licence application and exempt persons",
+        "body": "An FA licence application (Section 7(1), FAR Reg 6/7) is made on Form 1 with a non-refundable fee; the MAS weighs track record, financial soundness, minimum financial and professional-indemnity (PI) requirements, compliance systems, business plans and fitness/propriety. Section 9(1) requires a licensed FA to maintain minimum financial requirements and a PI policy at all times. Since 26 November 2010 licences need no renewal — they remain valid on payment of an annual fee unless business ceases, the licence lapses, or it is revoked/suspended. Exempt persons must stay fit and proper, maintain Singapore operations and resources, and may not represent themselves as licensed/regulated/supervised/registered by the MAS; an exempt fund manager who is also an exempt FA may serve no more than 30 qualified and accredited investors in total."
+      },
+      {
+        "heading": "认可投资者与合格投资者",
+        "body": "认可投资者(SFA 第 4A(1)(a) 条)如个人:净个人资产超过 S$200 万,或金融资产(扣减相关负债)超过 S$100 万,或前 12 个月收入不少于 S$300,000;公司净资产超过 S$1,000 万。合格投资者(SFR 第二附表)大致指认可投资者及若干集体投资计划/封闭式基金/机构投资者/有限合伙等类别。豁免人士须自行尽职调查核实客户的合格或认可身份并保留书面凭证。"
+      },
+      {
+        "heading": "Accredited and qualified investors",
+        "body": "An accredited investor (Section 4A(1)(a) SFA) includes an individual whose net personal assets exceed S$2 million, or whose financial assets (net of related liabilities) exceed S$1 million, or whose income in the preceding 12 months is not less than S$300,000; and a corporation with net assets exceeding S$10 million. A qualified investor (Second Schedule SFR) broadly means an accredited investor plus specified collective-investment-scheme, closed-end-fund, institutional-investor and limited-partnership classes. An exempt person must conduct its own due diligence, supported by documentary evidence, to verify clients' accredited or qualified status."
+      },
+      {
+        "heading": "'财务顾问'/'人寿保险经纪'/'独立'用语",
+        "body": "第 17 条:除持牌 FA、豁免 FA 或获 MAS 批准者外,任何人不得使用'financial adviser'或'life insurance broker'字样;代表可加'representative'使用。违反第 17(1)/(3) 可处不超过 S$12,500 罚款,持续犯罪每日加罚不超过 S$1,250。第 21 条:FA 须不收/不付可能造成产品偏向的佣金或利益、无相关产品限制、无利益冲突,方可使用'independent'字样;违反构成犯罪。"
+      },
+      {
+        "heading": "Use of 'financial adviser' / 'life insurance broker' / 'independent'",
+        "body": "Section 17: only a licensed FA, an exempt FA or an MAS-approved person may use 'financial adviser' or 'life insurance broker'; representatives may use the term together with 'representative'. Contravening s17(1)/(3) carries a fine up to S$12,500, plus up to S$1,250 per day for a continuing offence. Section 21: an FA may use 'independent' only if it receives/pays no commission or benefit creating product bias, operates free of restriction on recommended products, and has no conflict of interest from any product-provider connection; contravention is an offence."
+      },
+      {
+        "heading": "RNF 与代表",
+        "body": "MAS 于 2010 年 11 月 26 日推出代表通知框架(RNF):机构委任代表时向 MAS 提交意向通知及 fit & proper 证明,代表不再单独持牌,责任落在主事人确保其代表 fit & proper。代表名录记于第 73 条设立的公开登记册,公众可在 MAS 官网查阅。RNF 适用于持牌 FA 及法定豁免 FA(银行、商人银行、财务公司、保险公司、保险经纪、CMS 牌照持有人)的代表,但不适用于依规豁免的实体(如服务不超过 30 名合格投资者的基金经理或不超过 30 名认可投资者的 FA)。"
+      },
+      {
+        "heading": "RNF and representatives",
+        "body": "The MAS launched the Representative Notification Framework (RNF) on 26 November 2010: a principal lodges a notice of intent and a fit-and-proper certification, representatives are no longer separately licensed, and the onus is on principals to accept only fit and proper individuals. Representatives are recorded on the Public Register established under Section 73, accessible via the MAS website. The RNF applies to representatives of licensed FAs and statutorily exempt FAs (banks, merchant banks, finance companies, insurers, insurance brokers, CMS-licence holders) but not to entities exempt by regulation (e.g. fund managers serving no more than 30 qualified investors, or FAs serving no more than 30 accredited investors)."
+      },
+      {
+        "heading": "代表的定义、唯一主事人与执业前提",
+        "body": "第 2(1) 条定义'代表'为受雇于、代理或与 FA 安排、代 FA 履行财务咨询服务的个人(不论是否获酬)。第 27(1) 条:除非 MAS 书面批准,委任/临时代表不得同时代理多于一个主事人(相关法团除外)。违反第 27 可处不超过 S$25,000 罚款或不超过 12 个月监禁或两者兼施。第 22(1) 条:任何人不得在未成为相应类型的委任/临时代表(或第 20(1)(f)/(g) 豁免 FA 的代表)的情况下充当代表,违反者依第 22(8) 同样可处 S$25,000/12 个月;主事人违反第 22(5) 依第 22(9) 可处不超过 S$50,000。"
+      },
+      {
+        "heading": "Definition of representative, one-principal rule and gating",
+        "body": "Section 2(1) defines a 'representative' as an individual in the employment of, acting for, or by arrangement with an FA who performs financial advisory services on its behalf (whether or not remunerated). Section 27(1): unless approved by the MAS in writing, an appointed/provisional representative may not represent more than one principal at a time (related corporations excepted); breach carries up to S$25,000 fine or 12 months' imprisonment or both. Section 22(1) bars acting as a representative without being an appointed/provisional representative (or a representative of a s20(1)(f)/(g) exempt FA), with the same s22(8) penalty; a principal breaching s22(5) faces up to S$50,000 under s22(9)."
+      },
+      {
+        "heading": "委任代表 vs 临时代表",
+        "body": "委任代表(第 23 条)须完全满足 MAS 订明的入门与考试要求(Notice FAA-N13),名列公开登记册且状态未被撤销/暂停。临时代表(第 24 条)满足入门要求但尚未通过考试,自登记日起有不超过三个月的宽限期(FAR Reg 4B(1))可展业,且不得曾被委任为临时代表;该机制便利在海外受规管满 12 个月(且离任不超过 12 个月)的资深人士迁居新加坡。临时代表通过考试后,主事人在三个月内以 Form 3D 一次性通报 MAS,经登记为委任代表后可继续展业。"
+      },
+      {
+        "heading": "Appointed vs provisional representatives",
+        "body": "An appointed representative (Section 23) fully meets the MAS entry and examination requirements (Notice FAA-N13), is entered in the Public Register, and has a status not revoked/suspended. A provisional representative (Section 24) meets entry requirements but has not yet passed the exams, gets a grace period of up to three months from registration (FAR Reg 4B(1)) to provide services, and must not have been a provisional representative before; the scheme eases relocation of professionals regulated overseas for at least 12 months (ceasing not more than 12 months ago). Once the exams are passed, the principal notifies the MAS within three months via Form 3D and, once entered as an appointed representative, the individual continues to practise."
+      },
+      {
+        "heading": "通知程序、保存期与停止状态",
+        "body": "第 26(1) 条:主事人委任代表须向 MAS 提交意向通知、fit & proper 证明,临时代表另附主事人承诺书。MAS 据此录入公开登记册;若未缴第 28 条费用可拒绝录入。主事人须将所依据的资料保存五年(FAR Reg 4A(3)),代表资料变更须在 14 日内以 Form 18 通报。委任代表停止状态情形(第 23(4) 条)含:不再代理或不再提供该服务并通报、主事人停止该服务、主事人牌照被撤销/失效或被禁令、死亡等;主事人须在代表停止后下一个营业日内通报(Reg 12A)。临时代表停止(第 24(3))含期满、违反条件、主事人通报已满足考试要求等。"
+      },
+      {
+        "heading": "Notification procedure, retention and cessation",
+        "body": "Section 26(1): to appoint a representative the principal lodges a notice of intent, a fit-and-proper certificate and, for a provisional representative, an undertaking. The MAS then enters the Public Register and may refuse entry if the Section 28 fee is unpaid. The principal must keep supporting documents for five years (FAR Reg 4A(3)) and notify changes within 14 days on Form 18. An appointed representative ceases status (Section 23(4)) on, e.g., ceasing to act/notified, the principal ceasing the service, the principal's licence being revoked/lapsing or a prohibition order, or death; the principal must notify by the next business day (Reg 12A). A provisional representative ceases (Section 24(3)) on expiry, breach of conditions, or the principal notifying satisfaction of exam requirements."
+      },
+      {
+        "heading": "MAS 权力、虚假陈述与上诉",
+        "body": "第 30(1) 条:MAS 可在多种情形下拒绝录入或撤销代表状态,如代表未实际展业、未提供所需资料、为未解除破产人、判决债务未清偿、与债权人达成仍生效的妥协安排、或被定欺诈/不诚实或 FAA 罪行;第 30(1)(g) 还涵盖学历/经验、fit & proper、往绩或将不能高效/诚实/公平履职等。第 31 条赋予 MAS 施加条件或限制之权。第 32(1) 条:在通报中作出虚假/误导陈述或遗漏重大事项,可处不超过 S$50,000 罚款(第 32(4) 提供合理查询的免责辩护)。第 33 条:对第 30(1) 拒绝录入或撤销/暂停不服者,可在收到决定后 30 日内向部长上诉,部长决定为最终。"
+      },
+      {
+        "heading": "MAS powers, false statements and appeals",
+        "body": "Section 30(1): the MAS may refuse entry or revoke representative status where, e.g., the individual fails/ceases to act, does not provide required information, is an undischarged bankrupt, has an unsatisfied judgment debt, has a subsisting scheme of arrangement, or is convicted of fraud/dishonesty or an FAA offence; s30(1)(g) also covers qualifications/experience, fitness and propriety, past record, or doubt over efficient/honest/fair performance. Section 31 empowers the MAS to impose conditions or restrictions. Section 32(1): a false or misleading statement, or omission of a material matter, in a notification is an offence carrying a fine up to S$50,000 (s32(4) gives a reasonable-inquiry defence). Section 33: a person aggrieved by a s30(1) refusal or a revocation/suspension may appeal to the Minister within 30 days, whose decision is final."
       }
     ],
     "keyPoints": [
-      "牌照发给实体,个人是登记代表 / Licence is at the entity level; individuals are registered representatives",
-      "fit & proper:诚信/能力/财务稳健 / Fit and proper: integrity, competence, financial soundness",
-      "展业前须完成登记 / Registration required before practising"
+      "FAA 2001 于 2002-10-01 生效,合并三套旧法 / FAA 2001 in force 1 Oct 2002, consolidating three former Acts",
+      "牌照发给实体(公司);个人为经 RNF 登记的代表 / Licence is at entity level; individuals are RNF-registered representatives",
+      "四原则:客户利益、一致性、问责(一个主事人)、独立性 / Four principles: customers' interest, consistency, accountability (one principal), independence",
+      "临时代表三个月宽限期通过考试;委任代表已满足 FAA-N13 / Provisional rep has 3-month grace to pass exams; appointed rep already meets FAA-N13",
+      "豁免基金经理兼 FA 服务投资者总数不超过 30 名 / Exempt fund-manager-cum-FA may serve no more than 30 investors total",
+      "对 MAS 决定可在 30 日内向部长上诉,决定为最终 / Appeal to Minister within 30 days; decision is final"
     ],
-    "sourceRef": "Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR)",
+    "sourceRef": "RES5 Study Text Part I Ch.1 — Financial Advisers Act (FAA) & Financial Advisers Regulations (FAR): Financial Advisers and Representatives",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

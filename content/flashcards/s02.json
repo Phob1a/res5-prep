@@ -4,27 +4,160 @@
     "part": 1,
     "syllabusItemId": "s02",
     "topicGroup": "rules",
-    "title": "FAA 操守 / FAA conduct",
-    "point": "披露重要信息、不得虚假误导、推荐有合理基础。 / Disclose material info; no false/misleading statements; reasonable basis.",
+    "title": "产品资料披露 / Product info disclosure (s.34)",
+    "point": "Section 34(1) 须向客户及潜在客户披露推荐指定投资产品的所有重大资料(条款、收益与风险、费用、CIS/人寿保单的关系等)。 / s.34(1) requires disclosing all material info on a recommended designated investment product (terms, benefits/risks, charges, CIS/life-policy relationships).",
     "keyfacts": [
-      "费用/风险/冲突要披露 / Disclose fees/risks/conflicts"
+      "对象:每位客户及潜在客户 / Every client and prospective client",
+      "含 MAS 订明的其他资料 / Plus any info MAS prescribes"
     ],
-    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "sourceRef": "FAA s.34(1) (read with s.20(2), s.46)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s02-002",
     "part": 1,
     "syllabusItemId": "s02",
     "topicGroup": "rules",
-    "title": "MAS 权力与罪行 / MAS powers & offences",
-    "point": "MAS 可检查/调查 + 执法(指令/限制/撤牌/禁业);无牌或虚假陈述属罪行。 / MAS may inspect/investigate + enforce; unlicensed or false statements are offences.",
+    "title": "虚假/误导陈述罚则 / False or misleading statement penalty (s.35)",
+    "point": "意图欺骗作出虚假/误导陈述属罪行,即使合约未成立;罚款最高 S$50,000 或监禁最高 12 个月或两者兼施。 / A false/misleading statement with intent to deceive is an offence even if no contract arises; fine up to S$50,000 or up to 12 months' jail or both.",
     "keyfacts": [
-      "撤牌、禁业、罚款 / Suspension/revocation, prohibition, fines"
+      "遗漏重大事项=误导 / Omitting a material matter counts as misleading",
+      "S$50,000 / 12 个月 / S$50,000 / 12 months"
     ],
-    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "sourceRef": "FAA s.35",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-003",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "合理基础推荐 / Reasonable basis for recommendation (s.36)",
+    "point": "推荐须基于对客户投资目标、财务状况与需要的合理考量与调查;无合理基础且客户依赖致损者,FA 须赔偿损失。 / A recommendation must rest on reasonable consideration of the client's objectives, finances and needs; absent that and where reliance causes loss, the FA is liable in damages.",
+    "keyfacts": [
+      "适合性=合理基础 / Suitability = reasonable basis",
+      "民事赔偿责任 / Civil liability for loss"
+    ],
+    "sourceRef": "FAA s.36(1)-(3)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-004",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "客户款项账户 / Client money accounts (s.37)",
+    "point": "账户上的留置权/索赔权除非为应付 FA 费用否则无效;押记/按揭一律无效。 / A lien/claim on a client account is void unless for fees due to the FA; a charge/mortgage on it is wholly void.",
+    "keyfacts": [
+      "留置权例外:应付费用 / Lien exception: fees owed",
+      "押记/按揭无效 / Charge/mortgage void"
+    ],
+    "sourceRef": "FAA s.37(2)-(4)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-005",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "保费独立账户 / Separate premium account (s.41 / FAR Reg 20)",
+    "point": "收取保险款项的 FA 须在 Banking Act 1970 下持牌银行开立独立人寿保费账户;提款仅限四种情形(付有权人、付保险人、持牌银行投资、退误存)。 / An FA receiving insurance moneys must keep a separate premium account at a Banking Act 1970-licensed bank; withdrawals limited to four cases.",
+    "keyfacts": [
+      "投资亏损须补足差额 / Make good any investment shortfall"
+    ],
+    "sourceRef": "FAA s.41(1); FAR Reg 20",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-006",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "未持牌保险人 / Unlicensed insurers (s.42)",
+    "point": "持牌/获豁免 FA 不得与未持牌保险人洽商保险合约;不适用于再保险及新加坡以外风险;MAS 在例外情形下可特许。 / A licensed/exempt FA must not negotiate insurance with an unlicensed insurer; excludes reinsurance and risks outside Singapore; MAS may permit exceptions.",
+    "keyfacts": [
+      "目的:遏制境外网售保险 / Targets cross-border internet sales"
+    ],
+    "sourceRef": "FAA s.42(1); Insurance Act 1966 s.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-007",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "利益冲突披露 / Conflict-of-interest disclosure (s.45 / FAR Reg 20A)",
+    "point": "推荐指定产品的通函须以不逊于正文的清晰度披露权益;就上市指定产品须设登记册,取得权益后 7 日内登记、保留不少于 5 年。 / Circulars recommending specified products must disclose interests in equally legible type; a register of Listed Specified Products must be entered within 7 days and kept at least 5 years.",
+    "keyfacts": [
+      "抗辩:当时不知且不能合理预期知 / Defence: not and not reasonably aware",
+      "罚款 S$25,000 / 12 个月 / Fine S$25,000 / 12 months"
+    ],
+    "sourceRef": "FAA s.45(1),(2),(7); FAR Reg 20A",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-008",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "无抵押贷款上限 / Unsecured credit cap (FAR Reg 18)",
+    "point": "FA 向其董事/高级人员/雇员/代表授予的无抵押垫款、贷款或信贷便利,任何一刻未偿还合计不得超过 S$3,000。 / Unsecured advances/loans/credit to an FA's directors/officers/employees/representatives must not exceed S$3,000 outstanding in aggregate at any time.",
+    "keyfacts": [
+      "\"董事\"含配偶及多类亲属 / \"Director\" includes spouse and relatives"
+    ],
+    "sourceRef": "FAR Reg 18(1)-(2)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-009",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "CEO/董事审批 / CEO & director approval (s.63)",
+    "point": "委任 CEO 或董事、或将董事由非执行改为执行须经 MAS 事先批准(提交 Form 11)。 / Appointing a CEO/director, or changing a director from non-executive to executive, needs prior MAS approval via Form 11.",
+    "keyfacts": [
+      "外国公司非常驻董事可豁免 / Non-Singapore foreign-company director exempt",
+      "准则见 FAR Reg 13(2) / Criteria in FAR Reg 13(2)"
+    ],
+    "sourceRef": "FAA s.63(1); FAR Reg 13(2)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-010",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "禁止令 / Prohibition orders (s.68-70)",
+    "point": "禁止令阻止不适当人士提供服务或参与管理/任董事/任大股东,只在很严重罪行时发出;受禁令通知的 FA 不得在禁止范围内聘用该人,违者罚款最高 S$50,000。 / A prohibition order bars unfit persons from service or from managing/directing/being a substantial shareholder, only for very serious offences; a notified FA must not employ the person, breach fined up to S$50,000.",
+    "keyfacts": [
+      "可于 30 日内向部长上诉 / Appeal to Minister within 30 days"
+    ],
+    "sourceRef": "FAA s.68(2), s.69(2), s.70",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s02-011",
+    "part": 1,
+    "syllabusItemId": "s02",
+    "topicGroup": "rules",
+    "title": "高级人员罪行与伪造记录 / Officer offences & falsification (s.112, 113)",
+    "point": "高级人员未采取一切合理步骤确保合规或陈述准确(s.112),或故意伪造/遗漏/更改记录(s.113),罚款最高 S$100,000 或监禁最高 2 年或两者兼施。 / An officer failing reasonable steps for compliance/accuracy (s.112), or wilfully falsifying/omitting/altering records (s.113), faces a fine up to S$100,000 or up to 2 years' jail or both.",
+    "keyfacts": [
+      "最重罚则梯级 / Heaviest penalty tier",
+      "适用审计师/雇员/代理人 / Also auditor/employee/agent"
+    ],
+    "sourceRef": "FAA s.112(1), s.113(1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

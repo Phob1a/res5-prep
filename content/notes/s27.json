@@ -3,33 +3,102 @@
     "id": "note-s27-overview",
     "part": 2,
     "syllabusItemId": "s27",
-    "title": "基础理财规划指南 / Basic Financial Planning Guide",
-    "summary": "理财规划是有步骤的过程:目标→收集→分析→方案→执行→检视;涵盖预算、应急、保障、储蓄投资、退休、遗产。 / Financial planning is a stepwise process: goals → gather → analyse → plan → implement → review; covering budgeting, emergency funds, protection, savings/investment, retirement and estate.",
+    "title": "基础财务规划指南 / Basic Financial Planning Guide",
+    "summary": "MAS 联合 ABS、AFAS 与 LIA 于 2023 年 10 月 7 日推出《基础财务规划指南》,以四条简单的「经验法则」帮助新加坡人着手处理应急金、保障、投资与遗产规划。指南并非监管要求,而是提供跨财务咨询(FA)行业一致的基础规划信息。 / Launched by MAS with ABS, AFAS and LIA on 7 Oct 2023, the Basic Financial Planning Guide sets out a few simple rules of thumb for emergency funds, protection, investment and legacy planning. The Guide is not a regulatory requirement but offers a consistent baseline message across the FA industry.",
     "sections": [
       {
-        "heading": "规划流程(6 步)",
-        "body": "1) 确立目标;2) 收集资料;3) 分析现状;4) 制定并呈现方案;5) 执行;6) 定期检视与调整。"
+        "heading": "指南的推出与目的",
+        "body": "2023 年 10 月 7 日,新加坡金融管理局(MAS)联同新加坡银行公会(ABS)、新加坡财务顾问协会(AFAS)与人寿保险协会(LIA)共同推出《基础财务规划指南》,旨在帮助新加坡人主动改善其财务福祉。市面上原本已有各类财务规划指南,但往往缺漏某些构成整体规划的环节;本指南为整体财务规划的关键方面(应急金、保险保障、投资、遗产规划)提供一套完整的经验法则,凸显有用的政府计划,提供简单的产品选项,并是一份可在 FA 行业通用的一致指南。MAS 希望借此说明:财务规划可以简单到只需采取 3 至 4 个步骤。指南公布于 MoneySense 网站,并自 2024 年 1 月起提供六种针对不同人生阶段(如职场新人、有幼儿的在职成人、赡养年迈父母者、临近退休者)的定制版本。"
       },
       {
-        "heading": "Process (6 steps)",
-        "body": "1) Set goals; 2) gather data; 3) analyse status; 4) develop and present the plan; 5) implement; 6) review and adjust periodically."
+        "heading": "Launch and purpose of the Guide",
+        "body": "On 7 October 2023 the Monetary Authority of Singapore (MAS), together with the Association of Banks in Singapore (ABS), the Association of Financial Advisers (Singapore) (AFAS) and the Life Insurance Association (LIA), launched the Basic Financial Planning Guide to help Singaporeans enhance their financial well-being. While various financial-planning guides already existed, they could lack some aspects of a holistic plan. This Guide provides a comprehensive set of rules of thumb for the key aspects of a holistic plan — emergency funds, insurance protection, investment and legacy planning — highlights useful government schemes, gives simple product options, and is a consistent guide usable across the FA industry. MAS hopes to show that financial planning can be as simple as taking 3 to 4 actions. The Guide is published on the MoneySense website and, from January 2024, comes in six customised formats for different life stages (e.g. fresh entrants, working adults with young children, those supporting aged parents, and those approaching retirement)."
       },
       {
-        "heading": "覆盖与优先级",
-        "body": "现金流/预算、应急储备、保障、储蓄投资、退休、遗产;一般先保障与应急,再追求增长。"
+        "heading": "四条核心经验法则",
+        "body": "指南鼓励个人采取四项主动步骤:(1)为应急需求至少留出 3 至 6 个月的开支;(2)取得保险保障——身故与全残(TPD)为年收入的 9 倍,危疾(Critical Illness)为年收入的 4 倍;(3)用于保险保障的支出最多占收入的 15%;(4)将至少 10% 的收入用于投资,以备退休及其他财务目标。其中 15% 与 10% 的「收入」均指扣除 CPF 缴款后的收入(即实得收入 take-home pay);购买捆绑型产品(如终身寿险)因含投资与保障双重成分,可能超过收入的 15%。"
       },
       {
-        "heading": "Coverage & priority",
-        "body": "Cash flow/budget, emergency fund, protection, savings/investment, retirement, estate; generally protection/emergency first, then growth."
+        "heading": "The four core rules of thumb",
+        "body": "The Guide encourages individuals to: (1) set aside at least 3 to 6 months' worth of expenses for emergencies; (2) obtain insurance protection of 9x annual income for death and total permanent disability (TPD) and 4x annual income for critical illness; (3) spend at most 15% of income on insurance protection; and (4) invest at least 10% of income for retirement and other financial goals. The 15% and 10% are computed on income after deducting CPF contributions (take-home pay). Purchase of bundled products (e.g. whole life insurance) may exceed 15% of income as they contain both investment and protection elements."
+      },
+      {
+        "heading": "应急金(Emergency Funds)",
+        "body": "为计算应急金,应汇总每月家庭与个人开支,包括贷款还款、信用卡账单、保险保费与税款;预算时一个有用的技巧是把「必需品」与「锦上添花」分开。目标是至少备足 3 至 6 个月的开支;若收入不稳定(如自由职业者),应备足相当于 12 个月开支的储蓄。应优先偿还高息债务(如信用卡账单)以避免高额利息。应急金须随时可动用,因此不建议放入意在长期投资的股市,以免急需时无法即时变现或被迫亏损套现。CPF 资金不能充当应急金,因其用途有特定条件,须用于退休、医疗与置业需求。可考虑将钱放在储蓄账户与新加坡储蓄债券(SSB)的组合中——SSB 由政府担保,任何月份可无罚金退出。"
+      },
+      {
+        "heading": "Emergency Funds",
+        "body": "To size your emergency fund, compile monthly household and personal expenses including loan repayments, credit-card bills, insurance premiums and taxes; a useful tip is to separate essentials from good-to-haves. Aim for at least 3 to 6 months of expenses; if income is irregular, aim for savings equal to 12 months of expenses. Prioritise paying off high-interest debt (e.g. credit cards). Emergency funds must be readily accessible, so they should not be put into the stock market (meant for long-term investing) where one may be unable to liquidate without losses. CPF funds cannot serve as emergency funds because they are tied to retirement, healthcare and home-ownership needs. Consider a combination of Savings Accounts and Singapore Savings Bonds (SSBs), which are government-guaranteed and can be exited in any month without penalty."
+      },
+      {
+        "heading": "身故、全残与危疾保障",
+        "body": "LIA 建议保障额为:身故与全残(TPD)9 倍年收入,标准危疾 4 倍年收入。这些数字源自 LIA 最新的「保障缺口研究」(Protection Gap Study):身故或全残时,受养人(全残时为受保人本人)估计需要 9 倍年收入以应付开支、清偿债务并维持一段时间的合理生活;假设重大疾病后约 5 年康复期才能重返职场,估计需要 4 倍年收入以应对家庭需求与因收入下降而需的生活调整。客户可按生活方式或受养人数量增减保障。定期寿险(Term Insurance)是经济有效的保障方式,尤其在年轻时投保可「锁定」较低保费,且通常比终身寿险便宜(因多数只提供保障、无投资成分即无退保价值)。受养人保障计划(DPS)是团体定期寿险,在身故、末期疾病或全残时一次性赔付(60 岁前最高 $70,000;60 岁以上至 65 岁最高 $55,000),在首次有效 CPF 工作缴款时自动纳入,保费从 CPF 扣除。更经济的选项还包括团体定期保险(如适用于全职国民服役人员及其受养人的 MINDEF & MHA 计划)与「直接购买保险」(DPI,不附财务建议,故不收佣金)。"
+      },
+      {
+        "heading": "Coverage for death, TPD and critical illness",
+        "body": "LIA recommends 9x annual income for death and TPD and 4x annual income for standard critical illness, based on LIA's most recent Protection Gap Study. The study found ~9x annual income is needed by dependants (and the insured on permanent disability) to cover expenses, clear debts and maintain a reasonable lifestyle for a time; assuming ~5 years' recovery from a major illness before returning to work, ~4x annual income is needed for family needs and lifestyle adjustments. Clients may buy more or less based on lifestyle or number of dependants. Term insurance is cost-effective, especially when lower premiums are 'locked in' at a younger age, and is usually cheaper than whole life for the same protection (most term policies provide only protection, with no investment element and no surrender value). The Dependants' Protection Scheme (DPS) is a term-life scheme paying a one-off sum (up to $70,000 until age 60; up to $55,000 from above 60 to 65) on death, terminal illness or TPD, automatically extended on the first valid CPF working contribution with premiums deducted from CPF. More affordable options include group term insurance (e.g. MINDEF & MHA schemes for Full-time National Servicemen and dependants) and Direct Purchase Insurance (DPI), which carries no commission as it comes without financial advice."
+      },
+      {
+        "heading": "国家健保计划:MediShield Life 与 IP",
+        "body": "MediShield Life 是覆盖大额住院账单及部分昂贵门诊治疗(如癌症治疗、洗肾)的国家健保;所有新加坡公民与永久居民均受保,保费可全额用 MediSave 支付。若选择指定医生、私立医院或公立医院 B1/A 级病房,账单会更大。私营保险公司提供「综合健保计划」(Integrated Shield Plans, IP),在 MediShield Life 之上提供额外保障以减轻自付开支;购买 IP 时须评估需求并注意随年龄显著上升的长期成本,IP 保费虽可用 MediSave 但有提取上限,超出部分需用现金支付。约半数持 IP 的新加坡居民因选择入住 B2/C 级病房而未充分使用 IP 福利,这类情况下 MediShield Life 的保障已足够,未必需要额外的 IP。"
+      },
+      {
+        "heading": "National health scheme: MediShield Life and IPs",
+        "body": "MediShield Life is national health insurance covering large hospital bills and selected costly outpatient treatments such as cancer treatment and dialysis; all Singapore Citizens and PRs are covered and premiums can be fully paid with MediSave. Choosing your own doctor, private hospitals or Class B1/A wards makes bills larger. Private insurers offer Integrated Shield Plans (IPs) on top of MediShield Life to reduce out-of-pocket expenses; when buying an IP, evaluate needs and note long-term costs that rise significantly with age — MediSave can cover IP premiums but has withdrawal limits, and any excess must be paid in cash. Half of Singapore residents with IPs do not use their IP benefits fully because they choose Class B2/C wards, in which case MediShield Life coverage is sufficient and additional IP may not be necessary."
+      },
+      {
+        "heading": "长期护理:CareShield Life 与 ElderShield",
+        "body": "CareShield Life 是国家长期护理保险,在受保人出现严重残疾时提供每月经济支持;覆盖 1980 年及以后出生的所有新加坡公民与永久居民,保费可全额由 MediSave 支付。CareShield Life 较 ElderShield 提供更高的福利;尚未发生严重残疾的 ElderShield 保单持有人可选择加入 CareShield Life。「严重残疾」指无法独立完成 6 项日常生活活动(进食、穿衣、如厕、洗澡、移位、行走)中的至少 3 项。若需更高赔付或额外保障(如较轻残疾),私营保险公司提供 CareShield Life 补充计划(Supplements),其长期成本取决于投保时的年龄,须审慎考量。"
+      },
+      {
+        "heading": "Long-term care: CareShield Life and ElderShield",
+        "body": "CareShield Life is national long-term-care insurance giving monthly support if you develop a severe disability; it covers all Singapore Citizens and PRs born in 1980 onwards, with premiums fully payable from MediSave. It provides enhanced benefits compared with ElderShield, and ElderShield policyholders who have not developed severe disability may join CareShield Life. Severe disability means being unable to perform at least 3 of the 6 activities of daily living independently (feeding, dressing, toileting, washing, transferring and mobility). For higher payouts or extra cover (e.g. for less severe disability), private insurers offer CareShield Life Supplements, whose long-term cost depends on current age and should be considered carefully."
+      },
+      {
+        "heading": "投资、CPF 与退休",
+        "body": "指南建议至少将 10% 的收入用于投资,以享受复利收益,满足大额支出(置业、子女教育)及最重要的退休需求;若有余力可投入更多。指南只就可考虑的产品类别给出一般性建议,不作具体产品推荐。投资应按预期用款时间规划:短期目标(如首套房、子女教育)宜选低风险/回报产品如 SSB、国库券(T-bills)、定期存款;长期目标可承受较高风险/回报,如交易所交易基金(ETF)、单位信托(Unit Trusts),并通过跨资产类别/行业/国家的多元化分散风险。不存在「高回报且无亏损风险」的保证投资。CPF 退休储蓄从开始工作起即为退休做准备;可通过现金填补和/或 CPF 转账至特别/退休账户增长储蓄,现金填补最高可享 $8,000 税务减免;CPF LIFE 无论寿命长短均提供终身每月赔付。"
+      },
+      {
+        "heading": "Investment, CPF and retirement",
+        "body": "The Guide recommends investing at least 10% of income to enjoy compounding returns for large purchases (home, children's education) and, most importantly, retirement; those able to set aside more are encouraged to. It gives general guidance on product classes but no specific product recommendations. Investments should be planned around when funds are needed: short-term goals (first home, children's education) suit lower risk/reward products like SSBs, T-bills and fixed deposits; long-term goals can take higher risk/reward such as ETFs and Unit Trusts, with diversification across asset classes, industries and countries to manage risk. There is no guaranteed investment offering high returns without risk of loss. CPF savings prepare for retirement from the moment you start work; cash top-ups and/or CPF transfers to the Special/Retirement Account grow savings with up to $8,000 in tax relief on cash top-ups, and CPF LIFE provides lifelong monthly payouts no matter how long you live."
+      },
+      {
+        "heading": "遗产规划与房产货币化",
+        "body": "遗产规划包括:遗嘱(Will)——说明身故后遗产如何分配;CPF 提名(CPF nomination)——决定身故后 CPF 储蓄如何分配;持久授权书(Lasting Power of Attorney, LPA)——委任受信任之人在自己丧失心智能力时代为行事与决策;预先护理计划(Advance Care Plan, ACP)——载明未来健康与个人护理的意愿。年满 55 岁或以上者可探索房产货币化选项以补充退休收入,例如「银发族安居花红」(Silver Housing Bonus)、屋契回购计划(Lease Buyback Scheme),或出租房间/整套组屋;并应每 2 至 3 年检视保险计划以确保其仍可负担。支持父母方面,可向父母 CPF 特别/退休账户作现金填补或转账以提高其赔付(现金填补给父母最高享 $8,000 税务减免)、用自己的 MediSave 代付父母的 MediShield Life 与 CareShield Life 保费,并鼓励父母将 ElderShield 升级为或加入 CareShield Life。"
+      },
+      {
+        "heading": "Legacy planning and home monetisation",
+        "body": "Legacy planning involves: a Will (how your estate is distributed after death); a CPF nomination (how CPF savings are distributed on death); a Lasting Power of Attorney (LPA) (appointing trusted persons to act and decide if you lose mental capacity); and an Advance Care Plan (ACP) (your wishes for future health and personal care). Those aged 55 and above can explore home-monetisation options to supplement retirement income — the Silver Housing Bonus, the Lease Buyback Scheme, or renting out a room/flat — and should review insurance plans every 2 to 3 years to keep them affordable. To support parents, consider cash top-ups and/or CPF transfers to parents' Special/Retirement Account for higher payouts (up to $8,000 tax relief on cash top-ups to parents), paying parents' MediShield Life and CareShield Life premiums from your MediSave, and upgrading parents' ElderShield to or joining CareShield Life for higher, longer payouts."
+      },
+      {
+        "heading": "消费者 FAQ 要点",
+        "body": "指南并非监管要求:FA 代表未使用指南并不构成违规,客户也无须遵从其建议;指南提供广泛适用的基础步骤,未必照顾到每个人的具体需求与偏好,需要更个性化规划者可与 FA 代表交流。3 至 6 个月应急金是普遍接受的法则,对多数人足以应对医疗事件、失业或更换重要家电等紧急情况;但自由职业者等收入不稳者宜留更多。即使尚未存满 6 个月应急金,仍可购买保险/投资产品——可同时为各领域预算,或一次专注一个目标。9 倍/4 倍源自 LIA 保障缺口研究;若发现现有保障多于或少于法则,应重新审视需求而非惊慌。若保单组合成本超过收入 15%,先评估其长期是否仍可负担,再决定是否调整,不必惊慌也未必意味被「过度销售」。"
+      },
+      {
+        "heading": "Consumer FAQ highlights",
+        "body": "The Guide is not a regulatory requirement: a representative not using it is not in breach, and customers need not follow its recommendations; it gives broadly applicable basic steps that may not cater to everyone's specific needs, so those wanting customised planning may speak with an FA representative. The 3-6 month emergency fund is a generally accepted rule of thumb sufficient for most (medical incident, job loss, replacing essential appliances), though those with irregular income (e.g. freelancers) may want more. Even without 6 months saved, one can still buy insurance/investment products — budget for all areas at once or focus on one goal at a time. The 9x/4x figures come from LIA's Protection Gap Study; if you find you hold more or less coverage than the rules of thumb, review your needs rather than be alarmed. If a portfolio costs more than 15% of income, first assess whether it stays affordable long-term before deciding on changes — do not be alarmed and it does not necessarily mean you were oversold."
+      },
+      {
+        "heading": "行业/代表 FAQ 要点",
+        "body": "MAS 强烈鼓励 FA 公司与代表在适当情况下采纳指南,将其纳入面对面或数字化的财务需求分析(FNA)流程,作为验证或推荐(如应急金 3-6 个月、身故/TPD 9 倍、危疾 4 倍、保险成本 15% 内、投资至少 10%),并为代表提供培训。在完成完整 FNA 之前先与客户分享指南并不违反 MAS 要求——指南属一般性建议而非针对个人的具体推荐;但任何交易完成前仍须走完完整 FNA 以确保产品适合性。公司可在「忠于指南精神」并符合广告相关法规的前提下调整指南内容。即便客户未达基本需求(如未备应急金),代表仍可推荐其他产品,因指南并非决定推荐的监管要求;但代表必须遵守所有现行监管要求,包括为推荐提供合理基础。客户未自行完成的行动(如购买 DPS、CPF 提名、立遗嘱)若代表无法代办,代表不会因未跟进而受罚,但鼓励公司培训代表提供有助客户行动的信息。"
+      },
+      {
+        "heading": "Industry / representative FAQ highlights",
+        "body": "MAS strongly encourages FA firms and representatives to adopt the Guide where appropriate by integrating it into the face-to-face or digital Financial Needs Analysis (FNA) process as validations or recommendations (3-6 months emergency funds; 9x for death/TPD; 4x for critical illness; protection cost within 15%; invest at least 10%) and by training representatives. Sharing the Guide before completing the full FNA is not a breach of MAS requirements — the Guide is general advice, not a specific recommendation — but the full FNA must be completed before any transaction to ensure suitability. Firms may adapt the Guide if it stays true to its spirit and complies with advertising rules. Even where a customer does not meet basic needs (e.g. emergency funds), representatives may still recommend other products since the Guide is not a regulatory requirement for determining recommendations; however, representatives must comply with all existing regulatory requirements, including having a reasonable basis for recommendation. Where customers do not follow through on actions the representative cannot perform for them (e.g. buying DPS, CPF nomination, will writing), the representative is not penalised for not following through, though firms are encouraged to train representatives to provide supportive information."
       }
     ],
     "keyPoints": [
-      "6 步规划流程 / Six-step planning process",
-      "先保障应急再增长 / Protection/emergency before growth",
-      "定期检视调整 / Review and adjust periodically"
+      "指南由 MAS 联合 ABS/AFAS/LIA 于 2023-10-07 推出,非监管要求 / Launched by MAS with ABS/AFAS/LIA on 7 Oct 2023; not a regulatory requirement",
+      "四法则:应急金 3-6 个月、身故/TPD 9x、危疾 4x、保险≤15% 收入、投资≥10% 收入 / 3-6mo funds, 9x death/TPD, 4x CI, ≤15% on protection, ≥10% invested",
+      "15% 与 10% 按扣除 CPF 后的实得收入计;捆绑产品可超 15% / 15% & 10% on take-home pay after CPF; bundled products may exceed 15%",
+      "9x/4x 源自 LIA 保障缺口研究(危疾约 5 年康复期假设) / 9x/4x from LIA Protection Gap Study (~5-year CI recovery assumption)",
+      "DPS 自动纳入:≤60 岁 $70,000;60-65 岁 $55,000;DPI 不收佣金 / DPS auto: $70k until 60, $55k 60-65; DPI no commission",
+      "CareShield Life 覆盖 1980 年后出生者;严重残疾=6 项 ADL 中无法独立完成 ≥3 项 / CareShield Life covers born 1980 onwards; severe disability = ≥3 of 6 ADLs",
+      "遗产规划:遗嘱、CPF 提名、LPA、ACP;55+ 可房产货币化(Silver Housing Bonus/Lease Buyback) / Will, CPF nomination, LPA, ACP; 55+ home monetisation",
+      "代表分享指南可先于完整 FNA,但交易前须完成 FNA 确保适合性 / Guide may precede full FNA, but FNA required before any transaction"
     ],
-    "sourceRef": "MoneySense / Basic Financial Planning Guide",
+    "sourceRef": "RES 5 Study Text Part II Ch.27 — Basic Financial Planning Guide (SCI, Version 1.1); MAS/ABS/AFAS/LIA Basic Financial Planning Guide (7 Oct 2023)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

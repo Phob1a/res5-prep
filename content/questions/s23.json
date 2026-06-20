@@ -4,65 +4,265 @@
     "part": 2,
     "syllabusItemId": "s23",
     "topicGroup": "process",
-    "stem": "Analysing a client’s cash flow and net worth helps to:",
+    "stem": "Which personal financial statement presents a client's financial position at a specific point in time?",
     "options": {
-      "A": "Hide shortfalls",
-      "B": "Identify surpluses, shortfalls and the client’s capacity",
-      "C": "Avoid planning",
-      "D": "Increase commission only"
+      "A": "The income statement",
+      "B": "The balance sheet (statement of net worth)",
+      "C": "The cash flow forecast",
+      "D": "The expenditure budget"
     },
     "answer": "B",
-    "explanation": "析现金流/净值以识别盈余、缺口与承受能力。",
+    "explanation": "教材 1.1 与 2.1 指出资产负债表(净值表)反映某一特定时点的财务现状;收入表才是反映一段期间收入与支出的报表。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
-    "status": "draft",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.1.1, s.2.1",
     "tags": [
-      "analysis"
+      "balance-sheet"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s23-002",
     "part": 2,
     "syllabusItemId": "s23",
     "topicGroup": "process",
-    "stem": "A “protection gap” is:",
+    "stem": "George's total assets are S$310,000 and his total liabilities are S$131,000. What is his net worth?",
     "options": {
-      "A": "Excess insurance",
-      "B": "The shortfall between protection needs and existing coverage",
-      "C": "A type of fund",
-      "D": "A CPF account"
+      "A": "S$441,000",
+      "B": "S$310,000",
+      "C": "S$179,000",
+      "D": "S$131,000"
     },
-    "answer": "B",
-    "explanation": "保障缺口=需求与现有保障之间的差额。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
-    "status": "draft",
+    "answer": "C",
+    "explanation": "教材 2.5:净值 = 总资产 − 总负债 = 310,000 − 131,000 = S$179,000。A 为两者相加,属误算。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.5",
     "tags": [
-      "protection-gap"
+      "net-worth"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s23-003",
     "part": 2,
     "syllabusItemId": "s23",
     "topicGroup": "process",
-    "stem": "Financial analysis should be evaluated against:",
+    "stem": "Which of the following is the BEST example of a liquid asset?",
     "options": {
-      "A": "The adviser’s targets",
-      "B": "The client’s goals and risk profile",
-      "C": "Random benchmarks",
-      "D": "Nothing"
+      "A": "A money market instrument (fixed deposit)",
+      "B": "The home a client lives in",
+      "C": "A unit trust held for retirement",
+      "D": "An antique car held for capital gains"
+    },
+    "answer": "A",
+    "explanation": "教材 2.2(A1)将流动资产定义为现金及可在一年内轻易变现的近现金资源,如储蓄/支票账户、定期存款与货币市场工具。自住房属个人资产;为退休持有的单位信托属投资资产;意在增值变卖的古董车属投资资产。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.2 (A1)",
+    "tags": [
+      "liquid-assets"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-004",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "A client has a regular, stable monthly income. According to the guideline in the chapter, how many months' worth of expenses should generally be set aside as emergency funds?",
+    "options": {
+      "A": "1 to 2 months",
+      "B": "3 to 6 months",
+      "C": "9 to 10 months",
+      "D": "12 to 18 months"
     },
     "answer": "B",
-    "explanation": "分析须对照客户目标与风险承受。",
-    "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Analysing & Evaluating a Client’s Financial Status",
-    "status": "draft",
+    "explanation": "教材 2.2(A1)建议至少预留 3 至 6 个月开支作应急基金;只有当收入不规律时才建议预留相当于 12 个月开支的应急基金,故 D 适用于不规律收入情形。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.2 (A1)",
     "tags": [
-      "goals"
+      "emergency-fund"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-005",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "On a personal balance sheet, how are liabilities such as a home mortgage normally reported?",
+    "options": {
+      "A": "At current fair market value",
+      "B": "At the higher of cost and market value",
+      "C": "At original cost, showing the outstanding principal",
+      "D": "At the total of principal plus all future interest"
+    },
+    "answer": "C",
+    "explanation": "教材 2.4:负债通常按原始成本报告,显示本金金额。例:S$200,000 房贷,月供 S$3,000 中 S$1,000 抵减本金,还款后列示 S$199,000。利息不计入所报负债余额。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.2.4",
+    "tags": [
+      "liabilities",
+      "valuation"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-006",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "George's total income for 2023 was S$70,000 and his total expenditure was S$76,000. His cash flow for the year is therefore:",
+    "options": {
+      "A": "A surplus of S$6,000",
+      "B": "A deficit of S$6,000",
+      "C": "A surplus of S$146,000",
+      "D": "Exactly zero"
+    },
+    "answer": "B",
+    "explanation": "教材 3.3:净现金流 = 总流入 − 总流出 = 70,000 − 76,000 = (S$6,000),即赤字(流出大于流入)。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.3.1–3.3",
+    "tags": [
+      "cash-flow",
+      "deficit"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-007",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "The liquidity ratio is calculated as liquid assets divided by monthly expenses. Using George's figures (liquid assets S$10,000; total annual expenditure S$76,000), his liquidity ratio is approximately:",
+    "options": {
+      "A": "1.58 months",
+      "B": "5.6 months",
+      "C": "10.0 months",
+      "D": "13.2 months"
+    },
+    "answer": "A",
+    "explanation": "教材 4.1:流动性比率 = 10,000 ÷ (76,000/12) = 10,000 ÷ 6,333 ≈ 1.58 个月,远低于 3–6 个月指引,表明流动性不足。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.1–4.2",
+    "tags": [
+      "liquidity-ratio"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-008",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "Which statement about the savings ratio is correct, given George saves & invests S$13,000 out of total income of S$70,000?",
+    "options": {
+      "A": "His savings ratio is 18.6% and falls short of the 10% guideline",
+      "B": "His savings ratio is 18.6% and meets the 10% guideline",
+      "C": "His savings ratio is 10.0% and exactly meets the guideline",
+      "D": "Investments are excluded, so his savings ratio is 0%"
+    },
+    "answer": "B",
+    "explanation": "教材 4.5:储蓄比率 = 储蓄与投资 ÷ 总收入 = 13,000 ÷ 70,000 = 18.6%,高于 10% 指引,故 George 储蓄/投资充足。注意储蓄包含投资,故 D 错。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.5",
+    "tags": [
+      "savings-ratio"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-009",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "George paid S$12,000 in mortgage and S$10,000 in car loan instalments during the year, and his annual take-home pay is S$50,000. His debt service ratio is 44%. How does this compare with the guideline?",
+    "options": {
+      "A": "It is favourable, being below the 50% guideline",
+      "B": "It is favourable, being below the 15% guideline",
+      "C": "It is exactly at the 35% guideline",
+      "D": "It is unfavourable, exceeding the 35% guideline"
+    },
+    "answer": "D",
+    "explanation": "教材 4.7:偿债比率 = 年贷款还款(12,000+10,000=22,000) ÷ 年实得薪酬(50,000) = 44%,高于 35% 指引,属不利,表明 George 用过多实得薪酬还贷。50% 是债务对资产比率的指引,15% 是流动资产对净值比率的指引,均不适用于偿债比率。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.7",
+    "tags": [
+      "debt-service-ratio"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-010",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "The debt-to-asset ratio shows how much of a person's assets are financed by debt. With total liabilities S$131,000 and total assets S$310,000, George's ratio of 42.3% means:",
+    "options": {
+      "A": "For every dollar of assets, about 42.3 cents was borrowed, comparing favourably with the 50% guideline",
+      "B": "For every dollar of assets, about 42.3 cents truly belongs to him",
+      "C": "He is technically insolvent because the ratio exceeds 35%",
+      "D": "He should reduce his savings to lower the ratio"
+    },
+    "answer": "A",
+    "explanation": "教材 4.6:债务对资产比率 = 131,000 ÷ 310,000 = 42.3%,意指每 1 元资产中 42.3 分靠借贷,越低越好,优于 50% 指引。B 描述的是偿付能力比率;资不抵债指负债超过资产(净值为负),与 35% 无关。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.6",
+    "tags": [
+      "debt-to-asset"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-011",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "George's solvency ratio (net worth ÷ total assets) is 57.7%. What does this MOST accurately indicate?",
+    "options": {
+      "A": "57.7% of his income is saved each year",
+      "B": "He can cover 57.7 months of expenses from liquid assets",
+      "C": "His liabilities exceed his assets, making him insolvent",
+      "D": "For every dollar of assets, 57.7 cents truly belong to him after settling all debts"
+    },
+    "answer": "D",
+    "explanation": "教材 4.10:偿付能力比率 = 净值 ÷ 总资产 = 179,000 ÷ 310,000 = 57.7%,表示每 1 元资产中 57.7 分在清偿全部债务后真正属于他。C 错:负债超过资产、净值为负才是资不抵债,George 净值为正。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.10",
+    "tags": [
+      "solvency-ratio"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s23-012",
+    "part": 2,
+    "syllabusItemId": "s23",
+    "topicGroup": "process",
+    "stem": "Which statement BEST reflects the chapter's view on using personal financial ratios?",
+    "options": {
+      "A": "A single ratio, such as the solvency ratio, is sufficient to judge financial health",
+      "B": "No single ratio tells the whole story; several ratios must be viewed together against guidelines",
+      "C": "Ratios replace the need for a balance sheet and income statement",
+      "D": "Ratios are only useful for businesses, not individuals"
+    },
+    "answer": "B",
+    "explanation": "教材 4.1:比率分析从财务报表提取数据生成关键比率,但没有单一比率能说明全貌,需综合多个比率并与建议指引值对照,才能形成对个人财务健康的整体判断。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.23 — s.4.1",
+    "tags": [
+      "ratio-analysis"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

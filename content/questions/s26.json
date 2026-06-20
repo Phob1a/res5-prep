@@ -4,43 +4,227 @@
     "part": 2,
     "syllabusItemId": "s26",
     "topicGroup": "process",
-    "stem": "Periodic portfolio reviews are important because:",
+    "stem": "Which of the following is NOT one of the four general factors the chapter identifies for deciding when a client review is needed?",
     "options": {
-      "A": "Nothing ever changes",
-      "B": "Client circumstances, goals and markets change over time",
-      "C": "They generate commission only",
-      "D": "MAS forbids them"
+      "A": "The size of the adviser's commission",
+      "B": "The client's personal circumstances",
+      "C": "External developments",
+      "D": "Product developments"
     },
-    "answer": "B",
-    "explanation": "客户情况、目标与市场会随时间变化,故需定期检视。",
+    "answer": "A",
+    "explanation": "教材 1.4 列出的四类触发因素是:客户个人情况、外部发展、客户已购产品、产品发展。'顾问佣金的大小'不在其中。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
-    "status": "draft",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.1.4",
     "tags": [
-      "review"
+      "triggers"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s26-002",
     "part": 2,
     "syllabusItemId": "s26",
     "topicGroup": "process",
-    "stem": "After conducting a review, the representative should:",
+    "stem": "According to the chapter, when should a client review ideally take place in relation to a client's retirement or redundancy?",
     "options": {
-      "A": "Keep no records",
-      "B": "Document the review findings and any recommended adjustments",
-      "C": "Hide changes from the client",
-      "D": "Never adjust the plan"
+      "A": "Several years after the event",
+      "B": "Just before the event actually takes place",
+      "C": "Only when the client specifically requests it",
+      "D": "Exactly on the date of the event"
     },
     "answer": "B",
-    "explanation": "检视后须记录结论与调整建议,保持可追溯。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
-    "status": "draft",
+    "explanation": "教材 2.9 指出,理想情况下客户检视应在退休或裁员实际发生之前进行,以便做好充分准备实现平稳过渡。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.2.9",
     "tags": [
-      "documentation"
+      "employment",
+      "timing"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-003",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "A client who values regular reviews asks for them to be done on his plans. What does the chapter advise the representative to do?",
+    "options": {
+      "A": "Decide the review frequency unilaterally based on product type",
+      "B": "Review the plans only once every five years",
+      "C": "Ask the client how often he wishes to review his financial plans",
+      "D": "Refuse, as reviews are the client's own responsibility"
+    },
+    "answer": "C",
+    "explanation": "教材 2.13 指出,你应询问客户希望多久检视一次,这有助于与客户保持定期联系。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.2.13",
+    "tags": [
+      "clients-requests"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-004",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "Which of the following is given as an example of an 'external development' that may make a portfolio review appropriate?",
+    "options": {
+      "A": "The birth of the client's child",
+      "B": "The client's promotion at work",
+      "C": "The client's decision to retire early",
+      "D": "A change in CPF employees' or employers' contribution rates"
+    },
+    "answer": "D",
+    "explanation": "教材 3.2 把 CPF 缴费率的变化列为外部发展之一。子女出生、升职、提前退休均属客户个人情况(personal circumstances),非外部发展。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.3.2",
+    "tags": [
+      "external",
+      "cpf"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-005",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "A steep fall in equity prices is most directly a signal to review which clients' holdings?",
+    "options": {
+      "A": "Clients whose only product is a term life policy",
+      "B": "Clients invested substantially in equities, including those whose ILP underlying fund invests substantially in equities",
+      "C": "Clients who hold only annually renewable medical expense insurance",
+      "D": "Clients with no investment products at all"
+    },
+    "answer": "B",
+    "explanation": "教材 3.3 指出,股价大幅下跌意味着需检视在股票上有大量投资的客户的现有投资与储蓄产品;对持有底层基金重仓股票的投连保单的客户同样适用。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.3.3",
+    "tags": [
+      "market",
+      "equities"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-006",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "Why is the conversion option on a life insurance product highlighted as an important reason to review it?",
+    "options": {
+      "A": "Because converting always increases the sum assured automatically",
+      "B": "Because conversion is compulsory at policy anniversary",
+      "C": "Because it can usually be exercised by the client without the need for further evidence of health",
+      "D": "Because conversion cancels the incontestability clause"
+    },
+    "answer": "C",
+    "explanation": "教材 4.4(a) 指出,人寿保险的转换选择权之所以重要,是因为客户通常无需进一步的健康证明即可行使。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.4.4(a)",
+    "tags": [
+      "life-insurance",
+      "options"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-007",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "For a life insurance product written under trust, what does the chapter say should be done?",
+    "options": {
+      "A": "Review the trust regularly to ensure its contents remain relevant, e.g. no change to the beneficiaries",
+      "B": "Surrender the policy and re-purchase it every year",
+      "C": "Convert the trust into an investment-linked policy",
+      "D": "Remove the trust because it resets the waiting period"
+    },
+    "answer": "A",
+    "explanation": "教材 4.4(b) 指出,若人寿产品以信托形式订立,须定期检视信托以确保内容仍然相关,例如受益人是否有变。其余选项均无教材依据。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.4.4(b)",
+    "tags": [
+      "life-insurance",
+      "trust"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-008",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "On what basis should an investment-linked product be reviewed to determine whether to advise the client to switch funds?",
+    "options": {
+      "A": "The adviser's personal market forecast only",
+      "B": "A change in CPF contribution rates",
+      "C": "The renewal notice of the client's medical insurance",
+      "D": "The fund performance report and policy statement sent out to the client"
+    },
+    "answer": "D",
+    "explanation": "教材 4.6 指出,投连产品应根据寄送给客户的基金表现报告与保单结单来决定是否建议客户转换基金。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.4.6",
+    "tags": [
+      "ilp",
+      "fund-switch"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-009",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "Under normal circumstances, the chapter's stance on the replacement of insurance policies is that it should be:",
+    "options": {
+      "A": "Mandatory whenever a newer product is launched",
+      "B": "Left entirely to the representative's discretion without any sign-off",
+      "C": "Discouraged, with any replacement recommendation acknowledged and agreed by the FA representative's supervisor",
+      "D": "Encouraged because it always benefits the client"
+    },
+    "answer": "C",
+    "explanation": "教材 5.6 指出,正常情况下应不鼓励替换保单;所有替换推荐应经 FA 代表的主管确认与同意,以降低不当销售风险。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.5.6",
+    "tags": [
+      "replacement",
+      "supervision"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s26-010",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "stem": "When an existing life policy is replaced by a new one, which combination correctly describes the effect on policy terms and benefits?",
+    "options": {
+      "A": "The incontestability clause, waiting period and suicide clause are re-set, and accumulated reversionary bonus is lost",
+      "B": "Only the waiting period is re-set; all bonuses are carried over",
+      "C": "Nothing is re-set because it is the same insurer",
+      "D": "The suicide clause is removed permanently and bonuses are doubled"
+    },
+    "answer": "A",
+    "explanation": "教材 5.6 指出,替换会使新保单重置不可争议条款、等待期与自杀条款,同时被替换的保险将丧失索赔时点已累积的复归红利(reversionary bonus)。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.5.6",
+    "tags": [
+      "replacement",
+      "clauses"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

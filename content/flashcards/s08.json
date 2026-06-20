@@ -1,0 +1,173 @@
+[
+  {
+    "id": "fc-s08-001",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "FA 牌照只发给公司 / Licence only to a corporation",
+    "point": "FA 牌照只发给在新加坡设立实体存在的公司,不发给个人。 / A financial adviser's licence is granted only to a corporation with a physical presence in Singapore, not to individuals.",
+    "keyfacts": [
+      "依 FAA 第 64 条 / Issued under s.64 FAA",
+      "至少 2 名全职委任代表 / At least 2 full-time appointed representatives"
+    ],
+    "sourceRef": "FAA-G01 — Criteria for the Grant of a FA's Licence",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-002",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "实缴资本门槛 / Paid-up capital thresholds",
+    "point": "一般 FA 服务 $150,000;涉及期货/即期外汇/货币 OTC 衍生品或组合则 $300,000。 / $150,000 for general FA services; $300,000 where futures, spot FX or currency OTC derivatives, or a combination, are involved.",
+    "keyfacts": [
+      "FAR 第 15 条 / FAR reg.15",
+      "外资公司为同额净总部资金 / Net head office funds for a foreign company"
+    ],
+    "sourceRef": "FAA-G01 para 8.1 — Minimum financial requirements",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-003",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "专业责任险 PII / Professional Indemnity Insurance",
+    "point": "须持独立非混合 PII,保额不低于 $500,000,免赔额不超过上一财年净资产值的 20%。 / A standalone non-hybrid PII with indemnity ≥ $500,000 and a deductible no more than 20% of net asset value at the end of the immediately preceding financial year.",
+    "keyfacts": [
+      "FAR 第 17 条 / FAR reg.17",
+      "Group PII 须达独立非混合 PII 的至少 5 倍 / Group PII ≥ 5× the standalone quantum"
+    ],
+    "sourceRef": "FAA-G01 para 8.2 — Professional Indemnity Insurance",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-004",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "CEO/ED 经验与持股 / CEO/ED experience and shareholding",
+    "point": "CEO 与 ED 至少 5 年相关经验(含 3 年管理);若无 3 年往绩,CEO 须持股≥20%,CEO+ED 合计≥50%。 / CEO and EDs need ≥ 5 years' relevant experience (3 managerial); absent a 3-year track record, the CEO must hold ≥ 20% and CEO+EDs together ≥ 50%.",
+    "keyfacts": [
+      "3 年财务顾问业务往绩 / 3-year proven track record"
+    ],
+    "sourceRef": "FAA-G01 paras 7, 8.3, 8.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-005",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "Fit & Proper 三准则 / Three fit-and-proper criteria",
+    "point": "诚实正直与声誉、能力与胜任、财务稳健;举证责任在相关人士自身。 / Honesty/integrity/reputation, competence/capability, and financial soundness; the onus is on the relevant person to establish it.",
+    "keyfacts": [
+      "未满足任一准则不必然自动拒绝 / Failing one criterion is not an automatic refusal"
+    ],
+    "sourceRef": "FSG-G01 — Fit and Proper Criteria",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-006",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "雇用被禁止令者属违法 / Employing a PO holder is an offence",
+    "point": "在禁止令(PO)有效期内雇用被发 PO 的人,违反 SFA 第 101B 条与 FAA 第 60 条。 / Employing a person while a prohibition order against him is in effect is an offence under s.101B SFA and s.60 FAA.",
+    "keyfacts": [
+      "须查 MAS 公开代表登记册 / Check MAS' Public Register of Representatives"
+    ],
+    "sourceRef": "CMI 01/2011 Annex 2 paras 4-5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-007",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "虚假陈述罚则 / Penalty for false statement",
+    "point": "个人向 principal 提供虚假/误导性重大陈述并随后呈交 MAS,定罪罚款不超过 $50,000。 / An individual who gives a false/misleading statement in a material particular to his principal, later lodged with MAS, is liable on conviction to a fine not exceeding $50,000.",
+    "keyfacts": [
+      "SFA 第 99O 条与 FAA 第 23L 条 / s.99O SFA & s.23L FAA"
+    ],
+    "sourceRef": "CMI 01/2011 Annex 1 para 3 & para 12",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-008",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "自我声明必要但不充分 / Self-declaration necessary but insufficient",
+    "point": "代表自我声明是必要但不充分的尽调措施,FI 仍须独立核验文件与查册。 / A representative's self-declaration is a necessary but insufficient due-diligence measure; the FI must still verify documents and conduct independent checks.",
+    "keyfacts": [
+      "应定期(如每年)重做声明与检查 / Re-declare and re-check periodically (e.g. annually)"
+    ],
+    "sourceRef": "CMI 01/2011 Annex 1 para 5; para 13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-009",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "FAA-G04 操守与披露 / Conduct and disclosure",
+    "point": "FA 须正直、客观、保密、有能力、谨慎勤勉,并向客户披露产品关键特征与全部报酬。 / FAs must act with integrity, objectivity, confidentiality, competence and due diligence, and disclose key product features and all remuneration to clients.",
+    "keyfacts": [
+      "寿险产品披露 Benefit Illustration 中的 distribution cost 即可 / For a life policy, disclosing the BI distribution cost suffices"
+    ],
+    "sourceRef": "FAA-G04 — Standards of Conduct",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-010",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "合理依据与 KYC / Reasonable basis and KYC",
+    "point": "推荐前须查明客户目标/风险/状况/经验/需要,建议须有合理依据且适合客户,不得以佣金回扣作推荐依据。 / Determine the client's objectives, risk, situation, experience and needs; recommendations must have a reasonable basis, be suitable, and never be based on a rebate of commissions.",
+    "keyfacts": [
+      "须保存记录并由管理层复核 / Keep records reviewed by management"
+    ],
+    "sourceRef": "FAA-G04 H — Know Your Client",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-011",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "使用 Independent 的条件 / Conditions to use \"independent\"",
+    "point": "依 FAR 第 21 条,须无造成产品偏向的佣金/利益、无直接或间接产品限制、无关联产品供应商的利益冲突。 / Under FAR reg.21: no commission/benefit creating product bias, no direct or indirect product restriction, and no conflict from links to a product provider.",
+    "keyfacts": [
+      "每类投资产品代表少于 4 家供应商一般非独立 / Fewer than 4 providers per class is normally not independent"
+    ],
+    "sourceRef": "FAA-G05 — Use of the term \"Independent\"; FAR reg.21",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s08-012",
+    "part": 1,
+    "syllabusItemId": "s08",
+    "topicGroup": "guidelines",
+    "title": "20% 显著性经验法则 / 20% significance rule of thumb",
+    "point": "佣金/利益超过总收入 20%,或不同类别佣金率差异超过 20%,一般视为显著。 / Commissions/benefits exceeding 20% of total revenue, or differences in commission rates exceeding 20%, are generally regarded as significant.",
+    "keyfacts": [
+      "FA 本身为产品供应商不应自称独立 / An FA that is itself a product provider should not claim independence"
+    ],
+    "sourceRef": "FAA-G05 C4 para 1.21",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

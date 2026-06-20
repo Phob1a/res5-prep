@@ -1,0 +1,93 @@
+[
+  {
+    "id": "note-s10-overview",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "title": "MAS 指引 第三部分 / MAS Guidelines — Part III",
+    "summary": "本章涵盖五项 MAS 指引:研究分析利益冲突(FAA-G13)、无意见网上分销人寿保单(FAA-G15)、Reg 32CB 安排批准(FAA-G16)、数字咨询服务(CMG-G02)与零售场所营销分销行为准则(FSG-G02)。需掌握各指引适用对象与核心要求。 / This chapter covers five MAS Guidelines: research conflicts of interest (FAA-G13), online distribution of life policies with no advice (FAA-G15), approval of Reg 32CB arrangements (FAA-G16), digital advisory services (CMG-G02) and standards of conduct for marketing and distribution (FSG-G02). Focus on who each applies to and its core requirements.",
+    "sections": [
+      {
+        "heading": "FAA-G13 研究利益冲突 — 适用与目的",
+        "body": "FAA-G13 依《财务顾问法》(2001)第 64 条发出,适用于以发出或传播研究分析/研究报告(电子、印刷或其他形式,涉及任何投资产品)方式提供咨询服务的财务顾问(称\"Financial Institution\")。研究报告须客观、清晰、公平、不误导。FAR Reg 14(b)(viii) 要求按业务性质、规模与复杂性确保有效控制与职责分离以缓解利益冲突。研究分析/报告指含对清晰可辨投资产品的意见或建议;经济或资产配置研究若不含对具名产品的意见则被排除。"
+      },
+      {
+        "heading": "FAA-G13 Research conflicts — scope and purpose",
+        "body": "Issued under s64 of the Financial Advisers Act (2001), FAA-G13 applies to any financial adviser providing the FA service of advising by issuing or promulgating research analyses or research reports (electronic, print or other form) concerning any investment product (a \"Financial Institution\"). Reports should be objective, clear, fair and not misleading. FAR Reg 14(b)(viii) requires effective controls and segregation of duties commensurate with the business to mitigate conflicts. Research analyses/reports contain opinions or recommendations on a clearly identifiable investment product; economic or asset-allocation research with no opinion on a named product is excluded."
+      },
+      {
+        "heading": "FAA-G13 内部政策与四大冲突来源",
+        "body": "Financial Institution 应制定书面政策管理影响研究公正性的冲突,经高级管理层批准并监控成效。内部政策须处理:(i) 来自以下方面的冲突——a. 机构及其分析师的交易活动与财务利益;b. 分析师的汇报线与薪酬;c. 机构业务关系及其他外部方的影响;以及 (ii) 披露标准。分析师应与销售交易、自营、企业融资咨询等可能影响独立性的职能分开,且研究报告不得由这些职能审阅或批准;分析师薪酬不得基于任何销售交易、自营或企业融资交易。"
+      },
+      {
+        "heading": "FAA-G13 Internal policies and four conflict sources",
+        "body": "A Financial Institution must put written policies in place to manage conflicts affecting research impartiality, approved and endorsed by senior management and monitored for effectiveness. Internal policies must address: (i) conflicts arising from (a) trading activities and financial interests of the FI and its analysts, (b) reporting lines and compensation of analysts, and (c) influence from business relationships and other external parties; and (ii) standards of disclosure. Analysts should be separate from sales trading, dealing and corporate finance advisory functions, whose units must not review or approve research reports; analyst compensation must not be based on any sales trading, dealing or corporate finance transaction."
+      },
+      {
+        "heading": "FAA-G13 披露与记录保存",
+        "body": "实际与潜在利益冲突的披露应以书面作出,清晰、显著、完整、简明、具体,使投资者能理解冲突及其对报告质量的可能影响;泛泛或样板式陈述(如机构\"可能有或没有\"产品利益)本身不足。机构及分析师应披露报告标的中可能产生冲突的任何重大利益。机构应将分析师研究建议的依据与支持文件,自研究建议发布之日起保存不少于 5 年。"
+      },
+      {
+        "heading": "FAA-G13 Disclosure and recordkeeping",
+        "body": "Disclosures of actual and potential conflicts should be in writing, clear, prominent, complete, concise and specific so investors understand the conflict and its likely impact on report quality; generic or boilerplate statements (e.g. the FI \"may or may not have interest\") are insufficient on their own. The FI and its analysts should disclose any material interest in the subject of the report that may create a conflict. The FI must maintain records of the bases and supporting documents of its analysts' research recommendations for not less than 5 years from the date of publication."
+      },
+      {
+        "heading": "FAA-G15 网上分销无意见人寿保单",
+        "body": "FAA-G15 依第 64 条发出,适用于所有持牌及获豁免财务顾问(就其获豁免活动除外),自 2017 年 3 月 31 日起生效,针对无提供意见的网上人寿保单分销设定保障措施。若保险公司提供等值的直接购买保险产品(DPI),财务顾问在网上直接渠道提供某保单时,也应在该渠道提供该等值 DPI(MAS 不强制所有 FA 上线 DPI,但有网上平台者须提供)。关键资讯保障:在客户完成购买前提供产品资讯(FAA-N16 第 37(b) 段文件:封面页、保单图示、产品摘要、捆绑产品披露文件、产品要点单)及完整保单条文;取得 Annex A 确认;对有条件接受(除外条款/加费)须客户确认已阅读理解;并以显著陈述(如弹窗)提示七项要点(人寿保单非储蓄/存款、提早退保未必取回保费、部分利益不保证、有 14 天自由检视期、可要求解释、可另寻适合性意见、若不寻求意见应自行考虑适合性)。"
+      },
+      {
+        "heading": "FAA-G15 Online distribution of life policies with no advice",
+        "body": "Issued under s64 and effective 31 March 2017, FAA-G15 applies to all licensed and exempt financial advisers (except in respect of the activities for which they are exempt). Before offering a specific life policy online, the FA should check whether the insurer offers an equivalent Direct Purchase Insurance product (DPI) and, if available, also make that DPI available on its online direct channel; MAS does not require every FA to offer DPIs online, but those with an online platform must. Safeguards at application include: providing product information (the FAA-N16 para 37(b) documents — cover page, policy illustration, product summary, bundled product disclosure document, product highlights sheet — plus full policy wordings) and obtaining the Annex A acknowledgement; flagging any conditional acceptance (exclusions/loadings) for client acknowledgement; and a prominent statement (e.g. pop-up) covering seven points, including that a life policy is not a savings account or deposit, premiums may not be returned on early surrender, some benefits are not guaranteed, a 14-day free-look period applies, the client may seek explanation, may separately seek suitability advice, and should consider suitability if not doing so."
+      },
+      {
+        "heading": "FAA-G16 Reg 32CB 安排批准(ACMF Pass)",
+        "body": "FAA-G16 依第 64 条发出,就 FAR Reg 32CB 下安排的批准提供指引,源自 ACMF 专业流动框架(\"ACMF Pass\",2018-10-11 签 MOU,2019-01-01 生效)。Reg 32CB 将相关实体规定为第 23(1)(f) 条下的获豁免财务顾问。两类安排:(a) Singapore Entity 与相关实体的 ACMF Pass,就指定东盟资本市场产品(东盟成员国上市股票、债券含 sukuk、集合投资计划单位)提供咨询;(b) Hosting Platform Operator 与相关实体的跨境研究报告发布安排。评估标准(非详尽)包括:在拟提供服务上有至少 5 年企业往绩;在该 5 年内财务稳健且以高效、诚实、公平方式履职;并在指定东盟参与国持牌或获授权并受 Recognised ACMF Member 监管。认可成员/参与国为泰国(SEC)、马来西亚(SC)、菲律宾(SEC)。MAS 保留拒批权。"
+      },
+      {
+        "heading": "FAA-G16 Approval of Reg 32CB arrangements (ACMF Pass)",
+        "body": "Issued under s64, FAA-G16 guides applications for approval of arrangements under FAR Reg 32CB, arising from the ACMF Professional Mobility Framework (\"ACMF Pass\"; MOU signed 11 Oct 2018, effective 1 Jan 2019). Reg 32CB prescribes a relevant entity as an exempt FA under s23(1)(f). Two arrangement types: (a) an ACMF Pass between a Singapore Entity and a relevant entity for advising on Specified ASEAN capital markets products (shares listed in an ASEAN member country, bonds including sukuk, and CIS units); and (b) a Cross-Border Publication of Research Report Arrangement between a Hosting Platform Operator and a relevant entity. Non-exhaustive assessment criteria include: a minimum five-year corporate track record in the specific FA services; being financially sound and having discharged functions efficiently, honestly and fairly over that five-year period; and being licensed/authorised in a Specified ASEAN participating country under a Recognised ACMF Member. Recognised members/countries are Thailand (SEC), Malaysia (SC) and the Philippines (SEC). MAS reserves the right to refuse approval."
+      },
+      {
+        "heading": "CMG-G02 数字咨询 — 牌照与豁免",
+        "body": "CMG-G02 依 SFA 第 321 条及 FAA 第 64 条发出,适用于所有提供或拟提供数字咨询(robo-advisory)的金融机构。无单独授权制度;SFA/FAA 牌照框架技术中立。两项关键豁免:作为 FA 的数字顾问,若仅将客户买卖盘传予经纪行执行且属附带于咨询(\"Dealing Exemption\"),豁免资本市场服务牌照(交易);适用于所有 FA 及除 OTC 衍生合约外的指定产品;\"附带\"指先提供意见再协助下单,且与客户是否接受建议无关。对仅由上市/非上市 CIS 组成组合的定期再平衡(\"Fund Management Exemption\")豁免基金管理 CMS 牌照,需:仅就纯 CIS 组合再平衡;取得客户一次性书面授权;事前书面披露范围/频率/方法、费用、预先通知期;并在每次再平衡前通知客户。寻求零售客户但不满足 5 年往绩或 S$10 亿 AUM 者,可在满足额外保障(关键人员有相关经验、仅向零售客户提供全为 EIP 的 CIS 组合、首年末由独立第三方做授权后审计)下申牌。"
+      },
+      {
+        "heading": "CMG-G02 Digital advisory — licensing and exemptions",
+        "body": "Issued under s321 of the SFA and s64 of the FAA, CMG-G02 applies to all FIs offering or seeking to offer digital (robo) advisory services. There is no separate authorisation regime; the SFA/FAA licensing framework is technology-agnostic. Two key exemptions: a digital adviser operating as an FA is exempt from a CMS licence for dealing if it merely passes clients' buy/sell orders to brokerage firms for execution incidental to its advice (\"Dealing Exemption\"), applicable to all FAs and to specified products other than OTC derivatives; dealing is incidental where advice was given first and is independent of whether the recommendation is accepted. Periodic rebalancing of portfolios comprising solely listed and unlisted CIS is exempt from a fund-management CMS licence (\"Fund Management Exemption\"), requiring rebalancing of CIS-only portfolios, a one-time prior written authorisation, prior written disclosure of scope/frequency/methodology/fees/notice period, and notification before each rebalancing. Firms targeting retail clients but unable to meet the five-year track record or S$1 billion AUM may be licensed for fund management subject to additional safeguards (key individuals with relevant experience, retail portfolios comprising only CIS that are in substance EIPs, and a post-authorisation independent audit at the end of the first year)."
+      },
+      {
+        "heading": "CMG-G02 算法治理、适合性与披露",
+        "body": "董事会与高级管理层对客户端工具的监督与治理负最终责任(即使委托日常运营),应批准设计与方法、维持监督、配备胜任人员并培训。开发时须确保算法稳健、收集足够资讯、设置淘汰(knock-out)问题剔除不适合客户、上线及变更前充分测试(含回测使风险画像与方法一致)。须满足科技风险管理(FAA-N18、CMG-N02、TRM Guidelines)与反洗钱反恐融资(FAA-N06、SFA04-N02),并处理非面对面冒充风险。须书面披露算法假设/限制/风险、可凌驾或暂停服务的情形、重大调整,及利益冲突(算法导向关联方产品/较高佣金)。适合性依 FAA 第 27 条;完全自动化数字顾问在满足五项条件(全自动无人工介入、内置淘汰问题、查处不一致回应、提供风险披露陈述、仅限实质为 EIP 的 CIS)下,可适用 FAA-N16 第 11A 段豁免,但仍须收集财务目标与风险承受度。平衡计分卡(BSC)仅适用于直接向客户提供建议的 FA 与代表。"
+      },
+      {
+        "heading": "CMG-G02 Algorithm governance, suitability and disclosure",
+        "body": "The Board and Senior Management are ultimately responsible for oversight and governance of the client-facing tool (even where day-to-day operation is delegated): approving design and methodology, maintaining oversight, staffing with competent persons and providing training. In development, the tool must use sufficiently robust algorithms, collect and analyse necessary information, use knock-out questions to eliminate unsuitable clients, and be tested before launch and on change (including back-testing so risk profiles match the methodology). Digital advisers must meet technology-risk requirements (FAA-N18, CMG-N02, the TRM Guidelines) and AML/CFT requirements (FAA-N06, SFA04-N02), and address non-face-to-face impersonation risk. They must disclose in writing the algorithms' assumptions/limitations/risks, override or halt circumstances, material adjustments, and any conflicts of interest (e.g. algorithms steering clients to affiliate products or higher-commission products). Suitability follows s27 of the FAA; fully-automated digital advisers meeting five conditions (fully automated with no human intervention, in-built knock-out questions, controls for inconsistent responses, a risk disclosure statement, and advice limited to CIS that are in substance EIPs) may rely on the FAA-N16 Exception under para 11A but must still collect financial objectives and risk tolerance. The balanced scorecard (BSC) framework applies only to FAs and representatives who give recommendations or advice directly to clients."
+      },
+      {
+        "heading": "FSG-G02 营销分销行为准则 — 适用与治理",
+        "body": "FSG-G02 自 2017 年 4 月 1 日起生效,以原则为本,适用于所有在零售商及公共场所针对零售客户开展营销分销活动的金融机构及其代表(亦应推及街头招揽、问卷、上门、研讨会等)。\"代表\"指受机构委聘代其营销分销的雇员或代理;\"客户\"包括潜在客户。董事会与高级管理层须负责将各项保障纳入政策、系统与流程并对市场行为负责。MAS 会以机构遵守与否评估其是否满足业务行为要求及是否适当(fit and proper)。"
+      },
+      {
+        "heading": "FSG-G02 Standards of conduct for marketing and distribution — scope and governance",
+        "body": "Effective 1 April 2017 and principles-based, FSG-G02 applies to all FIs that conduct marketing and distribution activities targeting retail customers at retailers and public places, and to their representatives (and should extend to street canvassing, surveys, door-to-door prospecting and seminars). A \"representative\" is any employee or agent engaged to market/distribute on the FI's behalf; \"customer\" includes a prospective customer. The Board and senior management are accountable for embedding the safeguards in policies, systems and processes and for assessing and addressing the risks. MAS will take account of an FI's observance of the Guidelines in assessing business-conduct compliance and fitness and propriety."
+      },
+      {
+        "heading": "FSG-G02 十二项保障措施",
+        "body": "三组共 12 项保障:(A) 充分监督(Safeguards 1–4)——1. 对零售/公共场所成交客户在自由检视/冷静期前或期内进行回访或调查(人寿、意外健康、CIS 适用);2. 定期神秘购物与现场巡查,且应覆盖当年至少一半营销分销安排;3. 单独追踪并定期向高管报告相关投诉统计;4. 维持记录地点、期间、代表/主管身份、所售产品的安排登记册。(B) 专业操守(Safeguards 5–10)——5. 始终专业,不得过度纠缠或施压;6. 主动披露身份与所代表机构,披露第三方产品关系及与零售商的联营;7. 代表须先完成培训方可参与;8. 仅安排合规记录良好的代表(参考 BSC 等级、投诉、纪律处分);9. 薪酬激励不得诱发激进销售;10. 赠品不得不当影响购买决定且不得显著推广。(C) 适当环境(Safeguards 11–12)——11. 场地须利于妥善销售与咨询会谈;12. 妥善处理并安全保管所收款项(尽量减少收现、开收据、专人保管、尽快上缴)。"
+      },
+      {
+        "heading": "FSG-G02 The twelve safeguards",
+        "body": "Twelve safeguards in three groups: (A) Adequate oversight (1–4) — 1. conduct call-backs or surveys for all customers prospected at retailers/public places before or within the free-look or cooling-off period (expected for life, accident & health and CIS); 2. conduct regular mystery shopping and site visits covering at least half of all such arrangements in the year; 3. separately track complaints and report statistics to senior management regularly; 4. maintain a register of arrangements (locations, period/duration, identities of representatives and supervisors, products marketed). (B) Professional conduct (5–10) — 5. behave professionally and not pressure the public; 6. disclose identity and the FI represented, plus any third-party product or retailer tie-up relationship; 7. ensure representatives are trained before participating; 8. deploy only representatives with good compliance records (considering BSC grade, complaints, disciplinary action); 9. ensure remuneration and incentives do not drive aggressive sales; 10. ensure gifts do not unduly influence and are not prominently promoted. (C) Suitable environment (11–12) — 11. ensure venues are conducive to a proper sales and advisory session; 12. have adequate controls so payments collected are properly handled and securely kept (minimise cash, issue receipts, dedicated custody, pass on monies promptly)."
+      }
+    ],
+    "keyPoints": [
+      "FAA-G13:分析师须与销售/交易/企业融资分离,薪酬不挂钩交易,记录保存≥5 年 / FAA-G13: analysts segregated from sales/dealing/corporate finance, pay not tied to deals, records ≥5 years",
+      "FAA-G15:有等值 DPI 须同步上线;14 天自由检视期;Annex A 确认 / FAA-G15: equivalent DPI must also be offered online; 14-day free-look; Annex A acknowledgement",
+      "FAA-G16:Reg 32CB 经第 23(1)(f) 豁免;5 年往绩;泰、马、菲为认可成员 / FAA-G16: Reg 32CB exemption via s23(1)(f); 5-year track record; Thailand, Malaysia, Philippines recognised",
+      "CMG-G02:Dealing 与 Fund Management 两项豁免;董事会对算法负最终责任;BSC 仅限直接建议者 / CMG-G02: Dealing and Fund Management exemptions; Board ultimately responsible for algorithms; BSC only for those advising directly",
+      "FSG-G02:12 项保障;神秘购物覆盖≥一半安排;无 advice 上线人寿与回访 / FSG-G02: 12 safeguards; mystery shopping covers ≥half of arrangements; call-backs within free-look period"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10 — MAS Guidelines Part III [FAA-G13; FAA-G15; FAA-G16; CMG-G02; FSG-G02]",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

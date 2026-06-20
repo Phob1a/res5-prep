@@ -4,27 +4,110 @@
     "part": 2,
     "syllabusItemId": "s17",
     "topicGroup": "ethics",
-    "title": "churning / twisting",
-    "point": "churning=刷佣频繁交易;twisting=损客户换单赚佣。 / Churning = excessive trading; twisting = detrimental replacement for commission.",
+    "title": "不道德行为的根源 / Root cause of unethical behavior",
+    "point": "金融机构过度强调销售目标与利润、加上佣金导向的薪酬结构,会造成给客户不当建议或销售不适合产品的偏向。 / Excessive focus on sales targets and profit plus commission-based pay creates bias toward inappropriate advice or unsuitable products.",
     "keyfacts": [
-      "两者皆不道德 / Both unethical"
+      "代表为保住工作而采取不道德手段 / Reps resort to unethical practices to stay employed"
     ],
-    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.1–1.2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s17-002",
     "part": 2,
     "syllabusItemId": "s17",
     "topicGroup": "ethics",
-    "title": "严重违规 / Severe misconduct",
-    "point": "挪用客户资金、伪造文件属严重违规甚至犯罪。 / Misappropriation/forgery is serious misconduct or crime.",
+    "title": "洗单 Churning / Churning",
+    "point": "Churning 指寿险代理人说服客户在短期内终止现有保单,转购对客户无实质益处的相似产品。 / Churning is persuading clients to terminate existing policies after a short period and switch to similar products with no real benefit.",
     "keyfacts": [
-      "可致撤牌/刑责 / Revocation/criminal liability"
+      "只盯销售与利润的公司可能纵容、默许甚至鼓励洗单 / Sales-only firms may condone or encourage churning",
+      "迟早曝光并招致不利后果 / Eventually exposed with adverse consequences"
     ],
-    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.5–1.6",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s17-003",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "高佣金 vs 适合性 / High commission vs suitability",
+    "point": "代表可能推高佣金的终身寿险(whole life),而定期寿险(term)其实更适合或更便宜。 / A rep may push a high-commission whole life policy when a term policy would be more suitable or cheaper.",
+    "keyfacts": [
+      "为佣金而非客户利益服务 / Serving commission, not the client"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s17-004",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "错配保单案例 / Mismatched policy case",
+    "point": "2015-10-05《海峡时报》:离婚客户被售年保费 S$40K 保单(高于年收入),第二年退保几无退保价值,与其流动性需求错配。 / Straits Times, 5 Oct 2015: a divorcee was sold a S$40K-premium policy above her income; second-year surrender yielded little value — mismatched to her liquidity needs.",
+    "keyfacts": [
+      "离婚后存款约 S$350K,本只想要更好储蓄利率 / ~S$350K deposit; she only wanted a better savings rate"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.7",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s17-005",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "不道德行为类型(节选) / Types of unethical behavior (selected)",
+    "point": "包括操纵与定价合谋、定价缺陷、洗单与转保、虚假/误导陈述、未识别客户需求、回扣佣金、拒赔/拖延理赔、滥用客户个人资料等。 / Includes rigging and price fixing, pricing flaws, churning/switching, false or misleading representations, failure to identify needs, commission rebating, denying/delaying claims, and misuse of client data.",
+    "keyfacts": [
+      "教材列出约二十多项类型 / The text lists over twenty types"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 2.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s17-006",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "回扣佣金 / Rebating commission",
+    "point": "把部分佣金回扣给潜在客户作为投保诱因属不道德行为之一。 / Rebating part of the commission as an incentive to a prospective client is one type of unethical behavior.",
+    "keyfacts": [],
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 2.1(o)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s17-007",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "道德决策的定义 / Ethical decision making defined",
+    "point": "道德决策是依据道德原则在各方案中评估并选择的过程:察觉并剔除不道德选项,选出最佳道德方案。 / Ethical decision making is evaluating and choosing among alternatives consistent with ethical principles — eliminating unethical options and selecting the best ethical one.",
+    "keyfacts": [
+      "不同世界观使人对同一情境有不同解读 / Different worldviews lead to different interpretations"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 3.1–3.2",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s17-008",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "title": "道德决策的四个障碍 / Four obstacles to ethical decision making",
+    "point": "(a) 品格败坏、(b) 缺乏道德感知、(c) 屈服于诱惑、(d) 合理化。 / (a) Corrupted character, (b) lack of moral perception, (c) giving in to temptation, (d) rationalization.",
+    "keyfacts": [
+      "障碍=妨碍/拖慢/阻止作出最佳道德选择的因素 / An obstacle slows or stops the best ethical choice"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 3.3–3.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

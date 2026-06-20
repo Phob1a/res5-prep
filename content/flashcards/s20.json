@@ -4,27 +4,171 @@
     "part": 2,
     "syllabusItemId": "s20",
     "topicGroup": "sales",
-    "title": "道德营销 / Ethical marketing",
-    "point": "均衡披露收益/风险/费用,推荐有合理基础,不误导。 / Balance returns/risks/fees; reasonable basis; no misleading.",
+    "title": "六步道德销售流程 / Six-step ethical sales process",
+    "point": "吸引注意→解释结构→说明下行风险→厘清保障构成→说明谁担风险→遵守法规;目标是告知而非卖出。 / Gain attention → explain structure → explain downside risk → clarify coverage → explain who bears risk → comply with rules; the goal is to inform, not to sell.",
     "keyfacts": [
-      "不夸大不淡化 / No exaggeration or downplaying"
+      "人寿三要素:premium、cash value、death benefit / Life policy: premium, cash value, death benefit",
+      "客户担非保证风险,保险人担保证部分 / Client bears non-guaranteed, insurer bears guaranteed"
     ],
-    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.1.3 (SCI, V1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s20-002",
     "part": 2,
     "syllabusItemId": "s20",
     "topicGroup": "sales",
-    "title": "禁止行为 / Prohibited",
-    "point": "禁高压逼单、隐瞒重要信息、虚假承诺回报。 / No high-pressure, concealment or promised returns.",
+    "title": "三大道德陷阱 / Three ethical pitfalls",
+    "point": "营销与销售的三大陷阱:虚假陈述、销售不适当产品、未识别并披露利益冲突。 / The three pitfalls in marketing and sale: misrepresentation, selling unsuitable products, and failing to recognize and disclose conflicts of interest.",
     "keyfacts": [
-      "尊重冷静期 / Respect cooling-off"
+      "对应本章第 3、5、6 节 / Map to chapter sections 3, 5, 6"
     ],
-    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.2.1 (SCI, V1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-003",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "虚假陈述定义 / Definition of misrepresentation",
+    "point": "把虚假陈述当事实呈现的不实陈述,无论无意或故意,可为有披露义务时的不披露。 / The presentation of a false statement as fact — an untrue statement, whether unintentional or deliberate, possibly non-disclosure where a duty to disclose exists.",
+    "keyfacts": [
+      "三要素:合理依赖、陈述者知其被依赖、受害者受损 / 3 components: justified reliance, speaker's knowledge, resulting loss"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.3.1–3.2 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-004",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "虚假陈述四要件(新加坡)/ Four conditions (Singapore)",
+    "point": "订约前一方作事实陈述、该陈述不实、受意人依赖而订约、受意人受损失与损害。 / A pre-contract representation of fact; it was untrue; the representee relied on it to contract; the representee suffered loss and damage.",
+    "keyfacts": [
+      "源自普通法 + Misrepresentation Act 1967 / Common law + Misrepresentation Act 1967"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.3.3 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-005",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "虚假陈述 vs 欺诈 / Misrepresentation vs fraud",
+    "point": "欺诈是故意欺骗;虚假陈述可为无意的或遗漏行为,无意者源于过失(negligence)。 / Fraud is intentional deception; misrepresentation can be unintentional or an act of omission, the unintentional kind resulting from negligence.",
+    "keyfacts": [
+      "说谎两式:by omission(续行虚假陈述)、by commission / Lying by omission (continuing misrep) and by commission"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.3.4–3.11 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-006",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "Holley 五级披露策略 / Holley's five disclosure rules",
+    "point": "Minimal → Modified Minimal → Fairness → Mutual Benefit → Maximal,披露义务由弱到强。 / From Minimal to Modified Minimal to Fairness to Mutual Benefit to Maximal — increasing disclosure duty.",
+    "keyfacts": [
+      "Minimal=caveat emptor;Modified=caveat emptor plus / Minimal = caveat emptor; Modified = caveat emptor plus",
+      "建议采用 Mutual Benefit Rule Plus / Recommended: Mutual Benefit Rule Plus"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.4.3–4.15 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-007",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "图示的误用 / Misuse of illustrations",
+    "point": "图示本应助客户知情决策,却可能被用来诱购、歪曲产品未来运作;须解释其假设、作用与局限。 / Illustrations should aid informed decisions but can be misused to entice purchase by distorting future operation; explain their assumptions, role and limitations.",
+    "keyfacts": [
+      "客户理解\"图示仅是图示\"则少投诉/诉讼 / Clients understanding 'just an illustration' complain/sue less"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.4.16–4.20 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-008",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "适当性义务 / Suitability obligation",
+    "point": "只推荐适当产品须有合理依据;FAA 2001 第 36 条与 FAA Notice No.16 作出此要求。 / Only suitable products may be recommended, on a reasonable basis, as required by FAA 2001 s.36 and FAA Notice No.16.",
+    "keyfacts": [
+      "建立于受信标准与适当性标准之上 / Built on the Fiduciary and Suitability Standards"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.5.6 / FAA s.36, FAA Notice 16 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-009",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "利益冲突披露 / Conflict-of-interest disclosure",
+    "point": "FAA-N03 要求财务顾问就与产品提供方关联的实际/潜在冲突向客户书面披露。 / FAA-N03 requires a financial adviser to disclose in writing to clients any actual or potential conflict arising from connection with a product provider.",
+    "keyfacts": [
+      "FAA 第 36 条旨在避免冲突,无法避免则披露 / FAA s.36 aims to avoid conflicts; if unavoidable, disclose",
+      "隐藏冲突例:奖励旅行、finder's fee / Hidden: incentive trip, finder's fee"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.6.4–6.6 / FAA-N03 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-010",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "营销 vs 销售 / Marketing vs selling",
+    "point": "营销重客户满意(研究、定价、广告、分销);销售重产品,是把产品变现的行为。 / Marketing emphasises client satisfaction (research, pricing, advertising, distribution); selling emphasises the product and converts it into cash.",
+    "keyfacts": [
+      "营销聚焦满足需要与想要 / Marketing focuses on meeting needs and wants"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.7.1–7.2 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-011",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "三类营销陷阱 / Three marketing pitfalls",
+    "point": "用材料虚假呈现能力/资历、使用恐吓策略、设定不切实际期望。 / Using materials to misrepresent competence/credentials, using scare tactics, and setting unrealistic expectations.",
+    "keyfacts": [
+      "恐吓策略用\"doomsday examples\"制造紧迫 / Scare tactics use 'doomsday examples'",
+      "不实承诺例:15% 回报、即增 S$100,000 净值 / e.g. 15% return, instant +S$100,000 net worth"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.7.4–7.20 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s20-012",
+    "part": 2,
+    "syllabusItemId": "s20",
+    "topicGroup": "sales",
+    "title": "选择性信息案例(Peter)/ Selective information (Peter)",
+    "point": "Peter 鼓动客户退保终身寿险转买定期+投资,却隐瞒不可争议条款重置、非保证回报与缺乏不丧失价值条款,行为不道德。 / Peter urged surrendering whole-life for term plus investments but hid the reset incontestability clause, non-guaranteed returns and lack of non-forfeiture clause — unethical.",
+    "keyfacts": [
+      "对照例:Mary 先劝夫妇保障自己,虽冒失单风险却合德 / Contrast: Mary urged self-protection first — ethical"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — s.7.32–7.33 (SCI, V1.1)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

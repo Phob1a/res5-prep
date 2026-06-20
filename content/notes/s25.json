@@ -3,33 +3,102 @@
     "id": "note-s25-overview",
     "part": 2,
     "syllabusItemId": "s25",
-    "title": "向客户呈现分析与方案 / Presenting to Clients",
-    "summary": "呈现须清晰诚实:说明假设、风险、费用与替代方案,确保客户理解后由其自主决定,并提供书面文件。 / Present clearly and honestly: explain assumptions, risks, fees and alternatives, ensure the client understands, let them decide freely, and provide documentation.",
+    "title": "向客户呈现分析与解决方案 / Presentation of Analysis and Solutions to Clients",
+    "summary": "本章讲述如何向客户呈现财务需求分析的结论与产品建议:会前准备、预约、清晰简明沟通,以及成交(closing)环节的表格填写、重大事实披露、声明授权、文件提供顺序与销售时点参考清单。核心是让客户真正理解所推荐的产品及推荐理由。 / This chapter covers presenting the financial needs analysis and product recommendations: preparing for the meeting, making an appointment, communicating clearly and simply, and closing — completing forms, disclosing material facts, declarations/authorisations, the sequence of documents to hand over, and the point-of-sale reference checklist. The core aim is that the client genuinely understands the products recommended and the reasons for them.",
     "sections": [
       {
-        "heading": "清晰与披露",
-        "body": "用客户能懂的语言说明逻辑与不确定性;披露关键假设、风险、费用、冲突与替代选项。"
+        "heading": "呈现建议的总体目标",
+        "body": "你应确保客户理解所推荐的产品以及推荐的理由。因此你必须能解释所荐产品的特性与利益,以及它们如何契合客户的处境,并解答客户对基本财务规划指引(Basic Financial Planning Guide)的任何疑问。"
       },
       {
-        "heading": "Clarity & disclosure",
-        "body": "Explain in plain language with uncertainties; disclose key assumptions, risks, fees, conflicts and alternatives."
+        "heading": "Overall aim of presenting recommendations",
+        "body": "You should ensure your client understands the products recommended and the reasons for the recommendations. You must therefore be able to explain the features and benefits of the recommended products and how they fit his situation, and answer any questions he may have regarding the Basic Financial Planning Guide."
       },
       {
-        "heading": "客户决定",
-        "body": "确保客户理解后由其自主决定,不施压;留存建议书/文件备查。"
+        "heading": "A. 会前准备",
+        "body": "你需规划如何呈现建议,避免在客户面前手忙脚乱;经验越丰富,准备时间可能越短。应核对财务需求分析文件的准确性与完整性;若打算会后给客户留一份,需事先复印。建议遵循系统化流程讲解建议,并在会前演练,以熟悉呈现流程。若公司主张以电脑媒介呈现,你应花时间复核销售演示;也可在客户对视觉辅助反应更好时,自行以简单图示形式总结。"
       },
       {
-        "heading": "Client decides",
-        "body": "Ensure understanding, let the client decide without pressure, and keep the advice document on file."
+        "heading": "A. Prepare for the meeting",
+        "body": "Plan how you will present so you do not fumble before the client; with experience the preparation time may shorten. Check the accuracy and completeness of the financial needs analysis documents, and make copies if you intend to leave a copy with the client. Follow a systematic process when explaining, and rehearse beforehand to be familiar with the flow. If your company advocates presenting via computer media, review the sales presentation; you may also summarise it in simple pictorial form on your own accord if the client responds better to visual aids."
+      },
+      {
+        "heading": "系统化讲解顺序 (a)–(j)",
+        "body": "一个系统化流程的例子是按以下顺序讲解:(a) 说明产品目的(即该产品建议实际满足的需求);(b) 描述产品性质,含税务状况;(c) 强调产品相关的风险要素;(d) 简述产品的利益与局限;(e) 详细解释产品内各选项;(f) 总结推荐该产品的理由;(g) 在适用时准备将建议与基本财务规划指引比较;(h) 解释保单利益说明书(policy illustration),强调保证与非保证利益;(i) 披露保单下的任何分销成本、收费与开支;(j) 解释 14 天自由查阅期(free-look)条款的运作。步骤 (a)–(e) 可参考寿险公司编制的产品摘要(Product Summary)。"
+      },
+      {
+        "heading": "Systematic sequence (a)–(j)",
+        "body": "An example systematic process explains in this order: (a) state the purpose of the product (the need actually met); (b) describe the nature of the product including tax position; (c) highlight the risk elements; (d) brief on benefits and limitations; (e) explain the options within the product; (f) summarise the reasons for the recommendation; (g) be prepared to compare, where applicable, against the Basic Financial Planning Guide; (h) explain the policy illustration, highlighting guaranteed and non-guaranteed benefits; (i) disclose any distribution costs, charges and expenses under the policy; and (j) explain the operation of the 14-day free-look provision. For steps (a)–(e) you may refer to the Product Summary the life insurer prepared to aid policy-owners."
+      },
+      {
+        "heading": "B. 与客户预约",
+        "body": "为确保会面时能获得客户的注意,你应事先与客户预约讨论建议。安排预约时,应告知客户会面大约需多长时间,以便其预留足够时间;建议你遵守约定时段。可留下联系电话以便客户因紧急情况改期。你应守约并准时;若你自己因紧急情况无法赴约,也应主动联系客户改期。"
+      },
+      {
+        "heading": "B. Make an appointment with your client",
+        "body": "To secure the client's attention during the meeting, make a prior appointment to discuss the recommendations. When arranging it, advise how long the meeting is likely to take so he sets aside sufficient time, and keep to the time allocated. Leave your contact number so he can reschedule for emergencies. Keep to the appointment and be on time, and contact the client to reschedule if an emergency prevents you from keeping it."
+      },
+      {
+        "heading": "C. 清晰简明沟通",
+        "body": "产品解释应使用客户能轻松理解的语言;解释是为客户的利益服务,除非客户感到自己理解了所推荐的内容,否则不太可能接受建议。应避免使用技术术语;若必须使用如退保价值(surrender value)、红利(bonuses)等常见保险术语,应向客户解释。新加坡人寿保险协会(LIA)编制的《Your Guide to Life Insurance》提供了用简明语言表述的保险术语与定义清单。呈现过程中要记得检查客户的理解程度,并鼓励客户在不明白时随时澄清——沟通是双向过程。"
+      },
+      {
+        "heading": "C. Communicate clearly and simply",
+        "body": "Explain in language the client can comfortably understand; the explanation is for his benefit and he is unlikely to proceed unless comfortable he understands. Avoid technical jargon; where common terms such as surrender value and bonuses are necessary, explain them. The LIA's 'Your Guide to Life Insurance' provides a comprehensive list of insurance terms and definitions in simple language. During the presentation, check the client's understanding and encourage him to clarify if he does not understand — communication is a two-way process."
+      },
+      {
+        "heading": "D. 成交:表格与重大事实披露",
+        "body": "若客户同意接受建议,你须确保寿险公司与主事人要求的所有相关表格都正确填妥。填写投保申请书/建议书时,你须向客户强调披露所有重大事实(material facts)的重要性;若你或客户对某事实是否重大有疑,应建议客户照样披露。你应警告客户:当存在重大事实不披露时,他或其受益人可能在保单下一无所获;并应提请客户注意所有申请书/建议书上关于此事的警示声明。"
+      },
+      {
+        "heading": "D. Closing: forms and material-fact disclosure",
+        "body": "If the client agrees to accept the recommendations, ensure all relevant forms required by the life insurer and your principal are properly completed. When completing the application or proposal form, highlight the importance of disclosing all material facts; if you or the client is doubtful whether a fact is material, advise him to disclose it. Warn him that he or his beneficiaries might receive nothing under the policy where there is non-disclosure of a material fact, and draw his attention to the warning statement on this matter in all application/proposal forms."
+      },
+      {
+        "heading": "签署时的声明与授权 (a)–(d)",
+        "body": "签署申请书/建议书时,客户作出若干声明与授权,故你须提请其注意这些陈述。客户可能须声明/授权:(a) 已在申请书/建议书中真实如实披露所有重大事实;(b) 未隐瞒任何重大事实;(c) 知悉若不披露重大事实,利益可能丧失;(d) 同意并授权寿险公司向任何医疗来源、保险机构或人寿保险协会医疗登记册披露,以及反向获取关于他的任何相关信息,无论建议书最终是否被接纳。客户也可能须接受体检与检测;若你知悉客户需进行此类检查,应据此告知他。"
+      },
+      {
+        "heading": "Declarations and authorisations on signing (a)–(d)",
+        "body": "On signing, the client makes declarations and authorisations, so bring these statements to his attention. He may be required to declare/authorise that: (a) he has disclosed all material facts truthfully and faithfully; (b) he has not withheld any material facts; (c) he is aware benefits may be lost if material facts are not disclosed; and (d) he agrees and authorises the life insurer to release to, and obtain from, any medical source, insurance office or the LIA's medical register any relevant information about him, regardless of whether the proposal is eventually taken up. He may also be required to undergo medical examinations and tests; if you are aware of this, advise him accordingly."
+      },
+      {
+        "heading": "文件提供顺序与产品摘要 / 亮点表",
+        "body": "依 LIA 指引,对寿险咨询(以及意外与健康保险咨询),你须按以下顺序向每位准买家提供以下文件(如适用),并连同《Your Guide to Life Insurance》与《Your Guide to Health Insurance》一并提供:(a) 封面页(Cover Page);(b) 保单利益说明书(Policy Illustration);(c) 产品摘要(Product Summary);(d) 捆绑产品披露(Bundled Product Disclosure)。产品摘要描述客户欲购产品的特性;投连产品(ILP)则另提供产品亮点表(Product Highlights Sheet),描述相关 ILP 子基金的关键特性与风险。你应解释指引中与其保单相关的一般条款与条件及其合约权利。"
+      },
+      {
+        "heading": "Sequence of documents and Product Summary / Highlights Sheet",
+        "body": "Under the LIA Guidelines, for Life Insurance Advisory (and likewise Accident and Health Insurance advisory), provide each prospective buyer, where applicable, in this sequence — together with 'Your Guide to Life Insurance' and 'Your Guide to Health Insurance' — (a) Cover Page; (b) Policy Illustration; (c) Product Summary; and (d) Bundled Product Disclosure. The Product Summary describes the features of the product the client wants to buy; for ILPs a Product Highlights Sheet describes the key features and risks of the relevant ILP sub-fund. Explain the general terms and conditions and his contractual rights, as shown in the Guide, relevant to his policy."
+      },
+      {
+        "heading": "成本披露、咨询表与参考清单 (FAA-N03)",
+        "body": "保险公司依法须披露与产品相关的所有成本与收费,包括公司将付给你的佣金等分销成本,这些细节列在产品的保单利益说明书中。你还应向客户提供一份寿险咨询表(Life Insurance Advisory Form)的副本,并鼓励客户在建议书提交后仍向你澄清,会面结束前记得感谢客户。在销售时点,你须向客户提供一份参考清单,供其确认你已作出应有披露并提供应给的文件。该清单应包含 FAA《向客户提供资料及产品信息披露通知》(FAA-N03)所要求的资料:(a) 关于财务顾问代表的一般资料及代表身份;(b) 代表的报酬;(c) 利益冲突;(d) 指定投资产品;(e) 指定投资产品的过往与未来表现示例;(f) 营销材料。客户将在销售咨询流程结束时签署参考清单,以核实已收到所有必要资料。"
+      },
+      {
+        "heading": "Cost disclosure, advisory form and reference checklist (FAA-N03)",
+        "body": "Insurers are required by law to reveal all costs and charges associated with the product, including distribution costs covering any commission the insurer will pay you; these are shown in the Policy Illustration. Extend a copy of your Life Insurance Advisory Form to the client, encourage him to seek clarification even after the proposal is submitted, and thank him before ending. At the point of sale, present a reference checklist so he can confirm you have made the disclosures and provided the documents. It should include information required under the FAA Notice on Information to Clients and Product Information Disclosure (FAA-N03): (a) general information about the FA representative and his status; (b) remuneration; (c) conflicts of interest; (d) designated investment products; (e) illustration of past and future performance of designated investment products; and (f) marketing materials. The client signs the checklist at the end of the sales advisory process to verify receipt."
+      },
+      {
+        "heading": "客户拒绝建议与产品推荐示例",
+        "body": "若客户决定不接受任何建议,你可寻求澄清其拒绝理由,但若客户拒绝解释,你不应坚持,并应在离开前感谢客户的时间。产品推荐示例:最好的金融产品是客户能理解的产品,故财务顾问代表有责任向客户解释产品。若代表在任何时候怀疑客户不理解某些关键产品特性(尤其是投资产品),代表必须有中止销售的备选方案——对未通过客户知识评估(Customer Knowledge Assessment, CKA)的客户尤为如此。有时客户根本不适合购买任何金融产品,正确做法是拒绝向这类客户销售。"
+      },
+      {
+        "heading": "Client declining recommendations and the product example",
+        "body": "If the client decides not to take up any recommendation, you may seek to clarify his reasons, but should not insist if he refuses to explain, and should thank him for his time before leaving. Product Recommendation example: the best financial product is the one the client understands, so the FA representative is responsible for explaining the product. If at any time the representative doubts the client understands certain critical product features (especially in investment products), he must have an alternative to abort the sale — especially for clients who do not pass the Customer Knowledge Assessment (CKA). At times a client is not suitable to purchase any financial product, and the right course of action is to decline the sale."
       }
     ],
     "keyPoints": [
-      "清晰、客户能懂 / Clear and understandable",
-      "披露假设/风险/费用 / Disclose assumptions/risks/fees",
-      "客户自主决定不施压 / Client decides without pressure"
+      "目标:让客户理解所荐产品及推荐理由,并能解答基本财务规划指引疑问 / Aim: client understands the products and reasons; answer Basic Financial Planning Guide queries",
+      "系统化讲解顺序 (a)–(j):目的、性质/税务、风险、利益与局限、选项、理由、对比、利益说明书、成本披露、14 天 free-look / Systematic sequence (a)–(j) ending with the 14-day free-look",
+      "预约:告知时长、留联系方式、双方守约准时 / Appointment: advise duration, leave contact, both keep to time",
+      "清晰简明:避免术语,必要术语须解释,检查理解,沟通双向;LIA《Your Guide to Life Insurance》 / Communicate simply; explain terms; LIA guide",
+      "重大事实披露:存疑即披露,警告不披露可能一无所获 / Material facts: when in doubt disclose; warn of receiving nothing",
+      "文件顺序:封面页→保单利益说明书→产品摘要→捆绑产品披露;ILP 另有产品亮点表 / Sequence: Cover Page → Policy Illustration → Product Summary → Bundled Product Disclosure; PHS for ILPs",
+      "成本/佣金披露见保单利益说明书;参考清单须含 FAA-N03 六类资料并由客户签署 / Cost in Policy Illustration; FAA-N03 reference checklist signed by client",
+      "怀疑客户不理解或未通过 CKA 须能中止销售;不适合者应拒售 / Abort sale if client lacks understanding / fails CKA; decline unsuitable clients"
     ],
-    "sourceRef": "CMFAS M5 — Presentation of Analysis and Solutions to Clients",
+    "sourceRef": "RES 5 Study Text Part II Ch.25 — Presentation of Analysis and Solutions to Clients (SCI, Version 1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

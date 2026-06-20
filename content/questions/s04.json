@@ -1,0 +1,322 @@
+[
+  {
+    "id": "q-s04-001",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under MAS Notice FAA-N02, which activity is an introducer permitted to do?",
+    "options": {
+      "A": "Forward a client's particulars to an introducee with the client's consent and provide factual product information",
+      "B": "Recommend a specific investment product that suits the client",
+      "C": "Market a collective investment scheme to the client",
+      "D": "Arrange a contract of insurance for a life policy"
+    },
+    "answer": "A",
+    "explanation": "依 FAA-N02，介绍活动仅限把客户介绍给被介绍人，并可经客户同意转交资料及提供事实性产品信息。B/C/D 均被明确禁止——介绍人不得建议/推荐投资产品、推销集体投资计划或安排人寿保单。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N02 paras 1.5, 1.10",
+    "status": "draft",
+    "tags": ["faa-n02", "introducers"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-002",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Which of the following must a financial adviser maintain in its register of introducers under FAA-N02?",
+    "options": {
+      "A": "The introducer's annual income",
+      "B": "The introducer's name, place of business, contact number, business registration/IC number, and dates of appointment and termination",
+      "C": "The introducer's CMFAS examination results",
+      "D": "The introducer's personal investment portfolio"
+    },
+    "answer": "B",
+    "explanation": "FAA-N02 1.14 列明登记册须含介绍人的姓名、营业地点、联络电话、商业登记号（个人为身份证号）及委任与终止日期。其余选项均非 Notice 要求事项。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N02 para 1.14",
+    "status": "draft",
+    "tags": ["faa-n02", "register"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-003",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N02, what must a financial adviser provide to guide an introducer in carrying out introducing activities?",
+    "options": {
+      "A": "A personal indemnity bond",
+      "B": "A copy of the client's financial plan",
+      "C": "A script specifying the disclosures required under FAR Reg 31 and factual information on the FA and the products",
+      "D": "A representative's licence"
+    },
+    "answer": "C",
+    "explanation": "FAA-N02 1.12 要求财务顾问提供脚本，载明依 FAR 第 31 条须向客户披露的信息、关于财务顾问的事实信息及相关投资产品的事实信息。其余选项均非 Notice 规定。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N02 para 1.12",
+    "status": "draft",
+    "tags": ["faa-n02", "script"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-004",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N10, an exempt person under Reg 27(1)(d) may give advice on investment products (other than life policies) on any occasion to a maximum of how many accredited investors?",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "50",
+      "D": "30"
+    },
+    "answer": "D",
+    "explanation": "FAA-N10 1.4 规定豁免人可在每一场合就投资产品（人寿保单除外）向不超过 30 名认可投资者提供建议。因此正确为 30。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N10 para 1.4",
+    "status": "draft",
+    "tags": ["faa-n10", "accredited-investors"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-005",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "What does FAA-N10 prohibit an exempt person and its representatives from doing?",
+    "options": {
+      "A": "Representing, verbally or in writing, that they are licensed, regulated, supervised or registered by the MAS",
+      "B": "Advising any accredited investor at all",
+      "C": "Charging fees for advice",
+      "D": "Operating outside Singapore"
+    },
+    "answer": "A",
+    "explanation": "FAA-N10 1.6 明确禁止豁免人及其代表以口头或书面方式表示或导致被表示自己受 MAS 发牌、规管、监督或注册。B/C/D 并非该 Notice 的禁止内容。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N10 para 1.6",
+    "status": "draft",
+    "tags": ["faa-n10", "prohibited-representations"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-006",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N12, which is NOT one of the minimum entry requirements for a provisional representative?",
+    "options": {
+      "A": "At least 21 years old",
+      "B": "Singapore citizenship or permanent residency",
+      "C": "At least three years of relevant working experience",
+      "D": "At least a Bachelor's degree or equivalent / professional qualification"
+    },
+    "answer": "B",
+    "explanation": "FAA-N12 1.6 要求至少 21 岁、正在或已迁居新加坡、至少三年相关经验、至少学士学位或专业资格。Notice 要求的是\"正在迁居/已迁居\"，并非新加坡公民或永久居民身份，故 B 不是入职要求。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N12 para 1.6",
+    "status": "draft",
+    "tags": ["faa-n12", "provisional-rep"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-007",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N12, the appointment of a provisional representative is valid for a maximum period of:",
+    "options": {
+      "A": "Six months from the date of relocation",
+      "B": "One year from the date of appointment",
+      "C": "Three months from the date the name is entered into the public register of representatives",
+      "D": "Three months from the date the exam is passed"
+    },
+    "answer": "C",
+    "explanation": "FAA-N12 1.8 规定临时代表委任自其名列入公开代表登记册起最长三个月有效。其余选项的起算点或期限均不符。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N12 para 1.8",
+    "status": "draft",
+    "tags": ["faa-n12", "validity-period"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-008",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N14, within what time must a financial adviser lodge a Misconduct Report after discovering reportable misconduct?",
+    "options": {
+      "A": "Within 7 days",
+      "B": "Within 14 days",
+      "C": "Within 30 days",
+      "D": "Within 60 days"
+    },
+    "answer": "B",
+    "explanation": "FAA-N14 1.6 要求财务顾问在发现不当行为后不迟于 14 天经 MASNET 提交不当行为报告。故为 14 天。",
+    "difficulty": "easy",
+    "sourceRef": "MAS Notice FAA-N14 para 1.6",
+    "status": "draft",
+    "tags": ["faa-n14", "reporting"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-009",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N14, where a representative is suspected of an offence involving cheating or criminal breach of trust, the financial adviser is expected to:",
+    "options": {
+      "A": "Quietly dismiss the representative without any report",
+      "B": "Wait until the next annual declaration to mention it",
+      "C": "Lodge a police report and submit a copy of the police report to the MAS",
+      "D": "Refer the matter only to the industry association"
+    },
+    "answer": "C",
+    "explanation": "FAA-N14 1.4(a) 规定涉及欺诈、不诚实、伪造、挪用款项或刑事失信等罪行时，财务顾问应报警并向 MAS 提交报案副本（含调查警员姓名及进展，如有）。若未报警则须向 MAS 说明理由。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N14 para 1.4(a)",
+    "status": "draft",
+    "tags": ["faa-n14", "fraud"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-010",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under section 58(5) of the FAA (as noted in FAA-N14), the maximum fine for contravening a requirement in the Notice is:",
+    "options": {
+      "A": "$25,000, with a further fine up to $2,500 per day for a continuing offence",
+      "B": "$50,000, with a further fine up to $5,000 per day",
+      "C": "$10,000, with no daily fine",
+      "D": "$100,000, with a further fine up to $1,000 per day"
+    },
+    "answer": "A",
+    "explanation": "FAA-N14 末尾 Note 引用第 58(5) 条：违反者最高罚款 $25,000，持续违例每日另加最高 $2,500。故 A 正确。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N14 Note (section 58(5))",
+    "status": "draft",
+    "tags": ["faa-n14", "penalty"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-011",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N14, if a financial adviser has no Misconduct Report to lodge for a calendar year, it must submit an annual declaration:",
+    "options": {
+      "A": "Within 14 days after 31 December of that calendar year",
+      "B": "Only if the MAS requests it",
+      "C": "Within 30 days after the financial year end",
+      "D": "It is not required to submit anything"
+    },
+    "answer": "A",
+    "explanation": "FAA-N14 1.9 规定若某历年无须报告的不当行为，财务顾问须在该年 12 月 31 日后 14 天内经 MASNET 提交年度声明（附录 3）。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N14 para 1.9",
+    "status": "draft",
+    "tags": ["faa-n14", "annual-declaration"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-012",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N20, a member of the Independent Sales Audit (ISA) Unit must:",
+    "options": {
+      "A": "Be the direct supervisor of the representatives being assessed",
+      "B": "Be the representative's main sales manager",
+      "C": "Be drawn only from the financial advisory services unit",
+      "D": "Be independent of the financial advisory services unit and not supervise the relevant representatives"
+    },
+    "answer": "D",
+    "explanation": "FAA-N20 3.1.1 要求 ISA 单元人员独立于财务顾问服务单元、不直接或间接监督相关代表，并有能力评估服务质量与判定违规。A/B/C 都违反独立性要求。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N20 para 3.1.1",
+    "status": "draft",
+    "tags": ["faa-n20", "isa-unit"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-013",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N20, where a representative is remunerated by way of variable income only, what proportion of that variable income is measured against the non-sales KPIs in a calendar quarter?",
+    "options": {
+      "A": "60%",
+      "B": "100%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "answer": "A",
+    "explanation": "FAA-N20 4.3.1 规定仅以浮动收入支付者，测量该季度浮动收入的 60% 对照非销售 KPI；若是固定薪加浮动收入，则测量全部浮动收入。故仅浮动收入者为 60%。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N20 para 4.3.1",
+    "status": "draft",
+    "tags": ["faa-n20", "variable-income"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-014",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N20, in the first round of post-transaction checks the ISA Unit must sample a minimum of what percentage of the population for sampling for a 'selected representative'?",
+    "options": {
+      "A": "2%",
+      "B": "5%",
+      "C": "10%",
+      "D": "20%"
+    },
+    "answer": "C",
+    "explanation": "FAA-N20 4.4.2.6(a) 规定第一轮对被选代表(selected representative)最低抽样 10%；仅做 DCI/结构票据滚动者为 2%，其他代表为 5%。被选代表 = 连续两季 B 级或更差。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N20 para 4.4.2.6(a)",
+    "status": "draft",
+    "tags": ["faa-n20", "sampling"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-015",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N20, a representative who commits one or more Category 1 infractions in a calendar quarter will be assigned which balanced scorecard grade?",
+    "options": {
+      "A": "Grade A",
+      "B": "Grade C",
+      "C": "Grade E",
+      "D": "Grade B"
+    },
+    "answer": "C",
+    "explanation": "依 FAA-N20 4.6.1 的代表评级表，一件或以上 Category 1 违规直接落入 E 级（可得特定浮动收入 0% 至<25%）。Category 1 指对客户利益有重大影响或影响代表适当性的违规。",
+    "difficulty": "hard",
+    "sourceRef": "MAS Notice FAA-N20 paras 4.5.3, 4.6.1",
+    "status": "draft",
+    "tags": ["faa-n20", "grading", "category-1"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s04-016",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "stem": "Under FAA-N26, in a calendar year (other than the first year of appointment), how many Core CPD hours must an appointed representative complete?",
+    "options": {
+      "A": "4 hours",
+      "B": "6 hours",
+      "C": "10 hours",
+      "D": "24 hours"
+    },
+    "answer": "B",
+    "explanation": "FAA-N26 5.4(a)(i) 规定核心(Core) CPD 为 6 小时（伦理/规则与监管，或 CPF 相关课程，须经 IBF 或 SCI 认可）。10 与 24 小时是补充(Supplementary) CPD 时数，按服务类型而定，不是核心时数。",
+    "difficulty": "medium",
+    "sourceRef": "MAS Notice FAA-N26 para 5.4 & Table 3",
+    "status": "draft",
+    "tags": ["faa-n26", "cpd"],
+    "updatedAt": "2026-06-19"
+  }
+]

@@ -3,33 +3,116 @@
     "id": "note-s13-overview",
     "part": 1,
     "syllabusItemId": "s13",
-    "title": "中央公积金 / Central Provident Fund (CPF)",
-    "summary": "CPF 分 OA/SA/MA 账户,55 岁创建 RA;分别对应住房退休、退休、医疗;部分可经 CPF-IS 投资(有风险)。 / CPF has OA/SA/MA accounts and an RA created at 55, for housing/retirement, retirement and healthcare respectively; some balances may be invested via CPF-IS (which carries risk).",
+    "title": "公积金(CPF)总览 / Central Provident Fund (CPF) Overview",
+    "summary": "CPF 始于 1955-07-01,由公积金局(人力部下属法定机构)管理,从养老储蓄发展为涵盖退休、医疗、住房三大目标的综合社会保障制度。本章覆盖缴费率、三大账户与利率、CPFIS、退休充足(退休金额/CPF LIFE/RSTU/MRSS)、医疗融资、住房使用与退还、DPS/教育贷款及遗产规划。 / CPF started on 1 Jul 1955, administered by the CPF Board (a statutory board under MOM), and has grown from a retirement savings plan into a comprehensive social security system covering retirement, healthcare and housing. This chapter covers contribution rates, the three accounts and interest, CPFIS, retirement adequacy (retirement sums/CPF LIFE/RSTU/MRSS), healthcare financing, housing usage and refunds, DPS/education loan and legacy planning.",
     "sections": [
       {
-        "heading": "账户与用途",
-        "body": "OA:住房/投资;SA:退休;MA(MediSave):医疗与医疗保险;55 岁创建 RA,SA(及需要时 OA)拨入形成退休储备。"
+        "heading": "背景与缴费义务",
+        "body": "CPF 于 1955 年 7 月 1 日设立,由公积金局(人力部下属法定机构)管理。新加坡公民(SC)与永久居民(PR)在新加坡工作且月总工资超过 S$50 须缴费,外国人豁免。雇员月薪超过 S$50 时雇主与雇员均须依法按工资百分比缴费。自雇 SC/PR 若年净营业收入超过 S$6,000,只须按 4% 至 10.5%(视年龄与收入)缴入 MediSave 账户。"
       },
       {
-        "heading": "Accounts & uses",
-        "body": "OA: housing/investment; SA: retirement; MA (MediSave): healthcare and medical insurance; at 55 an RA is created, funded from SA (and OA if needed)."
+        "heading": "Background and contribution obligations",
+        "body": "CPF was established on 1 Jul 1955 and is administered by the CPF Board, a statutory board under the Ministry of Manpower. SCs and PRs working in Singapore earning total wages of more than S$50 a month must contribute; foreigners are exempt. Where an employee earns more than S$50 a calendar month, both employer and employee must contribute by law. Self-employed SCs/PRs with yearly net trade income over S$6,000 contribute only to MediSave, ranging from 4% to 10.5% based on age and income."
       },
       {
-        "heading": "CPF-IS",
-        "body": "OA/SA 超门槛部分可投资经核准产品,但投资有风险,可能低于 CPF 利息。"
+        "heading": "缴费率(2024-01-01 起,月薪 > S$750)",
+        "body": "总缴费率视年龄从 12.5% 到 37%:55 岁及以下雇主 17%/雇员 20%/共 37%;55 至 60 岁 15/16/31%;60 至 65 岁 11.5/10.5/22%;65 至 70 岁 9/7.5/16.5%;70 岁以上 7.5/5/12.5%。会员可对三个账户做填补,上限为 CPF 年度限额与当年强制缴费之差。"
       },
       {
-        "heading": "CPF-IS",
-        "body": "OA/SA above thresholds may be invested in approved products via CPF-IS, but investments carry risk and may underperform CPF interest."
+        "heading": "Contribution rates (from 1 Jan 2024, monthly wages > S$750)",
+        "body": "Total rates range from 12.5% to 37% by age: 55 and below employer 17%/employee 20%/total 37%; above 55–60 is 15/16/31%; above 60–65 is 11.5/10.5/22%; above 65–70 is 9/7.5/16.5%; above 70 is 7.5/5/12.5%. Members may top up the three accounts up to the difference between the CPF Annual Limit and mandatory contributions for the year."
+      },
+      {
+        "heading": "三大账户与 RA",
+        "body": "缴费分配到普通账户(OA)、特别账户(SA,1977 年设)与 MediSave 账户(MA,1984 年设)。OA 占大头,可用于购买住宅、缴付保险、投资、教育;随年龄增长入 OA 比例下降,且其利率低于其他账户。SA 主要为养老,可投资选定金融产品。MA 用于住院与医疗保险。退休账户(RA,1987 年设)在会员 55 岁时建立,届时先从 SA、后从 OA 转入,补足同期 Full Retirement Sum(FRS),用于提供月度退休金(如 CPF LIFE)。自 2025 年初起,55 岁及以上会员的 SA 将关闭:用于退休金、不可随时提取的部分转入 RA(至 FRS),可提取部分转入 OA。"
+      },
+      {
+        "heading": "The three accounts and the RA",
+        "body": "Contributions are split into the Ordinary Account (OA), Special Account (SA, introduced 1977) and MediSave Account (MA, introduced 1984). The bulk goes to OA, usable for residential property, insurance, investment and education; the OA share falls with age and OA earns a lower rate than the other accounts. SA is mainly for old age and selected investments. MA is for hospitalisation and medical insurance. The Retirement Account (RA, introduced 1987) is created at age 55, when SA then OA savings transfer up to the cohort Full Retirement Sum (FRS) to fund monthly payouts such as CPF LIFE. From early-2025 the SA closes for members aged 55 and above: savings used for retirement and not withdrawable on demand go to the RA (up to FRS), and withdrawable savings go to the OA."
+      },
+      {
+        "heading": "CPF 利率与额外利息",
+        "body": "CPF 投资于政府担保的特别新加坡政府债券。OA:本地主要银行 3 个月平均利率,法定最低 2.5% p.a.,按季检讨。SA 与 MA:10 年期 SGS 12 个月平均收益率加 1%,现行下限 4% p.a.,按季检讨。RA:其投资的加权平均利率,每年新计入金额按 SA/MA 同口径计、现行下限 4%,按年检讨。额外利息:首 S$60,000 综合余额(OA 计入上限 S$20,000)享额外利息——55 岁以下额外 1%;55 岁及以上首 S$30,000 额外 2%、次 S$30,000 额外 1%(OA 各计入上限 S$20,000)。"
+      },
+      {
+        "heading": "CPF interest and extra interest",
+        "body": "CPF savings are invested in government-guaranteed Special Singapore Government Securities. OA: 3-month average of major local banks' rates, legislated minimum 2.5% p.a., reviewed quarterly. SA and MA: 12-month average yield of 10-year SGS plus 1%, current floor 4% p.a., reviewed quarterly. RA: weighted average of its investments; new yearly inflows earn the SA/MA basis with the 4% floor, reviewed annually. Extra interest applies on the first S$60,000 of combined balances (OA capped at S$20,000): below 55 an extra 1%; 55 and above an extra 2% on the first S$30,000 and 1% on the next S$30,000 (OA each capped at S$20,000)."
+      },
+      {
+        "heading": "CPF 投资计划(CPFIS)",
+        "body": "风险厌恶或缺乏时间/知识的会员可将资金留在 CPF 赚取无风险回报。愿意承担风险者可在 CPFIS 下投资 OA、SA 储蓄。CPFIS 分 CPFIS-OA 与 CPFIS-SA,可投资股票、产业基金、公司债、单位信托、政府债、法定机构债、国库券、银行存款、储蓄保单、投连险(ILP)、ETF 与黄金。资格:年满 18 岁;非未解除破产人;OA 超过 S$20,000(投 CPFIS-OA)及/或 SA 超过 S$40,000(投 CPFIS-SA)。自 2018-10-01 起,新 CPFIS 投资者须先完成自我认知问卷(SAQ)方可投资。"
+      },
+      {
+        "heading": "CPF Investment Scheme (CPFIS)",
+        "body": "Risk-averse members or those without time/knowledge can leave funds in CPF for risk-free returns. Those willing to take risk may invest OA and SA savings under CPFIS, comprising CPFIS-OA and CPFIS-SA, into shares, property funds, corporate bonds, unit trusts, government and statutory board bonds, T-bills, bank deposits, endowment policies, ILPs, ETFs and gold. Eligibility: at least 18; not an undischarged bankrupt; more than S$20,000 in OA (for CPFIS-OA) and/or more than S$40,000 in SA (for CPFIS-SA). From 1 Oct 2018 new CPFIS investors must first complete the Self-Awareness Questionnaire (SAQ) before investing."
+      },
+      {
+        "heading": "退休充足:退休金额与递延",
+        "body": "55 岁时建立 RA,从 SA、再 OA 转入至同期 FRS。退休金额三档:Basic Retirement Sum(BRS,覆盖基本生活,不含租金)、FRS(为 BRS 两倍,含租金)、Enhanced Retirement Sum(ERS)。BRS 对 2023–2027 各期每期递增 3.5%(例:2024 年 55 岁 BRS S$102,900/FRS S$205,800;2027 年 BRS S$114,100/FRS S$228,200)。2024 年 ERS 为 S$308,700;自 2025 年 ERS 由 BRS 的 3 倍提高至 4 倍。会员可在 Payout Eligibility Age 至 70 岁间择时领取;每递延一年,CPF LIFE 月领额最高增加 7%。"
+      },
+      {
+        "heading": "Retirement adequacy: retirement sums and deferral",
+        "body": "At 55 the RA is created and SA then OA savings transfer up to the cohort FRS. Three sums: Basic Retirement Sum (BRS, covers basic needs excluding rent), Full Retirement Sum (FRS, twice BRS, covers rent) and Enhanced Retirement Sum (ERS). The BRS rises 3.5% per successive cohort for 2023–2027 (e.g. for 55 in 2024 BRS S$102,900/FRS S$205,800; in 2027 BRS S$114,100/FRS S$228,200). The 2024 ERS is S$308,700; from 2025 the ERS rises from 3x to 4x BRS. Members may start payouts between their Payout Eligibility Age and age 70; each year of deferral raises CPF LIFE monthly payouts by up to 7%."
+      },
+      {
+        "heading": "RSTU 与 MRSS",
+        "body": "RSTU:可现金填补或 CPF 转账至本人或亲人的 SA(收款人 55 岁以下,至 FRS)或 RA(收款人 55 岁及以上,至 ERS);自填本人 SA/RA 享年度税务减免最高 S$8,000,为亲人填补另享最高 S$8,000(与 MediSave 自愿缴款共享上限)。RSTU 下所有填补与转账不可撤销,不可用于住房等其他计划。MRSS(2021 年推出):政府对符合条件会员 RA 的现金填补 1 比 1 匹配,2021–2025 年度上限 S$600;自 2025-01-01 起匹配上限提高至 S$2,000/年(终身上限 S$20,000),年龄由 55–70 改为 55 岁及以上,且 givers 对获匹配的填补不再享税务减免。条件含:RA 储蓄低于现行 BRS、月均收入不超 S$4,000、住所年值不超 S$21,000、拥有不超过一处房产。"
+      },
+      {
+        "heading": "RSTU and MRSS",
+        "body": "RSTU: cash top-ups or CPF transfers to one's own or loved ones' SA (recipient below 55, up to FRS) or RA (recipient 55 and above, up to ERS). Tax relief up to S$8,000 for own SA/RA and a further S$8,000 for loved ones (shared cap with Voluntary Contributions to MediSave). All RSTU top-ups and transfers are irrevocable and cannot be used for housing or other schemes. MRSS (launched 2021): the Government matches every dollar of cash top-up to eligible members' RA, annual cap S$600 for 2021–2025; from 1 Jan 2025 the cap rises to S$2,000/year with an S$20,000 lifetime limit, age becomes 55 and above, and givers no longer get tax relief on matched top-ups. Conditions include RA savings below current BRS, average monthly income not more than S$4,000, annual value of residence not more than S$21,000, and owning not more than one property."
+      },
+      {
+        "heading": "CPF LIFE 与未参加者",
+        "body": "CPF LIFE 是国家长寿年金保险,提供终身月领。1958 年或以后出生的 SC/PR,开始领取时 RA 至少 S$60,000 者自动纳入;未自动纳入者可在 Payout Eligibility Age 起至 80 岁前一个月申请加入。三种计划:Escalating(月领每年增 2% 抗通胀,起点较低后更高)、Standard(默认计划,水平月领)、Basic(月领较低,综合余额跌破 S$60,000 后递减)。未选计划者归入 Standard。Payout Eligibility Age 至 70 岁间可择时领取,每递延一年最高增 7%。未参加 CPF LIFE 者从 RA 领取(最低月领 S$350),储蓄用尽即止,约可领 20 年;若 RA 用尽但 OSA 仍有余额,则自动从 OSA 续领。"
+      },
+      {
+        "heading": "CPF LIFE and members not on it",
+        "body": "CPF LIFE is a national longevity annuity providing lifelong monthly payouts. SC/PR born in 1958 or after with at least S$60,000 in the RA when payouts start are auto-included; others may apply from their Payout Eligibility Age until one month before turning 80. Three plans: Escalating (payouts rise 2% yearly for inflation, lower at first then higher), Standard (the default, level payouts) and Basic (lower payouts that decline once combined balances fall below S$60,000). Those who do not choose a plan are placed on Standard. Payouts may start between the Payout Eligibility Age and 70, rising up to 7% per year deferred. Members not on CPF LIFE draw from the RA (minimum payout S$350) until savings run out, for up to 20 years; if the RA is exhausted but OSA has funds, payouts auto-continue from OSA."
+      },
+      {
+        "heading": "医疗融资框架",
+        "body": "医疗融资以个人责任与可负担为本,框架含:MediSave、MediFund、MediShield Life、Private Medical Insurance Scheme,以及 CareShield Life(2020 年起)/ElderShield。MediSave(1984-04 设)用于住院、日间手术、特定门诊及核准保险费;缴入上限为 Basic Healthcare Sum(BHS),65 岁定终身(2024 年现行 BHS S$71,500),超额转入 SA/RA(或已达 FRS 则转 OA)。MediShield Life 由公积金局管理,为强制性国家基本医疗保险,2015-11-01 起自动覆盖全体 SC/PR,可全额以 MediSave 缴费;按 B2/C 级病房补贴水平定赔付。私人医疗保险计划允许以 MediSave 购买 Integrated Shield Plans(IP),IP 含 MediShield Life 部分加私人保险部分;私人部分以 MediSave 缴付受 Additional Withdrawal Limits(AWL)上限——下次生日 40 岁及以下 S$300、41–70 岁 S$600、71 岁及以上 S$900。MediFund(1993-04 设)是政府捐赠基金,作为最后安全网。"
+      },
+      {
+        "heading": "Healthcare financing framework",
+        "body": "Financing rests on individual responsibility and affordability: MediSave, MediFund, MediShield Life, the Private Medical Insurance Scheme, and CareShield Life (from 2020)/ElderShield. MediSave (Apr 1984) covers hospitalisation, day surgery, certain outpatient care and approved premiums; contributions cap at the Basic Healthcare Sum (BHS), fixed for life at 65 (current 2024 BHS S$71,500), with excess flowing to SA/RA (or OA if FRS met). MediShield Life, administered by the CPF Board, is compulsory national basic insurance auto-covering all SC/PR from 1 Nov 2015, fully payable from MediSave, sized for B2/C ward subsidised treatment. The Private Medical Insurance Scheme lets members buy Integrated Shield Plans (IPs) with MediSave; an IP has a MediShield Life component plus a private component, the latter payable by MediSave only up to Additional Withdrawal Limits (AWLs): S$300 if 40 or younger on next birthday, S$600 if 41–70, S$900 if 71 or older. MediFund (Apr 1993) is a Government endowment safety net."
+      },
+      {
+        "heading": "长期残疾照护:CareShield Life 与 ElderShield",
+        "body": "CareShield Life 对 1980 年及以后出生的新会员取代 ElderShield;1979 年或之前出生者可选择加入。提供终身现金月领(只要严重残疾)、月领随时间递增(2020 年 S$600 起,增至 67 岁或申领为止)、政府津贴、可全额以 MediSave 缴费。ElderShield(2002-09 由 MOH 推出)为有限期月领,残疾界定为六项日常活动(沐浴、穿衣、进食、如厕、行动、转移)中无法完成至少三项。自 2020 年起不再有 40 岁自动加入 ElderShield;政府已于 2021-11-01 接管 ElderShield 管理。"
+      },
+      {
+        "heading": "Long-term disability care: CareShield Life and ElderShield",
+        "body": "CareShield Life replaced ElderShield for new cohorts born in 1980 and after; those born 1979 or earlier may opt in. It gives lifelong cash payouts while severely disabled, payouts that rise over time (from S$600/month in 2020, increasing until age 67 or on claim), Government subsidies, and is fully payable by MediSave. ElderShield (launched by MOH Sep 2002) gives payouts for a limited period; severe disability means inability to perform at least three of six activities of daily living (washing, dressing, feeding, toileting, mobility, transferring). From 2020 there are no new auto-enrolments at 40 into ElderShield; the Government took over its administration on 1 Nov 2021."
+      },
+      {
+        "heading": "住房使用、退还与变现",
+        "body": "OA 储蓄可用于购买 HDB/DBSS 组屋、执行共管公寓或私宅,受 CPF Housing Limits 约束;达上限后须全额现金支付。多套房:无房产可覆盖至 95 岁者购第二套前须预留 FRS;已有覆盖至 95 岁房产者只须预留 BRS。出售时须连同累计利息退还所提取 CPF(CPF Housing Refund);市价出售不足以退还时无须补差,但买方现金支付的期权金属售价一部分须退还。其他变现:Lease Buyback Scheme(LBS,业主须达 Payout Eligibility Age(现为 65 岁)、家庭月入≤S$14,000 等,填补 RA 后可获最高 S$30,000 花红、保留现金上限 S$100,000/户)、Home Equity Income Loans、Silver Housing Bonus(SHB,最高 S$30,000 现金花红,填补上限 S$60,000/户或至 FRS,不足 S$60,000 按 1:2 比例)。Home Protection Scheme(HPS)是按揭递减定期险,仅适用公共住房,保障至 65 岁或还清贷款;若以 CPF 付房贷月供须投保 HPS。Voluntary Housing Refund(VHR)可在不出售下退还本金加利息。"
+      },
+      {
+        "heading": "Housing usage, refunds and monetisation",
+        "body": "OA savings buy HDB/DBSS flats, Executive Condominiums or private property, subject to CPF Housing Limits; beyond the limit the balance is paid in cash. Multiple properties: without a property covering them to age 95 members must set aside the FRS before using excess OA for a second property; with such a property only the BRS. On sale, withdrawn CPF plus accrued interest must be refunded (CPF Housing Refund); no shortfall top-up is required on a market-value sale, though any option money received in cash is part of the selling price and must be refunded. Monetisation: the Lease Buyback Scheme (LBS — owners at the Payout Eligibility Age (currently 65), household income ≤ S$14,000, etc.; up to S$30,000 bonus after RA top-up, retaining up to S$100,000 cash/household), Home Equity Income Loans, and the Silver Housing Bonus (SHB — up to S$30,000 cash bonus, top-up capped at S$60,000/household or up to FRS, pro-rated 1:2 below S$60,000). The Home Protection Scheme (HPS) is mortgage-reducing term insurance for public housing only, covering to age 65 or loan payoff; HPS is required if CPF is used for housing instalments. Voluntary Housing Refund (VHR) lets members refund principal plus interest without selling."
+      },
+      {
+        "heading": "其他计划与遗产规划",
+        "body": "Dependants' Protection Scheme(DPS):可负担定期寿险,现由 Great Eastern Life 独家管理,自动覆盖 21–65 岁有有效缴费的 SC/PR(16–21 岁可申请,可随时退出);最高保额 60 岁前 S$70,000、60–65 岁 S$55,000,全球承保,最低保额 S$5,000。Education Loan Scheme:可用 OA 储蓄付本人/子女/配偶/亲属在核准机构全日制受资助课程学费,毕业或结业 1 年后须现金连利息偿还。遗产规划:身故后 CPF 储蓄按 CPF 提名分配(默认以现金经 PayNow/GIRO 支付),涵盖四账户、CPF LIFE 保费余额及折扣 Singtel 股;有提名一般 17 个工作日内分配,无提名则交公共信托人办公室按无遗嘱法分配并收行政费,最长可达六个月。CPF 储蓄不构成遗产、不能纳入遗嘱,可防债权人追索;结婚会撤销原有 CPF 提名。"
+      },
+      {
+        "heading": "Other schemes and legacy planning",
+        "body": "Dependants' Protection Scheme (DPS): affordable term-life insurance now administered solely by Great Eastern Life, auto-extended to SC/PR aged 21–65 with a valid working contribution (16–21 may apply; opt-out anytime); maximum sum assured S$70,000 up to age 60 and S$55,000 for 60–65, worldwide cover, minimum sum assured S$5,000. Education Loan Scheme: OA savings may pay tuition for one's own/children's/spouse's/relatives' full-time subsidised courses at approved institutions, repayable in cash with interest one year after graduation or termination. Legacy planning: on death CPF savings are distributed per the CPF nomination (default cash via PayNow/GIRO), covering the four accounts, any CPF LIFE premium balance and discounted Singtel shares; with a nomination distribution is normally within 17 working days, without one savings go to the Public Trustee's Office under intestacy law (with a fee, up to six months). CPF savings do not form part of the estate and cannot be in a will, protecting them from creditors; a nomination is revoked on marriage."
       }
     ],
     "keyPoints": [
-      "OA/SA/MA + 55 岁 RA / OA/SA/MA + RA at 55",
-      "MediSave 用于医疗 / MediSave for healthcare",
-      "CPF-IS 投资有风险 / CPF-IS investments carry risk"
+      "CPF 始于 1955-07-01,公积金局(MOM 法定机构)管理,三目标:退休、医疗、住房 / CPF started 1 Jul 1955, run by the CPF Board (MOM statutory board); three aims: retirement, healthcare, housing",
+      "缴费率 12.5%–37%,55 岁及以下共 37%(雇主 17%/雇员 20%);月薪须 > S$50 才缴 / Rates 12.5%–37%, 37% for 55 and below (17%/20%); payable above S$50/month",
+      "OA 最低 2.5%、SA/MA 下限 4%;首 S$60,000 享额外利息(OA 上限 S$20,000) / OA min 2.5%, SA/MA floor 4%; extra interest on first S$60,000 (OA capped S$20,000)",
+      "CPFIS 资格:≥18 岁、非破产、OA > S$20,000 及/或 SA > S$40,000,2018-10-01 起须做 SAQ / CPFIS: ≥18, not bankrupt, OA > S$20,000 and/or SA > S$40,000, SAQ from 1 Oct 2018",
+      "退休金额 BRS/FRS(=2×BRS)/ERS;CPF LIFE 自动纳入需 1958+ 出生且 RA ≥ S$60,000,递延每年增至 7% / BRS/FRS(=2×BRS)/ERS; CPF LIFE auto-inclusion needs born 1958+ and RA ≥ S$60,000; deferral up to 7%/year",
+      "DPS 最高 S$70,000(≤60 岁)、S$55,000(60–65);CPF 提名不入遗产、结婚即撤销 / DPS up to S$70,000 (≤60) and S$55,000 (60–65); nomination excluded from estate, revoked on marriage"
     ],
-    "sourceRef": "Central Provident Fund (CPF) framework",
+    "sourceRef": "RES5 Study Text Part I Ch.13 — Central Provident Fund (CPF)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

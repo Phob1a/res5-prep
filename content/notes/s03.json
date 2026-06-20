@@ -1,0 +1,94 @@
+[
+  {
+    "id": "note-s03-overview",
+    "part": 1,
+    "syllabusItemId": "s03",
+    "title": "MAS 通告（第一部分）：FAA-N16 / FAA-N03 / FAA-N11 / MAS Notices — Part I: FAA-N16 / FAA-N03 / FAA-N11",
+    "summary": "本章涵盖三份依《财务顾问法》第58条发出的 MAS 通告：FAA-N16（投资产品推荐，含 KYC、客户知识评估 CKA、客户账户审查 CAR、需求分析与记录保存）、FAA-N03（向客户披露信息与产品信息披露）、FAA-N11（双货币投资）。 / This chapter covers three MAS Notices issued under section 58 of the Financial Advisers Act: FAA-N16 (recommendations on investment products — KYC, Customer Knowledge Assessment, Customer Account Review, needs analysis and record keeping), FAA-N03 (information to clients and product information disclosure), and FAA-N11 (dual currency investments).",
+    "sections": [
+      {
+        "heading": "FAA-N16 概述与适用",
+        "body": "FAA-N16 依《财务顾问法(2001)》第58条发出,2012年1月1日生效,最近一次更新为2021年9月17日。它规定财务顾问及其代表在推荐投资产品时须维持的标准。适用对象包括持牌财务顾问、豁免财务顾问、财务顾问代表,以及依 FAR 第29条获豁免者及其代表。SIP(指定投资产品)指除 FAA-N16 附件1所列以外的所有投资产品,包括期货、ETF 等上市 SIP 与投资连结寿险等非上市 SIP。"
+      },
+      {
+        "heading": "FAA-N16 overview and applicability",
+        "body": "FAA-N16 is issued under section 58 of the Financial Advisers Act (2001), took effect on 1 January 2012, and was last updated on 17 September 2021. It sets the standards advisers and their representatives must maintain when recommending investment products. It applies to licensed and exempt financial advisers, representatives of financial advisers, and persons exempt under Regulation 29 of the FAR and their representatives. Specified Investment Products (SIPs) are all investment products other than those listed in Annex 1, including listed SIPs (futures, ETFs) and unlisted SIPs (investment-linked life policies)."
+      },
+      {
+        "heading": "FAA-N16 不适用的情形",
+        "body": "FAA-N16 不适用于:以简单付款方式作为贷款附属产品销售的简单寿险(涵盖个人贷款、车贷、信用卡余额,但不含按揭递减定期保险);以及仅就被排除投资产品(EIP)提供事实性信息、且在交易前未作任何建议或推荐的交易(包括第29段所述各类媒介的直接回应广告)。此外,针对非个人且非合格投资者客户、就特定 OTC 衍生品(外汇远期、利率掉期及其组合)仅用于对冲目的的推荐,本通告亦不适用。"
+      },
+      {
+        "heading": "FAA-N16 circumstances where it does not apply",
+        "body": "FAA-N16 does not apply to recommendations on simple life policies sold as an ancillary product to loans (personal loans, car loans, credit card balances) but excluding mortgage reducing term assurance; nor to transactions where only factual information is provided on an Excluded Investment Product and no advice or recommendation is made beforehand. It also does not apply to certain OTC derivatives recommendations (FX forwards, interest rate swaps and combinations) made to a client that is not an individual and not an accredited investor, entered into solely for hedging."
+      },
+      {
+        "heading": "FAA-N16 E1 — 了解你的客户 (KYC)",
+        "body": "依第27条,顾问须对推荐有合理依据,顾及客户的投资目标、财务状况和特定需求;若产品为 SIP,还须顾及客户对该 SIP 的知识或经验。顾问须采取合理步骤收集并记录:财务目标、风险承受度、就业状况、财务状况(资产/负债/现金流/收入)、固定收入来源与金额、财务承担、当前投资组合(含寿险保单)、拟投资额是否占资产很大部分;就寿险还须了解受养人数及所需财务支持。须以书面向客户强调:所提供信息是推荐的依据,且不准确或不完整的信息可能影响推荐的合适性。数字顾问平台在满足特定条件下可不收集第11(c)至(i)项信息。"
+      },
+      {
+        "heading": "FAA-N16 E1 — Know Your Client (KYC)",
+        "body": "Under section 27, an adviser must have a reasonable basis for any recommendation, giving due consideration to the client's investment objectives, financial situation and particular needs; for a SIP, also to the client's knowledge or experience in that SIP. The adviser must take reasonable steps to collect and document: financial objectives, risk tolerance, employment status, financial situation (assets, liabilities, cash flow, income), source and amount of regular income, financial commitments, current portfolio (including any life policy), whether the amount is a substantial portion of assets; and for life policies, the number of dependants and support required. The adviser must highlight in writing that the information provided is the basis of the recommendation and that inaccurate or incomplete information may affect suitability. A digital advisory platform may, on conditions, elect not to collect paragraph 11(c)–(i) information."
+      },
+      {
+        "heading": "FAA-N16 E2 — 客户知识评估 (CKA, 非上市 SIP)",
+        "body": "对非上市 SIP,顾问须依附件2进行客户知识评估(CKA),考量客户的教育资历、投资经验与工作经验;客户不提供该等信息的,须视为不具备该非上市 SIP 的知识或经验。附件2合格标准:持会计/精算/商科/资本市场/经济/金融等领域文凭或以上学历;具专业金融资格(如 CFA、ACCA、CFP 等);在过去3年内就 CIS/ILP 至少交易6次,或就非上市非报价 SIP(不含 CIS/ILP)至少交易6次;或在过去10年内有至少连续3年相关工作经验。CKA 阳性结果有效期为评估之日起1年,逾期须重做。即便结果为阳性,顾问仍须主动提供就该非上市 SIP 的建议。"
+      },
+      {
+        "heading": "FAA-N16 E2 — Customer Knowledge Assessment (CKA, unlisted SIPs)",
+        "body": "For an unlisted SIP, the adviser must conduct a CKA based on Annex 2 before recommending it, considering the client's educational qualifications, investment experience and work experience; if the client provides none, deem the client not to possess knowledge or experience. Annex 2 criteria: a diploma or higher in accountancy/actuarial science/business/capital markets/economics/finance etc.; a professional finance-related qualification (CFA, ACCA, CFP and similar); having transacted in CIS/ILPs at least 6 times in the preceding 3 years (or in unlisted non-quoted SIPs excluding CIS/ILPs at least 6 times in 3 years); or a minimum of 3 consecutive years of relevant working experience in the past 10 years. A positive CKA outcome is valid for one year. Notwithstanding a positive outcome, the adviser must still offer to provide advice."
+      },
+      {
+        "heading": "FAA-N16 — 客户被评估为不具备知识/经验时",
+        "body": "客户被评估为不具备非上市 SIP 知识或经验时,顾问须告知评估结果。客户仍坚持交易的,顾问须提供建议。若客户坚持交易顾问未推荐的产品,顾问须:书面告知评估结果、取得客户书面确认仍欲进行、并书面告知由客户自负产品合适性。此类交易还须经未参与该交易且与客户无关联的高级管理层(或其指定人/书面框架)确认与批准后方可进行。第27A段明确 CKA 中的\"客户\"仅指自然人。"
+      },
+      {
+        "heading": "FAA-N16 — When a client is assessed as lacking knowledge/experience",
+        "body": "Where the client is assessed not to possess knowledge or experience in an unlisted SIP, the adviser must inform the client of the outcome. If the client still intends to proceed, the adviser must provide advice. If the client chooses a product not recommended, the adviser must inform the outcome in writing, obtain written confirmation the client intends to proceed, and state in writing that suitability is the client's responsibility. Such a trade also requires senior management (who is not involved and not a connected person), or a designated person/written framework, to confirm and approve before proceeding. Paragraph 27A confirms 'client' for CKA refers only to a natural person."
+      },
+      {
+        "heading": "FAA-N16 E3 — 客户账户审查 (CAR, 上市 SIP)",
+        "body": "对上市 SIP,顾问须依附件3进行客户账户审查(CAR),评估客户对衍生品的知识或经验;客户不提供教育/投资/工作经验信息的,视为不具备衍生品知识或经验。附件3合格标准与附件2类似,其中交易经验为\"过去3年内就上市 SIP 至少交易6次\"。CAR 结果有效期为3年:3年期满后须重做,除非客户在前一3年期内就上市 SIP 交易超过一次且在其后每个3年期内亦如此。第27V段明确 CAR 中的\"客户\"仅指自然人。"
+      },
+      {
+        "heading": "FAA-N16 E3 — Customer Account Review (CAR, listed SIPs)",
+        "body": "For a Listed SIP, the adviser must conduct a CAR based on Annex 3, assessing the client's knowledge or experience in derivatives; if no information is provided, deem the client not to possess it. Annex 3 criteria mirror Annex 2 but the transaction-experience limb is 'transacted in Listed SIPs at least 6 times in the preceding 3 years'. A CAR outcome is valid for 3 years: after 3 years a new CAR is required unless the client transacted in a Listed SIP more than once in the preceding 3-year period (and in each subsequent 3-year period). Paragraph 27V confirms 'client' for CAR refers only to a natural person."
+      },
+      {
+        "heading": "FAA-N16 E4/E5 — 需求分析、记录保存、转换与海外产品",
+        "body": "需求分析:依第27条须分析客户信息并识别合适产品,顾及产品性质、关键风险、投资期限、费用与流动性;无法识别合适产品时须告知客户;并须记录推荐依据。寿险推荐须遵守 LIA 寿险顾问流程最低标准。记录保存:须向客户提供载有信息摘要与推荐依据的文件,并记录每次 CKA/CAR(含信息、评估、结果与高管批准)。海外上市投资产品:在2018年10月8日或之后首次推荐前须提供附件4风险警示声明并取得客户确认,记录须保存不少于5年。产品转换:不得作出对客户不利的转换推荐(考量退保罚则、交易成本、利益与成本对比、合适性),并须书面披露转换的费用。违反本通告(第58(5)条)可处不超过 $25,000 罚款,持续违反每日另罚不超过 $2,500。"
+      },
+      {
+        "heading": "FAA-N16 E4/E5 — Needs analysis, record keeping, switching, overseas products",
+        "body": "Needs analysis: under section 27 the adviser must analyse client information and identify a suitable product, considering nature, key risks, tenor, fees and liquidity; inform the client if no suitable product is found; and document the basis. Life policy recommendations should comply with the LIA Minimum Standard. Record keeping: furnish the client a document with a summary of information and the basis for the recommendation, and document every CKA/CAR (information, assessment, outcome, senior management approval). Overseas-Listed Investment Products: provide the Annex 4 risk warning statement and obtain acknowledgement before the first recommendation on or after 8 October 2018, keeping records for not less than 5 years. Switching: no recommendation to switch designated products in a manner detrimental to the client (penalties, transaction cost, benefit/cost comparison, suitability), and disclose switching fees in writing. Contravention (s.58(5)) is liable to a fine not exceeding $25,000, with a further $2,500 per day for continuing offences."
+      },
+      {
+        "heading": "FAA-N03 — 向客户披露信息与产品信息披露",
+        "body": "FAA-N03 规定持牌及豁免财务顾问及其代表向客户披露信息的标准,适用对象与 FAA-N16 类似。第25条要求披露所推荐指定投资产品的所有重大信息;第26条禁止以欺骗意图作出虚假或误导性陈述。一般披露原则要求信息:清晰(平实语言、解释术语)、充分(满足监管要求、足以作出知情决定、突出风险与费用)、不虚假或误导(客观无偏、意见有合理依据、文件至少每年检讨)。须披露财务顾问与代表的一般信息、薪酬(佣金/费用/尾随佣金/软佣金;寿险则披露保单说明中的\"分销成本\")、利益冲突、指定投资产品的详尽信息(性质与目标、产品提供方、合约权利、客户概况、所需承担、利益、风险、定价、费用、报告、寿险冷静期/单位信托取消期、提取退保索偿、警示排除免责)。第29段规定直接回应广告须含显著警示:客户可在购买前征询顾问意见,若选择不征询则应自行考虑产品是否合适。"
+      },
+      {
+        "heading": "FAA-N03 — Information to clients and product information disclosure",
+        "body": "FAA-N03 sets disclosure standards for licensed and exempt advisers and their representatives. Section 25 requires disclosure of all material information on any recommended designated investment product; section 26 prohibits making a false or misleading statement with intent to deceive. The general principles require information to be Clear (plain language, jargon explained), Adequate (meets regulatory requirements, sufficient for an informed decision, prominent warnings on risks and fees), and Not False or Misleading (objective, opinions with reasonable basis, documents reviewed at least annually). Required disclosures cover general information on the adviser and representative, remuneration (commissions, fees, trailer/soft commissions; for life policies the policy illustration 'distribution cost'), conflicts of interest, designated investment products (nature/objective, provider, contractual rights, client profile, commitment, benefits, risks, pricing, fees, reports, free-look/cancellation periods, withdrawal/surrender/claim, warnings/exclusions). Paragraph 29 requires direct response advertising to carry a prominent warning that clients may seek advice before purchase and, if not, should consider suitability themselves."
+      },
+      {
+        "heading": "FAA-N11 — 双货币投资 (DCI)",
+        "body": "FAA-N11 依第58条发出,2006年3月1日生效,2021年7月1日修订。适用于就任何双货币投资(DCI)提供建议的持牌或豁免财务顾问及其代表,但向合格投资者、专家投资者或机构投资者提供建议者除外。关键定义:base currency(初始投资货币)、alternate currency(可用于偿还本金的另一货币)、strike rate(到期以另一货币偿还时本金的换算汇率)、rate-fixing date/time(确定以何种货币偿还的日期/时间)、maturity date、value date、spot rate。不得在营销材料或披露文件中以\"deposit\"或\"structured deposit\"(及任何语言的衍生词)命名或描述 DCI,因可能误导投资者以为本金以基础货币计有保证。除 FAA-N03 外,须额外披露 DCI 的性质与机制(含货币期权——发行方有权以基础或另一货币偿还本金,部分或全部利息代表该期权的权利金)、汇率变动导致以另一货币偿还可能令客户收回少于本金的图示、最低投资额、可选货币、投资期限、提前提取/终止安排、外汇管制影响等。须提供清晰可读的风险警示。"
+      },
+      {
+        "heading": "FAA-N11 — Dual Currency Investments (DCI)",
+        "body": "FAA-N11 is issued under section 58, took effect on 1 March 2006 and was amended with effect from 1 July 2021. It applies to any licensed or exempt adviser or representative advising on a DCI, except where advice is given to an accredited, expert or institutional investor. Key definitions: base currency (currency of the initial investment), alternate currency (the other currency in which the principal may be repaid), strike rate (the rate at which principal is converted to the alternate currency if repaid in it at maturity), rate-fixing date/time, maturity date, value date and spot rate. An adviser must not use the term 'deposit' or 'structured deposit' (or any derivative in any language) in naming or describing a DCI, as this may mislead investors into thinking the principal is guaranteed in base-currency terms. In addition to FAA-N03, the adviser must disclose the nature and mechanics of the DCI (a currency option giving the issuer the right to repay principal in either currency, with part/all interest representing the option premium), illustrations of how FX movements could cause repayment in the alternate currency resulting in less than the principal, minimum investment, selectable currencies, duration, early withdrawal/termination terms and FX-control impacts. Clearly legible risk warnings must be provided."
+      }
+    ],
+    "keyPoints": [
+      "三份通告均依 FAA 第58条发出;违反可处罚款不超过 $25,000,持续违反每日另罚 $2,500 / All three Notices issued under FAA s.58; contravention liable to a fine up to $25,000, plus $2,500/day for continuing offences",
+      "非上市 SIP → 客户知识评估 (CKA),有效期 1 年;上市 SIP → 客户账户审查 (CAR),有效期 3 年 / Unlisted SIP → CKA (valid 1 year); Listed SIP → CAR (valid 3 years)",
+      "CKA/CAR 合格门槛之一:过去3年内相关交易至少6次,或过去10年内至少连续3年相关工作经验 / CKA/CAR qualifying limb: at least 6 relevant transactions in 3 years, or 3 consecutive years' relevant work experience in 10 years",
+      "客户不提供教育/投资/工作经验信息即视为不具备知识或经验 / If the client provides no education/investment/work-experience information, deem them not to possess knowledge or experience",
+      "FAA-N03 三原则:清晰、充分、不虚假或误导;直接回应广告须含显著警示(第29段) / FAA-N03 principles: Clear, Adequate, Not False or Misleading; direct response advertising needs a prominent warning (para 29)",
+      "DCI 不得称为 'deposit'/'structured deposit';本章不适用于向合格/专家/机构投资者的 DCI 建议 / DCI must not be called 'deposit'/'structured deposit'; FAA-N11 excludes advice to accredited/expert/institutional investors"
+    ],
+    "sourceRef": "RES 5 Study Text Part I Ch.3 — MAS Notices Part I [FAA-N16; FAA-N03; FAA-N11]",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

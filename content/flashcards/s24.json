@@ -4,27 +4,168 @@
     "part": 2,
     "syllabusItemId": "s24",
     "topicGroup": "process",
-    "title": "适当性 / Suitability",
-    "point": "方案匹配需求、风险承受、负担能力与时间。 / Match needs, risk, affordability and horizon.",
+    "title": "两条基本原则 / Two basic principles",
+    "point": "做产品推荐前的两条基本原则:只在客户确有需要时推荐;只推荐对其最合适的产品。 / Before any recommendation: only recommend products the client needs, and only those most suitable for his circumstances.",
     "keyfacts": [
-      "不推不适合高佣品 / No high-commission misfit"
+      "需求导向销售流程确保产品贴合客户目标 / Needs-based sales process ensures fit to objectives"
     ],
-    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s24-002",
     "part": 2,
     "syllabusItemId": "s24",
     "topicGroup": "process",
-    "title": "优先级与依据 / Priority & basis",
-    "point": "先保障应急后积累;推荐有合理基础、能解释为何适合。 / Protection first; reasonable basis explained.",
+    "title": "良好产品知识 / Good product knowledge",
+    "point": "应熟悉产品系列、功能、性质、现金价值、红利、特别功能、利益支付、风险、费用、保障期、保费、不缴后果、14 天自由审视及体检限额。 / Know the range, function, nature, cash value, bonuses, features, benefit payout, risks, charges, cover duration, premium, non-payment effect, the 14-day free-look and medical limits.",
     "keyfacts": [
-      "挂钩分析 / Tied to analysis"
+      "性质:分红/非分红/投连 / Participating, non-participating or ILP",
+      "14 天自由审视(free-look) / 14-day free-look provision"
     ],
-    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.3",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-003",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "应急储蓄 / Emergency savings",
+    "point": "寻求其他投资工具前须先备妥应急储蓄;有固定收入者应至少备足 3 至 6 个月开支。 / Before sourcing other investment tools, set aside emergency savings; those with regular income should aim for at least 3 to 6 months' expenses.",
+    "keyfacts": [
+      "可用 T-Bills、SSB 等高流动性低风险工具 / Use T-Bills, SSBs (high liquidity, low risk)"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-004",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "Table 4.1 本金风险 / Capital risk in Table 4.1",
+    "point": "货币市场证券、终身寿险、储蓄险、年金=低风险;股票、衍生工具、房地产=高风险;债券与单位信托/ETF/投连=低至高。 / Money market, whole life, endowment, annuities = Low; equities, derivatives, property = High; bonds and unit trusts/ETFs/ILPs = Low to High.",
+    "keyfacts": [
+      "投连风险视底层资产而定 / ILP risk depends on underlying assets"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — Table 4.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-005",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "保险即时资产 / Insurance creates an immediate estate",
+    "point": "保险最适合保障需求,因即使只缴一次保费,投保事件发生时也全额支付保额;储蓄等需时间累积,较不合适。 / Insurance best meets protection needs as it pays the full sum assured on the insured event even after one premium; savings take time to accumulate and are less suitable.",
+    "keyfacts": [
+      "55 岁或以上每 2-3 年检视保险计划 / Review plans every 2-3 years if aged 55+"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.7",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-006",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "MAS 建议保额 / MAS recommended coverage",
+    "point": "MAS《基本财务规划指南》建议:身故及完全永久伤残取 9 倍年收入;标准危疾取 4 倍年收入。 / The Basic Financial Planning Guide recommends 9x annual income for death and TPD, and 4x annual income for standard critical illness.",
+    "keyfacts": [
+      "TPD=完全永久伤残 / TPD = total permanent disability"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-007",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "受养人保障计划 DPS / Dependants' Protection Scheme",
+    "point": "DPS 为定期人寿计划,在身故、末期疾病或 TPD 时赔付(60 岁前最高 S$70,000;60 岁以上至 65 岁最高 S$55,000)。 / DPS is a term life scheme paying on death, terminal illness or TPD (up to S$70,000 until age 60; up to S$55,000 from above 60 to 65).",
+    "keyfacts": [
+      "21-65 岁公民及 PR 首次 CPF 工作缴款时自动延展 / Auto-extended to citizens/PRs aged 21-65 on first CPF working contribution"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-008",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "附加险 Riders / Supplementary benefits",
+    "point": "附加险又称补充利益,是附加在基本保单上的特殊条款;常见有豁免保费、TPD、危疾、付款人利益、保证可保选项、意外身故等。 / Riders (supplementary benefits) are special provisions attached to a basic policy; common ones include Waiver of Premium, TPD, Critical Illness, Payor Benefit, Guaranteed Insurability Option and Accidental Death.",
+    "keyfacts": [
+      "以低成本提供基本保单之外的额外保障 / Add protection on the basic policy at low cost"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-009",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "可负担性指引 / Affordability guide",
+    "point": "保险保障支出最多为收入(扣 CPF 后)的 15%(捆绑产品可超);至少 10% 用于退休及其他目标的投资。 / Spend at most 15% of income (after CPF) on insurance protection (bundled products may exceed); invest at least 10% for retirement and other goals.",
+    "keyfacts": [
+      "负担不起者会让保单失效,三方皆损 / Unaffordable premiums lead to lapses harming all parties"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.11",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-010",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "风险承受与期限 / Risk tolerance and horizon",
+    "point": "风险厌恶且期限短→偏债券基金;风险偏好且期限长→偏股票/ILP;临近退休应避免高波动基金。 / Risk-averse with short horizon → bond-heavy fund; risk-seeker with long horizon → equity-heavy/ILP; avoid high-volatility funds near retirement.",
+    "keyfacts": [
+      "非分红计划保证,客户不承担投资风险 / Non-participating plans are guaranteed; no investment risk to client"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.14-2.17",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-011",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "需求排序 / Prioritisation",
+    "point": "客户无法同时负担所有需求时应帮其排序;有受养人时保障需求优先;暂不可负担永久保障可用 Convertible Term。 / When the client cannot afford all needs, help prioritise; where there are dependants, protection needs come first; use a Convertible Term policy if permanent cover is not yet affordable.",
+    "keyfacts": [
+      "排序无硬性规则,客户可能更了解自身目标 / No hard and fast rules; the client may know his objectives best"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.18-2.21",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s24-012",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "title": "遗产/传承规划 / Estate / legacy planning",
+    "point": "规划领域含四工具:遗嘱、CPF 提名、持久授权书(LPA)、预先护理计划(ACP)。 / Planning areas include four tools: a will, a CPF nomination, a Lasting Power of Attorney (LPA) and an Advance Care Plan (ACP).",
+    "keyfacts": [
+      "LPA 在丧失心智能力时授权他人代为决策 / LPA appoints others to decide on loss of mental capacity"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.23-2.25",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

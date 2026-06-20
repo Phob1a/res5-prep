@@ -4,27 +4,114 @@
     "part": 2,
     "syllabusItemId": "s19",
     "topicGroup": "ethics",
-    "title": "5 项成果 / Five outcomes",
-    "point": "文化核心/担责、产品适合、代表称职、信息清晰、投诉独立处理。 / Culture/responsibility, suitable products, competent reps, clear info, independent complaints.",
+    "title": "公平交易的定义 / Definition of fair dealing",
+    "point": "以公正、诚实、无偏见、无自利、无偏私的方式对待客户;是公平而尊重的对待。 / Dealing in a just and honest manner, free from bias, dishonesty, injustice, self-interest, prejudice and favouritism — an equitable, respectful treatment.",
     "keyfacts": [
-      "记牢 5 个 outcomes / Remember the five"
+      "“fair”=以正当方式对待他人 / ‘Fair' = treating someone in a way that is right"
     ],
-    "sourceRef": "MAS Guidelines on Fair Dealing",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s19-002",
     "part": 2,
     "syllabusItemId": "s19",
     "topicGroup": "ethics",
-    "title": "责任主体 / Responsibility",
-    "point": "董事会与高级管理层对公平交易负首要责任。 / Board and senior management are primarily responsible.",
+    "title": "公平为何重要 / Why fair dealing matters",
+    "point": "唯有公平对待客户,行业才能维持投资公众的信心与信任,并减少投诉、诉讼与监管执法。 / Only fair treatment maintains the investing public's confidence and trust, and reduces complaints, lawsuits and enforcement.",
     "keyfacts": [
-      "贯穿设计/销售/售后 / Across the lifecycle"
+      "不公会致声誉损害与业务流失 / Unfairness brings reputational damage and lost business"
     ],
-    "sourceRef": "MAS Guidelines on Fair Dealing",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s19-003",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "title": "公平≠平等 / Fair is not equal",
+    "point": "“fairly”不等于“equally”;无法同时触及所有客户,且并非每个产品都适合每位客户。 / ‘Fairly' does not mean ‘equally'; one cannot reach all clients at once, and not every product suits every client.",
+    "keyfacts": [
+      "每位客户有独特需求与目标 / Each client has unique needs and objectives",
+      "差异化服务须向所有客户披露 / Differentiated services must be disclosed to all"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.3.4–3.7",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s19-004",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "title": "三项核心原则 / Three core principles",
+    "point": "(1)清晰分配角色与责任;(2)透明度;(3)管理利益冲突以避免自利结果。 / (1) Clear allocation of roles and responsibilities; (2) transparency; (3) management of conflicts of interest to avoid self-serving outcomes.",
+    "keyfacts": [
+      "关系形成时即须确立角色与责任 / Roles established when relationship is formed"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s19-005",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "title": "透明度六个关键领域 / Six key areas of transparency",
+    "point": "(a)特性、(b)表现、(c)利益、(d)风险、(e)费用与收费、(f)任何特殊特征。 / (a) features, (b) performance, (c) benefit, (d) risk, (e) fees and charges, (f) any special feature.",
+    "keyfacts": [
+      "披露须可读、可理解,且及时 / Disclosure must be readable, understandable and timely"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.4.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s19-006",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "title": "第三方报酬冲突的处理 / Managing third-party-compensation conflict",
+    "point": "三种途径:(a)增强透明度;(b)责任归于支付报酬的第三方;(c)由客户直接付酬。 / Three approaches: (a) enhance transparency; (b) place responsibility on the paying third party; (c) require direct payment by the client.",
+    "keyfacts": [
+      "行为标准随客户关系类型而变化 / Standard of conduct varies with relationship type"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.4.7–4.9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s19-007",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "title": "MAS FAA-G11 责任主体 / FAA-G11 responsibility",
+    "point": "MAS 发布 FAA-G11,把交付公平交易成果的责任置于董事会与高级管理层。 / MAS issued Guideline FAA-G11, placing responsibility for delivering fair dealing outcomes on the Board and Senior Management.",
+    "keyfacts": [
+      "涵盖选择、营销、分销、建议、售后与投诉处理 / Covers selection, marketing, distribution, advice, after-sales, complaints",
+      "鼓励应用于零售客户以外的客户与产品 / Encouraged beyond retail clients/products"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.5.5–5.8; MAS FAA-G11",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s19-008",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "title": "五项公平交易成果 / Five fair dealing outcomes",
+    "point": "(1)公平交易居文化核心的信心;(2)产品适合目标客户;(3)称职代表给优质建议;(4)清晰相关及时的信息;(5)独立有效迅速处理投诉。 / (1) confidence fair dealing is central to culture; (2) products suit target clients; (3) competent reps give quality advice; (4) clear, relevant, timely information; (5) complaints handled independently, effectively, promptly.",
+    "keyfacts": [
+      "FAA-G11 列出五项成果 / FAA-G11 sets out five outcomes",
+      "五项成果反映三项核心原则 / The outcomes reflect the three core principles"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.5.12; MAS FAA-G11",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

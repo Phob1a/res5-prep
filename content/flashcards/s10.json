@@ -1,0 +1,175 @@
+[
+  {
+    "id": "fc-s10-001",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FAA-G13 适用对象 / Who FAA-G13 applies to",
+    "point": "适用于以发出/传播涉及投资产品的研究分析或研究报告提供咨询服务的财务顾问;经济或资产配置研究不含具名产品意见则被排除。 / Applies to FAs advising by issuing/promulgating research analyses or reports on investment products; economic or asset-allocation research with no opinion on a named product is excluded.",
+    "keyfacts": [
+      "依 FAA 第 64 条发出 / Issued under s64 FAA",
+      "FAR Reg 14(b)(viii) 要求控制与职责分离 / Reg 14(b)(viii): controls and segregation of duties"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10A — FAA-G13 paras 1–2",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-002",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FAA-G13 分析师独立性 / Analyst independence",
+    "point": "分析师须与销售交易、自营、企业融资咨询等职能分开;研究报告不得由这些职能审阅或批准;薪酬不得基于任何此类交易。 / Analysts must be separate from sales trading, dealing and corporate finance advisory; those units must not review/approve reports; pay must not be based on any such transaction.",
+    "keyfacts": [
+      "需独立汇报线 / Separate reporting lines required"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10A — FAA-G13 paras 9–10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-003",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FAA-G13 记录保存 / Recordkeeping",
+    "point": "机构须将分析师研究建议的依据与支持文件,自发布之日起保存不少于 5 年。 / The FI must keep the bases and supporting documents of analysts' research recommendations for not less than 5 years from publication.",
+    "keyfacts": [
+      "披露须完整、简明、具体;样板式陈述不足 / Disclosure must be complete, concise, specific; boilerplate insufficient"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10A — FAA-G13 paras 12, 14",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-004",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FAA-G15 等值 DPI / Equivalent DPI",
+    "point": "若保险公司提供等值直接购买保险产品(DPI),财务顾问在网上直接渠道提供该保单时也应同时提供该 DPI。 / If an insurer offers an equivalent DPI, an FA offering that policy on its online direct channel should also make the DPI available there.",
+    "keyfacts": [
+      "MAS 不强制所有 FA 上线 DPI;有平台者须提供 / Not all FAs must offer DPI online; those with a platform must",
+      "自 2017-03-31 生效 / Effective 31 March 2017"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10B — FAA-G15 paras 5, 8–9",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-005",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FAA-G15 显著陈述 / Prominent statements",
+    "point": "购买前须以显著方式(如弹窗)提示:人寿保单非储蓄/存款、提早退保未必取回保费、部分利益不保证、有 14 天自由检视期等。 / Before purchase, prominently alert (e.g. pop-up): a life policy is not a savings/deposit, premiums may not be returned on early surrender, some benefits are not guaranteed, and a 14-day free-look period applies.",
+    "keyfacts": [
+      "须取得 Annex A 客户确认 / Annex A client acknowledgement required",
+      "有条件接受须客户确认已阅读理解 / Conditional acceptance must be acknowledged"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10B — FAA-G15 para 10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-006",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FAA-G16 Reg 32CB 与 ACMF Pass / Reg 32CB and ACMF Pass",
+    "point": "Reg 32CB 将相关实体规定为第 23(1)(f) 条下的获豁免财务顾问;ACMF Pass 便利东盟投资意见专业人士跨境流动。 / Reg 32CB prescribes a relevant entity as an exempt FA under s23(1)(f); the ACMF Pass facilitates cross-border mobility of investment-advice professionals within ASEAN.",
+    "keyfacts": [
+      "MOU 2018-10-11 签署,框架 2019-01-01 生效 / MOU signed 11 Oct 2018, framework effective 1 Jan 2019"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10C — FAA-G16 paras 1, 6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-007",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FAA-G16 5 年往绩与认可成员 / Five-year record and recognised members",
+    "point": "评估标准含至少 5 年企业往绩、该期间财务稳健且诚实公平履职、在指定东盟国持牌并受认可成员监管;认可国为泰、马、菲。 / Criteria include a 5-year corporate track record, financial soundness and honest/fair conduct over that period, and being licensed in a Specified ASEAN country under a Recognised ACMF Member; Thailand, Malaysia and the Philippines are recognised.",
+    "keyfacts": [
+      "指定东盟产品:上市股票、债券(含 sukuk)、CIS 单位 / Specified products: listed shares, bonds (incl. sukuk), CIS units"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10C — FAA-G16 paras 8, 10, Appendix",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-008",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "CMG-G02 Dealing Exemption / 交易豁免",
+    "point": "作为 FA 的数字顾问若仅将客户买卖盘传予经纪行执行且属附带于咨询,可豁免交易 CMS 牌照;与客户是否接受建议无关。 / A digital adviser operating as an FA is exempt from a dealing CMS licence if it merely passes clients' orders to brokers incidental to its advice; this is independent of whether the recommendation is accepted.",
+    "keyfacts": [
+      "适用于除 OTC 衍生合约外的指定产品 / Applies to specified products other than OTC derivatives",
+      "适用于所有 FA,含传统 FA / Applies to all FAs, including conventional FAs"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 16–18",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-009",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "CMG-G02 Fund Management Exemption / 基金管理豁免",
+    "point": "对仅由上市/非上市 CIS 组成组合的定期再平衡豁免基金管理 CMS 牌照;须取得一次性书面授权、事前书面披露并在每次再平衡前通知客户。 / Periodic rebalancing of portfolios comprising solely listed and unlisted CIS is exempt from a fund-management CMS licence; requires a one-time written authorisation, prior written disclosure and notification before each rebalancing.",
+    "keyfacts": [
+      "组合成分不变方属附带 / Incidental only if portfolio constituents unchanged"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 20–22",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-010",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "CMG-G02 算法治理与 BSC / Algorithm governance and BSC",
+    "point": "董事会与高管对客户端工具负最终责任,即使委托日常运营;BSC 框架仅适用于直接向客户提供建议的 FA 与代表。 / The Board and Senior Management remain ultimately responsible for the client-facing tool even if operation is delegated; the BSC framework applies only to FAs and representatives who advise clients directly.",
+    "keyfacts": [
+      "上线及变更前须充分测试,含回测 / Sufficient testing including back-testing before launch and on change"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 28, 30, 51",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-011",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "CMG-G02 FAA-N16 豁免条件 / FAA-N16 Exception conditions",
+    "point": "完全自动化数字顾问可免收 FAA-N16 第 11(c)–(i) 全资讯,但须全自动、内置淘汰问题、查处不一致回应、提供风险披露陈述、仅限实质为 EIP 的 CIS,且仍须收集财务目标与风险承受度。 / Fully-automated digital advisers may skip the full information under FAA-N16 paras 11(c)–(i) only if fully automated, with knock-out questions, controls for inconsistent responses, a risk disclosure statement, and advice limited to CIS that are in substance EIPs — but must still collect financial objectives and risk tolerance.",
+    "keyfacts": [
+      "豁免由 FAA-N16 第 11A 段提供 / Exception provided under FAA-N16 para 11A"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10D — CMG-G02 paras 47–48",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s10-012",
+    "part": 1,
+    "syllabusItemId": "s10",
+    "topicGroup": "guidelines",
+    "title": "FSG-G02 12 项保障 / The twelve safeguards",
+    "point": "针对零售商及公共场所营销分销,共 12 项保障,分监督(1–4)、专业操守(5–10)、适当环境(11–12)三组;自 2017-04-01 生效。 / For marketing/distribution at retailers and public places, 12 safeguards across oversight (1–4), professional conduct (5–10) and suitable environment (11–12); effective 1 April 2017.",
+    "keyfacts": [
+      "回访须在自由检视/冷静期前或期内 / Call-backs before or within the free-look/cooling-off period",
+      "神秘购物与巡查须覆盖当年≥一半安排 / Mystery shopping/site visits cover ≥half of arrangements in the year"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.10E — FSG-G02 Safeguards 1–12, Annex 1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

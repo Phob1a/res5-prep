@@ -5,26 +5,172 @@
     "syllabusItemId": "s14",
     "topicGroup": "ethics",
     "title": "道德 vs 合规 / Ethics vs compliance",
-    "point": "合规=法律最低线;道德=法律之外仍以客户利益为重、给出公平适当结果。 / Compliance is the legal minimum; ethics goes beyond it for fair, suitable outcomes.",
+    "point": "合规=法律字面/最低线,动机是怕被罚;道德=法律精神,超越法律做对的事。 / Compliance is the letter/minimum of the law driven by fear of penalty; ethics is its spirit, going beyond the law.",
     "keyfacts": [
-      "合法未必合德 / Lawful ≠ ethical"
+      "合规反映“法律的字面”,道德反映“法律的精神/意图” / Letter vs spirit of the law",
+      "合规动机是逃避制裁(罚款、禁止令、吊照、监禁) / Compliance avoids sanctions"
     ],
-    "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s14-002",
     "part": 2,
     "syllabusItemId": "s14",
     "topicGroup": "ethics",
-    "title": "为何重要 / Why it matters",
-    "point": "信息不对称 + 客户信任 → 道德是行业信任的根基。 / Information asymmetry + trust → ethics underpins the industry.",
+    "title": "职业道德定义 / Definition of professional ethics",
+    "point": "对待客户、同业与公众的行为准则,即使可能失去生意也要做对的事。 / A code of conduct toward clients, peers and the public — doing the right thing even at the cost of business.",
     "keyfacts": [
-      "客户利益优先 / Client interest first"
+      "“ethics”源自希腊语“ethos”;亚里士多德:有德=有美德习惯 / From Greek ‘ethos’; Aristotle: virtuous habits",
+      "美德可经教育、训练、实践习得 / Virtue learned via education, training, practice"
     ],
-    "sourceRef": "CMFAS M5 — Ethics (Why Professional Ethics Matter)",
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-003",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "专业人士的定义 / What is a professional",
+    "point": "运用专业知识与技能使客户处境优于从前的人;仅为成交即违背职业道德。 / One who uses knowledge and skill to leave the client better off; selling solely to close the deal fails the ethical code.",
+    "keyfacts": [
+      "向陌生人索取敏感财务信息是一种特权 / Asking a stranger for sensitive data is a privilege"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §1.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-004",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "合规却不道德 / Compliant but unethical",
+    "point": "Adam 借培训课暗中挖角他社代表、不透明告知——未违反合规但高度不道德。 / Adam covertly recruits rival advisers via a training course — no rule breached, yet highly unethical.",
+    "keyfacts": [
+      "合法未必合德 / Lawful ≠ ethical"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-005",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "道德却不合规 / Ethical but non-compliant",
+    "point": "Mary 想设私人公司就规划服务收费,意图良好却被公司以违规驳回。 / Mary's plan to bill for planning via a private company is well-intended but rejected as non-compliant.",
+    "keyfacts": [
+      "出发点好的行为也可能无意触及合规 / Good intent can still breach compliance"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-006",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "CPD 例子 / The CPD example",
+    "point": "签到混完一天 CPD、签退取得学时——技术上合规,道德上并未做对的事。 / Signing in then idling and signing out for CPD hours is technically compliant but ethically wrong.",
+    "keyfacts": [
+      "CPD 目的是持续提升知识、技能与胜任力 / CPD develops knowledge, skills, competency"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §2.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-007",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "为何金融业尤需道德 / Why finance needs ethics",
+    "point": "产品无形、信息不对称,客户只能依赖代表,信任是业务根基。 / Products are intangible with information asymmetry; clients must rely on the representative, so trust is foundational.",
+    "keyfacts": [
+      "金融业占新加坡 GDP 逾 15% / Sector > 15% of Singapore GDP",
+      "信任缺失会招致更多政府监管 / Lack of ethics invites more regulation"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-008",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "信任方程式 / The trust equation",
+    "point": "Trust = (Credibility + Reliability + Intimacy) / Self-Interest(Charles H. Green)。 / Green's equation: trust falls as self-interest rises.",
+    "keyfacts": [
+      "Credibility=专业知识;Reliability=言行一致;Intimacy=安全感 / Credibility, reliability, intimacy",
+      "绝对自利会摧毁前三项 / Absolute self-interest destroys them"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3.21",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-009",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "三种动机 / Three motivations",
+    "point": "良好行为通常源于自利、情感、道德三动机;关键在何者主导。 / Good conduct results from self-interest, affection and moral motivations; the question is which drives.",
+    "keyfacts": [
+      "对客户的关怀义务(duty of care)须先于自利 / Duty of care before self-interest",
+      "应把伦理义务培养为首要驱动力 / Cultivate ethics as the primary driver"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §4.2–4.10",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-010",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "合理化 / Rationalisation",
+    "point": "自我说服“无人会发现”而合理化不当行为;2011 年代表卖假保单侵吞 $6.2M 保费。 / Convincing oneself no one will find out; in 2011 a rep sold fake policies, pocketing $6.2m.",
+    "keyfacts": [
+      "挪用客户资金还私债亦属合理化 / Using client funds for personal debts is similar"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §4.11",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-011",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "同侪压力与金钱诱因 / Peer pressure & monetary incentives",
+    "point": "按销量/保费计酬带来巨大压力(尤年初重设目标);达标奖励是难抗拒的诱惑。 / Sales-volume pay creates pressure (esp. at year-start reset); target rewards are a hard-to-resist temptation.",
+    "keyfacts": [
+      "二者都可能诱发不当行为 / Both can lead to misconduct"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §4.12–4.13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s14-012",
+    "part": 2,
+    "syllabusItemId": "s14",
+    "topicGroup": "ethics",
+    "title": "MAS 加强执法 / MAS steps up enforcement",
+    "point": "18 个月内 9 项刑事定罪、$11.7M 民事罚款;启示是机构与员工应自律守德。 / 9 convictions and $11.7m civil penalties in 18 months; the lesson is to self-regulate ethically.",
+    "keyfacts": [
+      "巴菲特:声誉二十年建成、五分钟毁掉 / Buffett: 20 years to build, 5 minutes to destroy",
+      "Ravi Menon:义务不仅是合约,更是道德 / Menon: moral as well as contractual obligation"
+    ],
+    "sourceRef": "RES 5 Study Text Part II Ch.14 §3.10–3.20",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

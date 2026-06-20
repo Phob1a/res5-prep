@@ -1,0 +1,204 @@
+[
+  {
+    "id": "fc-s04-001",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "介绍活动定义 / Introducing activity (FAA-N02)",
+    "point": "介绍活动 = 将客户介绍给被介绍人以提供财务顾问服务，可附带经同意转交客户资料及提供产品事实信息。 / Introducing = introducing a client to an introducee for FA service, optionally forwarding client particulars with consent and giving factual product information.",
+    "keyfacts": [
+      "依 FAA 第 58 条发出 / Issued under section 58 FAA",
+      "适用持牌及 23(1)(a)–(e) 豁免人 / Applies to licensed FAs and 23(1)(a)–(e) exempt persons"
+    ],
+    "sourceRef": "MAS Notice FAA-N02 paras 1.1–1.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-002",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "介绍人五项要求 / Five introducer requirements (FAA-N02)",
+    "point": "书面协议、依 FAR Reg 31 披露、提供脚本、禁止收受客户金钱/财产、维持介绍人登记册。 / Written agreement, FAR Reg 31 disclosure, provision of script, prohibition on handling client money/property, maintenance of register.",
+    "keyfacts": [
+      "介绍人不得建议/推荐、推销 CIS 或安排人寿保单 / No advice, no marketing CIS, no arranging life policies",
+      "登记册含姓名、营业地点、电话、登记号/IC、委任与终止日期 / Register: name, place, phone, reg/IC no., dates"
+    ],
+    "sourceRef": "MAS Notice FAA-N02 paras 1.9–1.14",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-003",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "豁免人禁止陈述 / Prohibited representations (FAA-N10)",
+    "point": "依 Reg 27(1)(d) 豁免人及其代表不得表示自己受 MAS 发牌、规管、监督或注册（口头或书面）。 / Exempt persons under Reg 27(1)(d) and their reps must not represent they are licensed, regulated, supervised or registered by MAS.",
+    "keyfacts": [
+      "豁免人 = 23(1)(f) 条 + FAR Reg 27(1)(d) / Exempt person = s23(1)(f) + FAR Reg 27(1)(d)",
+      "每场合 ≤30 名认可投资者（人寿保单除外）/ ≤30 accredited investors per occasion (excl. life policies)"
+    ],
+    "sourceRef": "MAS Notice FAA-N10 paras 1.3–1.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-004",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "临时代表入职要求 / Provisional rep entry (FAA-N12)",
+    "point": "至少 21 岁、正/已迁居新加坡、至少 3 年相关经验、至少学士学位或专业资格。 / At least 21, relocating/relocated to Singapore, ≥3 years relevant experience, ≥Bachelor's degree or professional qualification.",
+    "keyfacts": [
+      "依 FAA 第 23D 及 58 条发出 / Issued under sections 23D and 58 FAA",
+      "3 个月宽限期通过 FAA-N13 考试 / 3-month grace period to pass FAA-N13 exams"
+    ],
+    "sourceRef": "MAS Notice FAA-N12 paras 1.5–1.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-005",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "临时代表有效期 / Provisional rep validity (FAA-N12)",
+    "point": "委任自其名列入公开代表登记册起最长三个月有效。 / Appointment is valid for up to three months from entry into the public register of representatives.",
+    "keyfacts": [
+      "公开代表登记册起算 / Counted from public register entry"
+    ],
+    "sourceRef": "MAS Notice FAA-N12 para 1.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-006",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "不当行为报告时限 / Misconduct report deadline (FAA-N14)",
+    "point": "发现后不迟于 14 天经 MASNET 提交不当行为报告。 / Lodge the Misconduct Report via MASNET not later than 14 days after discovery.",
+    "keyfacts": [
+      "自 2011 年 1 月 1 日生效 / Effective 1 January 2011",
+      "重大进展提交更新报告 / Update Report on significant developments"
+    ],
+    "sourceRef": "MAS Notice FAA-N14 paras 1.6, 1.8",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-007",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "可报告不当行为四类 / Four misconduct types (FAA-N14)",
+    "point": "(a) 欺诈/不诚实；(b) 不当建议、失实陈述或披露不足；(c) 不符 FSG-G01 适当人选；(d) 其他违规。 / (a) fraud/dishonesty; (b) inappropriate advice, misrepresentation or inadequate disclosure; (c) failure to satisfy FSG-G01; (d) other misconduct.",
+    "keyfacts": [
+      "欺诈类应报警并提交报案副本 / Fraud cases: lodge police report and submit copy"
+    ],
+    "sourceRef": "MAS Notice FAA-N14 para 1.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-008",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "违规罚则 / Penalty for contravention (FAA-N14)",
+    "point": "依第 58(5) 条违反 Notice 罚款最高 $25,000，持续违例每日另加最高 $2,500。 / Under section 58(5), contravention is a fine up to $25,000, and a further $2,500 per day for a continuing offence.",
+    "keyfacts": [
+      "无可报告事项须 12 月 31 日后 14 天内提交年度声明 / Annual declaration within 14 days after 31 Dec if no reportable misconduct"
+    ],
+    "sourceRef": "MAS Notice FAA-N14 para 1.9 & Note (s58(5))",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-009",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "ISA Unit 独立性 / ISA Unit independence (FAA-N20)",
+    "point": "ISA 单元须独立于财务顾问服务单元、不监督相关代表、且有能力评估服务质量并判定违规。 / The ISA Unit must be independent of the FA services unit, not supervise the relevant representatives, and be competent to assess service quality and determine infractions.",
+    "keyfacts": [
+      "可由合规/风险职能或外包第三方担任（须满足独立性）/ May use compliance/risk function or outsource if independence met"
+    ],
+    "sourceRef": "MAS Notice FAA-N20 para 3.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-010",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "60% 浮动收入测量 / 60% variable income rule (FAA-N20)",
+    "point": "仅有浮动收入者测量浮动收入的 60% 对照非销售 KPI；有固定薪+浮动者测量全部浮动收入。 / Variable-income-only: measure 60% of variable income against non-sales KPIs; fixed salary + variable: measure all variable income.",
+    "keyfacts": [
+      "非销售 KPI 不得用其他 KPI 测量特定浮动收入 / Specified variable income not measured against other KPIs"
+    ],
+    "sourceRef": "MAS Notice FAA-N20 para 4.3.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-011",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "第一轮抽样比例 / First-round sampling (FAA-N20)",
+    "point": "第一轮交易后检查最低抽样：被选代表 10%、仅做 DCI/结构票据滚动者 2%、其他代表 5%。 / First-round minimum sampling: selected representative 10%, DCI/structured-note rollover-only 2%, any other representative 5%.",
+    "keyfacts": [
+      "被选代表 = 连续两季 B 级或更差 / Selected rep = grade B or worse for two consecutive quarters"
+    ],
+    "sourceRef": "MAS Notice FAA-N20 para 4.4.2.6(a)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-012",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "违规分类 / Infraction categories (FAA-N20)",
+    "point": "Category 1 = 对客户利益有重大影响或影响代表适当性；Category 2 = 非 Category 1 的所有违规。一件 Category 1 即落 E 级。 / Category 1 = material impact on client interests or impinging on fitness/propriety; Category 2 = all others. One Category 1 → Grade E.",
+    "keyfacts": [
+      "明显不适合的推荐、不必要的转换为 Category 1 例子 / Clearly unsuitable recommendation, unnecessary switching are Cat-1 examples"
+    ],
+    "sourceRef": "MAS Notice FAA-N20 paras 4.5.3–4.5.4, 4.6.1",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-013",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "FAA-N26 生效与 CPD 时数 / Effective date & CPD hours (FAA-N26)",
+    "point": "自 2024 年 4 月 1 日生效（取代 FAA-N13）。每历年 CPD：核心 6 小时 + 补充 10 或 24 小时（取最高）。 / Effective 1 April 2024 (replaces FAA-N13). Yearly CPD: 6 Core hours + 10 or 24 Supplementary hours (take highest).",
+    "keyfacts": [
+      "核心课程须经 IBF 或 SCI 认可 / Core course accredited by IBF or SCI",
+      "首次受任当年免 CPD / First year of appointment exempt from CPD"
+    ],
+    "sourceRef": "MAS Notice FAA-N26 paras 1.1, 5.4 & Table 3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s04-014",
+    "part": 1,
+    "syllabusItemId": "s04",
+    "topicGroup": "notices",
+    "title": "RES5 合格有效期 / Validity of RES5 pass (FAA-N26)",
+    "point": "RES5 合格如三年内未以委任代表展业，或停业满三年未重启，即失效，须重考。 / A RES5 pass ceases to be valid if not used as an appointed rep within 3 years, or after 3 years of cessation — must re-take.",
+    "keyfacts": [
+      "入职最低学历 GCE 'A' Level / IB / 理工文凭或同等 / Min academic: GCE 'A' Level / IB / poly diploma or equivalent"
+    ],
+    "sourceRef": "MAS Notice FAA-N26 paras 3.1, 4.15, 4.19",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

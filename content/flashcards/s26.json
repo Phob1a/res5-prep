@@ -4,27 +4,110 @@
     "part": 2,
     "syllabusItemId": "s26",
     "topicGroup": "process",
-    "title": "何时检视 / When to review",
-    "point": "定期及客户/市场重大变化时检视组合。 / Review periodically and on major client/market changes.",
+    "title": "四类检视触发因素 / Four review triggers",
+    "point": "决定何时检视客户的四类一般因素:个人情况、外部发展、已购产品、产品发展。 / The four general triggers for a client review: personal circumstances, external developments, products purchased, and product developments.",
     "keyfacts": [
-      "核对目标/风险 / Check goals/risk"
+      "频率亦取决于初始建议与客户意愿 / Frequency also depends on the initial advice and the client's wishes"
     ],
-    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.1.4",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s26-002",
     "part": 2,
     "syllabusItemId": "s26",
     "topicGroup": "process",
-    "title": "检视产出 / Review output",
-    "point": "必要时再平衡;记录结论与调整建议。 / Rebalance if needed; document findings.",
+    "title": "退休/裁员的检视时点 / Timing of retirement review",
+    "point": "退休与裁员需全面检视,且理想上应在事件实际发生'之前'进行,以便平稳过渡。 / Retirement and redundancy need a full review, ideally done just BEFORE the event so preparation can be made for a smooth adjustment.",
     "keyfacts": [
-      "保持可追溯 / Keep traceable"
+      "自雇客户可在每个营业年度结束时检视 / Self-employed may review at each business year-end"
     ],
-    "sourceRef": "CMFAS M5 — Reviewing Clients’ Portfolios",
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.2.9, 2.11",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s26-003",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "客户请求检视 / Clients' requests",
+    "point": "对于希望定期检视的客户,你应询问他们'希望多久检视一次',以保持定期联系。 / For clients who want regular reviews, you should ask how often they wish to review, to maintain regular contact.",
+    "keyfacts": [],
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.2.13",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s26-004",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "外部发展 / External developments",
+    "point": "外部触发包括 CPF 规则变动(如缴费率变化)与市场变化(如股价大幅下跌)。 / External triggers include CPF rule changes (e.g. contribution rates) and market changes (e.g. a steep fall in equity prices).",
+    "keyfacts": [
+      "市场下跌检视也适用于底层基金重仓股票的投连保单 / Also applies to ILPs whose underlying fund is heavily in equities"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.3.2, 3.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s26-005",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "人寿保险检视情形 / When to review life insurance",
+    "point": "三种情形:有可行使的选择权(如转换)、以信托形式订立、确保保额仍充足。 / Three situations: when options (e.g. conversion) are available, when written under trust, and to ensure the sum assured remains sufficient.",
+    "keyfacts": [
+      "转换选择权通常无需进一步健康证明即可行使 / Conversion options can usually be exercised without further evidence of health",
+      "信托须复核受益人等内容是否仍相关 / Review the trust's beneficiaries/contents for relevance"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.4.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s26-006",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "健康保险检视 / Reviewing health insurance",
+    "point": "确保产品续保(尤其按年续保者)且保障水平充足;年度续保是确认最合适产品与供应商的理想机会。 / Ensure the product is renewed (especially if annually renewable) and cover is sufficient; the annual renewal is an ideal chance to confirm the most suitable product and provider.",
+    "keyfacts": [
+      "失能收入保障须跟上客户收入与生活水准 / Disability income cover must keep pace with income and standard of living",
+      "无需医疗证明即可增保的选择权很有价值 / 'Increase cover without medical evidence' option is valuable"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.4.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s26-007",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "投连产品与新产品 / ILPs and product developments",
+    "point": "投连产品依'基金表现报告与保单结单'决定是否建议转换基金;新产品(如长期护理保险、资本保证投连)提供检视组合的机会。 / ILPs are reviewed via the fund performance report and policy statement to decide on a fund switch; new products (e.g. long-term care insurance, capital-guaranteed ILPs) provide review opportunities.",
+    "keyfacts": [],
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.4.6, 5.1–5.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s26-008",
+    "part": 2,
+    "syllabusItemId": "s26",
+    "topicGroup": "process",
+    "title": "保单替换 / Replacement of policies",
+    "point": "正常情况下应'不鼓励'替换保单,且推荐须经主管同意;新单会重置不可争议/等待期/自杀条款,并丧失已累积复归红利。 / Replacement should normally be discouraged and must be agreed by the supervisor; a new policy re-sets the incontestability/waiting/suicide clauses and loses accumulated reversionary bonus.",
+    "keyfacts": [
+      "替换=使现有法律合约失效、另启新约 / Replacement voids the existing legal contract and starts a new one",
+      "主管同意旨在降低不当销售风险 / Supervisor sign-off mitigates unethical-selling risk"
+    ],
+    "sourceRef": "RES5 Study Text Part II Ch.26 — s.5.6",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

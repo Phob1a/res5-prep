@@ -4,65 +4,247 @@
     "part": 2,
     "syllabusItemId": "s17",
     "topicGroup": "ethics",
-    "stem": "“Churning” refers to:",
+    "stem": "According to the chapter, many ethical problems and scandals in the financial services industry arise primarily when financial institutions:",
     "options": {
-      "A": "Reviewing a portfolio annually",
-      "B": "Excessive transactions generated mainly to earn commission",
-      "C": "Diversifying investments",
-      "D": "Long-term holding"
+      "A": "Place excessive focus on sales targets and profit",
+      "B": "Invest heavily in staff training",
+      "C": "Adopt salary-only compensation structures",
+      "D": "Reduce the number of products they offer"
     },
-    "answer": "B",
-    "explanation": "churning=为赚佣金而过度频繁交易。",
+    "answer": "A",
+    "explanation": "教材 1.1 指出,许多道德问题与丑闻源于金融机构过度聚焦销售目标与利润,代表为保住工作而采取不道德手段。其余选项并非教材所述根源。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.1",
     "status": "draft",
     "tags": [
-      "churning"
+      "root-cause"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s17-002",
     "part": 2,
     "syllabusItemId": "s17",
     "topicGroup": "ethics",
-    "stem": "“Twisting” in insurance sales means:",
+    "stem": "How does the chapter define 'churning'?",
     "options": {
-      "A": "Explaining a policy clearly",
-      "B": "Inducing a client to replace a policy to their detriment, for commission",
-      "C": "Reducing premiums for the client",
-      "D": "Comparing products fairly"
+      "A": "Reviewing a client's portfolio at least once a year",
+      "B": "Diversifying a client's investments across asset classes",
+      "C": "Offering a client a lower premium with full disclosure of any trade-offs",
+      "D": "Persuading clients to terminate existing policies after a short period and switch to similar products with no real benefit to them"
     },
-    "answer": "B",
-    "explanation": "twisting=诱导换单、损客户利益以赚佣金。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "answer": "D",
+    "explanation": "教材 1.5 将 churning 定义为寿险代理人说服客户在短期内终止现有保单、转购对客户无实质益处的相似产品。其余选项均非教材定义。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.5",
     "status": "draft",
     "tags": [
-      "twisting"
+      "churning"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s17-003",
     "part": 2,
     "syllabusItemId": "s17",
     "topicGroup": "ethics",
-    "stem": "Misrepresenting a product’s features to close a sale is:",
+    "stem": "In the chapter's example, a representative acting for a life insurer recommends a whole life policy to a client. Why is this cited as potentially unethical?",
     "options": {
-      "A": "Acceptable",
-      "B": "Unethical and likely a breach",
-      "C": "Required",
-      "D": "Fine if the client is happy"
+      "A": "Whole life policies are illegal in Singapore",
+      "B": "A term life policy may be a more suitable or cheaper option, while the whole life policy generates higher commission",
+      "C": "Whole life policies cannot be surrendered",
+      "D": "The client had asked specifically for a term policy"
     },
     "answer": "B",
-    "explanation": "虚假陈述产品特征属不道德且可能违规。",
-    "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Unethical Behavior",
+    "explanation": "教材 1.4 指出代表可能为高佣金推终身寿险,而定期寿险其实更适合或更便宜——为佣金而非客户利益服务。A/C 与教材不符;D 未在例子中提及。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.4",
     "status": "draft",
     "tags": [
-      "misrepresentation"
+      "suitability",
+      "commission"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-004",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "In the 'Mismatched Insurance Policy' case reported by the Straits Times on 5 October 2015, what was the annual premium of the policy sold to the divorcee client?",
+    "options": {
+      "A": "S$3,500",
+      "B": "S$350,000",
+      "C": "S$40,000",
+      "D": "S$4,000"
+    },
+    "answer": "C",
+    "explanation": "教材 1.7 指出该保单年保费为 40,000 新元,高于客户年收入。S$350,000 是她离婚后存入的储蓄金额,易混淆。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.7",
+    "status": "draft",
+    "tags": [
+      "case",
+      "mismatched-policy"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-005",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "In the 'Mismatched Insurance Policy' case, what did the client actually want when she deposited her divorce settlement?",
+    "options": {
+      "A": "A regular-premium savings plan recommended by the relationship manager",
+      "B": "A whole life insurance policy with high coverage",
+      "C": "A long-term endowment with no liquidity",
+      "D": "A better savings rate, as she might need the money to buy a home"
+    },
+    "answer": "D",
+    "explanation": "教材 1.7 指出客户从未表示要定期供款储蓄计划,她只想要更好的储蓄利率,因可能需用该笔钱购房;实际买到的却是与其流动性需求错配的保险保单。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 1.7",
+    "status": "draft",
+    "tags": [
+      "case",
+      "liquidity"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-006",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is identified in the chapter as a type of unethical behavior in the financial services industry?",
+    "options": {
+      "A": "Recommending the cheapest suitable product",
+      "B": "Disclosing all material fees before a sale",
+      "C": "Referring a client to a more competent colleague",
+      "D": "Rebating part of the commission as an incentive to a prospective client"
+    },
+    "answer": "D",
+    "explanation": "教材 2.1(o) 将回扣部分佣金作为投保诱因列为不道德行为之一。其余选项均为合规、合德的做法。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 2.1(o)",
+    "status": "draft",
+    "tags": [
+      "types",
+      "rebating"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-007",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is NOT listed in the chapter as a type of unethical behavior?",
+    "options": {
+      "A": "Rigging and price fixing",
+      "B": "Confusing the client with jargon or technical terms",
+      "C": "Conducting a documented fact-find to identify client needs",
+      "D": "Denying valid claims"
+    },
+    "answer": "C",
+    "explanation": "教材 2.1 列出 rigging/price fixing、以行话困惑客户、拒赔有效索赔等为不道德行为;而'进行有记录的需求分析以识别客户需求'恰是应做之事,反面(未能识别客户需求)才是不道德行为。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 2.1",
+    "status": "draft",
+    "tags": [
+      "types",
+      "not"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-008",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "How does the chapter define 'ethical decision making'?",
+    "options": {
+      "A": "The process of maximising commission within the limits of the law",
+      "B": "The process of evaluating and choosing among alternatives in a manner consistent with ethical principles",
+      "C": "The process of following an employer's sales script exactly",
+      "D": "The process of selecting whichever option the client prefers"
+    },
+    "answer": "B",
+    "explanation": "教材 3.1 定义道德决策为依据道德原则在各方案中评估并选择的过程,需察觉并剔除不道德选项、选出最佳道德方案。其余选项与定义不符。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 3.1",
+    "status": "draft",
+    "tags": [
+      "ethical-decision-making"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-009",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "The chapter explains that people may interpret the same situation differently mainly because:",
+    "options": {
+      "A": "They have different worldviews that they bring into the decision-making process",
+      "B": "They are paid different commission rates",
+      "C": "They work for different regulators",
+      "D": "They hold different product licences"
+    },
+    "answer": "A",
+    "explanation": "教材 3.2 指出不同人带着不同世界观进入决策过程,使他们以不同方式看待与解读同一情境。其余选项非教材所述原因。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 3.2",
+    "status": "draft",
+    "tags": [
+      "worldview"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-010",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "The chapter identifies four obstacles to ethical decision making. Which of the following is one of them?",
+    "options": {
+      "A": "Excessive regulation",
+      "B": "Lack of moral perception",
+      "C": "High product commissions",
+      "D": "Insufficient sales targets"
+    },
+    "answer": "B",
+    "explanation": "教材 3.4 列出四个障碍:品格败坏、缺乏道德感知、屈服于诱惑、合理化。'缺乏道德感知'(lack of moral perception)正是其一;其余选项均非教材列出的障碍。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 3.4",
+    "status": "draft",
+    "tags": [
+      "obstacles"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s17-011",
+    "part": 2,
+    "syllabusItemId": "s17",
+    "topicGroup": "ethics",
+    "stem": "Which set correctly lists all four obstacles to ethical decision making given in the chapter?",
+    "options": {
+      "A": "Greed, ignorance, peer pressure and fatigue",
+      "B": "Conflict of interest, mis-selling, churning and rebating",
+      "C": "A corrupted character, lack of moral perception, giving in to temptation, and rationalization",
+      "D": "Poor training, weak supervision, low pay and high targets"
+    },
+    "answer": "C",
+    "explanation": "教材 3.4 明确四个障碍为 (a) 品格败坏、(b) 缺乏道德感知、(c) 屈服于诱惑、(d) 合理化。只有 C 完整且准确;B 列的是不道德行为类型而非'障碍',易混淆。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.17 — Unethical Behavior 3.4",
+    "status": "draft",
+    "tags": [
+      "obstacles",
+      "full-list"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

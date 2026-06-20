@@ -3,33 +3,93 @@
     "id": "note-s02-overview",
     "part": 1,
     "syllabusItemId": "s02",
-    "title": "FAA — 业务操守、监管权力与罪行 / Conduct, Powers & Offences",
-    "summary": "FAA 规定业务操守(披露重要信息、不得虚假误导、推荐有合理基础),赋予 MAS 监管/执法权;违反可构成罪行。 / The FAA sets conduct standards (disclose material information, no false/misleading statements, reasonable basis), gives MAS regulatory/enforcement powers, and makes breaches an offence.",
+    "title": "FAA 与 FAR — 营业行为、当局权力与罪行 / FAA & FAR — Conduct of Business, Powers of Authority and Offences",
+    "summary": "本章覆盖 FAA 第 III 部（营业行为：披露、陈述、推荐、客户款项、向 MAS 提供资料、保费账户、与未持牌保险人安排风险、利益冲突披露）、FAR 第 IV 部（无抵押贷款上限）、FAA 第 V 部（当局权力：CEO/董事审批、撤职、书面指示、禁止令、公布资讯）与第 VIII 部（罪行与罚则）。 / This chapter covers FAA Part III (conduct of business: disclosure, statements, recommendations, client money, furnishing info to MAS, premium accounts, placement with unlicensed insurers, conflict-of-interest disclosure), FAR Part IV (unsecured-credit cap), FAA Part V (powers of authority: CEO/director approval, removal, written directions, prohibition orders, publication) and Part VIII (offences and penalties).",
     "sections": [
       {
-        "heading": "业务操守要求",
-        "body": "须披露风险/费用/利益冲突等重要信息;不得作虚假或误导陈述诱使交易;推荐须有合理基础且适合客户。"
+        "heading": "产品资料披露义务（Section 34）",
+        "body": "FAA 第 34(1) 条（与 20(2)、46 条一并阅读）规定持牌财务顾问须向每位客户及潜在客户披露其所推荐指定投资产品的所有重大资料,包括:条款与条件;预期收益与可能风险;保费/成本/费用/收费;若为集体投资计划单位须披露管理人名称及顾问与管理人的关系;若为人寿保单须披露持牌保险人名称及顾问与保险人的关系;以及 MAS 可能订明的其他资料。"
       },
       {
-        "heading": "Conduct requirements",
-        "body": "Disclose material information (risks, fees, conflicts); make no false or misleading statements to induce transactions; recommend with a reasonable basis and suitability."
+        "heading": "Obligation to disclose product information (Section 34)",
+        "body": "Section 34(1) FAA (read with s.20(2) and s.46) requires a licensed FA to disclose to every client and prospective client all material information on a recommended designated investment product: terms and conditions; likely benefits and risks; premiums/costs/expenses/fees/charges; for a CIS unit, the manager's name and the FA-manager relationship; for a life policy, the insurer's name and the FA-insurer relationship; and any other information MAS may prescribe."
       },
       {
-        "heading": "MAS 权力与罪行",
-        "body": "MAS 可检查、调查并采取监管/执法行动(指令、限制、暂停/撤销牌照、禁业);无牌或虚假陈述属罪行,可罚款/监禁。"
+        "heading": "陈述与推荐（Section 35 与 36）",
+        "body": "Section 35:持牌 FA 不得意图欺骗而就应付金额、合约条文效力或与财务顾问服务的关联作出虚假或误导性陈述;遗漏重大事项亦属误导;违反者即使合约未成立仍属犯罪,罚款最高 S$50,000 或监禁最高 12 个月或两者兼施。Section 36:FA 须有合理基础方可作推荐——须就客户的投资目标、财务状况及特定需要作合理考量与调查,且推荐须基于该考量;无合理基础且客户依赖致损者,FA 须赔偿损失。"
       },
       {
-        "heading": "MAS powers & offences",
-        "body": "MAS may inspect, investigate and take regulatory/enforcement action (directions, restrictions, suspension/revocation, prohibition); unlicensed activity or false statements are offences (fines/imprisonment)."
+        "heading": "Statements and recommendations (Sections 35 and 36)",
+        "body": "Section 35: no licensed FA may, with intent to deceive, make a false/misleading statement as to amounts payable, the effect of a contract provision, or the connection with a financial advisory service; omitting a material matter counts as misleading; breach (even if no contract arises) is an offence — fine up to S$50,000 or up to 12 months' jail or both. Section 36: an FA must have a reasonable basis for a recommendation — reasonable consideration/investigation of the client's objectives, financial situation and needs, with the recommendation based on it; absent a reasonable basis, the FA is liable in damages for resulting loss."
+      },
+      {
+        "heading": "客户款项或财产 / 向 MAS 提供资料（Section 37、38）",
+        "body": "Section 37(4):\"客户款项或财产\"指 FA 在其业务过程中收取、保留或被存放、且须向他人交代的款项或财产。Section 37(1):MAS 可订立规例规定处理方式或禁止在特定情形下收取。Section 37(2):账户上的留置权/索赔权除非为应付 FA 的费用否则无效;37(3):账户上的押记/按揭一律无效。Section 38(1):MAS 可书面要求 FA 提供与其业务有关的资料(无论在新加坡或其他地方经营),只要 MAS 认为履行 FAA 职能需要。"
+      },
+      {
+        "heading": "Client's money/property; furnishing info to MAS (Sections 37, 38)",
+        "body": "Section 37(4): \"client's money or property\" is money/property received, retained or deposited with an FA in the course of business for which it must account to another. s.37(1): MAS may by regulations set the manner of handling or prohibit receipt in specified cases. s.37(2): a lien/claim on such account is void unless for fees due to the FA; s.37(3): a charge/mortgage on it is void. Section 38(1): MAS may in writing require an FA to furnish information about any matter related to its business (in Singapore or elsewhere) where MAS needs it to discharge its FAA functions."
+      },
+      {
+        "heading": "保费账户与未持牌保险人（Section 41、42）",
+        "body": "Section 41(1):收取保险款项的 FA 须在《2003年银行法》(Banking Act 1970) 下持牌银行开立并维持独立的人寿保险经纪保费账户;FAR Reg 20 规定须将代保险人/被保险人收取的款项存入,并限定提款情形(付予有权收款者、付予保险人、存入持牌银行投资、退还误存款项),投资亏损须补足差额。Section 42(1):除与持牌保险人在其业务过程中外,持牌或获豁免 FA 不得与保险人洽商保险合约,即不得与未持牌保险人安排风险;不适用于再保险及新加坡以外风险;MAS 在例外情形下可特许。"
+      },
+      {
+        "heading": "Premium accounts and unlicensed insurers (Sections 41, 42)",
+        "body": "Section 41(1): an FA receiving insurance moneys must establish and maintain a separate life-insurance broking premium account with a bank licensed under the Banking Act 1970; FAR Reg 20 requires such moneys to be paid in and limits withdrawals (to a person entitled, to an insurer, for deposit-investment with a licensed bank, or to repay money paid in error), with any investment shortfall to be made good. Section 42(1): except with a licensed insurer acting in the course of business, a licensed/exempt FA must not negotiate a contract of insurance — i.e. no placement of risk with unlicensed insurers; this excludes reinsurance and risks outside Singapore, and MAS may permit exceptions."
+      },
+      {
+        "heading": "保险陈述与利益冲突披露（Section 43、45）",
+        "body": "Section 43:持牌 FA 不得意图欺骗就拟议保险合约或保险索赔填写虚假/误导表格或遗漏重大事项,亦不得诱使被保险人如此;违者即使合约未成立仍属犯罪,罚款最高 S$25,000 或监禁最高 12 个月或两者兼施。Section 45:FA 在含指定产品推荐的通函中须以不逊于正文清晰度披露其本人或关联人在该产品中的权益;45(2) 设\"当时不知情且不能合理预期知情\"的抗辩;45(7) 罚则为罚款最高 S$25,000 或监禁最高 12 个月或两者兼施。FAR Reg 20A:就上市指定产品须设权益登记册,取得权益后 7 日内登记,记录保留不少于 5 年,并须在新加坡存放副本。"
+      },
+      {
+        "heading": "Insurance representations and conflict-of-interest disclosure (Sections 43, 45)",
+        "body": "Section 43: a licensed FA must not, with intent to deceive, write/omit material matter on insurance proposal or claim forms or induce the insured to do so; breach (even if no contract arises) is an offence — fine up to S$25,000 or up to 12 months' jail or both. Section 45: in a circular recommending Specified Products, the FA must disclose, in type no less legible than the rest, any interest it or an associated person has; s.45(2) gives a defence of not being and not reasonably expected to be aware; s.45(7) penalty is a fine up to S$25,000 or up to 12 months' jail or both. FAR Reg 20A: a register of interests in Listed Specified Products must be kept, entries made within 7 days of acquiring an interest, retained at least 5 years, with a copy kept in Singapore."
+      },
+      {
+        "heading": "无抵押贷款上限（FAR Reg 18）",
+        "body": "FAR Reg 18(1):持牌 FA 不得向其非雇员董事、或任何其他高级人员/雇员(含身为雇员的董事)或其代表,授予总额于任何一刻未偿还合计超过 S$3,000 的无抵押垫款、无抵押贷款或无抵押信贷便利。Reg 18(2) 界定\"董事\"包括其配偶及多类亲属;\"市值\"按上市指定产品的最后成交价等规则确定;\"无抵押\"涵盖无担保贷款、担保不足部分、相关担保/保证及未提取的无担保信贷便利。"
+      },
+      {
+        "heading": "Unsecured credit cap (FAR Reg 18)",
+        "body": "FAR Reg 18(1): a licensed FA must not grant any unsecured advance, loan or credit facility to a non-employee director, or to any other officer/employee (including an employee-director) or representative, that in aggregate outstanding at any one time exceeds S$3,000. Reg 18(2) defines \"director\" to include the spouse and various relatives; sets the \"market value\" rule for listed specified products; and treats \"unsecured\" as covering loans without security, the shortfall where security is below value, related guarantees/security, and undrawn unsecured credit facilities."
+      },
+      {
+        "heading": "当局权力:审批、撤职、书面指示（Section 63、64、67）",
+        "body": "Section 63(1):FA 须经 MAS 事先批准(提交 Form 11)方可委任 CEO 或董事,或将董事性质由非执行改为执行;不适用于外国公司不负责新加坡业务的非常驻董事。Reg 13(2) 列明审批准则(如是否有生效中的禁止令、是否破产、是否涉欺诈/不诚实定罪或 FAA 罪行定罪、资历经验、是否 fit and proper、财务状况等)。Section 64(1)(i):若 MAS 认为某高级人员不符合 fit and proper 标准,为公众利益或保护投资者可指示公司将其撤职。Section 67(1):MAS 为公众利益或保护投资者可向 FA、获豁免人士、代表、监督人或其类别发出概括或具体书面指示(含通函或通知)。"
+      },
+      {
+        "heading": "Powers: approval, removal, written directions (Sections 63, 64, 67)",
+        "body": "Section 63(1): prior MAS approval (via Form 11) is needed to appoint a CEO or director or to change a director from non-executive to executive; this excludes a non-Singapore director of a foreign company not responsible for its Singapore business. Reg 13(2) lists approval criteria (prohibition orders in force, bankruptcy, fraud/dishonesty or FAA convictions, qualifications/experience, fit-and-proper, financial standing, etc.). Section 64(1)(i): if MAS considers an officer not fit and proper, it may direct removal in the public interest or to protect investors. Section 67(1): MAS may issue written directions (general or specific, including circulars/notices) to FAs, exempt persons, representatives, supervisors or their classes."
+      },
+      {
+        "heading": "禁止令与公布资讯（Section 68–70、77）",
+        "body": "禁止令目的是阻止不适当人士从事受规管的财务顾问服务,或参与管理、出任董事或成为大股东,只在涉及非常严重罪行时发出。Section 68(2):禁止令可永久或限期禁止提供服务/参与管理,并可附条件允许特定行为。Section 69(2):FA 收到通知后不得在禁止范围内聘用或使用该人,违者属犯罪,罚款最高 S$50,000。Section 70:MAS 可因情况变化主动或应申请变更/撤销禁止令(主动变更前须给予聆讯机会,受屈者可于 30 日内向部长上诉)。Section 77:MAS 可公布牌照失效/撤销/暂停、撤职、禁止令、和解罚款、训诫、撤销豁免、FAA 罪行定罪、及对 FA 任何罪行定罪等资讯。"
+      },
+      {
+        "heading": "Prohibition orders and publication (Sections 68–70, 77)",
+        "body": "A prohibition order keeps unfit persons from providing regulated FA services or from managing/being a director or substantial shareholder, issued only for very serious offences. s.68(2): it may, permanently or for a period, bar service/management and may attach conditions permitting specified acts. s.69(2): a notified FA must not employ or use the person within the prohibition's scope — breach is an offence, fine up to S$50,000. s.70: MAS may vary/revoke on its own initiative or on application (a hearing is required before own-initiative variation; an aggrieved person may appeal to the Minister within 30 days). Section 77: MAS may publish lapse/revocation/suspension of licence, removal of officer, prohibition orders, compounded offences, reprimands, withdrawn exemptions, and FAA convictions."
+      },
+      {
+        "heading": "罪行与罚则（Section 111、112、113）",
+        "body": "Section 111(1):法人团体所犯罪行若经高级人员同意、纵容或因其疏忽所致,该高级人员连同法人团体均属犯罪;111(6) 界定\"高级人员\"。Section 112(1):FA 的高级人员若未采取一切合理步骤确保遵守 FAA 或确保呈交 MAS 的陈述准确无误,属犯罪,罚款最高 S$100,000 或监禁最高 2 年或两者兼施。Section 113(1):FA 的高级人员、审计师、雇员或代理人故意作虚假记项、故意遗漏记项、或故意更改/抽取/隐藏/销毁记项,属犯罪,罚款最高 S$100,000 或监禁最高 2 年或两者兼施。"
+      },
+      {
+        "heading": "Offences and penalties (Sections 111, 112, 113)",
+        "body": "Section 111(1): where a body corporate's offence is proved to be with an officer's consent/connivance or attributable to neglect, the officer and the body corporate are both guilty; s.111(6) defines \"officer\". Section 112(1): an officer who fails to take all reasonable steps to secure FAA compliance or the accuracy of statements submitted to MAS is guilty — fine up to S$100,000 or up to 2 years' jail or both. Section 113(1): an officer/auditor/employee/agent who wilfully makes a false entry, wilfully omits an entry, or wilfully alters/extracts/conceals/destroys an entry in the FA's records is guilty — fine up to S$100,000 or up to 2 years' jail or both."
       }
     ],
     "keyPoints": [
-      "披露重要信息、不得误导 / Disclose material info; do not mislead",
-      "推荐须有合理基础 / Recommendations need a reasonable basis",
-      "MAS 有检查/调查/执法权 / MAS may inspect/investigate/enforce"
+      "S.34 须披露推荐指定投资产品的所有重大资料 / s.34 disclose all material info on recommended product",
+      "S.36 推荐须有合理基础,否则赔偿损失 / s.36 reasonable basis or liable in damages",
+      "S.41 + FAR Reg 20 独立保费账户与限定提款 / s.41 separate premium account, limited withdrawals",
+      "S.42 不得与未持牌保险人安排风险 / s.42 no placement with unlicensed insurers",
+      "FAR Reg 18 无抵押贷款合计上限 S$3,000 / FAR Reg 18 unsecured-credit aggregate cap S$3,000",
+      "S.45 利益冲突披露,Reg 20A 7 日内登记、保留 5 年 / s.45 conflict disclosure, Reg 20A register within 7 days, keep 5 years",
+      "罚则梯度:S$25,000(s.43/45)、S$50,000(s.35/69)、S$100,000+2年(s.112/113) / penalty tiers S$25k, S$50k, S$100k+2yr"
     ],
-    "sourceRef": "Financial Advisers Act — Conduct of Business, Powers & Offences",
+    "sourceRef": "RES5 Study Text Part I Ch.2 — FAA & FAR: Conduct of Business, Powers of Authority and Offences (FAA ss.34-38, 41-43, 45, 63, 64, 67, 68-70, 77, 111-113; FAR Regs 13, 18, 20, 20A, 20B)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

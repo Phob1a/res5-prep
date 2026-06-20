@@ -4,45 +4,321 @@
     "part": 2,
     "syllabusItemId": "s22",
     "topicGroup": "process",
-    "stem": "The main purpose of fact-finding and needs analysis (FNA) is to:",
+    "stem": "What is the prime objective of fact-finding?",
     "options": {
-      "A": "Sell the highest-commission product",
-      "B": "Establish a reasonable basis for a suitable recommendation by understanding the client",
-      "C": "Avoid any paperwork",
-      "D": "Satisfy the adviser’s sales target"
+      "A": "To identify what financial-planning needs the client has and quantify each need, the existing provision and the shortfall",
+      "B": "To sell the client the product with the highest commission",
+      "C": "To complete the company's administrative records only",
+      "D": "To confirm the client's identity for anti-money-laundering purposes"
     },
-    "answer": "B",
-    "explanation": "FNA 旨在充分了解客户,为适当推荐建立合理基础。",
+    "answer": "A",
+    "explanation": "教材 1.1 指出事实调查的首要目标是识别客户的财务规划需求,并量化每项需求总额、既有保障与缺口。其余选项均非首要目标。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.1.1",
     "status": "draft",
     "tags": [
-      "fna",
-      "kyc"
+      "fact-finding",
+      "objectives"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s22-002",
     "part": 2,
     "syllabusItemId": "s22",
     "topicGroup": "process",
-    "stem": "If a client declines to provide material information needed for analysis, the representative should:",
+    "stem": "Under FAA-N16, which three aspects must a Financial Adviser Representative who makes recommendations comply with?",
     "options": {
-      "A": "Guess the missing details",
-      "B": "Proceed with the biggest product anyway",
-      "C": "Document the limitation and its impact, and avoid recommendations lacking a reasonable basis",
-      "D": "Ignore suitability rules"
+      "A": "Advertising, cold-calling and product disclosure",
+      "B": "Know your client, conduct needs analysis, and complete documentation and record keeping",
+      "C": "Underwriting, claims handling and reinsurance",
+      "D": "Risk pooling, premium rating and policy issuance"
     },
-    "answer": "C",
-    "explanation": "信息不足须记录其影响,不得做缺乏合理基础的推荐。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Fact Finding and Needs Analysis",
+    "answer": "B",
+    "explanation": "教材 2.3 列明 FAA-N16 要求代表做到:了解你的客户、进行需求分析、完成文档与记录保存。其他选项与该通知的三要求无关。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.2.3; FAA-N16",
     "status": "draft",
     "tags": [
-      "fna",
+      "faa-n16",
+      "kyc"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-003",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "Section 4b (Client Knowledge Assessment) of the Life Insurance Advisory Form must be completed when advice is given for which products?",
+    "options": {
+      "A": "Any product with a cash value",
+      "B": "General insurance and personal accident policies",
+      "C": "Unlisted Specified Investment Products (SIPs)",
+      "D": "Term insurance with no investment element"
+    },
+    "answer": "C",
+    "explanation": "教材 3.7 指出:Section 4a(投资风险概况)在为有现金价值产品提供建议时须完成,而 Section 4b(客户知识评估)在为非上市特定投资产品(SIP)提供建议时须完成。A 对应 4a,B、D 不触发知识评估。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.3.7, s.7.5",
+    "status": "draft",
+    "tags": [
+      "sip",
+      "advisory-form"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-004",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "Except for which section must the representative take the client through every section of the Life Insurance Advisory Form?",
+    "options": {
+      "A": "The needs analysis section",
+      "B": "The personal information section",
+      "C": "The representative's recommendation section",
+      "D": "Section 4 – Investment Profile, which is product-type specific"
+    },
+    "answer": "D",
+    "explanation": "教材 3.6 指出,除产品类型特定的“第4节投资概况”外,须带客户走过每一节;客户不愿提供信息时须清楚记录其决定。其余各节均须走过。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.3.6",
+    "status": "draft",
+    "tags": [
+      "advisory-form",
+      "investment-profile"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-005",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "A 10-year-old boy is the client's dependant. Using the rule of thumb in the chapter, how many 'years to support' should be recorded?",
+    "options": {
+      "A": "12 years",
+      "B": "15 years",
+      "C": "10 years",
+      "D": "8 years"
+    },
+    "answer": "B",
+    "explanation": "教材 5.14 指出男孩用 25 减当前年龄(完成高等教育之龄),即 25 − 10 = 15 年。女孩则用 22 减当前年龄。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.5.14",
+    "status": "draft",
+    "tags": [
+      "dependants",
+      "years-to-support"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-006",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "The Life Insurance Advisory Form recommends a client be accompanied by a Trusted Individual if he belongs to how many of the listed profiles (aged 62 or above; not proficient in English; secondary education or below)?",
+    "options": {
+      "A": "All three of them",
+      "B": "Any one of them",
+      "C": "Any two of them",
+      "D": "None — accompaniment is always compulsory"
+    },
+    "answer": "C",
+    "explanation": "教材 5.16 指出,客户若属三项概况中的任意两项即建议由信任个人陪同。陪同非强制(5.17),由客户选择,故 D 错。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.5.16–5.17",
+    "status": "draft",
+    "tags": [
+      "trusted-individual",
+      "accompaniment"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-007",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "An income-protection (disability income) policy typically covers a maximum of what percentage of the insured's income?",
+    "options": {
+      "A": "75%",
+      "B": "100%",
+      "C": "50%",
+      "D": "90%"
+    },
+    "answer": "A",
+    "explanation": "教材 8.3 与 15.55 指出,收入保障/伤残收入保单通常最高覆盖收入的 75%,且给付还会被其他伤残保险或雇主续付收入抵减。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.8.3, s.15.55",
+    "status": "draft",
+    "tags": [
+      "disability-income",
+      "cash-flow"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-008",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "In the assets-and-liabilities analysis, a client whose total liabilities exceed his total assets has a negative net asset position. According to the chapter, such a client is considered:",
+    "options": {
+      "A": "A high-net-worth client",
+      "B": "An accredited investor",
+      "C": "Risk-averse",
+      "D": "Bankrupt"
+    },
+    "answer": "D",
+    "explanation": "教材 9.14 明确指出,若客户净资产头寸为负,他被视为破产(bankrupt)。净资产头寸=总资产−总负债。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.9.13–9.14",
+    "status": "draft",
+    "tags": [
+      "net-worth",
+      "liabilities"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-009",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "To pass the Client Knowledge Assessment based on Investment Experience, a client must have transacted in a Collective Investment Scheme or ILP how many times within the last three years?",
+    "options": {
+      "A": "At least three times",
+      "B": "At least ten times",
+      "C": "At least six times",
+      "D": "At least twelve times"
+    },
+    "answer": "C",
+    "explanation": "教材 7.8 指出投资经验标准为过去三年内在集合投资计划(如单位信托)或 ILP 中交易至少六次。客户只需满足三项标准(学历、投资经验、工作经验)之一即通过。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.7.6–7.8",
+    "status": "draft",
+    "tags": [
+      "cka",
+      "investment-experience"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-010",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "When insuring a dependant's life, what does the chapter advise the representative to attach whenever the insurer allows it?",
+    "options": {
+      "A": "A waiver of medical underwriting",
+      "B": "A payor's benefit rider, so the policy does not lapse on the client's death or disability",
+      "C": "A guaranteed-insurability option only",
+      "D": "A terminal-illness accelerator"
+    },
+    "answer": "B",
+    "explanation": "教材 15.29 指出,为受养人投保时应尽量附加“缴款人利益附约(payor's benefit rider)”,以确保客户身故或伤残时保单不致失效。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.15.29",
+    "status": "draft",
+    "tags": [
+      "dependants",
+      "payor-rider"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-011",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "According to Dr Thomas Gordon, good listening requires three conditions. Which statement correctly reflects the chapter?",
+    "options": {
+      "A": "Acceptance is not agreement, empathy is not sympathy, and genuineness is not sensitivity",
+      "B": "Acceptance means agreement, and empathy means sympathy",
+      "C": "The three conditions are speed, accuracy and brevity",
+      "D": "Genuineness requires the listener to share his own opinions first"
+    },
+    "answer": "A",
+    "explanation": "教材 14.6 指出良好倾听的三条件为接纳、同理与真诚,且接纳不是同意、同理不是同情、真诚不是敏感。B、C、D 均与教材相悖。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.14.6",
+    "status": "draft",
+    "tags": [
+      "listening",
+      "skills"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-012",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "When dealing with an unhappy or angry client during fact-finding, the chapter suggests the representative should:",
+    "options": {
+      "A": "Use only leading questions to steer the client",
+      "B": "Avoid asking any questions until the next meeting",
+      "C": "End the interview immediately",
+      "D": "Use open questions first to let him express his feelings, then shift to closed questions to focus on specifics"
+    },
+    "answer": "D",
+    "explanation": "教材 14.14 指出,面对不悦或愤怒的客户应先用开放式问题让其宣泄情绪,待其平静后再转用封闭式问题以聚焦具体答案。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.14.13–14.14",
+    "status": "draft",
+    "tags": [
+      "questioning",
+      "sequencing"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-013",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "From which date did MediShield Life replace MediShield, and whom does it cover?",
+    "options": {
+      "A": "From 1 April 2015; covering only Singapore Citizens",
+      "B": "From 1 November 2015; covering all Singapore Citizens and Permanent Residents",
+      "C": "From 1 January 2016; covering employees with group cover only",
+      "D": "From 20 May 2015; covering those born in 1980 onwards"
+    },
+    "answer": "B",
+    "explanation": "教材 15.44 指出 MediShield Life 自 2015-11-01 取代 MediShield,覆盖全体新加坡公民与永久居民,涵盖大额住院及部分昂贵门诊。D 中“1980 年及以后出生”是 CareShield Life 的覆盖范围(15.47),勿混淆。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.15.44, s.15.47",
+    "status": "draft",
+    "tags": [
+      "medishield-life",
+      "existing-portfolio"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s22-014",
+    "part": 2,
+    "syllabusItemId": "s22",
+    "topicGroup": "process",
+    "stem": "Where the purchaser is the client's trustee (e.g. a caregiver or donee safeguarding funds for a beneficiary), what does the chapter say about the appropriate product risk profile?",
+    "options": {
+      "A": "It should match the trustee's own risk appetite",
+      "B": "It should be high to maximise returns for the beneficiary",
+      "C": "The entire risk profile of the product should be low",
+      "D": "There are no constraints, since the trustee decides freely"
+    },
+    "answer": "C",
+    "explanation": "教材 16.9 指出,因受托人为受益人保管资金,产品的整体风险概况应为低;若受托人对其受信责任不安,把资金留在储蓄存款而非承担产品风险可能更佳。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.22 — s.16.9",
+    "status": "draft",
+    "tags": [
+      "trustee",
       "suitability"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

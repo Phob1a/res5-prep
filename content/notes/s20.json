@@ -3,33 +3,133 @@
     "id": "note-s20-overview",
     "part": 2,
     "syllabusItemId": "s20",
-    "title": "金融产品的道德营销与销售 / Ethical Marketing & Sale",
-    "summary": "营销须均衡、真实、不误导;基于需求推荐适当产品;禁高压销售与隐瞒,充分披露风险费用,尊重冷静期。 / Marketing must be balanced, truthful and non-misleading; recommend suitable products based on needs; no high-pressure tactics or concealment; disclose risks and fees; respect cooling-off.",
+    "title": "金融产品的道德营销与销售 / Ethical Marketing & Sale of Financial Products",
+    "summary": "本章讲述符合道德的六步销售流程,以及营销与销售中的三大道德陷阱(虚假陈述、销售不适当产品、利益冲突),并介绍 Holley 的五级披露策略与道德营销中的三类陷阱。核心目标不是把产品卖出去,而是告知客户该产品为何符合其最佳利益。 / This chapter sets out the six-step ethically sound sales process, the three ethical pitfalls in marketing and sale (misrepresentation, selling unsuitable products, conflict of interest), Holley's five-tier continuum of disclosure strategies, and the three pitfalls of ethical marketing. The goal is not to sell a product but to inform the client why it is in his best interest.",
     "sections": [
       {
-        "heading": "原则",
-        "body": "信息均衡(不夸大收益、不淡化风险);不作虚假/误导陈述;推荐有合理基础并适合;充分披露费用风险。"
+        "heading": "符合道德的销售流程(六步)",
+        "body": "财务顾问代表身兼数职:既提供财务咨询,又营销、分销和销售金融产品;且其产品知识远多于客户(尤其零售客户),因此更须专业、合乎道德地行事。一个符合道德的销售流程有六个步骤:(a) 吸引客户注意(educational/experiential 过程,使客户的金融知识与经验随合作逐步提升);(b) 解释产品结构(聚焦客户需知的关键要素,如人寿保单的保费 premium、现金价值 cash value、身故赔偿 death benefit);(c) 解释并图示下行风险(不可淡化风险、夸大优点,有下行风险必须清楚说明并提醒);(d) 厘清保障构成(说明假设与表现预测,如部分保障由 term riders 提供、以红利或超额利息支付);(e) 说明谁承担风险(人寿保单中,客户承担非保证部分风险,保险人承担保证部分风险);(f) 遵守适用规则与法规(否则代表及其机构面临监管制裁或客户投诉/诉讼)。"
       },
       {
-        "heading": "Principles",
-        "body": "Balanced information (no exaggerated returns, no downplayed risks); no false/misleading statements; reasonable basis and suitability; full disclosure of fees and risks."
+        "heading": "The six-step ethically sound sales process",
+        "body": "FA representatives wear several hats — they advise as well as market, distribute and sell products — and they hold far more product knowledge than clients, especially retail clients, so they must act professionally and ethically. The ethically sound sales process has six steps: (a) Gain the client's attention (an educational/experiential process so his knowledge and sophistication grow over time); (b) Explain product structure, focusing on key components the client must understand (for a life policy: premium, cash value, death benefit); (c) Explain and illustrate downside risk, without downplaying risk or exaggerating advantages — any downside must be clearly explained and cautioned; (d) Clarify coverage components, including underlying assumptions and projections (e.g. cover partly provided by term riders paid for with dividends or excess interest); (e) Explain who bears the risk (in a life policy the client bears the risk of non-guaranteed elements, the insurer the guaranteed ones); (f) Comply with applicable rules and regulations, or both rep and institution risk legal sanctions and client complaints/lawsuits."
       },
       {
-        "heading": "禁止行为",
-        "body": "高压销售、制造紧迫感逼单、隐瞒重要信息、承诺回报、利用客户不了解牟利。"
+        "heading": "营销与销售的三大道德陷阱",
+        "body": "营销与销售流程中有三个道德陷阱:(a) 虚假陈述(Misrepresentation);(b) 未能只推荐并销售适当产品(failure to recommend and sell only suitable products);(c) 未能识别并披露相关利益冲突(failure to recognize and disclose relevant conflicts of interest)。本章其余部分围绕这三者展开。"
       },
       {
-        "heading": "Prohibited",
-        "body": "High-pressure selling, manufactured urgency, concealing material facts, promising returns, exploiting the client’s lack of understanding."
+        "heading": "The three ethical pitfalls in marketing and sale",
+        "body": "There are three ethical pitfalls in the marketing and sales process: (a) Misrepresentation; (b) Failure to recommend and sell only suitable products; and (c) Failure to recognize and disclose relevant conflicts of interest. The rest of the chapter examines each in turn."
+      },
+      {
+        "heading": "第一陷阱:虚假陈述的定义与构成",
+        "body": "虚假陈述(misrepresentation)被定义为「一项不实陈述,无论无意或故意;它可能是在有披露义务时的不披露,或有计划地制造虚假表象」(Dictionary of Banking Terms, Barron's, 2006),即把虚假陈述当作事实呈现。其三个构成要素(West Encyclopedia of American Law, 1998)为:(a) 该虚假陈述被受害者所依赖,且这种依赖是合理正当的;(b) 陈述者知道受害者正依赖其陈述的事实正确性;(c) 该虚假陈述使受害者蒙受损失。"
+      },
+      {
+        "heading": "First pitfall: definition and components of misrepresentation",
+        "body": "Misrepresentation is defined as 'an untrue statement, whether unintentional or deliberate. It may be a form of non-disclosure where there is a duty to disclose or the planned creation of a false appearance' (Dictionary of Banking Terms, Barron's, 2006) — the presentation of a false statement as fact. Its three components (West Encyclopedia of American Law, 1998) are: (a) the misrepresentation must be relied upon by the victim and that reliance must be justified; (b) the speaker must know the victim is relying on the factual correctness of his statements; and (c) the misrepresentation resulted in a loss for the victim."
+      },
+      {
+        "heading": "新加坡法下的虚假陈述与四要件",
+        "body": "在新加坡,虚假陈述法源自普通法与《虚假陈述法 Misrepresentation Act (1967)》。合约一方寻求虚假陈述救济前须满足四个条件:(a) 在订立合约前,一方(representor 表意人)向另一方(representee 受意人)作出事实陈述;(b) 该事实陈述不实;(c) 受意人因依赖该陈述而与表意人订立合约;(d) 受意人遭受损失与损害。"
+      },
+      {
+        "heading": "Misrepresentation under Singapore law and the four conditions",
+        "body": "In Singapore the law of misrepresentation derives from both common law and the Misrepresentation Act (1967). Before a contracting party may seek remedies, four conditions must be satisfied: (a) a representation of fact was made by one party (the representor) to the other (the representee) before the contract was concluded; (b) the representation of fact was untrue; (c) in reliance on it the representee entered into the contract with the representor; and (d) the representee suffered loss and damage."
+      },
+      {
+        "heading": "虚假陈述 vs 欺诈;说谎的两种方式",
+        "body": "人们常混淆「虚假陈述」与「欺诈 fraud」。欺诈是故意的欺骗行为;虚假陈述则可能是无意的遗漏或疏忽的失实陈述。虚假陈述区别于欺诈,因为前者可以是 (a) 无意的或 (b) 遗漏行为(act of omission)。无意的虚假陈述源于过失(negligence——「在该情形下欠缺谨慎或未做合理审慎之事」);代表若被认定过失,即在法律与道德上未能既称职又尽责。遗漏行为指代表排除或遗漏重要信息(如未提及高退保费用 surrender charges 等缺点)。虚假陈述与遗漏都是说谎的形式:lying by omission(又称 continuing misrepresentation,遗漏重要事实以助长误解,含未纠正既存误解);lying by commission(把不实或半真陈述当作事实传达)。两种情形下欺骗者的故意相同——说服听者做出若掌握全部信息便不会做的行为。"
+      },
+      {
+        "heading": "Misrepresentation vs fraud; lying by omission and commission",
+        "body": "People confuse 'misrepresentation' and 'fraud'. Fraud is an intentional act of deception; misrepresentation can be an unintentional omission or inadvertent misstatement. It is distinguished from fraud because it can be (a) unintentional or (b) an act of omission. Unintentional misrepresentation results from negligence ('lack of care or failure to do what is reasonable and prudent in the circumstances'); a negligent rep fails legally and ethically to be both competent and diligent. An act of omission leaves out important information (e.g. not mentioning high surrender charges). Both are forms of lying: lying by omission (also called continuing misrepresentation — leaving out a fact to foster a misconception, including failing to correct pre-existing ones) and lying by commission (communicating untruths or half-truths as facts). The speaker's deliberate intention is the same — to persuade listeners to act as they would not if they had all the relevant information."
+      },
+      {
+        "heading": "披露策略:Holley 的五级连续谱",
+        "body": "说谎是错的,它损害听者按自身最佳利益行事的能力,违反「黄金法则 Golden Rule」与他人的尊严和自主。由于虚假陈述常涉及遗漏,核心问题是「代表在道德上应披露多少信息?」David Holley(1998)提出五级披露策略连续谱:(a) 最低信息规则(Minimal Information Rule):买方自负获取信息之责,卖方无义务提供买方未明确询问的任何信息——即「caveat emptor 买方自负」;(b) 修订最低信息规则(Modified Minimal):卖方仅须提供买方为避免受伤风险所需的安全信息——即「caveat emptor plus」;(c) 公平规则(Fairness Rule):除安全信息外,还须提供买方做出合理判断所需、且其无法合理预期自行知悉的信息;(d) 互惠规则(Mutual Benefit Rule):除安全信息外,须提供客户不掌握的、做出合理判断所需的信息(即使客户自行努力可查到);(e) 最大信息规则(Maximal Information Rule):须提供与购买决策相关的一切信息。"
+      },
+      {
+        "heading": "Disclosure strategies: Holley's five-tier continuum",
+        "body": "Lying is wrong: it undermines the listener's ability to act in his best interest and violates the 'Golden Rule' and others' dignity and autonomy. Since misrepresentation often involves omission, the question is how much a rep is ethically obliged to disclose. David Holley (1998) offered a continuum of five strategies: (a) Minimal Information Rule — the buyer is responsible for acquiring information; no obligation to give what he does not specifically ask about ('caveat emptor'); (b) Modified Minimal Information Rule — only safety information needed to avoid risk of injury ('caveat emptor plus'); (c) Fairness Rule — in addition to safety information, anything the buyer needs for a reasonable judgment that he could not reasonably be expected to know unless informed; (d) Mutual Benefit Rule — in addition to safety information, anything the buyer needs for a reasonable judgment that he does not possess (even if he could find it himself with effort); (e) Maximal Information Rule — any information relevant to deciding whether to purchase."
+      },
+      {
+        "heading": "如何取舍:Mutual Benefit Rule Plus",
+        "body": "最低与修订最低规则在代表与客户间建立「对抗性 adversarial」关系,均不能履行照顾客户最佳利益的专业义务,应予排除,剩下公平、互惠与最大信息三规则。公平规则只要求披露买方无法合理预期知悉的信息;互惠规则更稳健,即使客户自行可查到也须披露其不知道的信息;最大信息规则最严格,要求披露一切相关信息。考虑到金融产品种类繁多、复杂,且客户依赖专业人士,公平规则似乎不够;而最大信息规则又对代表过于苛刻。教材建议:最佳方案是真正「了解」客户,采用「互惠规则升级版(Mutual Benefit Rule Plus)」——专业人士须具备足够知识、能力与专业,帮助客户在可选项中做出最佳选择。"
+      },
+      {
+        "heading": "Choosing a strategy: the Mutual Benefit Rule Plus",
+        "body": "The minimal and modified-minimal rules set up an 'adversarial' relationship and fail the professional obligation to look out for the client's best interest, so they are eliminated, leaving the Fairness, Mutual Benefit and Maximal rules. The Fairness Rule only requires disclosing what the buyer could not reasonably be expected to know; the Mutual Benefit Rule is more robust, requiring disclosure of what clients do not know even if they could find it with effort; the Maximal Information Rule is the most stringent, requiring all relevant information. Given the variety and complexity of products and clients' reliance on professionals, the Fairness Rule may not be appropriate, while the Maximal Rule seems overly demanding. The text suggests the best solution is to really 'know' the client and use a 'Mutual Benefit Rule Plus' strategy, the professional having sufficient knowledge, competence and expertise to help the client make the best possible choice among available options."
+      },
+      {
+        "heading": "图示(illustrations)的误用、社交媒体与 AI",
+        "body": "虚假陈述的一个例子是人寿保险销售中对图示(illustrations)的误用。专业人士销售保险等产品时须提供产品特征与表现(含未来潜在盈亏、费用或保费)的图示;图示是金融服务道德的焦点,本可助客户做出知情决策,但也可能被不当用作诱使购买、扭曲与歪曲产品未来运作的工具。专业人士须清楚图示是什么、用途为何,并在销售前后清楚充分地解释其假设、作用与局限。客户若理解「图示仅是图示」,便较少觉得买错或被误导,也较少投诉或起诉。社交媒体与 AI:社媒信息真伪难辨,客户若纯依赖社媒平台建议自行购买产品,不存在注意义务(no duty of care);AI 加快了观点在社媒传播的速度,须审慎甄别;代表用社媒营销须合乎道德,撰文/录制视频时应清楚标明何处是在表达个人意见。"
+      },
+      {
+        "heading": "Misuse of illustrations; social media and AI",
+        "body": "An example of misrepresentation is the misuse of illustrations in selling life insurance. Professionals must provide illustrations of features and performance (including possible future gains, losses, fees or premiums); illustrations are a focal point in financial-services ethics and can help informed decisions, but can be misused to entice a client by distorting and misrepresenting the product's future operation. The professional must understand what an illustration is and explain its assumptions, role and limitations clearly before and after a sale. Clients who understand an illustration 'is just an illustration' are less likely to feel misled or to complain/sue. On social media and AI: the veracity of social-media information is uncertain, and there is no duty of care where a client buys on his own relying purely on social-media suggestions; AI heightens the pace of idea promotion, requiring discernment; reps marketing via social media must be ethical and indicate clearly when expressing an opinion."
+      },
+      {
+        "heading": "第二陷阱:销售不适当产品",
+        "body": "第二个陷阱是销售不适当产品这一道德失误。教材已讨论过对专业人士的「受信标准 Fiduciary Standard」与「适当性标准 Suitability Standard」。专业人士必须充分了解客户——包括其财务状况、需要与想要——方能推荐适当产品;其职责是只推荐适当产品,建立在客户信任之上。专业人士应采用远比 caveat emptor 更稳健的标准。除道德层面外,监管亦要求:财务顾问公司及其代表对任何向可合理预期会依赖该建议者作出的投资产品建议,须有合理依据(《财务顾问法 FAA 2001》第 36 条 及 FAA Notice No: 16)。"
+      },
+      {
+        "heading": "Second pitfall: selling unsuitable products",
+        "body": "The second pitfall is the ethical misstep of selling unsuitable products. The text has discussed the 'Fiduciary Standard' and 'Suitability Standard' expected of professionals. A professional must know his client well — financial situation, needs and wants — to recommend suitable products; his duty is to recommend only suitable products, building on the client's trust, adopting a standard far more robust than caveat emptor. Beyond ethics, regulation requires FA corporations and their representatives to have a reasonable basis for any recommendation on an investment product made to a person who may reasonably be expected to rely on it (Section 36 of the Financial Advisers Act 2001 ('FAA'), and FAA Notice No: 16)."
+      },
+      {
+        "heading": "第三陷阱:利益冲突及其披露",
+        "body": "某些利益冲突是行业系统性的,例如机构分析师为某证券估值,而机构的分销部门同时向客户销售同一证券。机构及其代表也可能持有或对某些产品有利益,故须披露可能损害客观性、独立性或公正建议能力的重大信息或事实。监管要求披露利益冲突:FAA Notice FAA-N03 规定财务顾问须就其与任何产品提供方的关联所引起的任何实际或潜在利益冲突,以书面形式向客户披露,包括任何可能损害其在提供财务咨询时客观性或独立性的重大信息或事实。FAA 第 36 条旨在避免利益冲突;无法避免时,财务顾问须披露潜在与实际冲突,以公平、公正对待客户。还有「隐藏的」个人冲突,如未告知客户某产品销售可使代表获得激励奖励(如海外度假),或代表推荐律师以收取每次转介的「finder's fee 介绍费」。诚实永远是上策:对客户开诚布公,既给予其所需信息,也展示按道德原则经商的承诺,从而建立信任、带来更多更好的业务——「ethics is good business」。"
+      },
+      {
+        "heading": "Third pitfall: conflict of interest and its disclosure",
+        "body": "Some conflicts are systemic, e.g. an institution's analysts certifying a security's value while its distribution arm sells the same security to clients. Institutions and reps may own or hold interests in products, so material information or facts of such conflicting interests that may compromise objectivity, independence or unbiased advice must be disclosed. Regulation requires disclosure of conflicts: FAA Notice FAA-N03 provides that 'a financial adviser shall disclose, in writing, to its clients any actual or potential conflict of interest arising from any connection to or association with any product provider, including any material information or facts that may compromise its objectivity or independence'. Section 36 of the FAA seeks to avoid conflicts; where unavoidable, advisers must disclose potential and actual conflicts so clients are treated fairly and equitably. There are also 'hidden' personal conflicts — e.g. not disclosing that a sale qualifies the rep for an incentive reward such as an overseas holiday trip, or recommending a lawyer who pays a 'finder's fee' per referral. Honesty is always the best policy: being forthcoming gives clients the information they need and demonstrates a commitment to ethical business, building trust and more and better business — 'ethics is good business'."
+      },
+      {
+        "heading": "利益冲突两例",
+        "body": "例一:客户在同一家银行既有贷款又持有资产(如投资或定存),因贷款违约时银行有权动用该资产抵销贷款,故银行代表向客户提议金融产品时,合乎道德的做法是点明这一潜在利益冲突。例二:财务顾问代表将客户转介给遗产规划或信托公司以执行其遗产规划意愿,其中存在应付的转介费(referral fees),代表须向客户申报该费用安排。"
+      },
+      {
+        "heading": "Two conflict-of-interest examples",
+        "body": "Example 1: A conflict can arise where a client has a loan while holding assets (e.g. investments or fixed deposits) with the same bank, because on default the bank may use the assets to off-set the loan; it is ethical for the bank's representative to highlight this potential conflict when proposing products. Example 2: A conflict also exists where a rep refers a client to an estate-planning or trustee firm to execute the client's estate-planning intentions; referral fees are payable and the rep must declare that fee arrangement to the client."
+      },
+      {
+        "heading": "道德营销与三类营销陷阱",
+        "body": "金融营销(financial marketing)指金融机构为销售产品与服务而采取的行动,涉及市场研究、产品规划、定价、广告、促销与分销,核心是满足客户需要与想要,强调客户满意。营销不同于销售:销售是把产品/服务变现的行为,强调产品本身。营销过程中有三类陷阱:(a) 用营销材料虚假呈现自身能力、专长与成就;(b) 使用恐吓策略(scare tactics);(c) 设定不切实际的期望(unrealistic expectations)。"
+      },
+      {
+        "heading": "Ethical marketing and its three pitfalls",
+        "body": "Financial marketing refers to actions taken by a financial institution to sell its products and services, associated with market research, product planning, pricing, advertising, promotion and distribution — a process of meeting and satisfying clients' needs and wants, with the emphasis on client satisfaction. Marketing differs from selling: selling converts a product or service into cash and puts the emphasis on the product. Three pitfalls can occur within the marketing process: (a) using marketing materials to misrepresent competence, expertise and accomplishments; (b) using scare tactics; and (c) setting unrealistic expectations."
+      },
+      {
+        "heading": "三类营销陷阱详解",
+        "body": "(A) 虚假呈现能力/资历:近十年专业资格与头衔激增,有人从可疑来源取得资格,或使用「bogus designations 假头衔」以在客户(尤其是文盲、老年人等脆弱客户)面前建立可信度;代表切勿在营销材料中表现出自己并不具备的资格、知识或技能,须如实呈现自己;监管者已注意此趋势,并已就行业入门或豁免规定了某些资格/头衔。(B) 恐吓策略:不道德营销利用「末日例子 doomsday examples」与恐惧、焦虑、不安等情绪,促使客户「趁早行动」,削弱其理性评估能力,使脆弱的老年客户失衡并制造紧迫感——本质是操纵客户购买能产生高佣金却无益于客户的产品。(C) 不切实际的期望:代表有时夸大并作出不可信的承诺,如「获两位数增长且无费用无亏损风险」「如何获得 15% 投资回报」「如何立即为净值增加 S$100,000」(均为监管者所不容)。应避免此类承诺的三个理由:其一审慎(客户多有见识,此类「marketing puffs」会令代表失去信誉);其二维护公众对行业的信任与信心;其三此举把客户当作牟取业务与佣金的工具。作此类承诺者不过是只图「一锤子买卖」的「fly by night」推销员,损害客户与行业。行业以公众信任为基,从业者须始终反思并践行道德原则。"
+      },
+      {
+        "heading": "The three marketing pitfalls in detail",
+        "body": "(A) Misrepresenting competence/credentials: qualifications and designations have surged in the last decade; some obtain them from dubious sources or use 'bogus designations' to build credibility with clients, especially vulnerable ones (the illiterate, senior citizens). Reps must not represent in marketing materials qualifications, knowledge or skills they do not possess and must represent themselves as candidly as possible; regulators have noticed this and prescribe certain qualifications/designations as entry or exemption requirements. (B) Scare tactics: unethical marketing exploits 'doomsday examples' and feelings of fear, anxiety and insecurity to make clients 'act now…before it is too late', undermining rational assessment and throwing vulnerable senior clients 'off balance' — manipulating them into high-commission products of little benefit. (C) Unrealistic expectations: reps may over-exaggerate with unbelievable claims such as 'double-digit growth with no fees or risk of loss', 'how to receive a 15% return', or 'how to immediately add S$100,000 to your net worth' (all frowned upon by regulators). Avoid them for three reasons: it is prudent (informed clients see through 'puffs' and the rep loses credibility); making unrealistic claims undermines public trust and confidence in the industry; and it treats clients as a means to the rep's own ends. Such people are 'fly by night' salespersons seeking a one-off sale, harming clients and the industry, which is anchored on public trust and confidence."
+      },
+      {
+        "heading": "营销实例:选择性信息 vs 看顾客户需要",
+        "body": "例一(选择性信息):Peter 用社媒与工作坊向持有终身寿险保单的客户推广「特别投资策略」,称终身寿险回报不吸引,鼓动客户退保所有终身寿险,以退保价值购买一份定期寿险并将余款投入各类投资,打出「我们帮您重组保单」口号;过程中却只字未提新保单不可争议条款(incontestability clause)的重置、新基金的非保证回报与风险、定期寿险缺乏不丧失价值条款(non-forfeiture clause)等——仅以选择性信息营销新产品,Peter 行为不道德。例二(看顾客户需要):一对夫妇 Peter 与 Evelyn 找 Mary 咨询为新生儿购买大学储蓄计划,Mary 发现夫妇自身保障不足,便不厌其烦地慢慢向其解释应先保障自己、再为孩子买大学储蓄计划;Mary 冒着失去这单生意的风险,却行为合乎道德。"
+      },
+      {
+        "heading": "Marketing examples: selective information vs looking out for needs",
+        "body": "Example 1 (selective information): Peter used social media and workshops to promote a 'special investment strategy' to clients with whole-life policies, saying whole-life returns are unattractive and urging them to surrender all whole-life policies, use the surrender value to buy one term policy and place the remainder into various investments under the slogan 'We help to re-structure your policies'. He never mentioned the re-setting of the incontestability clause in the new policies, the non-guaranteed returns or risks of the new funds, or the lack of a non-forfeiture clause on term insurance — by using only selective information he acted unethically. Example 2 (looking out for needs): a couple, Peter and Evelyn, approached Mary about university savings plans for their newborn; Mary found them inadequately covered and took the trouble to explain the need to protect themselves first before buying the savings plan, running the risk of losing the sale but acting ethically."
       }
     ],
     "keyPoints": [
-      "均衡、真实、不误导 / Balanced, truthful, non-misleading",
-      "基于需求的合理推荐 / Needs-based reasonable recommendation",
-      "禁高压销售与隐瞒 / No high-pressure or concealment"
+      "符合道德的销售流程有六步,目标是告知客户而非卖出产品 / Six-step ethically sound sales process; goal is to inform, not to sell",
+      "三大销售/营销陷阱:虚假陈述、销售不适当产品、利益冲突 / Three pitfalls: misrepresentation, unsuitable products, conflict of interest",
+      "虚假陈述≠欺诈:前者可为无意或遗漏;新加坡依普通法+Misrepresentation Act 1967 / Misrepresentation ≠ fraud; Singapore: common law + Misrepresentation Act 1967",
+      "Holley 五级披露策略,建议采用 Mutual Benefit Rule Plus / Holley's five disclosure rules; adopt Mutual Benefit Rule Plus",
+      "适当性:FAA 2001 第 36 条 + FAA Notice No.16 要求合理依据 / Suitability: FAA 2001 s.36 + FAA Notice 16 require a reasonable basis",
+      "利益冲突披露:FAA-N03 须书面披露实际/潜在冲突 / Conflict disclosure: FAA-N03 requires written disclosure",
+      "三类营销陷阱:虚假资历、恐吓策略、不切实际期望 / Three marketing pitfalls: bogus credentials, scare tactics, unrealistic expectations"
     ],
-    "sourceRef": "CMFAS M5 — Ethical Marketing & Sale of Financial Products",
+    "sourceRef": "RES 5 Study Text Part II Ch.20 — Ethical Marketing & Sale of Financial Products (SCI, Version 1.1)",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

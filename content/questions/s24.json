@@ -4,65 +4,315 @@
     "part": 2,
     "syllabusItemId": "s24",
     "topicGroup": "process",
-    "stem": "A recommended solution must be:",
+    "stem": "What are the two basic principles a representative should be aware of before making any product recommendation?",
     "options": {
-      "A": "The highest-commission product",
-      "B": "Suitable to the client’s needs, risk profile and affordability",
-      "C": "The same for every client",
-      "D": "Chosen at random"
+      "A": "Recommend the highest-commission product, and recommend it to every client",
+      "B": "Recommend products only if the client needs them, and only those most suitable for his circumstances",
+      "C": "Recommend the cheapest product, and review it every year",
+      "D": "Recommend whatever the client asks for, regardless of suitability"
     },
     "answer": "B",
-    "explanation": "方案须适合客户需求、风险承受与负担能力。",
+    "explanation": "教材 2.1 列出两条基本原则:(a)只在客户确有需要时推荐产品;(b)只推荐在其处境下最合适的产品。其余选项均与原则相悖。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.1",
     "status": "draft",
     "tags": [
-      "suitability"
+      "principles"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s24-002",
     "part": 2,
     "syllabusItemId": "s24",
     "topicGroup": "process",
-    "stem": "In sequencing solutions, which generally comes first?",
+    "stem": "Before a client begins sourcing for other investment tools, how much should a client with regular income aim to set aside as emergency savings?",
     "options": {
-      "A": "Speculative accumulation",
-      "B": "Protection needs and emergency funds",
-      "C": "Buying the riskiest product",
-      "D": "Estate planning before anything else"
+      "A": "At least 1 to 2 months' worth of expenses",
+      "B": "At least 12 months' worth of expenses",
+      "C": "At least 3 to 6 months' worth of expenses",
+      "D": "Exactly 24 months' worth of income"
     },
-    "answer": "B",
-    "explanation": "一般先满足保障与应急,再做积累。",
-    "difficulty": "medium",
-    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "answer": "C",
+    "explanation": "教材 2.6 指出,有固定收入的客户应至少备足 3 至 6 个月的开支作为应急储蓄,可使用高流动性低风险工具(如国库券、SSB)或储蓄账户。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.6",
     "status": "draft",
     "tags": [
-      "priority"
+      "emergency-savings"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s24-003",
     "part": 2,
     "syllabusItemId": "s24",
     "topicGroup": "process",
-    "stem": "A recommendation should:",
+    "stem": "According to MAS' Basic Financial Planning Guide, what level of coverage is recommended for death and total permanent disability?",
     "options": {
-      "A": "Have no basis",
-      "B": "Have a reasonable basis tied to the fact-find and analysis",
-      "C": "Ignore the analysis",
-      "D": "Depend on the adviser’s targets"
+      "A": "4 times annual income",
+      "B": "9 times annual income",
+      "C": "15 times annual income",
+      "D": "2 times annual income"
     },
     "answer": "B",
-    "explanation": "推荐须有与事实收集/分析挂钩的合理基础。",
+    "explanation": "教材 2.8 指出,MAS《基本财务规划指南》建议身故及完全永久伤残取 9 倍年收入;4 倍年收入是针对标准危疾的建议,故 A 错。",
     "difficulty": "easy",
-    "sourceRef": "CMFAS M5 — Developing Appropriate Strategies and Solutions",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.8",
     "status": "draft",
     "tags": [
-      "reasonable-basis"
+      "coverage",
+      "mas-guide"
     ],
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-004",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "Why are insurance products considered the most suitable type of products to meet a client's protection needs?",
+    "options": {
+      "A": "Because their cash value always exceeds the premiums paid",
+      "B": "Because they are guaranteed to outperform equities",
+      "C": "Because they create an immediate estate, paying the full sum assured on the insured event even after only one premium",
+      "D": "Because they are exempt from all charges and distribution costs"
+    },
+    "answer": "C",
+    "explanation": "教材 2.7 指出保险的独特功能是创造\"即时资产\":即使只缴过一次保费,投保事件发生时也全额支付保额。其他工具如储蓄需时间累积,较不合适。A/B/D 均无教材依据。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.7",
+    "status": "draft",
+    "tags": [
+      "protection",
+      "immediate-estate"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-005",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "Under the Dependants' Protection Scheme (DPS), what is the maximum payout for an insured member until age 60?",
+    "options": {
+      "A": "S$55,000",
+      "B": "S$70,000",
+      "C": "S$100,000",
+      "D": "S$50,000"
+    },
+    "answer": "B",
+    "explanation": "教材 2.9 指出 DPS 在身故、末期疾病或 TPD 时,60 岁前最高赔付 S$70,000;60 岁以上至 65 岁最高 S$55,000(即 A)。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.9",
+    "status": "draft",
+    "tags": [
+      "dps",
+      "payout"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-006",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "The Dependants' Protection Scheme (DPS) is automatically extended to Singapore Citizens and Permanent Residents within which age band upon their first CPF working contribution?",
+    "options": {
+      "A": "Between 16 and 55",
+      "B": "Between 18 and 70",
+      "C": "Between 21 and 65",
+      "D": "Between 25 and 60"
+    },
+    "answer": "C",
+    "explanation": "教材 2.9 指出 DPS 在 21 至 65 岁的新加坡公民及永久居民首次 CPF 工作缴款时自动延展。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.9",
+    "status": "draft",
+    "tags": [
+      "dps",
+      "eligibility"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-007",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "According to the quick affordability guide, what is the recommended maximum proportion of income (after deducting CPF contributions) to spend on insurance protection?",
+    "options": {
+      "A": "At most 10%",
+      "B": "At most 15%",
+      "C": "At most 25%",
+      "D": "At most 50%"
+    },
+    "answer": "B",
+    "explanation": "教材 2.11 指出保险保障支出最多为收入(扣除 CPF 后)的 15%,捆绑产品因兼含投资与保障可能超过 15%;至少 10% 用于退休等目标的投资(即 A,是投资门槛而非保障上限)。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.11",
+    "status": "draft",
+    "tags": [
+      "affordability"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-008",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "A client is risk-averse and has a short investment horizon, and needs to choose an Investment-Linked Plan or unit trust fund. What would be most suitable?",
+    "options": {
+      "A": "A fund comprising substantial equities with a very small percentage of bonds",
+      "B": "A fund comprising a substantial amount of bonds with a small percentage of stocks",
+      "C": "A high-volatility derivatives fund",
+      "D": "A fund invested entirely in property"
+    },
+    "answer": "B",
+    "explanation": "教材 2.16 指出,若客户厌恶风险且投资期限较短,应推荐含大量债券、少量股票、回报相对稳定的基金。A 适合风险偏好且期限长者;C/D 波动高,不合适。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.16",
+    "status": "draft",
+    "tags": [
+      "risk-tolerance"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-009",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "Which monetisation option is available to a client aged 55 or above who wishes to unlock value from his property?",
+    "options": {
+      "A": "Supplementary Retirement Scheme top-up",
+      "B": "Dependants' Protection Scheme",
+      "C": "Lease Buyback Scheme",
+      "D": "Direct Purchase Insurance"
+    },
+    "answer": "C",
+    "explanation": "教材 2.6(退休需求段)指出,55 岁或以上客户可探索房产变现选项,包括银发安居花红、屋契回购计划(Lease Buyback Scheme)、出租房间/组屋。A 是退休投资工具,B 是保障计划,D 是低成本保险渠道,均非房产变现方式。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.6 (Retirement)",
+    "status": "draft",
+    "tags": [
+      "retirement",
+      "monetisation"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-010",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "A client desires permanent coverage but cannot afford it at this time. Which solution best allows him to obtain permanent coverage later when his finances improve?",
+    "options": {
+      "A": "A single-premium annuity",
+      "B": "A Convertible Term policy",
+      "C": "An endowment with immediate surrender value",
+      "D": "Direct Purchase Insurance with no advice"
+    },
+    "answer": "B",
+    "explanation": "教材 2.20 指出,对希望永久保障但暂时负担不起的客户,可建议可转换定期(Convertible Term)保单,待财务状况改善后转为永久保单。其余选项不提供这一转换路径。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.20",
+    "status": "draft",
+    "tags": [
+      "prioritisation",
+      "convertible-term"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-011",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "When prioritising a client's needs, the textbook states that where there are dependants, which need should generally be met first?",
+    "options": {
+      "A": "Children's education savings",
+      "B": "Retirement accumulation",
+      "C": "Speculative investment",
+      "D": "Protection needs"
+    },
+    "answer": "D",
+    "explanation": "教材 2.21 指出,排序大概没有硬性规则,但在有受养人的情况下,保障需求应优先满足。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.21",
+    "status": "draft",
+    "tags": [
+      "prioritisation"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-012",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "Which of the following is NOT one of the estate/legacy planning areas listed in the chapter?",
+    "options": {
+      "A": "A will",
+      "B": "A CPF nomination",
+      "C": "A Lasting Power of Attorney",
+      "D": "A revocable family trust deed"
+    },
+    "answer": "D",
+    "explanation": "教材 2.25 列出的遗产/传承规划领域为:遗嘱、CPF 提名、持久授权书(LPA)、预先护理计划(ACP)。\"可撤销家族信托契据\"不在所列之中,故为正确答案。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.25",
+    "status": "draft",
+    "tags": [
+      "estate-planning"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-013",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "Regarding non-participating plans and a client's risk tolerance, which statement is correct per the chapter?",
+    "options": {
+      "A": "Non-participating plans are guaranteed in nature, so the client does not retain any investment risk under the policy",
+      "B": "Non-participating plans expose the client to the full investment risk of the underlying fund",
+      "C": "Non-participating plans are only suitable for risk seekers with long horizons",
+      "D": "Non-participating plans always outperform participating plans"
+    },
+    "answer": "A",
+    "explanation": "教材 2.14 指出非分红计划本质上是保证的,因此客户在保单下不保留任何投资风险。B 与此相反;C/D 无教材依据。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — s.2.14",
+    "status": "draft",
+    "tags": [
+      "risk-tolerance",
+      "non-participating"
+    ],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s24-014",
+    "part": 2,
+    "syllabusItemId": "s24",
+    "topicGroup": "process",
+    "stem": "In the product recommendation example, what should the adviser consider doing if he doubts that the client does not understand certain critical product features, especially for investment products?",
+    "options": {
+      "A": "Proceed with the sale but record the doubt",
+      "B": "Consider aborting the sale",
+      "C": "Refer the client to a tax specialist",
+      "D": "Recommend a higher sum assured to compensate"
+    },
+    "answer": "B",
+    "explanation": "教材范例指出,解释产品至客户理解是顾问的责任;若怀疑客户不理解关键产品特征(尤其投资产品),应考虑中止销售;对未通过客户知识评估者尤其如此。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.24 — Example (Product recommendation)",
+    "status": "draft",
+    "tags": [
+      "suitability",
+      "cka"
+    ],
+    "updatedAt": "2026-06-19"
   }
 ]

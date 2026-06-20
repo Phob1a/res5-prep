@@ -3,33 +3,84 @@
     "id": "note-s07-overview",
     "part": 1,
     "syllabusItemId": "s07",
-    "title": "投资连结保单 ILPs (MAS Notice 307)",
-    "summary": "ILP 兼具保险与投资,价值随基金浮动,投资风险由保单持有人承担;Notice 307 规范披露/基金/收费,适当性来自 FAA 流程。 / An ILP combines insurance and investment; its value fluctuates with the funds and the policyholder bears the investment risk. Notice 307 governs disclosure/fund/fees; suitability comes from the FAA advisory process.",
+    "title": "MAS Notice 307 — 投资连结保单 (ILP) / MAS Notice 307 — Investment-linked Policies (ILPs)",
+    "summary": "MAS 307 依《保险法》第64(2)条颁布,适用于持牌寿险直接保险公司,含强制要求(Part I)与非强制标准(Part II),覆盖 ILP 子基金的通知、估值、审计、披露、付款、子管理与表现费等。 / Issued under s64(2) of the Insurance Act and applying to direct life insurers, MAS 307 sets out mandatory requirements (Part I) and non-mandatory standards (Part II) covering notification, valuation, audit, disclosure, payments, delegation and performance fees for ILP sub-funds.",
     "sections": [
       {
-        "heading": "本质",
-        "body": "ILP 保费部分购买基金单位,价值随基金升跌,无资本保证;另有保险保障成分,投资风险由保单持有人承担。"
+        "heading": "适用范围与结构",
+        "body": "本通知依《保险法》(Cap.142)第64(2)条颁布,取代 2004 年版,适用于任何获准经营寿险业务的直接保险公司(\"insurer\")。它包含强制要求(Part I)和非强制标准(Part II),须与《保险法》一并阅读,不凌驾于法案。'ILP 子基金'指 ILP 内供保单持有人分配保费的每一独立子基金。"
       },
       {
-        "heading": "Nature",
-        "body": "Part of the premium buys fund units; value rises/falls with the funds with no capital guarantee; there is an insurance component and the policyholder bears the investment risk."
+        "heading": "Scope and structure",
+        "body": "Issued under s64(2) of the Insurance Act (Cap.142), this Notice replaces the 2004 version and applies to any direct insurer licensed to carry on life business (\"insurer\"). It comprises mandatory requirements (Part I) and non-mandatory standards (Part II), read with the Act and not overriding it. An \"ILP sub-fund\" is each separate sub-fund within an ILP to which a policyholder can allocate premiums."
       },
       {
-        "heading": "披露与适当性",
-        "body": "Notice 307 要求披露产品摘要/基金信息/费用/风险,设 free-look;\"合理基础适当性\"属 FAA 咨询流程(FAA-N16)。"
+        "heading": "向监管局通知",
+        "body": "保险公司须在子基金设立前至少 21 天通知 MAS 拟推出新子基金;对任何重大变更须在生效前不迟于 1 个月通知,例如投资目标/方针变更、报酬增加、占 NAV 0.1% 或以上的其他费用增加、更换管理人、对保单持有人重大不利的权利变更、直投与馈给结构互转、子基金关闭(到期终止除外)等。若无法提前 1 个月确定(如交易暂停),须尽快书面告知 MAS 与现有保单持有人。"
       },
       {
-        "heading": "Disclosure & suitability",
-        "body": "Notice 307 requires disclosure of product summary/fund info/fees/risks and a free-look period; reasonable-basis suitability comes from the FAA advisory process (FAA-N16)."
+        "heading": "Notification to the Authority",
+        "body": "The insurer must notify MAS at least 21 days before establishing a new sub-fund, and no later than 1 month before any significant change takes effect — e.g. a change in investment objective/approach, increased remuneration, an increase in other fees of 0.1% or more of NAV, replacement of the manager, materially prejudicial changes to policyholder rights, a switch to/from feeder structure, or closure (other than maturity). If 1 month's notice is not feasible (e.g. suspension of dealings), the insurer must inform MAS and existing policyholders in writing as soon as practicable."
+      },
+      {
+        "heading": "单位估值与审计",
+        "body": "单位以 NAV 除以流通单位数定价(初始发售期除外),可按产品概要披露的费用调整。资本保证子基金到期时,以保证金额与 NAV/单位数二者较高者赎回。保险公司须每年委任外部审计师审计,可选(a)对每个子基金财务报表审计(第一法),或(b)对内控与流程审计(第二法);从第一法首次改为第二法须事先书面通知 MAS,其后改法须经 MAS 批准。"
+      },
+      {
+        "heading": "Valuation of units and audit",
+        "body": "Units are priced by dividing NAV by units outstanding (except during the initial offer period), adjustable by disclosed fees/charges. At maturity of a capital guaranteed sub-fund, units are redeemed at the higher of the guaranteed amount or NAV per unit. The insurer must appoint an external auditor annually using either (a) audit of each sub-fund's financial statements (first method) or (b) audit of internal controls and processes (second method); the first switch to the second method requires prior written notice to MAS, and any later change of method requires MAS approval."
+      },
+      {
+        "heading": "终止/到期子基金的审计证明",
+        "body": "对每个终止或到期的子基金,保险公司须委任外部审计师出具审计证明,确认未发现:未变现全部资产、未按持有比例向保单持有人分配净收益、或未遵守本通知要求等情形。审计证明须在终止或到期后 6 个月内完成;完成后 30 天内送交 MAS;保留 5 年;保单持有人在终止/到期起 5 年内提出请求的,须在 30 天内提供。"
+      },
+      {
+        "heading": "Audit certificate for terminated/matured sub-funds",
+        "body": "For every terminated or matured sub-fund, the insurer must appoint an external auditor to certify it has not come to notice that the insurer failed to realise all assets, failed to distribute resultant net proceeds in proportion to holdings, or failed to comply with the Notice. The certificate must be completed within 6 months of termination/maturity, sent to MAS within 30 days of completion, retained for 5 years, and made available to a policyholder within 30 days of a request made within 5 years of termination/maturity."
+      },
+      {
+        "heading": "披露:费用、文件与报告",
+        "body": "对 2021 年 10 月 8 日起发行的 ILP,前端扣费须合并披露为单一\"premium charge\",且不得使用\"premium allocation rate\"。保险公司不得提供虚假或误导信息;须为每个子基金连同产品概要准备 PHS(产品要点单)。报告期限:指定 ILP(specified ILP)的保单持有人结单每年发送(保单周年后 30 天内);其他情形按月发送(有豁免)。半年报须在期末后 2 个月内、相关审计报告须在 3 个月内发送给保单持有人。"
+      },
+      {
+        "heading": "Disclosure: fees, documents and reports",
+        "body": "For ILPs issued on/after 8 October 2021, upfront deductions must be consolidated and disclosed as a single \"premium charge\"; the term \"premium allocation rate\" must not be used. Insurers must not give false or misleading information and must prepare a PHS for every sub-fund together with the product summary. For specified ILPs the Statement to Policyholders is sent annually (within 30 days of the policy anniversary); otherwise monthly (with exemptions). The Semi-Annual Report must be sent within 2 months, and the Relevant Audit Report within 3 months, of period end."
+      },
+      {
+        "heading": "子基金付款、回扣与软美元",
+        "body": "不得从子基金资产支付营销/推广费用、产品概要与保单未列明的费用,或对保单持有人不公平/重大不利的款项。保险公司须确保管理人不为自身留存子基金交易产生的现金或佣金回扣;除满足例外条件(软美元合理协助投资建议、最优条款执行、不为达量而做不必要交易)外,不得收受软美元,且旅行、住宿、娱乐等不符合例外。管理人须保留所有所收软美元记录。CPF 失败交易成本不得记入子基金。"
+      },
+      {
+        "heading": "Payments, rebates and soft dollars",
+        "body": "No marketing/promotion expenses, fees not provided for in the product summary/policy, or payments unfair to policyholders may be paid out of the sub-fund. The manager must not retain cash or commission rebates for its own account, and must not receive soft dollars unless the exceptions are met (the soft dollars reasonably assist investment advice, best execution is achieved, and no unnecessary trades are entered to qualify); goods/services like travel, accommodation and entertainment do not qualify. The manager must keep a record of all soft dollars received, and no CPF failed-trade costs may be charged to the sub-fund."
+      },
+      {
+        "heading": "Part II 非强制标准:投资、交易与子管理",
+        "body": "Part II 标准非强制,但 MAS 期望遵守;不合规本身不构成违反通知,但可在法律程序中被援引。核心投资指引与借款限额见《集合投资计划守则》附录。赎回付款时限示例:债券与货币市场子基金 T+4、馈给型(投入另一集合投资计划)T+7、其他类型 T+6 个工作日。管理人不得投资于保险公司/管理人或其关联公司证券(基准成分等例外),交易须公平独立(arm's length),不得机制化依赖信用评级(评级不一时取最低),不得行使重大影响力。子基金每个工作日估值,单位价值至少每个交易日公布一次。"
+      },
+      {
+        "heading": "Part II non-mandatory standards: investment, dealing and delegation",
+        "body": "Part II standards are non-mandatory but expected; non-compliance is not itself a breach yet may be relied upon in proceedings. Core investment guidelines and borrowing limits follow the Code's appendices. Redemption payout timeframes: bond and money market sub-funds T+4, feeder funds investing in another CIS T+7, other types T+6 business days. The manager should not invest in the insurer's/manager's or related-corporation securities (benchmark-constituent exceptions), should transact at arm's length, should not rely mechanistically on credit ratings (use the lowest where they differ), and should not exercise significant influence. Units are valued every business day and the unit value is published at least once every dealing day."
+      },
+      {
+        "heading": "估值错误、表现费与命名",
+        "body": "估值错误达调整后 NAV/单位 0.5% 或以上时,须补偿受影响保单持有人(单一持有人补偿不超过 $20 可免)并补偿子基金损失;低于 0.5% 无强制补偿。错误须以模板尽快通知 MAS。表现费须公平、年度结算不超过一次,采用 fulcrum fee(限基本费 0~200%)或 high water mark。子基金跨境子管理超 10% 资产时,保险公司连同关联公司须已在新加坡管理至少 S$5 亿全权委托资金。命名不得误导;禁止使用\"capital protected\"/\"principal protected\"。任何违反须在知悉后 3 个工作日内通知 MAS。本通知 2011 年 10 月 1 日生效。"
+      },
+      {
+        "heading": "Valuation errors, performance fees and naming",
+        "body": "Where a valuation error is 0.5% or more of post-adjustment NAV per unit, the insurer/manager must compensate affected policyholders (unless any single policyholder's compensation is $20 or less) and the sub-fund; below 0.5% there is no mandatory compensation. Errors must be reported to MAS via the template as soon as practicable. Performance fees must be equitable, crystallise no more than once a year, and use a fulcrum fee (limited to 0–200% of the base fee) or high water mark. Where over 10% of assets are sub-managed abroad, the insurer with related corporations must already manage at least S$500 million of discretionary funds in Singapore. Names must not mislead, and \"capital protected\"/\"principal protected\" are prohibited. Breaches must be reported to MAS within 3 business days of awareness. The Notice took effect on 1 October 2011."
       }
     ],
     "keyPoints": [
-      "投资风险由保单持有人承担 / Policyholder bears the investment risk",
-      "无资本保证 / No capital guarantee",
-      "设 free-look 冷静期 / Free-look period applies"
+      "依《保险法》s64(2) 颁布,适用持牌寿险直保;Part I 强制 + Part II 非强制 / Issued under s64(2) IA; applies to licensed direct life insurers; Part I mandatory + Part II non-mandatory",
+      "推新子基金提前≥21天、重大变更提前≥1个月通知 MAS / Notify MAS ≥21 days before new sub-fund, ≥1 month before significant change",
+      "单位价格 = NAV ÷ 流通单位数;资本保证到期取保证额与 NAV 较高者 / Unit price = NAV ÷ units outstanding; capital guaranteed redeemed at higher of guaranteed amount or NAV",
+      "估值错误 ≥0.5% 须补偿(单人≤$20 可免);<0.5% 无强制补偿 / Valuation error ≥0.5% triggers compensation (≤$20 per holder exempt); <0.5% none",
+      "跨境子管理>10% 资产须在新加坡管理≥S$5亿全权资金 / >10% sub-managed abroad needs ≥S$500m discretionary funds managed in Singapore",
+      "禁用\"capital protected\"/\"principal protected\";违反须3个工作日内通知 MAS / \"capital/principal protected\" prohibited; breaches reported within 3 business days"
     ],
-    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "sourceRef": "MAS Notice 307 — Investment-linked Policies (ILPs); RES5 Study Text Part I Ch.7",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

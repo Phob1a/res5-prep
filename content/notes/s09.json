@@ -1,0 +1,102 @@
+[
+  {
+    "id": "note-s09-overview",
+    "part": 1,
+    "syllabusItemId": "s09",
+    "title": "MAS 指引（第二部分）总览 / MAS Guidelines — Part II Overview",
+    "summary": "本章涵盖四套 MAS 指引：结构性存款（FAA-G09）、设计指定投资产品转换（FAA-G10）、公平交易——董事会与高管责任（FSG-G04）、薪酬框架/平衡计分卡/背景核查/交易前核查（FAA-G14）。前三套依《财务顾问法》第64条发出，提供行为标准。 / This chapter covers four MAS Guidelines: Structured Deposits (FAA-G09), Switching of Designated Investment Products (FAA-G10), Fair Dealing — Board and Senior Management Responsibilities (FSG-G04), and the Remuneration/Balanced Scorecard, Reference Checks and Pre-Transaction Checks framework (FAA-G14). They set conduct standards; three are issued under s64 of the FAA.",
+    "sections": [
+      {
+        "heading": "四套指引与适用对象",
+        "body": "FAA-G09（结构性存款）适用于就任何结构性存款提供意见的持牌或获豁免财务顾问及其代表,但不适用于向认可投资者、专家投资者或机构投资者(FAR 第2(1)条所定义)提供意见的情形。FAA-G10(转换)适用于就设计指定投资产品转换提供意见者,但不适用于获豁免遵守 FAA-N16 的人。FSG-G04(公平交易)适用于所有金融产品与服务。FAA-G14(平衡计分卡)适用于所有持牌及获豁免财务顾问,但 FAR 第34A条所列活动/建议/交易除外。"
+      },
+      {
+        "heading": "Four guidelines and who they apply to",
+        "body": "FAA-G09 (Structured Deposits) applies to any licensed or exempt FA and its representatives advising on any structured deposit, except where advice is given to an accredited, expert or institutional investor as defined in Regulation 2(1) of the FAR. FAA-G10 (Switching) applies to switching of designated investment products but not to persons exempted from FAA-N16. FSG-G04 (Fair Dealing) applies across all financial products and services. FAA-G14 (Balanced Scorecard) applies to all licensed and exempt FAs other than those in respect of activities/recommendations/transactions under FAR Regulation 34A."
+      },
+      {
+        "heading": "FAA-G09 — 结构性存款:定义与披露",
+        "body": "结构性存款是一种存款,而非独特的金融工具类别;\"存款\"在《银行法(1970)》中有定义。若产品不具存款特征却被标示为结构性存款,等同于误导性行为。产品资料披露(含营销材料)须清楚、充分、不虚假或具误导性,并参照 FAA-N03 第11段。应向客户公平、充分披露所有重要资料,包括投资性质与基础工具、收款机构详情、收益(及保证/非保证、最佳与最差情景示例)、风险因素、费用收费、提前终止条款,以及结构性存款不受《存款保险及保单持有人保障计划法》(Cap.77B)承保等。"
+      },
+      {
+        "heading": "FAA-G09 — Structured deposits: definition and disclosure",
+        "body": "A structured deposit is a type of deposit, not a unique class of instruments; \"deposit\" is defined in the Banking Act (1970). Labelling a product a structured deposit when it lacks deposit characteristics is tantamount to misleading conduct. Product disclosure (including marketing materials) must be clear, adequate and not false or misleading, with due regard to Paragraph 11 of FAA-N03. Material information to disclose includes the nature of the investment and underlying instruments, details of the deposit-taking institution, benefits (and whether guaranteed/non-guaranteed, with best- and worst-case illustrations), all risk factors, fees/charges, early-termination clauses, and that the structured deposit is not an insured deposit under the Deposit Insurance and Policy Owners' Protection Schemes Act (Cap.77B)."
+      },
+      {
+        "heading": "FAA-G09 — 建议、警示、筛查、培训、隔离",
+        "body": "提出建议须有合理依据(参照 FAA-N16)。对不需要建议的客户,可免去事实查找与需求分析,但须以书面、显著、清晰的方式作出警示:结构性存款有投资成分、回报可能浮动,客户在承诺前宜征询财务顾问意见;并须记录客户已阅读理解。应筛查每位客户;可能在到期前需取回资金者(如年长者)应被鼓励征询意见,因提前终止可能损失本金。代表须具备相应专业能力,应通过 CMFAS 单元5,并通过单元8或接受机构自设结构性存款培训。即使不作建议,仍须符合适当人选标准(FSG-G01)与行为标准(FAA-G04)。兼为收受存款机构的财务顾问须将营销/咨询流程与收存款流程区分;不合资格的存款区员工(如柜员)不得参与结构性存款的营销或建议。以上多项要求不适用于属双货币投资的结构性存款(适用 FAA-N11)。"
+      },
+      {
+        "heading": "FAA-G09 — Recommendations, warnings, screening, competency, segregation",
+        "body": "Recommendations must have a reasonable basis (with regard to FAA-N16). For clients who do not need a recommendation, the usual fact-find/needs analysis may be dispensed with, but a written, prominent and clear warning must be given that structured deposits have an investment element and returns may vary, and the client may wish to seek advice before committing; the FA must document that the warning was read and understood. Every client should be screened; clients who may need to withdraw before maturity (e.g. the elderly) should be encouraged to seek advice, as early termination may cause loss of principal. Representatives need the necessary expertise — passing CMFAS Module 5, plus Module 8 or the FA's own structured-deposit training. Even where no recommendation is made, the FA must still meet fit-and-proper criteria (FSG-G01) and standards of conduct (FAA-G04). An FA that is also a deposit-taking institution must keep the marketing/advisory process distinct from the deposit-acceptance process; unqualified deposit-taking staff (e.g. bank tellers) must not market or recommend structured deposits. Several of these requirements do not apply to a structured deposit that is a dual currency investment (FAA-N11 applies)."
+      },
+      {
+        "heading": "FAA-G10 — 转换:定义、一般义务、披露",
+        "body": "依第64条发出,旨在确保代表不会以损害客户的方式建议从\"原产品\"转换至\"替代产品\"。\"转换\"包括客户处置/减持某产品的全部或部分以取得/增持另一产品。FAA-N16 规定不得作出对客户不利的转换建议,作出转换建议者须遵守 KYC、需求分析、记录保存,并披露客户因转换须承担的任何费用/收费。须以书面披露转换可能带来的金钱或其他不利,并附显著警示:客户可能因(i)处置/减持现有产品及(ii)取得/增持新产品而招致费用,应先了解是否享免费转换,并衡量费用/不利是否抵消潜在利益。"
+      },
+      {
+        "heading": "FAA-G10 — Switching: definition, general obligations, disclosure",
+        "body": "Issued under s64; aims to ensure representatives do not advise switching from an \"original product\" to a \"replacement product\" in a manner detrimental to the client. \"Switching\" includes disposing of or reducing interest in one product to acquire or increase interest in another. FAA-N16 prohibits a switching recommendation detrimental to the client; the FA/representative must comply with Know-Your-Client, needs analysis and record-keeping, and disclose any fee/charge the client must bear. The FA must disclose in writing any pecuniary or other disadvantages and a prominent warning that the client may incur fees/charges from (i) disposing of/reducing an existing product and (ii) acquiring/increasing a new product, and should find out whether free switching applies before weighing fees, charges or disadvantages against potential benefits."
+      },
+      {
+        "heading": "FAA-G10 — 转换监控与薪酬",
+        "body": "前端监控:要求客户书面声明是否被代表建议转换(包括跨不同类型产品及向其他财务顾问购买的产品)。若客户声明被建议转换,须再作书面声明(代表是否提醒成本与不利、客户是否仍愿继续;代表须声明客户是否享免费转换)。代表须向客户解释建议依据并记录;主管须复核转换建议并书面表示是否同意,考虑 FAA-N16 第42段的因素:是否有终止罚则、是否产生交易成本而无实际利益、替代产品是否以更高/相同成本提供更低利益或以更高成本提供相同利益、替代产品是否更不适合客户。后端监控:核查客户过往交易、追踪转换量、确保每笔转换经主管复核等(一种做法是建立登记册)。仅以销售量为基础的薪酬可能鼓励产品推销与不当转换;财务顾问应使薪酬结构维护代表提供优质专业建议的责任。"
+      },
+      {
+        "heading": "FAA-G10 — Monitoring of switching and remuneration",
+        "body": "Front-end: require the client to declare in writing whether a representative advised the switch (including switches across different product types and products bought from other FAs). If the client declares a switch, further written declarations are required (whether the representative drew attention to costs/disadvantages, whether the client wishes to proceed; the representative must declare whether free switching applies). The representative must explain and document the basis; the supervisor must review the recommendation and indicate in writing whether they agree, considering the four factors in FAA-N16 Paragraph 42 (penalty for terminating the original; transaction cost with no real benefit; lower benefit at higher/same cost or same benefit at higher cost; less suitable replacement). Back-end: check past transactions, track switch volume, ensure supervisor review, etc. (one way is to maintain a register). Remuneration based solely on sales volume may encourage product pushing and undesirable switching; FAs should structure remuneration to uphold the duty to provide good-quality professional advice."
+      },
+      {
+        "heading": "FSG-G04 — 公平交易五项成果",
+        "body": "董事会与高管设定文化、确定风险偏好、建立治理结构。指引适用于所有金融产品与服务,以零售客户视角撰写,但应按比例应用于所有客户。五项公平交易成果:成果一——客户有信心其往来的金融机构以公平交易为企业文化核心;成果二——金融机构提供适合其目标客户群的产品与服务;成果三——客户由有能力的代表服务;成果四——客户获得清楚、相关、及时且准确反映产品与服务的信息;成果五——金融机构以独立、有效、迅速的方式处理客户投诉。定义:\"客户\"指金融产品/服务的使用者及潜在使用者;\"代表\"指金融机构所聘任的任何员工或代理。"
+      },
+      {
+        "heading": "FSG-G04 — Five fair dealing outcomes",
+        "body": "Board and Senior Management set the culture, determine risk appetite and put in place governance. The Guidelines apply to all financial products and services, written from a retail lens but to be applied proportionately to all customers. The five fair dealing outcomes are: Outcome 1 — customers have confidence in FIs where fair dealing is central to corporate culture; Outcome 2 — FIs offer products and services suitable for their target customer segments; Outcome 3 — customers are served by competent representatives; Outcome 4 — customers receive clear, relevant and timely information that accurately represents products and services; Outcome 5 — FIs handle complaints independently, effectively and promptly. Definitions: \"customer\" means users and prospective users of financial products/services; \"representative\" means any staff, employee or agent engaged by a financial institution."
+      },
+      {
+        "heading": "FSG-G04 — 成果一至三要点",
+        "body": "成果一:董事会与高管应制定清晰策略(分配执行责任、可衡量目标、将高管薪酬与公平交易 KPI 挂钩)、使政策实务与公平交易一致、向内外部传达公平交易为优先、监控成果(投诉与不当行为趋势、客户调查、神秘顾客、合规审计)。成果二:产品设计与治理应测试不同市况下的表现与对客户的价值;须进行正式产品尽职调查以识别适合/明显不适合的客户群,不应仅依赖产品提供方的评估;营销复杂投资产品(FAA-N16/SFA04-N12 所定义的特定投资产品)时应表明一般不可无建议销售,向知识有限客户销售须取得更高层级批准。成果三:确保代表有能力(培训、持续专业培训、上市前产品培训);提供适当建议须做妥善事实查找;薪酬应与客户利益一致(平衡计分卡、可考虑\"收费式\"模式)。"
+      },
+      {
+        "heading": "FSG-G04 — Outcomes One to Three highlights",
+        "body": "Outcome 1: Board/Senior Management should devise a clear strategy (allocate responsibilities, set measurable targets, link senior-executive remuneration to fair-dealing KPIs), align policies/practices, communicate fair dealing as a priority, and monitor outcomes (complaints/misconduct trends, customer surveys, mystery shopping, compliance audits). Outcome 2: product design and governance should test performance under different market scenarios; formal product due diligence must identify suitable and clearly-unsuitable segments and not rely solely on the product provider; complex investment products (Specified Investment Products under FAA-N16 / SFA04-N12) generally cannot be sold without advice, and sales to customers with limited knowledge require higher-level approval. Outcome 3: ensure representatives are competent (training, continuous professional training, pre-launch product training); appropriate advice requires a proper fact-find; remuneration should align with customers' interests (a balanced scorecard, or a \"fee for advice\" model)."
+      },
+      {
+        "heading": "FSG-G04 — 成果四与成果五要点",
+        "body": "成果四:披露应易于取得、用浅白语言、平衡呈现关键特征与风险、便于阅读理解;口头陈述须与披露文件一致,应提供脚本并避免给人虚假安全感的措辞(如\"capital protected\");服务知识有限或非英语客户须有额外保障(准确翻译、要求主管或讲英语亲属在场、记录额外步骤)。应在决策前提供所有相关信息(政策示例、招股书、定价声明、产品要点表、概况表),公平平衡呈现关键风险、上行下行、所有费用收费(含佣金等薪酬披露)、重要条款、提前退出罚则及任何 free-look/lock-in/cooling-off 期。可变回报/成本须说明可能结果范围(含最差情景)。售后须持续提供产品表现与重大发展更新。修订条款须考虑对客户影响并充分通知(例如最少30天);行使审查权(RoR)条款不应轻率,须由独立控制单位经高管批准,并就重大不利影响经适当管理论坛批准、提前书面通知。保险适用最大诚信原则(uberrima fides),客户须披露所有重要事实,否则保单可能被作废。成果五:设立清楚的反馈/投诉渠道,客户应知悉可向 FIDReC 求助;须独立、有效、迅速处理投诉,由与投诉无关者评估,重大投诉上报董事会与高管;须进行趋势分析找根因;为复杂投诉提供书面临时回复。"
+      },
+      {
+        "heading": "FSG-G04 — Outcomes Four and Five highlights",
+        "body": "Outcome 4: disclosures should be readily accessible, in plain language, balanced (highlighting key features and risks), and easy to read; verbal representations must be consistent with disclosure documents, scripts should be provided, and misleading phrases conveying a false sense of security (e.g. \"capital protected\") avoided; extra safeguards apply for customers with limited knowledge or non-English speakers (accurate translation, supervisor/English-speaking relative present, documenting extra steps). All relevant information must be given before a decision (policy illustration, prospectus, pricing statement, Product Highlights Sheet, factsheet), presenting key risks, upsides/downsides, all fees and charges (including remuneration disclosure), important terms, early-withdrawal penalties and any free-look/lock-in/cooling-off period. Where returns/costs vary, the range of outcomes including a worst-case scenario must be made clear. After-sales updates on performance and material developments must continue. Revising terms requires considering customer impact and sufficient notice (e.g. minimum 30 days); a Right of Review (RoR) clause should not be exercised lightly — governed by an independent control unit, approved by senior management, and where it materially/adversely affects customers, approved by an appropriate management forum with early written notice. The principle of utmost good faith (uberrima fides) applies to insurance: customers must disclose all material facts or the policy may be voided. Outcome 5: set out clear feedback/complaint channels; customers should be made aware of FIDReC; complaints must be handled independently, effectively and promptly, assessed by persons not connected to the complaint, with significant complaints escalated to Board/Senior Management; trend analysis should seek root causes; complex complaints warrant a written interim response."
+      },
+      {
+        "heading": "FAA-G14 — 平衡计分卡:目的、定义、ISA 单位",
+        "body": "依第64条发出,适用于所有持牌及获豁免财务顾问(FAR 第34A条所列除外)。FAA-N20《关于代表与主管薪酬框架(平衡计分卡框架)及独立销售审计单位要求的通知》规定 ISA 单位及平衡计分卡的设计运作。\"selected client(选定客户)\"指符合以下任两项的客户:(a)62岁或以上;(b)口语或书面英语不熟练;(c)低于 GCE 'O' 或 'N' 水准或同等学历——但若财务顾问已书面评估其具足够投资经验与知识则除外。ISA 单位每个日历季须对抽样交易完成交易后核查(post-transaction checks),且每笔抽样交易应同时进行文件复核与客户调查;客户调查可经电话(三次未接通可视为结束)、面谈、书面(一个月内无回应可视为结束)或电子方式(两周内无回应可视为结束)。"
+      },
+      {
+        "heading": "FAA-G14 — Balanced Scorecard: purpose, definitions, ISA Unit",
+        "body": "Issued under s64; applies to all licensed and exempt FAs except those in respect of FAR Regulation 34A activities. Notice FAA-N20 (Requirements for the Remuneration Framework — Balanced Scorecard — and Independent Sales Audit Unit) sets out the ISA Unit and the design/operation of the balanced scorecard. A \"selected client\" is one meeting any two of: (a) aged 62 or older; (b) not proficient in spoken or written English; (c) below GCE 'O'/'N' level or equivalent — unless the FA has assessed (documented in writing) that the client has adequate investment experience and knowledge. The ISA Unit must complete post-transaction checks on sampled transactions every calendar quarter, conducting both a documentation review and a client survey on each. Client surveys may be by phone (closed after three unsuccessful attempts), face-to-face, written (closed after one month of no response) or electronic (closed after two weeks of no response)."
+      },
+      {
+        "heading": "FAA-G14 — 等级\"E\"/\"Unsatisfactory\"、背景核查、交易前核查",
+        "body": "infraction(违规)分类为第1类或第2类,须就个案优劣评估。被评为\"E\"等级的代表须接受严密监督:主管须陪同其至少5笔成交销售,且 ISA 单位须对其与客户达成的每笔交易进行至少3个月的全面独立交易后核查;CEO 或其指定人(非主管)须监督;\"E\"代表自被评等起至少一年内不得担任任何监督或管理职务。被评\"Unsatisfactory\"的主管须接受复核;连续两季\"Unsatisfactory\"者至少一年内不得任监督/管理职务。背景核查:招聘曾任他司代表/主管者,应向其过去10年内的前principal索取最近四个平衡计分卡等级;收到核查请求的财务顾问应披露其曾给该人的等级。不应招聘在前principal任内最后一个季度被评为\"Unsatisfactory\"的主管;招聘最近一次被评\"E\"者须遵守第16段并确保其一年内不任监督/管理职。交易前核查:主管应在交易提交前复核所有文件与建议依据(双货币投资或股票/商品挂钩结构性票据的展期等除外);对选定客户的建议须进行客户回访。交易前核查中发现的违规不计入平衡计分卡、不影响薪酬。若发现产品不适合客户,应允许客户修改或取消交易且不承担差价/相关取消修改费用。记录须保存不少于五年。本指引自2016年1月1日生效。"
+      },
+      {
+        "heading": "FAA-G14 — Grade \"E\"/\"Unsatisfactory\", reference checks, pre-transaction checks",
+        "body": "Infractions are classified as Category 1 or Category 2 on the merits of each case. A representative graded \"E\" must be placed under close supervision: the supervisor accompanies the E representative for a minimum of five closed sales, and the ISA Unit conducts full-scale independent post-transaction checks on every transaction with a client for a minimum of three months; the CEO or a designate (not a supervisor) provides oversight; an E representative may not hold any supervisory/managerial role for at least one year from grading. A supervisor graded \"Unsatisfactory\" is reviewed; one graded \"Unsatisfactory\" for two consecutive quarters may not hold a supervisory/managerial role for at least one year. Reference checks: when recruiting someone who was previously a representative/supervisor elsewhere, request the last four balanced scorecard grades from previous principal(s) within the past 10 years; an FA receiving a request must disclose the grades it assigned. An FA should not recruit, as a supervisor, anyone graded \"Unsatisfactory\" in the final quarter with their previous principal; recruiting someone most recently graded \"E\" requires observing paragraph 16 and barring supervisory/managerial roles for one year. Pre-transaction checks: supervisors review all documentation and basis of recommendation before a transaction is submitted (except rollovers of dual currency investments or equity/commodity-linked structured notes); client call-backs apply for recommendations to selected clients. Infractions found at pre-transaction checks are not factored into the balanced scorecard and do not affect remuneration. If a product is found unsuitable, the client may modify or cancel without bearing any value difference or cancellation/modification fees. Records must be kept for at least five years. The Guidelines took effect on 1 January 2016."
+      }
+    ],
+    "keyPoints": [
+      "四套指引及编号:FAA-G09 结构性存款 / FAA-G10 转换 / FSG-G04 公平交易 / FAA-G14 平衡计分卡 / Four guidelines: FAA-G09, FAA-G10, FSG-G04, FAA-G14",
+      "结构性存款是一种存款而非独立工具,不受存款保险(Cap.77B)承保;本金仅持有至到期才保证 / A structured deposit is a deposit, not a separate instrument; not insured (Cap.77B); principal guaranteed only if held to maturity",
+      "转换监控含前端声明、主管复核(FAA-N16 第42段四因素)与后端追踪 / Switching monitoring: front-end declarations, supervisor review (4 factors in FAA-N16 para 42) and back-end tracking",
+      "公平交易五项成果:文化、产品适合性、代表能力、信息清晰、投诉处理 / Five fair dealing outcomes: culture, suitable products, competent reps, clear information, complaints handling",
+      "selected client = 符合三项中任两项(≥62岁/英语不熟练/低于O或N水准) / Selected client = meets any two of: ≥62, not English-proficient, below O/N level",
+      "\"E\"代表须严密监督(陪同≥5笔成交+≥3个月全面交易后核查),一年内不得任监督职;记录保存≥5年 / \"E\" rep: close supervision (≥5 closed sales accompanied + ≥3 months post-transaction checks), no supervisory role for one year; records kept ≥5 years"
+    ],
+    "sourceRef": "RES 5 Study Guide Part I Ch.9 — MAS Guidelines Part II [FAA-G09; FAA-G10; FSG-G04; FAA-G14] (issued under s64 FAA 2001; FAA-N20)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  }
+]

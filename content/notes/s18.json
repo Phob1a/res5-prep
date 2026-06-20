@@ -4,32 +4,123 @@
     "part": 2,
     "syllabusItemId": "s18",
     "title": "利益冲突 / Conflict of Interest",
-    "summary": "代表利益与客户利益可能不一致即存在冲突;处理:客户优先,冲突应避免,不能避免则充分披露并管理。 / A conflict exists where a representative’s interests may diverge from the client’s; handle it by client-first, avoid the conflict, and if unavoidable disclose fully and manage it.",
+    "summary": "利益冲突指两方目标不一致、个人可借其地位为己谋利的情形;在金融业因机构多功能性而难免发生,若处理不当会引发严重道德甚至法律(贪腐)问题。表现形式有偏颇建议、强制交叉销售、过度交易(churning/twisting)、未能执行、披露不足/误导、侵犯隐私。管理之道在于以受信标准(fiduciary,原则导向)与适合性标准(suitability,规则导向)约束自身。 / A conflict of interest is a situation where two parties' objectives are misaligned and a person can use his position for personal gain. In finance it arises inevitably from the multi-functional nature of institutions; mishandled, it causes serious ethical and even legal (corruption) problems. Its manifestations are biased advice, involuntary cross-selling, excessive trading (churning/twisting), failure to execute, insufficient/misleading disclosure and breach of privacy. It is managed by holding oneself to the fiduciary standard (principles-based) and the suitability standard (rules-based).",
     "sections": [
       {
-        "heading": "什么是利益冲突",
-        "body": "因薪酬、激励、关联关系等被诱导做出不以客户利益为先的建议(如高佣产品、销售竞赛)。"
+        "heading": "1 利益冲突的含义",
+        "body": "利益冲突指两方目标不相容或不一致,某人可借其在关系中的地位从其行为或决定中谋取个人利益。因金融机构复杂、业务多功能,冲突会不时出现;若妥善管理通常无碍,但处理不当会给各方带来严重道德问题。借地位自利者可能被投诉或调查为违反道德守则/行为准则;某些情形下,利益冲突违规在法律上可构成贪腐罪行。财务顾问代表须以诚实、专业的方式应对。"
       },
       {
-        "heading": "What is a conflict",
-        "body": "Where pay, incentives or relationships could induce advice that does not put the client’s interest first (e.g. high-commission products, sales contests)."
+        "heading": "1 Meaning of conflict of interest",
+        "body": "A conflict of interest is a situation in which the objectives of two parties are incompatible or misaligned, and a person can take advantage of his position to derive personal benefit. It arises from time to time due to the complexity and multi-functional nature of financial institutions; if managed properly it generally causes no problems, but if mishandled it can cause serious ethical problems. A person who exploits his position for self-serving benefit may be the subject of a complaint or investigation for breaching a code of ethics or standards of conduct, and in some cases the violation may amount under the law to a corruption offence. The FA representative must deal with it honestly and professionally."
       },
       {
-        "heading": "处理层级",
-        "body": "优先避免;无法避免则向客户充分清晰披露;建立机制管理,确保建议仍以客户需求为先。"
+        "heading": "2 利益冲突的类型",
+        "body": "金融机构作为中介,行业有两类冲突:一是代表'发现'自己身处的'内建'(built-in)冲突,可能不符合客户最佳利益;二是代表通过自身行为'制造'的冲突(例如同时为夫妻服务却偏袒丈夫损害妻子)。作为第三方中介,现行结构产生五种利益错位:(a)代表与客户(如未经同意出售客户信息获酬);(b)机构、代表与客户(如薪酬政策绑定高收益产品销售);(c)机构与客户(如制作误导性营销材料/演示);(d)代表与其多名客户(如在同一家庭多名客户间偏袒一方);(e)机构与多名客户(如为高净值客户创造机会而损害零售客户)。亦有源于机构具体政策的冲突,代表难以完全抽身。"
       },
       {
-        "heading": "Handling hierarchy",
-        "body": "Avoid first; if unavoidable, disclose fully and clearly; manage via controls so advice still serves the client."
+        "heading": "2 Types of conflict of interest",
+        "body": "As intermediaries, there are two types: 'built-in' conflicts a representative 'finds' himself in, which may not serve the client's best interest; and conflicts a representative 'creates' through his own actions (e.g. favouring the husband over the wife when advising both). As the third-party intermediary, the structure gives rise to five misalignments: (a) representative and client (e.g. selling client information without consent); (b) institution, representative and client (e.g. tying compensation to higher-revenue products); (c) institution and client (e.g. misleading marketing materials and illustrations); (d) representative and one or more of his clients (e.g. favouring one family member over another with the same obligations); (e) institution and one or more clients (e.g. attractive opportunities for high-net-worth clients at the expense of retail clients). Some conflicts originate in institutions' specific policies, from which representatives find it hard to fully extricate themselves."
+      },
+      {
+        "heading": "3 利益冲突的表现",
+        "body": "利益错位会损害财务顾问代表的客观性与独立性,使其无法提供无偏、客观的建议或推荐适合产品。表现形式主要有六种:(a)偏颇建议;(b)强制交叉销售;(c)过度交易;(d)未能执行;(e)披露不足;(f)侵犯隐私。"
+      },
+      {
+        "heading": "3 Manifestations",
+        "body": "Misaligned interests compromise the objectivity and independence of FA representatives to give unbiased advice or recommend suitable products. They take a few forms: (a) biased advice, (b) involuntary cross-selling, (c) excessive trading, (d) failure to execute, (e) insufficient disclosure, and (f) violation of privacy."
+      },
+      {
+        "heading": "4 偏颇建议 (Biased Advice)",
+        "body": "偏颇建议是最常见的表现之一。客户(尤其零售客户)无法评估建议的价值与产品的适合性,对不道德代表几乎没有制衡。代表可能因更高费用/佣金及为公司创造更高利润而推销特定产品;机构则通过促销、销售竞赛、现金奖励或增加行政支持施压。由于客户通常不知激励与薪酬结构,无法判断推荐是否真正符合其利益。偏见常在意识之下运作,代表可能受激励结构影响却不自知。产品定价中'内建'了激励结构,使代表难以保持无偏。机构应主动检讨定价与薪酬框架,纳入产品适合性、专业与道德等非销售绩效指标。"
+      },
+      {
+        "heading": "4 Biased Advice",
+        "body": "Biased advice is one of the most frequent manifestations. Clients, especially retail clients, cannot assess the value of advice or product suitability, so there is little check on unethical representatives. Representatives may have incentives to sell products yielding higher fees/commissions to themselves and higher profits for their principals; institutions apply pressure via sales contests, cash awards or added administrative support. As clients are typically unaware of incentive and compensation structures, they cannot tell whether a recommendation is truly in their interest. Because biases often operate below awareness, a representative may be influenced yet not fully aware of it. Pricing has these structures 'built-in', making it hard to stay unbiased. Institutions should voluntarily review pricing and remuneration and factor in non-sales indicators such as suitability, professionalism and ethical conduct."
+      },
+      {
+        "heading": "5 强制交叉销售 (Involuntary Cross-Selling)",
+        "body": "交叉销售指向现有客户出售不同产品以增加销售价值,可增加收入并提升满意度,但有损害关系的风险,故须确保附加产品适合并满足客户具体需求。若客户被操纵购买其不需要/不想要的额外产品,则构成'强制交叉销售'。它以两种方式发生:其一,客户被迫购买附加产品才能获得其真正想要的产品(如须买信用保险才能获按揭或消费贷款)——只要未告知附加产品的需要/适合性/可取性,即生冲突;其二,代表采用对客户不利的'默认选项'(如把客户资金放入低/无利率账户,利于机构而非客户)。强制交叉销售与偏颇建议一样,利用了机构/代表与客户之间的信息不对称。教材以 John 用遗产做保费融资退休保单、利率上升致现金流吃紧为例。"
+      },
+      {
+        "heading": "5 Involuntary Cross-Selling",
+        "body": "Cross-selling is selling a different product to an existing client to increase the value of sale; it raises revenue and satisfaction but risks the relationship, so the added product must be suitable and enhance the client's needs. A conflict arises if a client is manipulated into buying products he does not need or want — 'involuntary cross-selling'. It occurs two ways: first, a client is pressured to acquire an additional product to access what he actually wants (e.g. compelled to buy credit insurance to secure a mortgage or loan); a conflict arises if he is not informed of the need, suitability or desirability of the add-on. Second, the representative applies a 'default option' not advantageous to the client (e.g. placing funds in a low/no-interest account, profitable for the institution but not in the client's best interest). Like biased advice, it exploits information asymmetry. The text illustrates with John, who funded a premium-financed retirement policy with his inheritance and felt cash-flow strain when rates rose."
+      },
+      {
+        "heading": "6 过度交易、Churning 与 Twisting",
+        "body": "交易应服务于客户的投资目标(含时间跨度与风险承受度)。过度交易指交易不满足客户具体需求、不符合其收入/积累/保障等目标。过度交易亦称 churning(炒单):代表在客户账户/保单内发起活动,不利于客户、只为代表及主事人产生费用/佣金。Churning 发生于代表对账户有正式或酌情控制权之处,或客户对其依赖至代表实质拥有'事实上的酌情控制权'(de facto,即客户无法自行判断与评估建议)。Churning 可通过产品'转换'(switching)进行——把原产品换成无实际利益甚至有害的替代产品;转换包括处置/减少原产品权益以取得/增加替代产品权益。例:寿险中代理人劝客户掏空原保单为同一保险公司的新保单融资,仅为生佣金。Twisting 则是劝客户掏空现有保单,转向另一家保险公司的新寿险保单,纯为额外佣金。过度交易中是代表制造了冲突。"
+      },
+      {
+        "heading": "6 Excessive Trading, Churning and Twisting",
+        "body": "Trades should serve the client's investment objective (including time horizon and risk tolerance). Excessive trading occurs when trades do not meet the client's specific needs and objectives. It is also known as churning: the representative initiates activity in the client's account or policy that does not benefit the client and only generates fees/commissions for himself and his principal. Churning occurs where the representative has formal or discretionary control, or de facto discretionary control (the client cannot exercise his own judgment to evaluate recommendations). It can occur through 'switching' to a replacement product with no real benefit or even detrimental to the client; switching includes disposing of or reducing the original product to acquire or increase the replacement. Example: a life agent persuades a client to drain a policy to fund a new policy with the same insurer solely to generate commission. Twisting occurs when an agent persuades the client to drain the current policy to buy a new life policy with another insurer solely for additional commission. In excessive trading the representative creates the conflict."
+      },
+      {
+        "heading": "7 未能执行 (Failure to Execute)",
+        "body": "金融专业人士须按客户指示执行账户内的交易,并在客户限制内取得最优价格、勤勉迅速地执行。因疏忽或缺乏谨慎而未能执行,会给代表及主事人带来责任与不利后果。例:代理人收取人寿保单保费却未及时交予主事人出单,即未能执行,这不仅是疏忽,更是未能维持代理客户的专业承诺。另一种情形是代表故意操纵客户的指令以为自己谋取利益——此时代表以损害客户的方式制造了冲突。若代理人径直挪用所收款项供己用,则该'未能执行'是欺骗或欺诈行为。任何涉及金融服务/产品付款的延迟或误导(misdirection)都构成未能执行,而未能执行是利益冲突的一种表现。"
+      },
+      {
+        "heading": "7 Failure to Execute",
+        "body": "A professional must execute orders within the client's account per his instructions, obtain the best available price within the client's limits, and act diligently and promptly. Failure to execute through negligence or lack of care attracts liabilities and adverse consequences for the representative and his principal. Example: an agent who collects a life premium but fails to hand it promptly to his principal to issue the policy has failed to execute — not merely negligence but a failure of professional commitment as the client's agent. It is a different matter when a representative deliberately manipulates a client's orders for his own benefit, thereby creating a conflict at the client's expense. If the agent simply appropriates the collected money, the failure is an act of cheating or fraud. Any delay or misdirection of payments constitutes a failure to execute, which is a manifestation of conflict of interest."
+      },
+      {
+        "heading": "8 披露不足或误导 (Insufficient or Misleading Disclosures)",
+        "body": "披露不足指代表未披露合理客户作出知情决定所需的全部信息。披露应清晰充分、用通俗语言;若必须使用术语应向客户解释清楚。当信息以混淆或掩盖其真实含义/相关性的方式传达时即属误导。两者都使客户难以(乃至无法)作出符合自身利益的良好决定;在许多客户不了解所需信息的金融业,这种不诚实尤其有害。通常信息被隐瞒/扭曲以诱使客户按代表期望行事,结果利于代表或其主事人而非客户。寿险演示(illustrations)是解释保单特性的有用工具,但若未说明其假设性与所依据假设、甚至将其当作业绩保证,就产生道德问题。许多'消失的保费'(vanished premiums)带来灾难性后果。1995 年美国全国保险监理官协会(NAIC)通过《人寿保险演示示范规例》(Model Regulation)以消除滥用演示的部分道德问题。"
+      },
+      {
+        "heading": "8 Insufficient or Misleading Disclosures",
+        "body": "Insufficient disclosure occurs when the representative fails to disclose all information a reasonable client needs to make an informed decision on whether a product, service or strategy is in his best interest. Disclosure should be clear, adequate and in plain language; any jargon must be explained. Disclosure is misleading when information is conveyed in a way that confuses or obfuscates its true meaning or relevance. Both make a good decision difficult or impossible, and such untruthfulness is especially harmful where clients lack the needed information. Typically information is withheld or distorted to persuade the client to act as the representative desires, benefiting him or his principal. Illustrations help explain a policy's features, but ethical problems emerge when their hypothetical nature and assumptions are not explained, or when they are presented as guarantees of performance. Many 'vanished premiums' re-emerged with devastating consequences. In 1995 the National Association of Insurance Commissioners (NAIC) adopted the Life Insurance Illustrations Model Regulation to address the inappropriate use of illustrations."
+      },
+      {
+        "heading": "9 侵犯隐私/违反保密 (Violation of Privacy/Breach of Confidentiality)",
+        "body": "客户提供自身及家人的个人资料、财务与健康信息,期望代表及公司将其用于客户利益。当公司/代表违反道德守则及《个人资料保护法》(PDPA)下的隐私义务,为自身利益使用或披露信息,即破坏行业赖以成功的信任。例:不道德代表将客户个人资料/机密信息出售给第三方用于营销或交叉销售。随着金融中介演变为多功能机构、与客户互动层级与类型增多,违反隐私法与保密的问题更趋严重。教材以'未经授权存储客户数据'为例:不得将客户数据存于个人设备或云端;所有业务沟通应经公司核准渠道;顾问退休或离开行业时不得保留任何客户数据。"
+      },
+      {
+        "heading": "9 Violation of Privacy/Breach of Confidentiality",
+        "body": "Clients give personal data and financial/health information about themselves and their family, expecting it to be used for their benefit. When companies or representatives breach privacy obligations under the code of ethics and the Personal Data Protection Act (PDPA) by using or disclosing information for their own gain, they breach the trust on which the industry depends. Example: an unethical representative sells clients' personal data and confidential information to third parties for marketing or to facilitate cross-selling. The problem has grown as intermediaries evolve into multi-functional institutions with many levels and types of interaction. The text gives 'unauthorised storage of client data' as an example: data must not be stored on personal devices or cloud; communications should be via company-approved mediums; on retiring or exiting the industry, the adviser must not keep any client data."
+      },
+      {
+        "heading": "10 管理利益冲突 (Managing Conflict of Interest)",
+        "body": "存在利益冲突时,中介及代表很可能为自身利益而非客户最佳利益作出推荐。广泛的冲突会削弱公众对行业诚信、诚实与专业的信任。除强制披露潜在与实际冲突的法规与通告外,代表为自身声誉计,宜以(a)'受信标准'(fiduciary standard)与(b)'适合性标准'(suitability standard)自律,以免卷入诉讼或冲突相关投诉。"
+      },
+      {
+        "heading": "10 Managing Conflict of Interest",
+        "body": "Where a conflict exists, intermediaries and representatives are likely to recommend in their self-interest rather than the client's best interest, and widespread conflicts undermine public faith in the industry's integrity, honesty and professionalism. Apart from regulations and notices requiring mandatory disclosure of potential and actual conflicts, it is to the representative's reputational advantage to hold himself to (a) a 'fiduciary standard' and (b) a 'suitability standard' to avoid legal suits or complaints."
+      },
+      {
+        "heading": "11 受信标准 (Fiduciary Standard)",
+        "body": "受信人(fiduciary)代表他人(客户)行事,将客户利益置于自身之上,负有诚信与信任义务。作为受信人,代表在法律与道德意义上都须以客户最佳利益行事,履行谨慎、忠诚、服从与诚信之责。两个要点:须将客户利益置于(a)自身利益与(b)任何第三方利益之上。受信标准的一般义务:(a)谨慎义务(Duty of Care)——保持胜任与专业、勤勉尽责、提供优质建议与服务;(b)忠诚义务(Duty of Loyalty)——全面披露信息,包括任何潜在或实际利益冲突,使客户知情决策;(c)服从义务(Duty of Obedience)——按客户指示及时行事;(d)诚信义务(Duty of Good Faith)——公平、诚实、公开透明地对待客户,尤其在无明确合约义务时。"
+      },
+      {
+        "heading": "11 Fiduciary Standard",
+        "body": "A fiduciary acts on behalf of another (the client), putting the client's interest ahead of his own, with a duty to act in good faith and trust. As a fiduciary, the representative is bound to act in the client's best interest legally and ethically, observing duties of care, loyalty, obedience and good faith. Two aspects: the client's interest must be placed above (a) his own interest and (b) any third party's interest. The general duties are: (a) Duty of Care — maintain competency and expertise, act with due care and diligence, and provide quality advice and service; (b) Duty of Loyalty — give full disclosure, including any potential or actual conflict of interest, to enable an informed decision; (c) Duty of Obedience — follow the client's instructions and act promptly; (d) Duty of Good Faith — act fairly, honestly, openly and transparently, especially where there are no clear contractual duties."
+      },
+      {
+        "heading": "12 适合性标准 (Suitability Standard)",
+        "body": "新加坡行业协会(如银行公会、新加坡人寿保险协会、新加坡财务顾问协会、新加坡投资协会)各有其道德守则与专业行为准则,自律以确保会员公平执业、销售适合产品,呼应法律要求:提供建议与销售投资产品须公平专业,且推荐须有合理依据、产品须适合。代表应主动'认识你的客户',勤勉完成事实调查、收集相关信息并作需求分析。具体而言,每条建议/每个推荐产品须结合客户以下因素衡量:年龄、婚姻状况、就业状况、税务状况、财务状况、财务需求与意愿、财务目标、投资目标、现有投资组合、投资知识、投资经验、投资时间跨度、流动性需求、风险承受度、受养人数,以及客户披露相关信息的任何更新。须注意'没有一刀切'。关键警示:'适合的推荐'与'以客户最佳利益行事'并不相同——代表可能从多个适合产品中选取佣金最高而非对客户最佳者。"
+      },
+      {
+        "heading": "12 Suitability Standard",
+        "body": "Singapore industry associations (e.g. the Association of Banks, the Life Insurance Association of Singapore, the Association of Financial Advisers (Singapore), the Investment Association of Singapore) have their own codes of ethics and conduct, self-regulating members to act fairly and sell suitable products, reinforcing the law that advice and product sales be fair and professional with a reasonable basis and suitable products. Representatives should proactively 'know their clients', conducting full fact-finding and needs analysis. Each piece of advice or recommended product must make sense in light of the client's: age; marital status; employment status; tax status; financial situation; financial needs and wants; financial objectives; investment objectives; current investment portfolio; investment knowledge; investment experience; investment time horizon; liquidity needs; risk tolerance; number of dependents; and any update of relevant information. There is no 'one size fits all'. Crucially, a 'suitable recommendation' and 'acting in the client's best interest' are not the same — a representative may pick the suitable product paying the most commission rather than the one best for the client."
+      },
+      {
+        "heading": "13 受信标准 vs 适合性标准",
+        "body": "受信人不仅为客户选择最佳产品,还持续监测产品表现及客户个人因素(如就业状况、风险承受度、流动性需求)的变化;并有义务避免利益冲突,若不可避免则须披露以便客户知情决策。受信标准是'原则导向'(principles-based):受信人须以谨慎、忠诚、服从、诚信四原则检验其行为,每项决定都要受这些原则之精神检验。适合性标准是'规则导向'(rules-based):代表须满足相关法律下适用的规则、规例与通告。例如《财务顾问法》(2001)第 36 条要求对任何投资产品推荐有合理依据;FAA Notice No.16(FAA-N16)《投资产品推荐》要求(a)认识你的客户、(b)进行需求分析、(c)完成文件与记录保存。当推荐产品为'特定投资产品'(SIP)时,须考量客户对 SIP 的知识/经验;SIP 可为上市(如期货、ETF)或非上市(如投连寿险)。据 FAA-N16,对非上市 SIP 须作客户知识评估(CKA);对上市 SIP 须作客户账户审查(Client Account Review)以判断客户是否理解衍生品风险后方可开通账户。总体而言:受信标准更开放、基于何为道德上正确;适合性标准封闭、基于满足法律规则。另一区分:适合性标准适用于所推荐与销售的产品,而受信标准自律并引导中介及代表的行为,通过道德行为引向以客户最佳利益推荐适合产品。"
+      },
+      {
+        "heading": "13 Fiduciary vs Suitability Standard",
+        "body": "A fiduciary not only chooses the best product but continues to monitor its performance and changes in the client's personal factors (e.g. employment, risk tolerance, liquidity needs), and must avoid conflicts of interest or, if unavoidable, disclose them for an informed decision. The fiduciary standard is principles-based: actions must be tested against duty of care, loyalty, obedience and good faith. The suitability standard is rules-based: the representative must satisfy the applicable rules, regulations and notices. For example, Section 36 of the Financial Advisers Act (2001) requires a reasonable basis for any recommendation; FAA Notice No. 16 (FAA-N16) on 'Recommendation On Investment Products' requires (a) know your client, (b) conduct needs analysis, and (c) complete documentation and record keeping. Where the product is a Specified Investment Product (SIP), the adviser must consider the client's knowledge/experience; SIPs may be listed (e.g. futures, ETFs) or unlisted (e.g. investment-linked life policies). Under FAA-N16, a Client Knowledge Assessment (CKA) is required for an unlisted SIP, and a Client Account Review for a listed SIP before approving the account to trade. Overall, the fiduciary standard is open-ended and based on what is morally right, whereas the suitability standard is closed and based on satisfying the rules; the suitability standard applies to the products recommended and sold, while the fiduciary standard self-regulates conduct and, through ethical behaviour, leads to recommending suitable products in clients' best interests."
       }
     ],
     "keyPoints": [
-      "客户利益优先 / Client interest first",
-      "冲突先避免,不能避免则披露并管理 / Avoid; else disclose and manage",
-      "高佣金不等于可推荐不适合产品 / High commission ≠ recommend unsuitable products"
+      "利益冲突=两方目标不一致、可借地位自利;严重时构成贪腐罪行 / COI = misaligned objectives; severe cases can be a corruption offence",
+      "两类:'内建'(finds)与'制造'(creates);五种结构性错位 / Two types: built-in vs created; five structural misalignments",
+      "六种表现:偏颇建议、强制交叉销售、过度交易、未能执行、披露不足/误导、侵犯隐私 / Six manifestations",
+      "Churning=同一家公司掏空保单;Twisting=换另一家公司,均为生佣金 / Churning = same insurer, Twisting = another insurer",
+      "受信标准=原则导向(care/loyalty/obedience/good faith);适合性标准=规则导向(FAA s.36, FAA-N16) / Fiduciary principles-based; suitability rules-based",
+      "适合的推荐 ≠ 以客户最佳利益行事 / A suitable recommendation ≠ acting in the client's best interest"
     ],
-    "sourceRef": "Fair Dealing Guidelines",
+    "sourceRef": "RES5 Study Text Part II Ch.18 — Conflict of Interest",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   }
 ]

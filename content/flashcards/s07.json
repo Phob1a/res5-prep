@@ -4,27 +4,161 @@
     "part": 1,
     "syllabusItemId": "s07",
     "topicGroup": "products",
-    "title": "ILP 风险归属 / Who bears ILP risk",
-    "point": "ILP 投资风险由保单持有人承担,无资本保证。 / The policyholder bears the investment risk; no capital guarantee.",
+    "title": "MAS 307 适用对象 / Who MAS 307 applies to",
+    "point": "MAS 307 依《保险法》s64(2) 颁布,适用于任何持牌寿险直接保险公司。 / MAS 307 is issued under s64(2) of the Insurance Act and applies to any direct insurer licensed to carry on life business.",
     "keyfacts": [
-      "价值随基金浮动 / Value follows the funds"
+      "Part I 强制 + Part II 非强制 / Part I mandatory + Part II non-mandatory"
     ],
-    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "sourceRef": "MAS Notice 307 paras 1, 3 — Introduction",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s07-002",
     "part": 1,
     "syllabusItemId": "s07",
     "topicGroup": "products",
-    "title": "ILP 披露 / ILP disclosure",
-    "point": "披露收费、基金信息与风险;设冷静期。 / Disclose fees, fund info and risks; free-look applies.",
+    "title": "推出新子基金的通知期 / Notice to launch a sub-fund",
+    "point": "推出任何新 ILP 子基金须在设立前至少 21 天通知 MAS。 / The insurer must notify MAS at least 21 days before establishing any new ILP sub-fund.",
     "keyfacts": [
-      "管理费/分销费 / Mgmt/distribution fees"
+      "重大变更须提前≥1个月通知 / Significant changes need ≥1 month notice"
     ],
-    "sourceRef": "MAS Notice 307 (ILP disclosure/fund/fee); suitability per FAA advisory process (FAA-N16 / reasonable basis)",
+    "sourceRef": "MAS Notice 307 para 7",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-003",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "单位定价 / Unit pricing",
+    "point": "单位价格 = 子基金 NAV ÷ 流通单位数(初始发售期除外),可按披露费用调整。 / Unit price = sub-fund NAV ÷ units outstanding (except during the initial offer period), adjustable by disclosed fees.",
+    "keyfacts": [
+      "NAV = 总资产 - 总负债 / NAV = total assets less total liabilities"
+    ],
+    "sourceRef": "MAS Notice 307 paras 12-13; Definition of NAV",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-004",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "资本保证子基金到期 / Capital guaranteed at maturity",
+    "point": "资本保证子基金到期时,单位以保证金额与 NAV/单位数二者较高者赎回。 / At maturity, a capital guaranteed sub-fund redeems units at the higher of the guaranteed amount or NAV per unit.",
+    "keyfacts": [],
+    "sourceRef": "MAS Notice 307 para 14",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-005",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "两种年度审计法 / Two annual audit methods",
+    "point": "保险公司须每年外审:第一法审子基金财务报表,第二法审内控与流程;首次改用第二法须事先书面通知 MAS。 / The insurer must appoint an annual external audit: first method audits each sub-fund's financial statements, second method audits internal controls/processes; the first switch to the second method needs prior written notice to MAS.",
+    "keyfacts": [
+      "改用第二法后再改法须 MAS 批准 / Later method changes need MAS approval"
+    ],
+    "sourceRef": "MAS Notice 307 paras 15-17",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-006",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "终止子基金审计证明时限 / Audit certificate deadlines",
+    "point": "终止/到期子基金的审计证明须在 6 个月内完成,完成后 30 天内送交 MAS,并保留 5 年。 / The audit certificate for a terminated/matured sub-fund must be completed within 6 months, sent to MAS within 30 days of completion, and retained for 5 years.",
+    "keyfacts": [
+      "5年内保单持有人请求须30天内提供 / Provide to policyholder within 30 days if requested within 5 years"
+    ],
+    "sourceRef": "MAS Notice 307 paras 24-27",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-007",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "Premium charge 披露 / Premium charge disclosure",
+    "point": "2021年10月8日起发行的 ILP,前端扣费须合并披露为单一\"premium charge\",禁止使用\"premium allocation rate\"。 / For ILPs issued on/after 8 Oct 2021, upfront deductions must be disclosed as a single \"premium charge\"; the term \"premium allocation rate\" is prohibited.",
+    "keyfacts": [],
+    "sourceRef": "MAS Notice 307 paras 27A-27B",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-008",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "软美元例外 / Soft dollar exceptions",
+    "point": "管理人不得为自身留存回扣;软美元须满足合理协助投资建议、最优执行、不做不必要交易方可收受,旅行/住宿/娱乐不合格。 / The manager must not retain rebates; soft dollars are allowed only if they reasonably assist investment advice, best execution is achieved, and no unnecessary trades are made — travel/accommodation/entertainment do not qualify.",
+    "keyfacts": [
+      "须保留所有软美元记录 / Keep a record of all soft dollars received"
+    ],
+    "sourceRef": "MAS Notice 307 paras 44-46",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-009",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "估值错误补偿门槛 / Valuation error threshold",
+    "point": "估值错误达调整后 NAV/单位 0.5% 或以上须补偿保单持有人及子基金;单一持有人补偿不超过 $20 可免。 / A valuation error of 0.5% or more of post-adjustment NAV per unit triggers compensation to policyholders and the sub-fund; exempt if any single policyholder's compensation is $20 or less.",
+    "keyfacts": [
+      "<0.5% 无强制补偿 / Below 0.5% no mandatory compensation"
+    ],
+    "sourceRef": "MAS Notice 307 paras 79-80",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-010",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "赎回付款时限 / Redemption payout timeframes",
+    "point": "债券与货币市场子基金 T+4、馈给型(投入另一 CIS)T+7、其他类型 T+6 个工作日。 / Bond and money market sub-funds T+4, feeder funds investing in another CIS T+7, other types T+6 business days.",
+    "keyfacts": [
+      "T = 收到完整赎回请求后的下一定价日 / T = next pricing day after a complete request"
+    ],
+    "sourceRef": "MAS Notice 307 paras 53-54",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-011",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "跨境子管理门槛 / Sub-managing abroad threshold",
+    "point": "子基金超 10% 资产跨境子管理时,保险公司连同关联公司须已在新加坡管理至少 S$5 亿全权委托资金。 / Where over 10% of a sub-fund's assets are sub-managed abroad, the insurer with related corporations must already manage at least S$500 million of discretionary funds in Singapore.",
+    "keyfacts": [],
+    "sourceRef": "MAS Notice 307 paras 84-85",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s07-012",
+    "part": 1,
+    "syllabusItemId": "s07",
+    "topicGroup": "products",
+    "title": "命名禁用词 / Prohibited naming terms",
+    "point": "ILP 子基金命名不得误导,禁止使用\"capital protected\"与\"principal protected\"及其衍生形式。 / ILP sub-fund names must not mislead; the terms \"capital protected\" and \"principal protected\" (and derivatives) are prohibited.",
+    "keyfacts": [
+      "违反须3个工作日内通知 MAS / Breaches reported to MAS within 3 business days"
+    ],
+    "sourceRef": "MAS Notice 307 paras 91, 93(d)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

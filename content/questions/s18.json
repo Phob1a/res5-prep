@@ -1,10 +1,262 @@
 [
   {
-    "id": "q-s18-001", "part": 2, "syllabusItemId": "s18", "topicGroup": "ethics",
-    "stem": "A representative is offered a high commission to recommend a product that is not the most suitable for the client. What is the ethical course of action?",
-    "options": { "A": "Recommend the high-commission product", "B": "Recommend the product that best meets the client's needs, disclosing any conflict", "C": "Recommend it only if the client does not ask questions", "D": "Split the commission with the client" },
-    "answer": "B", "explanation": "Client's interest comes first; conflicts must be avoided or disclosed and managed. (来源方向: Conflict of Interest / Fair Dealing)",
-    "difficulty": "easy", "sourceRef": "Fair Dealing Guidelines", "examVersion": "2026",
-    "status": "draft", "tags": ["conflict"], "linkedFlashcardIds": [], "updatedAt": "2026-06-03"
+    "id": "q-s18-001",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "Which statement best describes a 'conflict of interest' in the financial services industry?",
+    "options": {
+      "A": "A situation in which the objectives of two parties are incompatible or misaligned and a person can use his position to derive personal benefit",
+      "B": "Any situation in which a client loses money on an investment",
+      "C": "A disagreement between a financial institution and the MAS over a regulation",
+      "D": "A situation in which two clients want to buy the same product"
+    },
+    "answer": "A",
+    "explanation": "教材 §1.1 定义利益冲突为两方目标不相容/不一致、某人可借其地位谋取个人利益的情形。B/C/D 均非该定义:亏损、与监管者分歧、客户争购同一产品都不是利益冲突。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §1.1",
+    "status": "draft",
+    "tags": ["definition"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-002",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "In a serious case, a conflict of interest violation may be regarded under the law as:",
+    "options": {
+      "A": "A breach of contract only",
+      "B": "A purely civil matter with no consequences",
+      "C": "A corruption offence",
+      "D": "An administrative oversight requiring no action"
+    },
+    "answer": "C",
+    "explanation": "教材 §1.3 指出,某些情形下利益冲突违规在法律上可被视为贪腐罪行(corruption offence),后果远超合约或行政层面。",
+    "difficulty": "easy",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §1.3",
+    "status": "draft",
+    "tags": ["consequences"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-003",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "A representative who, while advising a husband and wife, acts in the interest of the husband at the expense of the wife is an example of which type of conflict of interest?",
+    "options": {
+      "A": "A 'built-in' conflict that the representative finds himself in",
+      "B": "A conflict that the representative 'creates' through his own actions",
+      "C": "A conflict arising solely from the institution's pricing policy",
+      "D": "A breach of the Personal Data Protection Act"
+    },
+    "answer": "B",
+    "explanation": "教材 §2.3 以此为例说明代表通过自身行为'制造'(created)的冲突。'内建'(built-in)冲突是代表'发现'自己身处的(§2.2),与此不同。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §2.2–2.3",
+    "status": "draft",
+    "tags": ["types", "created"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-004",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is NOT listed in the chapter as one of the manifestations of misaligned interests?",
+    "options": {
+      "A": "Biased advice",
+      "B": "Involuntary cross-selling",
+      "C": "Excessive trading",
+      "D": "Guaranteeing a minimum investment return"
+    },
+    "answer": "D",
+    "explanation": "教材 §3.3 列出的表现形式为:偏颇建议、强制交叉销售、过度交易、未能执行、披露不足、侵犯隐私。'保证最低投资回报'并不在列。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §3.3",
+    "status": "draft",
+    "tags": ["manifestations"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-005",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "According to the chapter, why is biased advice difficult to eliminate even for well-intentioned representatives?",
+    "options": {
+      "A": "Because clients always demand the cheapest product",
+      "B": "Because biases often operate below awareness and incentive/compensation structures are 'built-in' to product pricing",
+      "C": "Because the MAS prohibits disclosure of commissions",
+      "D": "Because retail clients can fully assess product suitability themselves"
+    },
+    "answer": "B",
+    "explanation": "教材 §4.5–4.6 指出偏见常在意识之下运作,且激励与薪酬结构'内建'于产品定价,使代表难以保持无偏。D 与 §4.2 相反(零售客户恰恰难以评估);A、C 无教材依据。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §4.5–4.6",
+    "status": "draft",
+    "tags": ["biased-advice"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-006",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "A client is compelled to purchase credit insurance in order to secure a mortgage, without being informed of the need or suitability of that insurance. This best illustrates:",
+    "options": {
+      "A": "Churning",
+      "B": "Failure to execute",
+      "C": "Involuntary cross-selling",
+      "D": "Breach of confidentiality"
+    },
+    "answer": "C",
+    "explanation": "教材 §5.4 正以'被迫购买信用保险才能获得按揭'为例说明强制交叉销售的第一种方式:未告知附加产品的需要/适合性即生冲突。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §5.4",
+    "status": "draft",
+    "tags": ["involuntary-cross-selling"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-007",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "A life agent persuades a client to drain an existing policy in order to fund a new policy with the SAME insurance company, solely to generate commission. This practice is known as:",
+    "options": {
+      "A": "Churning (through switching)",
+      "B": "Twisting",
+      "C": "Failure to execute",
+      "D": "Involuntary cross-selling"
+    },
+    "answer": "A",
+    "explanation": "教材 §6.7 指出,掏空原保单为'同一家'保险公司的新保单融资、仅为生佣金,属于 churning(经由 switching)。Twisting(§6.8)是转向'另一家'保险公司,故 B 错。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §6.7–6.8",
+    "status": "draft",
+    "tags": ["churning", "switching"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-008",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "'De facto discretionary control' over a client's account, relevant to churning, arises when:",
+    "options": {
+      "A": "The representative holds a written power of attorney",
+      "B": "The client signs a discretionary management agreement",
+      "C": "The institution sets the commission schedule",
+      "D": "The client is unable to exercise his own judgment and evaluate the representative's recommendations"
+    },
+    "answer": "D",
+    "explanation": "教材 §6.4 指出,当客户无法自行判断、评估代表的建议时,代表被视为对账户拥有'事实上的酌情控制权'。A/B 描述的是正式或合约酌情控制,非'de facto';C 与控制权无关。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §6.4",
+    "status": "draft",
+    "tags": ["churning", "de-facto-control"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-009",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "An agent collects a life insurance premium from a client but simply appropriates the money for his own personal use. Under the chapter, this is characterised as:",
+    "options": {
+      "A": "A permissible delay in execution",
+      "B": "An act of cheating or fraud",
+      "C": "Acceptable involuntary cross-selling",
+      "D": "A breach of the suitability standard only"
+    },
+    "answer": "B",
+    "explanation": "教材 §7.6 指出,代理人径直挪用所收保费供己用,该'未能执行'是欺骗或欺诈行为(cheating or fraud),不只是疏忽或延迟。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §7.6",
+    "status": "draft",
+    "tags": ["failure-to-execute"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-010",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "When a representative presents a life insurance illustration as a guarantee of performance, without explaining its hypothetical nature and underlying assumptions, this is an example of:",
+    "options": {
+      "A": "Insufficient or misleading disclosure",
+      "B": "Excessive trading",
+      "C": "Involuntary cross-selling",
+      "D": "Failure to execute"
+    },
+    "answer": "A",
+    "explanation": "教材 §8.6 指出,演示本是解释保单特性的工具,但若不说明其假设性、甚至当作业绩保证,即产生披露不足/误导的道德问题。§8.7 提及 1995 年 NAIC《人寿保险演示示范规例》。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §8.6–8.7",
+    "status": "draft",
+    "tags": ["disclosure", "illustrations"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-011",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is identified in the chapter as one of the four general duties under the fiduciary standard?",
+    "options": {
+      "A": "Duty to maximise the institution's revenue",
+      "B": "Duty to minimise the representative's tax",
+      "C": "Duty of Loyalty — full disclosure of information, including any potential or actual conflict of interest",
+      "D": "Duty to sell at least one product per client meeting"
+    },
+    "answer": "C",
+    "explanation": "教材 §11.3 列出受信标准四义务:谨慎(Care)、忠诚(Loyalty)、服从(Obedience)、诚信(Good Faith)。忠诚义务要求全面披露,包括潜在或实际利益冲突。其余选项均非受信义务。",
+    "difficulty": "medium",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §11.3",
+    "status": "draft",
+    "tags": ["fiduciary", "duties"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-012",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "Which statement correctly distinguishes the fiduciary standard from the suitability standard?",
+    "options": {
+      "A": "The fiduciary standard is rules-based, while the suitability standard is principles-based",
+      "B": "Both standards require the representative to choose the product paying the highest commission",
+      "C": "The suitability standard requires ongoing monitoring of the product, while the fiduciary standard does not",
+      "D": "The fiduciary standard is principles-based (open-ended), while the suitability standard is rules-based (satisfying applicable rules and notices)"
+    },
+    "answer": "D",
+    "explanation": "教材 §13.3–13.4、§13.11 指出受信标准是原则导向、更开放(基于道德上正确),适合性标准是规则导向、封闭(满足 FAA s.36、FAA-N16 等规则)。A 颠倒;B 与道德义务相悖;C 颠倒(§13.1 指持续监测是受信人的义务)。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §13.1, §13.3–13.4, §13.11",
+    "status": "draft",
+    "tags": ["fiduciary", "suitability"],
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s18-013",
+    "part": 2,
+    "syllabusItemId": "s18",
+    "topicGroup": "ethics",
+    "stem": "Under FAA Notice No. 16 (FAA-N16), before approving a client's account to trade a LISTED Specified Investment Product (SIP), the financial adviser must conduct a:",
+    "options": {
+      "A": "Client Knowledge Assessment (CKA)",
+      "B": "Client Account Review",
+      "C": "Premium financing assessment",
+      "D": "Fit-and-proper certification"
+    },
+    "answer": "B",
+    "explanation": "教材 §13.9 指出,对'非上市'SIP 须作客户知识评估(CKA);对'上市'SIP 须作客户账户审查(Client Account Review),以判断客户是否理解衍生品的风险与特性后方可开通账户交易。故 A 适用于非上市 SIP,B 才是上市 SIP 的要求。",
+    "difficulty": "hard",
+    "sourceRef": "RES5 Study Text Part II Ch.18 §13.8–13.9",
+    "status": "draft",
+    "tags": ["suitability", "faa-n16", "sip"],
+    "updatedAt": "2026-06-19"
   }
 ]

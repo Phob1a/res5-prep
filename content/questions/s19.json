@@ -4,44 +4,272 @@
     "part": 2,
     "syllabusItemId": "s19",
     "topicGroup": "ethics",
-    "stem": "The MAS Fair Dealing Guidelines set out how many customer outcomes?",
+    "stem": "Which statement best describes what it means to deal fairly with a client?",
     "options": {
-      "A": "Three",
-      "B": "Five",
-      "C": "Seven",
-      "D": "Ten"
+      "A": "Dealing in a just and honest manner, free from bias, dishonesty, injustice, self-interest, prejudice and favouritism",
+      "B": "Giving every client exactly the same product at exactly the same time",
+      "C": "Always offering the client the cheapest product available",
+      "D": "Disclosing nothing so the client is not confused"
     },
-    "answer": "B",
-    "explanation": "公平交易指引提出 5 项面向客户的成果。",
+    "answer": "A",
+    "explanation": "教材 1.1 将公平对待客户定义为以公正、诚实的方式交往,免于偏见、欺诈、不公、自利、偏见与偏私,是对他人公平而尊重的对待。B 误把“fairly”当成“equally”;C、D 与定义无关。",
     "difficulty": "easy",
-    "sourceRef": "MAS Guidelines on Fair Dealing",
-    "status": "draft",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.1.1",
     "tags": [
+      "definition",
       "fair-dealing"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "q-s19-002",
     "part": 2,
     "syllabusItemId": "s19",
     "topicGroup": "ethics",
-    "stem": "Under Fair Dealing, primary responsibility for delivering the outcomes rests with:",
+    "stem": "Why is fair treatment of clients important to the financial services industry?",
     "options": {
-      "A": "The client",
-      "B": "Junior sales staff only",
-      "C": "The board and senior management",
-      "D": "MAS"
+      "A": "It guarantees higher commissions for representatives",
+      "B": "It is the only way the industry can maintain the confidence and trust of the investing public",
+      "C": "It removes the need for any documentation",
+      "D": "It exempts firms from MAS supervision entirely"
+    },
+    "answer": "B",
+    "explanation": "教材 2.2 指出,唯有公平对待客户,金融业才能维持投资公众的信心与信任。A、C、D 均非教材所述,且与公平交易的目的相悖。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.2.2",
+    "tags": [
+      "importance"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-003",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "In the context of fair dealing, the term 'fairly' means:",
+    "options": {
+      "A": "Exactly the same treatment for every client",
+      "B": "Reaching all clients at precisely the same time by every channel",
+      "C": "Not necessarily 'equally', because clients have unique needs and not every product suits every client",
+      "D": "Offering identical products to retail and accredited investors alike"
     },
     "answer": "C",
-    "explanation": "董事会与高管对落实公平交易成果负首要责任。",
+    "explanation": "教材 3.4–3.5 明确“fairly”不等于“equally”:机构无法在完全相同时刻触及所有客户,且每位客户有独特需求与目标,并非所有产品都适合每位客户。",
     "difficulty": "medium",
-    "sourceRef": "MAS Guidelines on Fair Dealing",
-    "status": "draft",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.3.4–3.5",
     "tags": [
-      "fair-dealing",
+      "fair-not-equal"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-004",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "A financial institution offers more in-depth, specialised services to clients who pay higher fees. Under the principles of fair dealing, this is acceptable provided that:",
+    "options": {
+      "A": "Such differentiated products and services are disclosed and made available to all clients based on the principles of fair dealing",
+      "B": "Only accredited investors are ever told about them",
+      "C": "The institution conceals the higher fees from regulators",
+      "D": "Retail clients are never offered any premium service"
+    },
+    "answer": "A",
+    "explanation": "教材 3.6–3.7 允许对愿付费者提供差异化服务,但关键在于差异化产品与服务应基于公平交易原则向所有客户披露并提供。B、C、D 与此要求相违。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.3.6–3.7",
+    "tags": [
+      "differentiated-services",
+      "disclosure"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-005",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "Andy prospects Peter (age 70), who understands little English and wants to invest in higher-yielding funds. Under fair dealing, what is the right thing for Andy to do if Peter cannot produce a trusted individual to be present?",
+    "options": {
+      "A": "Proceed with the sale anyway to meet his target",
+      "B": "Decline the sale",
+      "C": "Translate the documents himself and continue",
+      "D": "Sell only a small amount without any needs analysis"
+    },
+    "answer": "B",
+    "explanation": "教材 3.8 的示例指出,Andy 须在 Peter 信任或相关的人在场时进行销售与需求分析;若 Peter 无法找到这样的人,正确做法是拒绝该笔销售。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.3.8",
+    "tags": [
+      "case",
+      "needs-analysis"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-006",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is NOT one of the three core principles of fair dealing?",
+    "options": {
+      "A": "Clear allocation of roles and responsibilities",
+      "B": "Transparency",
+      "C": "Maximising the representative's commission income",
+      "D": "Management of conflicts of interest"
+    },
+    "answer": "C",
+    "explanation": "教材第 4 节列出的三项核心原则为:清晰分配角色与责任、透明度、管理利益冲突。最大化代表佣金收入并非原则,且与避免自利结果相悖。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.4",
+    "tags": [
+      "core-principles"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-007",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "Under the transparency principle, the standards for transparency are set out in six key areas. Which set correctly lists them?",
+    "options": {
+      "A": "Features, performance, benefit, risk, fees and charges, and any special feature",
+      "B": "Features, profit margin, tax, liquidity, currency, and brand",
+      "C": "Risk, reward, regulation, registration, renewal, and rebate",
+      "D": "Suitability, solvency, secrecy, speed, security, and service"
+    },
+    "answer": "A",
+    "explanation": "教材 4.5 明确六个关键领域为:(a)产品/服务特性、(b)表现、(c)利益、(d)风险、(e)应付费用与收费、(f)任何特殊特征。其余选项为杜撰干扰项。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.4.5",
+    "tags": [
+      "transparency",
+      "six-areas"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-008",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "A conflict of interest arises from third-party compensation paid to a representative. Which of the following is NOT one of the three approaches the chapter gives for addressing it?",
+    "options": {
+      "A": "Enhance transparency",
+      "B": "Place responsibility for the representative's actions on the third party who compensates him",
+      "C": "Require that compensation be paid directly by the client rather than through a third party",
+      "D": "Prohibit the client from ever making a complaint"
+    },
+    "answer": "D",
+    "explanation": "教材 4.9 列出三种途径:(a)增强透明度、(b)责任归于支付报酬的第三方、(c)由客户直接付酬。禁止客户投诉并非教材途径,且违背公平交易精神。",
+    "difficulty": "hard",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.4.7–4.9",
+    "tags": [
+      "conflict-of-interest"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-009",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "Under MAS Guideline No: FAA-G11, on whom does the responsibility for delivering fair dealing outcomes to clients primarily rest?",
+    "options": {
+      "A": "Junior sales representatives only",
+      "B": "The Board of Directors and Senior Management",
+      "C": "The Monetary Authority of Singapore",
+      "D": "The clients themselves"
+    },
+    "answer": "B",
+    "explanation": "教材 5.6 指出指引把交付公平交易成果的责任置于董事会与高级管理层。MAS 是发布指引者而非责任主体;客户与基层销售人员均非首要责任人。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.5.6; MAS FAA-G11",
+    "tags": [
+      "faa-g11",
       "governance"
     ],
-    "updatedAt": "2026-06-05"
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-010",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "How many fair dealing outcomes are set out in MAS Guideline No: FAA-G11?",
+    "options": {
+      "A": "Three",
+      "B": "Four",
+      "C": "Five",
+      "D": "Six"
+    },
+    "answer": "C",
+    "explanation": "教材 5.9 与 5.12 指出 FAA-G11 列出五项公平交易成果。注意勿与三项核心原则或透明度六个关键领域混淆。",
+    "difficulty": "easy",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.5.9, s.5.12",
+    "tags": [
+      "faa-g11",
+      "outcomes"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-011",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "Which of the following is one of the five fair dealing outcomes set out in FAA-G11?",
+    "options": {
+      "A": "Financial institutions guarantee positive investment returns to all clients",
+      "B": "Financial institutions handle client complaints in an independent, effective and prompt manner",
+      "C": "Financial institutions may favour high-net-worth clients without disclosure",
+      "D": "Representatives are exempt from competency requirements"
+    },
+    "answer": "B",
+    "explanation": "教材 5.12 列出的第五项成果为:金融机构以独立、有效、迅速的方式处理客户投诉。A 违背风险披露原则;C、D 与成果(适合性、称职代表)相悖。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.5.12; MAS FAA-G11",
+    "tags": [
+      "faa-g11",
+      "outcomes",
+      "complaints"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "q-s19-012",
+    "part": 2,
+    "syllabusItemId": "s19",
+    "topicGroup": "ethics",
+    "stem": "Although the FAA-G11 Guidelines were written with retail clients and investment products in mind, MAS:",
+    "options": {
+      "A": "Forbids applying them to any other clients or products",
+      "B": "Requires them to be applied only to accredited investors",
+      "C": "Limits them strictly to after-sales service",
+      "D": "Strongly encourages financial institutions to apply the principles to other types of clients and products as well"
+    },
+    "answer": "D",
+    "explanation": "教材 5.8 指出,指引虽以零售客户与投资产品为出发点撰写,MAS 仍强烈鼓励机构将其原则应用于其他类型的客户与产品。其余选项与教材表述相反。",
+    "difficulty": "medium",
+    "sourceRef": "RES 5 Study Text Part II Ch.19 — Fair Dealing s.5.7–5.8; MAS FAA-G11",
+    "tags": [
+      "faa-g11",
+      "scope"
+    ],
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]

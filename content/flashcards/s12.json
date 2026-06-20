@@ -4,27 +4,168 @@
     "part": 1,
     "syllabusItemId": "s12",
     "topicGroup": "conduct",
-    "title": "市场操守三禁 / Three prohibitions",
-    "point": "禁内幕交易、虚假交易/操纵、散布虚假误导信息。 / No insider trading, false trading/manipulation, or false information.",
+    "title": "七类禁止操守 / Seven prohibited conducts",
+    "point": "SFA 列明:虚假交易/操纵市场、市场操纵、虚假或误导陈述、欺诈诱使交易、操纵欺骗手段、传播非法交易信息、内幕交易。 / The SFA lists false trading/market rigging, market manipulation, false or misleading statements, fraudulent inducement, manipulative/deceptive devices, dissemination of illegal-transaction info, and insider trading.",
     "keyfacts": [
-      "违者民事/刑事责任 / Civil/criminal liability"
+      "违者面临罚款及/或监禁 / Offenders face fines and/or imprisonment"
     ],
-    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s196, s1.5",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
   },
   {
     "id": "fc-s12-002",
     "part": 1,
     "syllabusItemId": "s12",
     "topicGroup": "conduct",
-    "title": "内幕交易 / Insider trading",
-    "point": "用\"未普遍公开且若公开会对价格/价值有重大影响\"的信息买卖或泄露=违法。 / Trading while holding information not generally available that would have a material effect on price/value is unlawful.",
+    "title": "域外效力 / Extraterritorial reach",
+    "point": "规则适用于在新加坡发生涉及任何资本市场产品的行为,也适用于境外发生但涉及在新加坡有组织市场上市/报价产品的行为。 / Rules apply to acts in Singapore on any CMP, and to acts outside Singapore on products listed/quoted on a Singapore organised market.",
     "keyfacts": [
-      "SFA: not generally available + material effect / SFA test"
+      "境外操纵 SGX 报价证券=视为在新加坡发生 / Manipulating an SGX-quoted counter from abroad is treated as occurring in Singapore"
     ],
-    "sourceRef": "Securities and Futures Act — Market Conduct",
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s196, Example 12.1",
     "status": "draft",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-003",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "洗售 / Wash sale",
+    "point": "买卖中没有实益所有权的改变即为洗售;第 197(5) 条:交易前后同一人(或关联人)仍持有该产品权益即无所有权变更。 / A wash sale involves no change in beneficial ownership; under s197(5) there is no change if the person (or an associate) keeps an interest after the purchase or sale.",
+    "keyfacts": [
+      "目的:制造活跃交易表象 / Purpose: create an appearance of active trading"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s197(5), Examples 12.2–12.3",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-004",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "对敲 / Matching orders",
+    "point": "在明知另一方将在大约同一时间、相同数量/价格、通过另一经纪录入相反委托的情况下下单,以制造活跃交易的虚假印象;第 197(3)(a)–(c) 条明文禁止。 / Entering an order knowing a matching opposite order of the same amount/price will be entered at about the same time by another party through a different broker — expressly prohibited under s197(3)(a)–(c).",
+    "keyfacts": [
+      "与『有侧约』安排相似 / Similar to a side arrangement"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s197(3)(a)–(c), Example 12.4",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-005",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "市场操纵 / Market manipulation",
+    "point": "第 198(1) 条:直接或间接进行两笔或以上交易,其效果为抬高/压低/维持/稳定某法团证券价格,且意图诱使他人交易。 / s198(1): directly or indirectly effecting two or more transactions having the effect of raising/lowering/maintaining/stabilising a corporation's securities price, with intent to induce others to deal.",
+    "keyfacts": [
+      "故意干预供求自由力量 / Intentional interference with free supply and demand"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s198(1), Example 12.5",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-006",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "传播非法交易信息 / Disseminating illegal-transaction info",
+    "point": "第 202 条:散布证券价格将因『非法交易』升跌的信息属犯罪,若该人(或关联人)订立该交易或预期因散布而获利益。 / s202: circulating information that a price will move due to an 'illegal transaction' is an offence if he or an associate entered the transaction or expects a benefit from the dissemination.",
+    "keyfacts": [
+      "实为防止内幕得利的『blackout rule』 / A 'blackout rule' against insiders profiting"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s202, Example 12.7",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-007",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "内幕信息 / Inside information",
+    "point": "尚未普遍可得、若公开会对价格/价值有重大影响的信息;『重大效果』指可能影响惯常投资者的买卖决定(第 216 条)。 / Information not generally available that, if known, would materially affect price/value; 'material effect' (s216) = likely to influence common investors' decisions.",
+    "keyfacts": [
+      "『普遍可得』判断见第 215 条 / 'Generally available' under s215"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s215, s216",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-008",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "关联人 vs 非关联人 / Connected vs non-connected",
+    "point": "关联人(第 218 条):推定其知道信息非普遍可得及其重大效果;非关联人(第 219 条):须证明其知道信息非普遍可得且合理人会预期有重大效果,来源不重要。 / Connected person (s218): presumed to know; non-connected (s219): must be shown he knew it was not generally available and a reasonable person would expect a material effect — source irrelevant.",
+    "keyfacts": [
+      "差异在于举证/起诉 / The difference lies in proof/prosecution",
+      "发行人律师、会计师、银行家等亦属内幕人 / Issuer's lawyers, accountants, bankers are insiders too"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s218, s219",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-009",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "内幕交易例外与抗辩 / Insider trading defences",
+    "point": "第 222–229 条列例外(承销商、依法律/法院命令、Chinese walls 等);第 231 条为『信息对等』抗辩;第 230 条为经纪自营商豁免。 / s222–229 list exceptions (underwriters, by law/court order, Chinese walls); s231 gives the 'parity of information' defence; s230 exempts broker-dealers.",
+    "keyfacts": [
+      "信息对等:双方信息相同即可交易 / Parity: both sides equally informed may deal"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s222–231",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-010",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "证券兜售 / Securities hawking",
+    "point": "第 309 条:不得在未经邀约的会面中要约证券/SBDC/CIS 单位;防止对零售客户施压推销。 / s309: no offer of securities/SBDC/CIS units in an unsolicited meeting — to prevent pressure-selling to retail clients.",
+    "keyfacts": [
+      "向机构/认可投资者(无需招股书)的要约除外 / Offers to II/AI needing no prospectus are excepted"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA s309 (s304, s305 exceptions)",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-011",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "卖空与做空标记 / Short selling and marking",
+    "point": "卖空=出售时不拥有指定产品,分 covered/uncovered;第 137ZJ 条:做空卖单须在下单前/时向核准交易所披露并标记。 / Short selling = selling specified products one does not own (covered/uncovered); s137ZJ requires disclosure to the approved exchange and marking before/at the order.",
+    "keyfacts": [
+      "CDP 对未交付者执行 buying-in 并罚款 / CDP performs buying-in plus a penalty on non-delivery"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFA Part VIIA, s137ZJ",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": "fc-s12-012",
+    "part": 1,
+    "syllabusItemId": "s12",
+    "topicGroup": "conduct",
+    "title": "指定产品借贷 / Specified products borrowing & lending",
+    "point": "SFR(LCB) 第 45 条:与非 AI/EI/II 的所有人借贷须提供/取得不低于市值 100% 的抵押品,每日按市值计价并书面记录。 / Reg 45: borrowing from/lending to a non-AI/EI/II owner requires collateral of at least 100% of market value, marked-to-market daily and documented in writing.",
+    "keyfacts": [
+      "对手为 AI/EI/II 时抵押要求不适用,但仍须书面协议 / Collateral rule waived for AI/EI/II, but a written agreement is still required"
+    ],
+    "sourceRef": "RES5 Study Text Part I Ch.12 — SFR(LCB) Reg 45",
+    "status": "draft",
+    "updatedAt": "2026-06-19"
   }
 ]
