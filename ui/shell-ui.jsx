@@ -6,6 +6,9 @@ const { useState, useEffect } = React;
 const V = window.RES5Views;
 
 const NAV = [
+  { id: 'sciStudy', label: 'SCI原题', icon: 'book', sect: 'SCI 原题' },
+  { id: 'sciMock', label: 'SCI Mock', icon: 'target', sect: null },
+  { id: 'sciWrong', label: 'SCI错题', icon: 'review', sect: null },
   { id: 'practice', label: '刷题', icon: 'practice2', sect: '日常练习' },
   { id: 'mock', label: '模拟考', icon: 'mock', sect: null },
   { id: 'flashcards', label: '速记', icon: 'layers', sect: '记忆' },
@@ -13,7 +16,7 @@ const NAV = [
   { id: 'review', label: '错题·弱项', icon: 'review', sect: '复盘' },
   { id: 'import', label: '导入', icon: 'importv', sect: null },
 ];
-const VIEW = { practice: V.Practice, mock: V.Mock, flashcards: V.Flashcards, notes: V.Notes, review: V.Review, import: V.Import };
+const VIEW = { sciStudy: V.SciStudy, sciMock: V.SciMock, sciWrong: V.SciWrong, practice: V.Practice, mock: V.Mock, flashcards: V.Flashcards, notes: V.Notes, review: V.Review, import: V.Import };
 
 function Topbar() {
   const store = useStore();
@@ -53,7 +56,7 @@ function Nav({ view, setView, theme }) {
 }
 
 function AppShell({ theme, styleVars, view: viewProp, onView }) {
-  const [viewLocal, setViewLocal] = useState('practice');
+  const [viewLocal, setViewLocal] = useState('sciStudy');
   const view = viewProp || viewLocal;
   const setView = onView || setViewLocal;
   useEffect(() => { document.documentElement.setAttribute('data-theme', theme); }, [theme]);

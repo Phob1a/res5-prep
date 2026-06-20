@@ -44,7 +44,17 @@ const THEME = (new URLSearchParams(location.search).get('theme') || 'ledger');
 const NS = 'res5:v1:';
 const LS_KEY = NS + 'state';
 const SCHEMA_VERSION = 1;
-function defaultState() { return { schemaVersion: SCHEMA_VERSION, wrongbook: [], examHistory: [], flashcardMastery: {}, answerLog: {} }; }
+function defaultState() {
+  return {
+    schemaVersion: SCHEMA_VERSION,
+    wrongbook: [],
+    examHistory: [],
+    flashcardMastery: {},
+    answerLog: {},
+    sciWrongbook: [],
+    sciExamHistory: [],
+  };
+}
 function migrate(s) { return { ...defaultState(), ...(s || {}), schemaVersion: SCHEMA_VERSION }; }
 
 function loadSeed() {
@@ -59,6 +69,13 @@ function StoreProvider({ children }) {
     state, setState, questions, setQuestions,
     addWrong: (qid) => setState(s => s.wrongbook.includes(qid) ? s : { ...s, wrongbook: [...s.wrongbook, qid] }),
     removeWrong: (qid) => setState(s => ({ ...s, wrongbook: s.wrongbook.filter(x => x !== qid) })),
+    addSciWrong: (qid) => setState(s => {
+      const existing = Array.isArray(s.sciWrongbook) ? s.sciWrongbook : [];
+      return existing.includes(qid) ? s : { ...s, sciWrongbook: [...existing, qid] };
+    }),
+    removeSciWrong: (qid) => setState(s => ({ ...s, sciWrongbook: (s.sciWrongbook || []).filter(x => x !== qid) })),
+    clearSciWrong: () => setState(s => ({ ...s, sciWrongbook: [] })),
+    pushSciExam: (rec) => setState(s => ({ ...s, sciExamHistory: [...(s.sciExamHistory || []), rec] })),
     masterCard: (id, on) => setState(s => ({ ...s, flashcardMastery: { ...s.flashcardMastery, [id]: on } })),
     pushExam: (rec) => setState(s => ({ ...s, examHistory: [...s.examHistory, rec] })),
     logAnswer: (qid, correct) => setState(s => ({ ...s, answerLog: { ...s.answerLog, [qid]: { correct, at: Date.now() } } })),

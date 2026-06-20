@@ -36,5 +36,5 @@
   const FULL_MOCK = { part1Count: 110, part1Pass: 0.75, part2Count: 40, part2Pass: 0.80 };
 
   // 内容数组在 boot.jsx 加载 content/*.json 后填入
-  window.RES5 = { SYLLABUS, GROUP_LABEL, FULL_MOCK, QUESTIONS: [], FLASHCARDS: [], NOTES: [] };
+  window.RES5 = { SYLLABUS, GROUP_LABEL, FULL_MOCK, QUESTIONS: [], FLASHCARDS: [], NOTES: [], SCI_QUESTIONS: [] };
 })();

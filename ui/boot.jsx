@@ -32,7 +32,12 @@ async function loadContent() {
   };
   const flashcards = await loadKind('flashcards', idx.flashcards, 'flashcards', ['id', 'syllabusItemId', 'title', 'point']);
   const notes = await loadKind('notes', idx.notes, 'notes', ['id', 'syllabusItemId', 'title']);
-  return { questions, flashcards, notes };
+  let sciQuestions = [];
+  try {
+    const r = await fetch(base + 'sci/questions.json'); if (!r.ok) throw new Error('HTTP ' + r.status);
+    const a = await r.json(); if (Array.isArray(a)) sciQuestions = a; else console.warn('[sci questions] top-level not array');
+  } catch (e) { console.warn('[skip sci questions]', e.message); }
+  return { questions, flashcards, notes, sciQuestions };
 }
 
 /* —— color helpers —— */
@@ -98,6 +103,7 @@ function BootGate() {
       window.RES5.QUESTIONS = c.questions;
       window.RES5.FLASHCARDS = c.flashcards;
       window.RES5.NOTES = c.notes;
+      window.RES5.SCI_QUESTIONS = c.sciQuestions;
       setStatus('ready');
     }).catch(e => { setErr(String(e && e.message || e)); setStatus('error'); });
   }, []);

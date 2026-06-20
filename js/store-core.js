@@ -2,7 +2,15 @@ export const SCHEMA_VERSION = 1;
 export const NS = 'res5:v1:';
 
 export function defaultState() {
-  return { schemaVersion: SCHEMA_VERSION, wrongbook: [], examHistory: [], flashcardMastery: {}, answerLog: {} };
+  return {
+    schemaVersion: SCHEMA_VERSION,
+    wrongbook: [],
+    examHistory: [],
+    flashcardMastery: {},
+    answerLog: {},
+    sciWrongbook: [],
+    sciExamHistory: [],
+  };
 }
 export function migrate(state) {
   const merged = { ...defaultState(), ...(state || {}) };
