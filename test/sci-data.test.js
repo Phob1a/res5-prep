@@ -28,7 +28,23 @@ test('classifySciQuestion assigns part and valid syllabus item from source order
 });
 
 test('toSciQuestion converts extracted question into bilingual study shape', () => {
-  const q = toSciQuestion(raw);
+  const q = toSciQuestion(raw, {
+    notesByItem: {
+      s01: {
+        summary: 'MAS promotes sustained non-inflationary economic growth and a sound financial centre.',
+        sections: [
+          {
+            heading: 'MAS mission',
+            body: 'The mission of the MAS includes promoting sustained non-inflationary economic growth and maintaining a sound and progressive financial centre.',
+          },
+        ],
+        keyPoints: [
+          'MAS mission: promote sustained non-inflationary economic growth / MAS 使命: 促进持续、非通胀式经济增长',
+        ],
+        sourceRef: 'RES5 Study Text Part I Ch.1',
+      },
+    },
+  });
   assert.equal(q.id, 'sci-q-082');
   assert.equal(q.part, 1);
   assert.equal(q.syllabusItemId, 's01');
@@ -40,6 +56,15 @@ test('toSciQuestion converts extracted question into bilingual study shape', () 
   assert.equal(q.answer, 'A');
   assert.match(q.knowledgePoint, /s01/);
   assert.match(q.pitfall, /易错/);
+  assert.equal(q.explanation.kind, 'learning-aid');
+  assert.match(q.explanation.disclaimer, /非 SCI 官方题解/);
+  assert.match(q.explanation.basis, /MAS mission/);
+  assert.match(q.explanation.correctReason, /A/);
+  assert.match(q.explanation.correctReason, /Promote and sustain economic growth/);
+  assert.deepEqual(Object.keys(q.explanation.optionAnalysis), ['A', 'B', 'C', 'D']);
+  assert.match(q.explanation.optionAnalysis.A, /正确项/);
+  assert.match(q.explanation.optionAnalysis.B, /排除/);
+  assert.ok(q.explanation.reviewChecklist.length >= 1);
   assert.match(q.sourceRef, /SCI RES5/);
 });
 

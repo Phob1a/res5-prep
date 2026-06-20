@@ -15,7 +15,40 @@ function SciNotice() {
   return (
     <div className="draft-banner">
       <span className="dot"></span>
-      <span>SCI 英文题干/答案来自抓取的 eBook/Mock 资源；中文翻译、考点和易错点是学习辅助版，非 SCI 官方中文。</span>
+      <span>SCI 英文题干/答案来自抓取的 eBook/Mock 资源；中文翻译、题解、考点和易错点是学习辅助版，非 SCI 官方中文/官方题解。</span>
+    </div>
+  );
+}
+
+function SciExplanation({ q, resultLine }) {
+  const ex = q.explanation;
+  if (!ex) {
+    return (
+      <div className="explain good">
+        {resultLine && <div className="ex-head">{resultLine}</div>}
+        <div>{q.knowledgePoint}</div>
+        <div style={{ marginTop: 6 }}>{q.pitfall}</div>
+      </div>
+    );
+  }
+  return (
+    <div className="explain good">
+      {resultLine && <div className="ex-head">{resultLine}</div>}
+      <div className="ex-head"><Icon name="target" size={14} />详细题解 · {ex.disclaimer}</div>
+      <div style={{ marginTop: 8 }}>{ex.basis}</div>
+      <div style={{ marginTop: 8 }}>{ex.correctReason}</div>
+      <div style={{ marginTop: 10 }}>
+        {['A', 'B', 'C', 'D'].map(k => (
+          <div key={k} style={{ marginTop: 6 }}>{ex.optionAnalysis[k]}</div>
+        ))}
+      </div>
+      {ex.reviewChecklist?.length > 0 && (
+        <div style={{ marginTop: 10 }}>
+          <div className="field-lab">复习清单</div>
+          {ex.reviewChecklist.map((line, i) => <div key={i} style={{ marginTop: 4 }}>{line}</div>)}
+        </div>
+      )}
+      <div style={{ marginTop: 10 }}>{q.pitfall}</div>
     </div>
   );
 }
@@ -44,12 +77,8 @@ function SciQuestionCard({ q, compact, action }) {
           </div>
         ))}
       </div>
-      <div className="explain good">
-        <div className="ex-head"><Icon name="target" size={14} />正确答案 {q.answer} · {q.optionsEn[q.answer]}</div>
-        <div>{q.knowledgePoint}</div>
-        <div style={{ marginTop: 6 }}>{q.pitfall}</div>
-        <span className="ex-src">知识点 · {item.id} {item.title}</span>
-      </div>
+      <SciExplanation q={q} resultLine={<><Icon name="target" size={14} />正确答案 {q.answer} · {q.optionsEn[q.answer]}</>} />
+      <span className="ex-src">知识点 · {item.id} {item.title}</span>
       {action && <div className="row" style={{ marginTop: 12 }}>{action}</div>}
     </div>
   );
@@ -152,11 +181,7 @@ function SciMock() {
                   );
                 })}
               </div>
-              <div className={'explain ' + (row.ok ? 'good' : 'bad')}>
-                <div className="ex-head"><Icon name={row.ok ? 'check' : 'x'} size={14} />你选 {row.chosen || '未答'} · 正确 {row.q.answer}</div>
-                <div>{row.q.knowledgePoint}</div>
-                <div style={{ marginTop: 6 }}>{row.q.pitfall}</div>
-              </div>
+              <SciExplanation q={row.q} resultLine={<><Icon name={row.ok ? 'check' : 'x'} size={14} />你选 {row.chosen || '未答'} · 正确 {row.q.answer}</>} />
             </div>
           ))}
         </div>

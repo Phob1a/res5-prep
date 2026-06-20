@@ -136,7 +136,111 @@ function optionObject(options, key) {
   return found ? found.text : '';
 }
 
-export function toSciQuestion(raw) {
+const STOP_WORDS = new Set([
+  'the', 'and', 'for', 'that', 'with', 'from', 'this', 'which', 'following', 'statement',
+  'statements', 'correct', 'true', 'false', 'not', 'one', 'about', 'regarding', 'under',
+  'what', 'when', 'where', 'who', 'why', 'how', 'his', 'her', 'their', 'its', 'are',
+  'was', 'were', 'has', 'have', 'had', 'does', 'will', 'can', 'may', 'should',
+]);
+
+function tokens(text) {
+  return String(text || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9$]+/g, ' ')
+    .split(/\s+/)
+    .filter(t => t.length > 2 && !STOP_WORDS.has(t));
+}
+
+function scoreText(needleTokens, text) {
+  const hay = new Set(tokens(text));
+  return needleTokens.reduce((sum, token) => sum + (hay.has(token) ? 1 : 0), 0);
+}
+
+function firstSentence(text, max = 260) {
+  const clean = String(text || '').replace(/\s+/g, ' ').trim();
+  if (!clean) return '';
+  const sentence = clean.split(/(?<=[.!?。])\s+/)[0] || clean;
+  return sentence.length > max ? sentence.slice(0, max - 1).trimEnd() + '…' : sentence;
+}
+
+function bestSentence(text, queryTokens, max = 320) {
+  const clean = String(text || '').replace(/\s+/g, ' ').trim();
+  if (!clean) return '';
+  const sentences = clean.split(/(?<=[.!?。])\s+/).filter(Boolean);
+  const best = sentences
+    .map(sentence => ({ sentence, score: scoreText(queryTokens, sentence) }))
+    .sort((a, b) => b.score - a.score)[0];
+  return firstSentence(best?.sentence || sentences[0] || clean, max);
+}
+
+function isReverseQuestion(stem) {
+  return /\b(NOT|FALSE|EXCEPT|LEAST)\b/i.test(stem || '');
+}
+
+function bestEvidence(note, q) {
+  const fallback = {
+    headings: [formatKnowledgePoint(q.syllabusItemId)],
+    basisText: `Use the mapped syllabus item ${formatKnowledgePoint(q.syllabusItemId)} to verify the rule tested by this SCI question.`,
+    checklist: [`复习 ${formatKnowledgePoint(q.syllabusItemId)} 的定义、适用范围、例外和数字门槛。`],
+    sourceRef: '',
+  };
+  if (!note) return fallback;
+
+  const query = tokens([q.stemEn, q.optionsEn[q.answer]].join(' '));
+  const sections = (note.sections || [])
+    .map(section => ({
+      section,
+      score: scoreText(query, `${section.heading} ${section.body}`),
+    }))
+    .sort((a, b) => b.score - a.score);
+  const picked = sections.filter(row => row.score > 0).slice(0, 2);
+  const effective = picked.length ? picked : sections.slice(0, 1);
+
+  const keyPoints = (note.keyPoints || [])
+    .map(point => ({ point, score: scoreText(query, point) }))
+    .sort((a, b) => b.score - a.score)
+    .filter(row => row.score > 0)
+    .map(row => row.point);
+  const checklist = (keyPoints.length ? keyPoints : (note.keyPoints || [])).slice(0, 4);
+
+  return {
+    headings: effective.map(row => row.section.heading),
+    basisText: effective.map(row => `${row.section.heading}: ${bestSentence(row.section.body, query)}`).join(' '),
+    checklist: checklist.length ? checklist : [firstSentence(note.summary || fallback.checklist[0])],
+    sourceRef: note.sourceRef || '',
+  };
+}
+
+export function buildSciExplanation(q, note) {
+  const evidence = bestEvidence(note, q);
+  const reverse = isReverseQuestion(q.stemEn);
+  const answerText = q.optionsEn[q.answer];
+  const basisHeadings = evidence.headings.join(' / ');
+  const correctMode = reverse
+    ? '题干要求找 NOT/FALSE/EXCEPT 一类的例外项，正确答案通常不是常规规则本身，而是与讲义规则不一致或不属于该范围的选项。'
+    : '题干要求找正确/最符合规则的选项，正确答案应直接落在讲义中的定义、义务、流程或数字门槛上。';
+
+  const optionAnalysis = {};
+  for (const key of ['A', 'B', 'C', 'D']) {
+    const text = q.optionsEn[key];
+    if (key === q.answer) {
+      optionAnalysis[key] = `正确项：${key}. ${text}。${correctMode} 对照讲义“${basisHeadings}”，本题核心依据是：${evidence.basisText}`;
+    } else {
+      optionAnalysis[key] = `排除：${key}. ${text}。它不是本题要求的答案；复核时先看题干限定词，再拿它和正确项 ${q.answer}. ${answerText} 以及讲义“${basisHeadings}”逐项对照。`;
+    }
+  }
+
+  return {
+    kind: 'learning-aid',
+    disclaimer: '学习辅助题解：基于 SCI 原题答案与本项目 RES5 知识点讲义生成，非 SCI 官方题解。',
+    basis: `讲义依据：${formatKnowledgePoint(q.syllabusItemId)}；匹配段落：${basisHeadings}。${evidence.sourceRef ? `来源：${evidence.sourceRef}。` : ''}`,
+    correctReason: `正确答案 ${q.answer}：${answerText}。${correctMode} ${evidence.basisText}`,
+    optionAnalysis,
+    reviewChecklist: evidence.checklist,
+  };
+}
+
+export function toSciQuestion(raw, context = {}) {
   const { part, syllabusItemId } = classifySciQuestion(raw);
   if (!isValidSyllabusItemId(syllabusItemId)) throw new Error(`invalid syllabusItemId ${syllabusItemId}`);
   const n = String(raw.number).padStart(3, '0');
@@ -148,7 +252,7 @@ export function toSciQuestion(raw) {
     D: optionObject(raw.options, 'D'),
   };
   const kp = formatKnowledgePoint(syllabusItemId);
-  return {
+  const q = {
     id: `sci-q-${n}`,
     number: raw.number,
     part,
@@ -167,6 +271,8 @@ export function toSciQuestion(raw) {
     pitfall: `易错：注意题干中的 NOT / TRUE / CORRECT 等限定词，并回到 ${kp} 判断。`,
     sourceRef: `SCI RES5 eBook/Mock Exam extracted 2026-06-20 · ${raw.html5url || raw.source_file || ''}`.trim(),
   };
+  q.explanation = buildSciExplanation(q, context.notesByItem?.[syllabusItemId]);
+  return q;
 }
 
 export async function loadSciContent(fetchFn = fetch) {
