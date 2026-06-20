@@ -162,7 +162,16 @@ export function studyTranslate(text) {
     .replace(/\bFALSE\b/g, '错误 / FALSE')
     .replace(/\s+/g, ' ')
     .trim();
-  return `【学习辅助翻译】${translated}`;
+  if (!hasUsefulChineseAid(translated)) return '';
+  return `【中文术语辅助】${translated}`;
+}
+
+function hasUsefulChineseAid(text) {
+  const clean = String(text || '').trim();
+  const zhCount = (clean.match(/[\u4e00-\u9fff]/g) || []).length;
+  const latinCount = (clean.match(/[A-Za-z]/g) || []).length;
+  if (zhCount < 4) return false;
+  return latinCount / (latinCount + zhCount) <= 0.55;
 }
 
 function optionObject(options, key) {
@@ -207,13 +216,24 @@ function bestSentence(text, queryTokens, max = 320) {
   return firstSentence(best?.sentence || sentences[0] || clean, max);
 }
 
+function questionDirective(stem) {
+  const lines = String(stem || '')
+    .split(/\n+/)
+    .map(line => line.trim())
+    .filter(Boolean);
+  const directive = [...lines]
+    .reverse()
+    .find(line => /^(which|what|who|when|where|how|under|is|are|does|do)\b/i.test(line));
+  return directive || lines.at(-1) || String(stem || '');
+}
+
 function isReverseQuestion(stem) {
-  return /\b(NOT|FALSE|EXCEPT|LEAST)\b/i.test(stem || '');
+  return /\b(NOT|FALSE|EXCEPT|LEAST)\b/i.test(questionDirective(stem));
 }
 
 function stripStudyPrefix(text) {
   return String(text || '')
-    .replace(/^【学习辅助翻译】/, '')
+    .replace(/^【(?:学习辅助翻译|中文术语辅助)】/, '')
     .replace(/\s*[.。]\s*$/, '')
     .replace(/\s+/g, ' ')
     .trim();
@@ -243,7 +263,7 @@ function chineseBeforeSlash(text) {
 function optionLabel(q, key) {
   const zh = stripStudyPrefix(q.optionsZh?.[key]);
   const en = String(q.optionsEn?.[key] || '').trim();
-  if (!zh) return en;
+  if (!zh) return '该选项所述内容';
   if (!en || zh.includes(en)) return zh;
 
   const hasChinese = /[\u4e00-\u9fff]/.test(zh);
@@ -294,15 +314,32 @@ function bestEvidence(note, q) {
   };
 }
 
+function answerSubject(answerText, answerKey) {
+  return answerText === '该选项所述内容' ? `选项 ${answerKey}` : answerText;
+}
+
+function wrongOptionAnalysis({ key, text, answerText, answerKey, reverse, keyPoints }) {
+  const optionText = text === '该选项所述内容' ? '该选项' : text;
+  const answer = answerSubject(answerText, answerKey);
+  const ruleHint = keyPoints[0] ? `判断依据是：${keyPoints[0]}。` : '';
+
+  if (reverse) {
+    return `${key} 错在：${optionText}属于题干所考规则范围内，不是例外项；题干要找的是“不属于/错误”的选项，真正的例外是${answer}。${ruleHint}`;
+  }
+
+  return `${key} 错在：${optionText}不是题干要找的正确项目；本题正确项应直接对应${answer}。${ruleHint}`;
+}
+
 export function buildSciExplanation(q, note) {
   const evidence = bestEvidence(note, q);
   const reverse = isReverseQuestion(q.stemEn);
   const answerText = optionLabel(q, q.answer);
+  const answer = answerSubject(answerText, q.answer);
   const keyPoints = evidence.checklist.map(cleanKeyPoint).filter(Boolean).slice(0, 3);
   const keyPointText = keyPoints.length ? `判断时抓住：${keyPoints.join('；')}。` : '';
   const correctMode = reverse
-    ? `题干问“不是/错误/例外”的选项，${answerText}不属于该规则或不符合题干要求。`
-    : `题干问正确或最符合规则的选项，${answerText}符合该考点要求。`;
+    ? `题干问“不是/错误/例外”的选项，${answer}是规则之外的例外项。`
+    : `题干问正确或最符合规则的选项，${answer}直接对应本题考点。`;
 
   const optionAnalysis = {};
   for (const key of ['A', 'B', 'C', 'D']) {
@@ -310,7 +347,14 @@ export function buildSciExplanation(q, note) {
     if (key === q.answer) {
       optionAnalysis[key] = `${key} 正确：${text}。${correctMode}`;
     } else {
-      optionAnalysis[key] = `${key} 不选：${text}不符合题干要求。`;
+      optionAnalysis[key] = wrongOptionAnalysis({
+        key,
+        text,
+        answerText,
+        answerKey: q.answer,
+        reverse,
+        keyPoints,
+      });
     }
   }
 
@@ -319,7 +363,7 @@ export function buildSciExplanation(q, note) {
     basis: `这道题考察的是${syllabusLabel(q.syllabusItemId)}。`,
     correctReason: `${keyPointText}${correctMode}所以正确答案是 ${q.answer}。`,
     optionAnalysis,
-    finalAnswer: answerText === '该选项' ? q.answer : `${q.answer}. ${answerText}`,
+    finalAnswer: answerText === '该选项所述内容' ? q.answer : `${q.answer}. ${answerText}`,
   };
 }
 
@@ -327,6 +371,7 @@ export function toSciQuestion(raw, context = {}) {
   const { part, syllabusItemId } = classifySciQuestion(raw);
   if (!isValidSyllabusItemId(syllabusItemId)) throw new Error(`invalid syllabusItemId ${syllabusItemId}`);
   const n = String(raw.number).padStart(3, '0');
+  const id = `sci-q-${n}`;
   const stemEn = raw.question.trim();
   const optionsEn = {
     A: optionObject(raw.options, 'A'),
@@ -334,20 +379,22 @@ export function toSciQuestion(raw, context = {}) {
     C: optionObject(raw.options, 'C'),
     D: optionObject(raw.options, 'D'),
   };
+  const fullTranslation = context.translationsById?.[id] || {};
+  const translatedOptions = fullTranslation.options || {};
   const kp = formatKnowledgePoint(syllabusItemId);
   const q = {
-    id: `sci-q-${n}`,
+    id,
     number: raw.number,
     part,
     syllabusItemId,
     stemEn,
-    stemZh: studyTranslate(stemEn),
+    stemZh: fullTranslation.stem || studyTranslate(stemEn),
     optionsEn,
     optionsZh: {
-      A: studyTranslate(optionsEn.A),
-      B: studyTranslate(optionsEn.B),
-      C: studyTranslate(optionsEn.C),
-      D: studyTranslate(optionsEn.D),
+      A: translatedOptions.A || studyTranslate(optionsEn.A),
+      B: translatedOptions.B || studyTranslate(optionsEn.B),
+      C: translatedOptions.C || studyTranslate(optionsEn.C),
+      D: translatedOptions.D || studyTranslate(optionsEn.D),
     },
     answer: raw.correct_letter,
     knowledgePoint: `考点：${kp}`,

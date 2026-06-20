@@ -4,6 +4,7 @@ import {
   classifySciQuestion,
   formatKnowledgePoint,
   loadSciContent,
+  studyTranslate,
   toSciQuestion,
 } from '../js/sci-data.js';
 
@@ -49,7 +50,7 @@ test('toSciQuestion converts extracted question into bilingual study shape', () 
   assert.equal(q.part, 1);
   assert.equal(q.syllabusItemId, 's01');
   assert.equal(q.stemEn, raw.question);
-  assert.match(q.stemZh, /学习辅助翻译/);
+  assert.match(q.stemZh, /中文术语辅助/);
   assert.match(q.stemZh, /以下哪一项是|新加坡金融管理局/);
   assert.deepEqual(Object.keys(q.optionsEn), ['A', 'B', 'C', 'D']);
   assert.match(q.optionsZh.A, /促进并维持经济增长/);
@@ -63,10 +64,94 @@ test('toSciQuestion converts extracted question into bilingual study shape', () 
   assert.match(q.explanation.correctReason, /促进并维持经济增长/);
   assert.deepEqual(Object.keys(q.explanation.optionAnalysis), ['A', 'B', 'C', 'D']);
   assert.match(q.explanation.optionAnalysis.A, /正确/);
-  assert.match(q.explanation.optionAnalysis.B, /不选/);
+  assert.match(q.explanation.optionAnalysis.B, /错在/);
+  assert.match(q.explanation.optionAnalysis.B, /监管并控制金融业/);
+  assert.match(q.explanation.optionAnalysis.B, /促进并维持经济增长/);
   assert.equal(q.explanation.reviewChecklist, undefined);
   assert.match(q.explanation.finalAnswer, /A/);
   assert.match(q.sourceRef, /SCI RES5/);
+});
+
+test('wrong option analysis explains the issue in reverse questions', () => {
+  const q = toSciQuestion({
+    number: 12,
+    question: 'Which of the following is NOT one of three motivations to act in the best interest of customers in the financial services industry?',
+    options: [
+      { letter: 'A', text: 'Moral.', is_correct: false },
+      { letter: 'B', text: 'Affection.', is_correct: false },
+      { letter: 'C', text: 'Self-interest.', is_correct: false },
+      { letter: 'D', text: 'Machiavellianism.', is_correct: true },
+    ],
+    correct_letter: 'D',
+    correct_answer: 'Machiavellianism.',
+    html5url: 'html5/data/js/example.js',
+  }, {
+    notesByItem: {
+      s14: {
+        keyPoints: [
+          '三种动机：自利、情感、道德；马基雅维利主义不是以客户最佳利益行事的动机。',
+        ],
+      },
+    },
+  });
+
+  assert.match(q.explanation.optionAnalysis.A, /A 错在/);
+  assert.match(q.explanation.optionAnalysis.A, /道德动机/);
+  assert.match(q.explanation.optionAnalysis.A, /规则内|范围内|不是例外/);
+  assert.match(q.explanation.optionAnalysis.D, /正确/);
+  assert.match(q.explanation.optionAnalysis.D, /马基雅维利主义/);
+});
+
+test('scenario text containing not does not turn TRUE questions into reverse questions', () => {
+  const q = toSciQuestion({
+    number: 4,
+    question: `Emma wants to bill clients for consultancy work, and not just on product sales.
+
+Which of the following statements about Emma's action is TRUE?`,
+    options: [
+      { letter: 'A', text: 'She needs permission from the company she represents.', is_correct: true },
+      { letter: 'B', text: 'She can proceed without permission.', is_correct: false },
+      { letter: 'C', text: 'She is exempt from all conflict checks.', is_correct: false },
+      { letter: 'D', text: 'She only needs client consent.', is_correct: false },
+    ],
+    correct_letter: 'A',
+    correct_answer: 'She needs permission from the company she represents.',
+    html5url: 'html5/data/js/example.js',
+  });
+
+  assert.match(q.explanation.optionAnalysis.B, /B 错在/);
+  assert.doesNotMatch(q.explanation.optionAnalysis.B, /例外项/);
+  assert.match(q.explanation.optionAnalysis.A, /正确/);
+});
+
+test('studyTranslate hides low-quality English passthroughs', () => {
+  assert.equal(
+    studyTranslate('Which one of the following violates the principle of professionalism in the financial services industry?'),
+    ''
+  );
+  assert.match(
+    studyTranslate('Which of the following has pointed out that deciding on what is the best ethical course of action for people living in society is difficult?'),
+    /中文术语辅助/
+  );
+});
+
+test('toSciQuestion uses full translation cache when available', () => {
+  const q = toSciQuestion(raw, {
+    translationsById: {
+      'sci-q-082': {
+        stem: '以下哪一项是新加坡金融管理局（MAS）的使命？',
+        options: {
+          A: '促进并维持经济增长。',
+          B: '监管并控制金融业。',
+          C: '管理新加坡的外汇储备和资产。',
+          D: '监测新加坡的金融稳定。',
+        },
+      },
+    },
+  });
+  assert.equal(q.stemZh, '以下哪一项是新加坡金融管理局（MAS）的使命？');
+  assert.equal(q.optionsZh.A, '促进并维持经济增长。');
+  assert.equal(q.optionsZh.D, '监测新加坡的金融稳定。');
 });
 
 test('formatKnowledgePoint uses syllabus metadata', () => {
