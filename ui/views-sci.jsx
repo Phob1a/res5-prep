@@ -34,21 +34,15 @@ function SciExplanation({ q, resultLine }) {
   return (
     <div className="explain good">
       {resultLine && <div className="ex-head">{resultLine}</div>}
-      <div className="ex-head"><Icon name="target" size={14} />详细题解 · {ex.disclaimer}</div>
-      <div style={{ marginTop: 8 }}>{ex.basis}</div>
-      <div style={{ marginTop: 8 }}>{ex.correctReason}</div>
+      <div className="ex-head"><Icon name="target" size={14} />题解</div>
+      {ex.basis && <div style={{ marginTop: 8 }}>{ex.basis}</div>}
+      {ex.correctReason && <div style={{ marginTop: 8 }}>{ex.correctReason}</div>}
       <div style={{ marginTop: 10 }}>
         {['A', 'B', 'C', 'D'].map(k => (
           <div key={k} style={{ marginTop: 6 }}>{ex.optionAnalysis[k]}</div>
         ))}
       </div>
-      {ex.reviewChecklist?.length > 0 && (
-        <div style={{ marginTop: 10 }}>
-          <div className="field-lab">复习清单</div>
-          {ex.reviewChecklist.map((line, i) => <div key={i} style={{ marginTop: 4 }}>{line}</div>)}
-        </div>
-      )}
-      <div style={{ marginTop: 10 }}>{q.pitfall}</div>
+      {ex.finalAnswer && <div style={{ marginTop: 10 }}>最终答案：{ex.finalAnswer}</div>}
     </div>
   );
 }

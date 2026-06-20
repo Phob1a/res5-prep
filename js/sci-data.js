@@ -49,6 +49,36 @@ export function formatKnowledgePoint(syllabusItemId) {
   return `${item.id}: ${item.title}`;
 }
 
+const SYLLABUS_ZH = {
+  s01: '财务顾问法与财务顾问条例（FAA & FAR）：财务顾问和代表',
+  s02: '财务顾问法与财务顾问条例（FAA & FAR）：业务行为、监管权力和违法行为',
+  s03: '新加坡金管局通知（MAS Notices）：FAA-N16、FAA-N03、FAA-N11',
+  s04: '新加坡金管局通知（MAS Notices）：FAA-N02、FAA-N10、FAA-N12、FAA-N14、FAA-N20、FAA-N26',
+  s05: '反洗钱与反恐融资（AML/CFT）',
+  s06: '新加坡金管局通知（MAS Notices）：FAA-N17、FSM-N23、FAA-N19、FSM-N24',
+  s07: '投资联结保单（Investment-linked Policies, ILPs）',
+  s08: '新加坡金管局指引（MAS Guidelines）：FAA-G01、FSG-G01、FAA-G04、FAA-G05、CMI 01/2011',
+  s09: '新加坡金管局指引（MAS Guidelines）：FAA-G09、FAA-G10、FSG-G04、FAA-G14',
+  s10: '新加坡金管局指引（MAS Guidelines）：FAA-G13、FAA-G15、FAA-G16、CMG-G02、FSG-G02',
+  s11: '集体投资计划守则（Code on Collective Investment Schemes）',
+  s12: '证券交易市场行为（Securities Dealing: Market Conduct）',
+  s13: '中央公积金（Central Provident Fund, CPF）',
+  s14: '专业伦理的重要性（Professional Ethics）',
+  s15: '专业精神（Professionalism）',
+  s16: '道德行为（Ethical Behavior）',
+  s17: '不道德行为（Unethical Behavior）',
+  s18: '利益冲突（Conflict of Interest）',
+  s19: '公平交易（Fair Dealing）',
+  s20: '金融产品的道德营销与销售（Ethical Marketing and Sale of Financial Products）',
+  s21: '建立客户与代表关系（Client-Representative Relationship）',
+  s22: '事实调查与需求分析（Fact Finding and Needs Analysis）',
+  s23: '分析和评估客户财务状况（Financial Status）',
+  s24: '制定适当策略和方案（Strategies and Solutions）',
+  s25: '向客户呈现分析和方案（Presentation of Analysis and Solutions）',
+  s26: '客户投资组合复核（Portfolio Review）',
+  s27: '基础财务规划指南（Basic Financial Planning Guide）',
+};
+
 const TERM_ZH = [
   [/Which of the following is NOT/gi, '以下哪一项不是'],
   [/Which one of the following is NOT/gi, '以下哪一项不是'],
@@ -113,6 +143,10 @@ const TERM_ZH = [
   [/Socrates/gi, '苏格拉底'],
   [/Immanuel Kant/gi, '伊曼努尔·康德'],
   [/John Stuart Mill/gi, '约翰·斯图尔特·密尔'],
+  [/Principle of Integrity/gi, '诚信原则（Principle of Integrity）'],
+  [/Principle of Selflessness/gi, '无私原则（Principle of Selflessness）'],
+  [/Principle of Honesty/gi, '诚实原则（Principle of Honesty）'],
+  [/Principle of over delivering one’s promise/gi, '超额履行承诺原则'],
 ];
 
 export function studyTranslate(text) {
@@ -177,6 +211,55 @@ function isReverseQuestion(stem) {
   return /\b(NOT|FALSE|EXCEPT|LEAST)\b/i.test(stem || '');
 }
 
+function stripStudyPrefix(text) {
+  return String(text || '')
+    .replace(/^【学习辅助翻译】/, '')
+    .replace(/\s*[.。]\s*$/, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function cleanKeyPoint(text) {
+  let clean = chineseBeforeSlash(text)
+    .replace(/信任方程式:Trust=\(Credibility\+Reliability\+Intimacy\)\/Self-Interest/g, '信任方程式：可信度、可靠性和亲密度越高，自利程度越低，信任越高')
+    .replace(/Trust=\(Credibility\+Reliability\+Intimacy\)\/Self-Interest/g, '信任方程式：可信度、可靠性和亲密度越高，自利程度越低，信任越高')
+    .replace(/信任方程式[:：]信任方程式：/g, '信任方程式：')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (!clean) return '';
+
+  const withoutKnownTerms = clean.replace(
+    /\b(FAA|FAR|MAS|CPF|CIS|ILP|ILPs|AML|CFT|PDPA|SFA|RNF|CPD|VCC|ETF|SIP|CKA|CAR|PEP|KYC|LIA|FNA|TPD|SRS|OA|RA|MA)\b/g,
+    ''
+  );
+  if (/[A-Za-z]{4,}/.test(withoutKnownTerms)) return '';
+  return clean;
+}
+
+function chineseBeforeSlash(text) {
+  return String(text || '').split(' / ')[0].replace(/\s+/g, ' ').trim();
+}
+
+function optionLabel(q, key) {
+  const zh = stripStudyPrefix(q.optionsZh?.[key]);
+  const en = String(q.optionsEn?.[key] || '').trim();
+  if (!zh) return en;
+  if (!en || zh.includes(en)) return zh;
+
+  const hasChinese = /[\u4e00-\u9fff]/.test(zh);
+  const isMostlyEnglish = !hasChinese || /^[A-Za-z0-9$£€.,;:'"()/%\-\s]+$/.test(zh);
+  if (isMostlyEnglish) return '该选项';
+
+  const hasTerm =
+    /\b(FAA|FAR|MAS|CPF|CIS|ILP|AML|CFT|PDPA|SFA|RNF|CPD|VCC|ETF|SIP|CKA|CAR|PEP|KYC)\b/i.test(en) ||
+    /\b(financial adviser|representative|collective investment scheme|investment-linked|money laundering|terrorism financing|conflict of interest|fair dealing|fact finding|needs analysis|portfolio|professional ethics|ethical behavior|unethical behavior|market conduct)\b/i.test(en);
+  return hasTerm ? `${zh}（${en}）` : zh;
+}
+
+function syllabusLabel(syllabusItemId) {
+  return SYLLABUS_ZH[syllabusItemId] || formatKnowledgePoint(syllabusItemId);
+}
+
 function bestEvidence(note, q) {
   const fallback = {
     headings: [formatKnowledgePoint(q.syllabusItemId)],
@@ -214,29 +297,29 @@ function bestEvidence(note, q) {
 export function buildSciExplanation(q, note) {
   const evidence = bestEvidence(note, q);
   const reverse = isReverseQuestion(q.stemEn);
-  const answerText = q.optionsEn[q.answer];
-  const basisHeadings = evidence.headings.join(' / ');
+  const answerText = optionLabel(q, q.answer);
+  const keyPoints = evidence.checklist.map(cleanKeyPoint).filter(Boolean).slice(0, 3);
+  const keyPointText = keyPoints.length ? `判断时抓住：${keyPoints.join('；')}。` : '';
   const correctMode = reverse
-    ? '题干要求找 NOT/FALSE/EXCEPT 一类的例外项，正确答案通常不是常规规则本身，而是与讲义规则不一致或不属于该范围的选项。'
-    : '题干要求找正确/最符合规则的选项，正确答案应直接落在讲义中的定义、义务、流程或数字门槛上。';
+    ? `题干问“不是/错误/例外”的选项，${answerText}不属于该规则或不符合题干要求。`
+    : `题干问正确或最符合规则的选项，${answerText}符合该考点要求。`;
 
   const optionAnalysis = {};
   for (const key of ['A', 'B', 'C', 'D']) {
-    const text = q.optionsEn[key];
+    const text = optionLabel(q, key);
     if (key === q.answer) {
-      optionAnalysis[key] = `正确项：${key}. ${text}。${correctMode} 对照讲义“${basisHeadings}”，本题核心依据是：${evidence.basisText}`;
+      optionAnalysis[key] = `${key} 正确：${text}。${correctMode}`;
     } else {
-      optionAnalysis[key] = `排除：${key}. ${text}。它不是本题要求的答案；复核时先看题干限定词，再拿它和正确项 ${q.answer}. ${answerText} 以及讲义“${basisHeadings}”逐项对照。`;
+      optionAnalysis[key] = `${key} 不选：${text}不符合题干要求。`;
     }
   }
 
   return {
     kind: 'learning-aid',
-    disclaimer: '学习辅助题解：基于 SCI 原题答案与本项目 RES5 知识点讲义生成，非 SCI 官方题解。',
-    basis: `讲义依据：${formatKnowledgePoint(q.syllabusItemId)}；匹配段落：${basisHeadings}。${evidence.sourceRef ? `来源：${evidence.sourceRef}。` : ''}`,
-    correctReason: `正确答案 ${q.answer}：${answerText}。${correctMode} ${evidence.basisText}`,
+    basis: `这道题考察的是${syllabusLabel(q.syllabusItemId)}。`,
+    correctReason: `${keyPointText}${correctMode}所以正确答案是 ${q.answer}。`,
     optionAnalysis,
-    reviewChecklist: evidence.checklist,
+    finalAnswer: answerText === '该选项' ? q.answer : `${q.answer}. ${answerText}`,
   };
 }
 

@@ -57,14 +57,15 @@ test('toSciQuestion converts extracted question into bilingual study shape', () 
   assert.match(q.knowledgePoint, /s01/);
   assert.match(q.pitfall, /易错/);
   assert.equal(q.explanation.kind, 'learning-aid');
-  assert.match(q.explanation.disclaimer, /非 SCI 官方题解/);
-  assert.match(q.explanation.basis, /MAS mission/);
+  assert.equal(q.explanation.disclaimer, undefined);
+  assert.match(q.explanation.basis, /这道题考察的是/);
   assert.match(q.explanation.correctReason, /A/);
-  assert.match(q.explanation.correctReason, /Promote and sustain economic growth/);
+  assert.match(q.explanation.correctReason, /促进并维持经济增长/);
   assert.deepEqual(Object.keys(q.explanation.optionAnalysis), ['A', 'B', 'C', 'D']);
-  assert.match(q.explanation.optionAnalysis.A, /正确项/);
-  assert.match(q.explanation.optionAnalysis.B, /排除/);
-  assert.ok(q.explanation.reviewChecklist.length >= 1);
+  assert.match(q.explanation.optionAnalysis.A, /正确/);
+  assert.match(q.explanation.optionAnalysis.B, /不选/);
+  assert.equal(q.explanation.reviewChecklist, undefined);
+  assert.match(q.explanation.finalAnswer, /A/);
   assert.match(q.sourceRef, /SCI RES5/);
 });
 
