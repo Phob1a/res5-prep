@@ -1,3 +1,12 @@
+export const SCI_OFFICIAL_MOCK = { part1Count: 110, part2Count: 40 };
+
+export function buildSciOfficialMock(questions) {
+  const byNumber = (a, b) => (a.number || 0) - (b.number || 0) || String(a.id).localeCompare(String(b.id));
+  const part1 = questions.filter(q => q.part === 1).sort(byNumber).slice(0, SCI_OFFICIAL_MOCK.part1Count);
+  const part2 = questions.filter(q => q.part === 2).sort(byNumber).slice(0, SCI_OFFICIAL_MOCK.part2Count);
+  return [...part1, ...part2];
+}
+
 export function gradeSciExam(questions, answers) {
   const rows = questions.map(q => {
     const chosen = answers[q.id] || '';

@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   addSciWrong,
+  buildSciOfficialMock,
   clearSciWrong,
   gradeSciExam,
   removeSciWrong,
@@ -38,6 +39,23 @@ test('SCI wrongbook helpers add uniquely, remove, and clear', () => {
 
   state = clearSciWrong(state);
   assert.deepEqual(state.sciWrongbook, []);
+});
+
+test('buildSciOfficialMock uses 110 Part I and 40 Part II questions', () => {
+  const bank = [
+    ...Array.from({ length: 120 }, (_, i) => ({ id: `p1-${String(i + 1).padStart(3, '0')}`, part: 1, number: i + 1 })),
+    ...Array.from({ length: 50 }, (_, i) => ({ id: `p2-${String(i + 1).padStart(3, '0')}`, part: 2, number: i + 1 })),
+  ];
+
+  const pick = buildSciOfficialMock(bank);
+
+  assert.equal(pick.length, 150);
+  assert.equal(pick.filter(q => q.part === 1).length, 110);
+  assert.equal(pick.filter(q => q.part === 2).length, 40);
+  assert.equal(pick[0].id, 'p1-001');
+  assert.equal(pick[109].id, 'p1-110');
+  assert.equal(pick[110].id, 'p2-001');
+  assert.equal(pick[149].id, 'p2-040');
 });
 
 test('store migration includes SCI wrongbook and SCI exam history', () => {
