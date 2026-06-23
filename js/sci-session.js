@@ -1,10 +1,20 @@
-export const SCI_OFFICIAL_MOCK = { part1Count: 110, part2Count: 40 };
+export const SCI_MOCK_GROUP = { count: 15, size: 20 };
 
-export function buildSciOfficialMock(questions) {
-  const byNumber = (a, b) => (a.number || 0) - (b.number || 0) || String(a.id).localeCompare(String(b.id));
-  const part1 = questions.filter(q => q.part === 1).sort(byNumber).slice(0, SCI_OFFICIAL_MOCK.part1Count);
-  const part2 = questions.filter(q => q.part === 2).sort(byNumber).slice(0, SCI_OFFICIAL_MOCK.part2Count);
-  return [...part1, ...part2];
+const bySourceOrder = (a, b) =>
+  (a.part || 0) - (b.part || 0) ||
+  (a.number || 0) - (b.number || 0) ||
+  String(a.id).localeCompare(String(b.id));
+
+export function buildSciMockGroups(questions) {
+  const ordered = questions.slice().sort(bySourceOrder).slice(0, SCI_MOCK_GROUP.count * SCI_MOCK_GROUP.size);
+  return Array.from({ length: SCI_MOCK_GROUP.count }, (_, i) =>
+    ordered.slice(i * SCI_MOCK_GROUP.size, (i + 1) * SCI_MOCK_GROUP.size)
+  );
+}
+
+export function buildSciMockSet(questions, groupNumber = 1) {
+  const index = Math.max(0, Number(groupNumber || 1) - 1);
+  return buildSciMockGroups(questions)[index] || [];
 }
 
 export function gradeSciExam(questions, answers) {

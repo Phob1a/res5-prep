@@ -10,12 +10,16 @@ const bySyllabus = (id) => (q) => !id || q.syllabusItemId === id;
 const sortedSci = (arr) => arr.slice().sort((a, b) =>
   a.part - b.part || a.syllabusItemId.localeCompare(b.syllabusItemId) || a.number - b.number
 );
-const SCI_OFFICIAL_MOCK = { part1Count: 110, part2Count: 40 };
-const bySourceNumber = (a, b) => (a.number || 0) - (b.number || 0) || String(a.id).localeCompare(String(b.id));
-const buildSciOfficialMock = (questions) => {
-  const part1 = questions.filter(q => q.part === 1).sort(bySourceNumber).slice(0, SCI_OFFICIAL_MOCK.part1Count);
-  const part2 = questions.filter(q => q.part === 2).sort(bySourceNumber).slice(0, SCI_OFFICIAL_MOCK.part2Count);
-  return [...part1, ...part2];
+const SCI_MOCK_GROUP = { count: 15, size: 20 };
+const bySourceOrder = (a, b) =>
+  (a.part || 0) - (b.part || 0) ||
+  (a.number || 0) - (b.number || 0) ||
+  String(a.id).localeCompare(String(b.id));
+const buildSciMockGroups = (questions) => {
+  const ordered = questions.slice().sort(bySourceOrder).slice(0, SCI_MOCK_GROUP.count * SCI_MOCK_GROUP.size);
+  return Array.from({ length: SCI_MOCK_GROUP.count }, (_, i) =>
+    ordered.slice(i * SCI_MOCK_GROUP.size, (i + 1) * SCI_MOCK_GROUP.size)
+  );
 };
 
 function SciNotice() {
@@ -126,16 +130,16 @@ function grade(questions, answers) {
 function SciMock() {
   const store = useStore();
   const all = R5.SCI_QUESTIONS || [];
+  const [selectedGroup, setSelectedGroup] = useState(1);
   const [running, setRunning] = useState(null);
   const [result, setResult] = useState(null);
-  const pool = useMemo(() => buildSciOfficialMock(all), [all]);
-  const p1 = all.filter(q => q.part === 1).length;
-  const p2 = all.filter(q => q.part === 2).length;
-  const canStart = p1 >= SCI_OFFICIAL_MOCK.part1Count && p2 >= SCI_OFFICIAL_MOCK.part2Count;
+  const groups = useMemo(() => buildSciMockGroups(all), [all]);
+  const pool = groups[selectedGroup - 1] || [];
+  const canStart = pool.length === SCI_MOCK_GROUP.size;
 
   function start() {
     setResult(null);
-    setRunning({ pick: pool, idx: 0, answers: {} });
+    setRunning({ pick: pool, groupNumber: selectedGroup, idx: 0, answers: {} });
   }
   function choose(k) {
     setRunning(s => ({ ...s, answers: { ...s.answers, [s.pick[s.idx].id]: k } }));
@@ -143,15 +147,15 @@ function SciMock() {
   function submit() {
     const res = grade(running.pick, running.answers);
     for (const row of res.rows) if (!row.ok) store.addSciWrong(row.q.id);
-    store.pushSciExam({ mode: 'official', total: res.total, correct: res.correct, rate: res.rate, at: new Date().toISOString().slice(0, 10) });
-    setResult(res);
+    store.pushSciExam({ mode: `G${String(running.groupNumber).padStart(2, '0')}`, total: res.total, correct: res.correct, rate: res.rate, at: new Date().toISOString().slice(0, 10) });
+    setResult({ ...res, groupNumber: running.groupNumber });
     setRunning(null);
   }
 
   if (result) {
     return (
       <div className="view-inner">
-        <PageHead eyebrow="SCI MOCK · 结果" title="SCI 原题成绩单"
+        <PageHead eyebrow="SCI MOCK · 结果" title={`SCI 原题第 ${result.groupNumber} 组成绩单`}
           right={<button className="btn" onClick={() => setResult(null)}><Icon name="left" size={15} />返回</button>} />
         <div className="verdict neutral">
           <div className="v-tag">SCI Mock 完成</div>
@@ -199,7 +203,7 @@ function SciMock() {
       <div className="view-inner">
         <div className="exam-bar">
           <button className="btn btn-sm" onClick={() => setRunning(null)}><Icon name="x" size={14} /></button>
-          <span className="badge badge-reviewed">SCI 官方规格</span>
+          <span className="badge badge-reviewed">第 {running.groupNumber} 组 · 20题</span>
           <span className="mono" style={{ fontSize: 12, color: 'var(--fg3)' }}>{answered}/{running.pick.length}</span>
           <button className="btn btn-primary btn-sm" onClick={submit}>交卷</button>
         </div>
@@ -235,21 +239,29 @@ function SciMock() {
   return (
     <div className="view-inner">
       <PageHead eyebrow="SCI MOCK" title="SCI 原题考试"
-        sub="只使用官方规格：Part I 110 题 + Part II 40 题，共 150 题；交卷后自动记录错题。" />
+        sub="300 道原题按顺序拆成 15 组，每组 20 题；组内按原题顺序作答，交卷后自动记录错题。" />
       <SciNotice />
       <div className="card pad">
         <div className="stat-grid" style={{ marginBottom: 16 }}>
-          <div className="stat-cell"><div className="s-num">{p1}</div><div className="s-lab">Part I 题库</div></div>
-          <div className="stat-cell"><div className="s-num">{p2}</div><div className="s-lab">Part II 题库</div></div>
-          <div className="stat-cell"><div className="s-num">150</div><div className="s-lab">本次题量</div></div>
+          <div className="stat-cell"><div className="s-num">{all.length}</div><div className="s-lab">SCI 原题</div></div>
+          <div className="stat-cell"><div className="s-num">{SCI_MOCK_GROUP.count}</div><div className="s-lab">固定组数</div></div>
+          <div className="stat-cell"><div className="s-num">{SCI_MOCK_GROUP.size}</div><div className="s-lab">每组题量</div></div>
+        </div>
+        <div className="field-lab" style={{ marginBottom: 10 }}>选择 Mock 组别</div>
+        <div className="qgrid" style={{ marginBottom: 16 }}>
+          {groups.map((group, i) => (
+            <button key={i} className={'qgrid-btn' + (selectedGroup === i + 1 ? ' current' : '')} onClick={() => setSelectedGroup(i + 1)} disabled={group.length === 0}>
+              {i + 1}
+            </button>
+          ))}
         </div>
         <p className="page-sub" style={{ marginBottom: 18 }}>
-          本次固定抽取 Part I 前 110 题与 Part II 前 40 题，按原题顺序作答。
+          第 {selectedGroup} 组包含第 {(selectedGroup - 1) * SCI_MOCK_GROUP.size + 1}-{(selectedGroup - 1) * SCI_MOCK_GROUP.size + pool.length} 题，按原题顺序作答。
         </p>
         <button className="btn btn-primary btn-lg" onClick={start} disabled={!canStart}>
-          <Icon name="clock" size={17} />开始 SCI 官方规格 Mock
+          <Icon name="clock" size={17} />开始第 {selectedGroup} 组 Mock
         </button>
-        {!canStart && <p className="note" style={{ marginTop: 12 }}>题库数量不足，需至少 Part I {SCI_OFFICIAL_MOCK.part1Count} 题、Part II {SCI_OFFICIAL_MOCK.part2Count} 题。</p>}
+        {!canStart && <p className="note" style={{ marginTop: 12 }}>当前组题量不足 {SCI_MOCK_GROUP.size} 题，请检查 SCI 题库数量。</p>}
       </div>
       {(store.state.sciExamHistory || []).length > 0 && (
         <div className="card pad" style={{ marginTop: 16 }}>
